@@ -1,0 +1,69 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Graf Koks",
+    "Datum": "14.09.2019",
+    "Sorte": "Barley Wine",
+    "Autor": "muldengold",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 23.7,
+    "Bittere": 80,
+    "Farbe": 33,
+    "Alkohol": 10.8,
+    "Kurzbeschreibung": "Das Getr\u00e4nk f\u00fcr den distinguierten Glasschwenker und Schl\u00fcckchentrinker. Warm, holzig und mit einer Explosion aus Trockenfr\u00fcchten, welche einem eine kleine Freudentr\u00e4ne in das adelige Auge treibt!  ",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 6.63,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II 20-25 EBC",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caraamber 60-80 EBC",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch 110-130 EBC",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 23.75,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 66,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 68,
+            "Alpha": 13.2,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 21,
+            "Alpha": 5.3,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 1028 London Ale",
+    "Gaertemperatur": "19-21",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 4.7,
+    "Anmerkung_Autor": "Meine Mutter nannte mich gern \"Graf Koks\" wenn ich mich allzu offensichtlich bedienen lies. Deshalb holt man sich diesen monatelang gereiften Barleywine auch nicht selbst aus dem Keller, sondern l\u00e4sst ihn sich von seiner Gattin oder Gatten nach oben holen!\r\nVon enormer Bedeutung f\u00fcr gutes Gelingen ist gen\u00fcgend fitte Hefe. Ich habe f\u00fcr die im Rezept beschriebene Menge, zun\u00e4chst ein Wyeast Pack in einem 2 Liter Starter auf dem Magnetr\u00fchrer ordentlich hochgep\u00e4ppelt und die Hefe 1 Tag sedimentieren lassen. Der \u00dcberstand vom Starter muss (nach rund 1 Tag Absetzzeit) zum gr\u00f6\u00dften Teil abgegossen werden, sonst verd\u00fcnnt man die sich hart erarbeitete Stammw\u00fcrze. \r\nZur Orientierung: die 6.5 kg Malz und die 19 Liter Hauptguss passen haarscharf in eine 25 Liter Maischpfanne.\r\nDie Reifezeit ist entscheidend: nicht zu fr\u00fch trinken - nach einem halben bis dreiviertel Jahr wird man aber standesgem\u00e4\u00df belohnt!"
+}

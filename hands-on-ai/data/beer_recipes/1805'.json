@@ -1,0 +1,56 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Pale Ale",
+    "Datum": "10.04.2023",
+    "Sorte": "Pale Ale",
+    "Autor": "stefanruf",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 30,
+    "Farbe": 20,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Mein erstes Pale Ale",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 6.25,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 630,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22.5,
+    "Einmaischtemperatur": 74,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 30,
+            "Alpha": 6,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 39,
+            "Alpha": 6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis US-05",
+    "Gaertemperatur": "20"
+}

@@ -1,0 +1,72 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Eigenwilliger Hermann",
+    "Datum": "06.09.2022",
+    "Sorte": "Dunkles Hefeweizen",
+    "Autor": "integrator",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 14,
+    "Farbe": 14,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "S&uuml;ffiges bernsteinfarbiges Weizen mit fruchtigem Bananenaroma was zwischen dem St&ouml;rtebeker Bernstein-Weizen und dem Schneider Tap 7 liegt.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz Dunkel",
+            "Menge": 2.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Reish&uuml;lsen",
+            "Menge": 120,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.84,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 12.56,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Smaragd",
+            "Menge": 17,
+            "Alpha": 5.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Smaragd",
+            "Menge": 24,
+            "Alpha": 5.2,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast #3068",
+    "Gaertemperatur": "18-19",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 7,
+    "Anmerkung_Autor": "Mein Schwiegervater wei&szlig; aufgrund seiner Lebenserfahrung was er will und teilt es auch seinem Umfeld mit. Er steht sehr selbstsicher im Leben und hat einen klaren Blick nach vorne. Trotzdem lehnt er sich gerne Abends zur&uuml;ck und geniesst die Vorz&uuml;ge des Lebens. Hierzu z&auml;hlt ein mit Liebe eingef&uuml;lltes Weizenbier.\r\n\r\nDie Malzsch&uuml;ttung kann auch mit hellem Weizenmalz und M&uuml;ncher Malz auf die gleiche Farbe eingestellt werden. Beim Hopfen hatte ich auch schon den Saphir, der ebenfalls sehr gut passt. Die Hefe wurde nicht bel&uuml;ftet um mehr Bananenaroma zu provozieren.\r\n\r\nBrauen im Grainfather &bull; Einmaischtemperatur ist Malz+Wasser &bull; PH-Wert 5,6 &bull; Restalkalit&auml;t 3,0&deg;dH &bull; Nachisomisierung 5 min.\r\nWasserwerte: Ca=50 &bull; Mg=5 &bull; SO4=55 &bull; Cl=28"
+}

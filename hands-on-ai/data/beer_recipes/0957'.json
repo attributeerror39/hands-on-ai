@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "HEATWAVE WHEAT BEER",
+    "Datum": "24.09.2018",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "Bier39",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.1,
+    "Bittere": 18,
+    "Farbe": 5,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "S\u00fcffiger Sommer-Witbier.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.41,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 1.93,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.721311475409838,
+    "Einmaischtemperatur": 51,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.131147540983607,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 18,
+            "Alpha": 5.4,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 20,
+            "Alpha": 3.9,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Koriander Samen",
+            "Menge": 22,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Orangenschalen Curacao",
+            "Menge": 28,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "Wyeast 3944, Belgiab Witbier XXL",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 61.4,
+    "Anmerkung_Autor": "-Die Koriandersamen wurden im Plastikbeutel mit einem Hammer zerkleinert\r\n-Orangeschalen und Koriandersamen wurden im Hopfenbeutel mitgekocht\r\n-Kochende bis Beginn der K\u00fchlung: 20 Minuten \r\n-Temperatur vor K\u00fchlung: 88\u00b0C\r\n-G\u00e4rbeginn: 1 Tage nach Brautag\r\n-G\u00e4rung: 9 Tage bei 22\u00b0C\r\n-In Flaschen abgef\u00fcllt: 28.5 Liter\r\n-Aufkarbonisierung: 3g Zucker \/ Halbliterflasche (6g\/Liter)\r\n-Flascheng\u00e4rung: 7 Tage bei 22\u00b0C\r\n-Lagerung: Mind. 14 Tage im K\u00fchlschrank bei 7\u00b0C"
+}

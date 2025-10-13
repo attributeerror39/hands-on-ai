@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Arnold Weizenegger Weizendoppelbock",
+    "Datum": "12.03.2019",
+    "Sorte": "Weizenbock",
+    "Autor": "Proximus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20,
+    "Bittere": 26,
+    "Farbe": 26,
+    "Alkohol": 9,
+    "Kurzbeschreibung": "Kr\u00e4ftiger Weizendoppelbock mit Aromen von Banane und karamelisierten Fr\u00fcchten. Platz 2 in der Kategorie \"Weizenbock\" im BJCP-Wettbewerb auf der Heimbrau Convention 2019 in Romrod.",
+    "Malze": [
+        {
+            "Name": "Helles Weizenmalz",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2.17,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamellmalz Aroma",
+            "Menge": 83,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.666666666666664,
+    "Einmaischtemperatur": 63,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.666666666666668,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 25,
+            "Alpha": 8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 12,
+            "Alpha": 8,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WYEAST 3638",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 7,
+    "Anmerkung_Autor": "Anstellen bei 16\u00b0C, mit einem Wyeast Smackpack, das 48 Stunden vorher gestartet wurde. Smackpack war frisch: Produktion November\/Brauen Mitte Dezember. Nach 48 Stunden Temperatur dann erh\u00f6ht auf 18\u00b0C. Alter des Bieres bei der Verkostung auf der HBCon knapp 3 Monate."
+}

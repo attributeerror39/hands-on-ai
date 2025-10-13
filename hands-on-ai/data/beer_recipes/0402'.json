@@ -1,0 +1,74 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Schwerter Gold",
+    "Datum": "23.07.2014",
+    "Sorte": "Altbier",
+    "Autor": "Tim B.",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 29,
+    "Farbe": 20,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Helles, s\u00fcffiges, vollmundiges Alt mit ganz zartem Hopfenaroma",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 110,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.88888888888889,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.444444444444445,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 11,
+            "Alpha": 6,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 2,
+            "Alpha": 11.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 7,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 2565 K\u00f6lsch",
+    "Gaertemperatur": "18-16",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Mein \u00e4ltestes und erstes eigenes Rezept. Urspr\u00fcnglich mit PiMa habe ich es nun Mal mit WiMa ausprobiert, was mir noch einiges besser gef\u00e4llt, auch wenn die Farbe bei meiner Anlage (Gasfeuerung) dadurch ins rotgoldene rutscht (der kleine Brauhelfer rechnet bei der Sch\u00fcttung ca. 12 EBC aus).\r\n\r\nDas ich zwei Magnum-Gaben aufgef\u00fchrt habe, lag schlicht und ergreifend daran, da\u00df ich Reste verwertet habe. Sowohl der Hallertauer, als auch Magnum No. 1 waren schon etwas \u00e4lter. Aroma noch vollkommen i.O., aber die angegebenen Alpha-Werte hatten sie bestimmt nicht mehr, weswegen ich vermute, da\u00df das fertieg Bier eher ein paar IBU weniger hatte.\r\n10l habe ich mit Styrian Golding gestopft. Ganz interessant, aber keine Wiederholung wert."
+}

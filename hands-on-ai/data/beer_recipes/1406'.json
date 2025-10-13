@@ -1,0 +1,104 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Masala Winter-Stout",
+    "Datum": "06.01.2021",
+    "Sorte": "Stout",
+    "Autor": "HarryS",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.3,
+    "Bittere": 40,
+    "Farbe": 150,
+    "Alkohol": 6.2,
+    "Kurzbeschreibung": "Weihnachtlich-winterlich gew\u00fcrztes, kr\u00e4ftiges Stout mit komplexen Aromen von Masala-Tee und Lebkuchen.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "6-Korn-Mischung",
+            "Menge": 310,
+            "Einheit": "g"
+        },
+        {
+            "Name": "kernige Haferflocken",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stmalz",
+            "Menge": 310,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malz",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.2,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Magnum",
+            "Menge": 16,
+            "Alpha": 11,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 16,
+            "Alpha": 4.1,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 16,
+            "Alpha": 4.1,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 16,
+            "Alpha": 4.1,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Masala-Teegew\u00fcrz",
+            "Menge": 36,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "- Die R\u00f6stmalze erst in den letzten 30 Maischminuten zugegeben\r\n- Das Masala-Teegew\u00fcrz gibt es bei indischen Lebensmittelh\u00e4ndlern. Nur die reine Gew\u00fcrzmischung, ohne Schwarztee! Die Gramm-Menge ist gesch\u00e4tzt, es waren 4 Essl\u00f6ffel. Einer weniger w\u00e4re r\u00fcckblickend besser gewesen. \r\n- Karbonisiert wurde mit karamellisiertem Zucker.\r\n- Zu den Haferflocken: normalerweise w\u00fcrde ich mehr geben (0,5-1 kg), ich hatte aber nicht mehr zuhause. Hafer ist gut f\u00fcr das Mundgef\u00fchl und Schaumkonsistenz im Stout."
+}

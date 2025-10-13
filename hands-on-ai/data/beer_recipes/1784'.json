@@ -1,0 +1,85 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Quaddamage",
+    "Datum": "13.03.2023",
+    "Sorte": "Belgisches Dunkel",
+    "Autor": "London Rain",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 23,
+    "Bittere": 35,
+    "Farbe": 56,
+    "Alkohol": 9.5,
+    "Kurzbeschreibung": "Drei Jahre gereiftes Belgisches Quadrupel. 2. Platz beim Teilnehmerwettbewerb der HBCon 2023.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.83,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carabelge",
+            "Menge": 870,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch 1",
+            "Menge": 470,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.62,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 71,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 71,
+    "Nachguss": 10.735,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Magnum",
+            "Menge": 32,
+            "Alpha": 12.5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Candi Syrup D-90",
+            "Menge": 450,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Candi Syrup D-45",
+            "Menge": 450,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Irish Moss",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "White Labs WLP530 Abbey Ale",
+    "Gaertemperatur": "17-18",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Idee\r\nMarks Rezept, das wir zusammen f\u00fcr die HBCon 2020 noch einmal nachgebraut hatten und dann 2023 ausgeschenkt haben.\r\n\r\nParameter\r\n23 \u00b0P \/ 9,5 % \/ 35 IBUs \/ 56 EBC \/ CO2 5,5 g\/l\r\nSch\u00fcttung: 42,5% Pale Ale \/ 37,5 % Pilsner \/ 13 % Carabelge \/ 7 % Caram\u00fcnch 1\r\n\r\nDas Rezept war mit 3% High Gravity gerechnet, damit es \u00fcberall passte. Ggf. m\u00fcssen also die Wassermengen angepasst werden.\r\n\r\nWasser\r\nCa 86 ppm, Mg 5 ppm, Na 19 ppm, SO4 56 ppm, Cl 44ppm.\r\nErgibt ein Sulfat-Chlorid-Verh\u00e4ltnis von 1,2.\r\n\r\nSiehe auch: https:\/\/www.homebrewersassociation.org\/forum\/index.php?topic=29299.0\r\n\r\nMaische- und Nachguss-pH: 5,5.\r\n\r\nMaischen\r\nMaltoserast  65 \u00b0C 30\u2019\r\nVerzuckerung 71 \u00b0C 30'\r\nAbmaischen wenn jodneutral sonst aufheizen auf 78 \u00b0C und dann abmaischen.\r\n\r\nKochen\r\nDie Hopfengabe kann sicherlich durch einen beliebigen Bitterhopfen ersetzt werden.\r\n\r\nAuf 40 Liter haben wir je 2 P\u00e4ckchen Candi Syrup D-90 und D-45 kurz vor Flameout zugegeben. Laut Kleinem Brauhelfer tr\u00e4gt der Zuckersirup 4,5 \u00b0P bei.\r\n\r\nOft wird der Zuckersirup auch erst gegen Ende der G\u00e4rung gegeben, damit die Einfachzucker am Anfang die Hefe nicht \"ablenken\". Haben wir aber nicht gemacht.\r\n\r\nG\u00e4rung\r\n2 P\u00e4ckchen White Labs WLP530 Abbey Ale auf 40 Liter bei 17\/18 Grad Kellertemperatur.\r\n\r\nHBCon-Version\r\nJetzt drei Jahre lang im Keller vergessen. Ganz h\u00e4ufig wurden auf der HBCon von den Probierenden \"Pflaume\", \"D\u00f6rrobst\" und \"Holzfass\" (obwohl es nie Holz gesehen hat) als Deskriptoren genannt.\r\n\r\nLaut Aufzeichnungen hatte der Sud, den wir ausgeschenkt haben \"nur\" 21,4 \u00b0P. Au\u00dferdem wurde ein guter (und inzwischen unbekannter) Anteil Caram\u00fcnch 1 durch Caram\u00fcnch 2 ersetzt."
+}

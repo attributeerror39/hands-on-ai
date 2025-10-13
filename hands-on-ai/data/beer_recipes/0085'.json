@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Alt 43",
+    "Datum": "14.02.2011",
+    "Sorte": "Altbier",
+    "Autor": "muldengold",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.5,
+    "Bittere": 25,
+    "Farbe": 35,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Malziges Altbier mit dezentem Hopfenaroma und -geschmack",
+    "Malze": [
+        {
+            "Name": "M&uuml;nchner Malz",
+            "Menge": 2.91,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.09,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "R&ouml;stmalz",
+            "Menge": 36,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.454545454545455,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 65,
+            "Zeit": 70
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16.727272727272727,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saaz",
+            "Menge": 18,
+            "Alpha": 4.4,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 9,
+            "Alpha": 10,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saaz",
+            "Menge": 9,
+            "Alpha": 4.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WYEAST #1007 (German Ale)",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 5
+}

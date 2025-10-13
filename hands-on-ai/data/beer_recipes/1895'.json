@@ -1,0 +1,117 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "G-Br&auml;u - Perlage Ale",
+    "Datum": "20.12.2023",
+    "Sorte": "Pale Ale",
+    "Autor": "Tommys G-Br\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.5,
+    "Bittere": 28,
+    "Farbe": 14,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Altbierhefe trifft Champagner Hefe. Der Versuch ein Bier im Stile des &quot;Stieglgut Wildshut - Perlage&quot; zu brauen. Mit fruchtigw&uuml;rzigem Rieslingbukett und champagnerartiger Kohlens&auml;ure.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "B&ouml;hmisches Tennenmalz",
+            "Menge": 750,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M&uuml;nchner II",
+            "Menge": 750,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 750,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 320,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.153846153846153,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 13.846153846153847,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 10,
+            "Alpha": 12.6,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertau Blanc",
+            "Menge": 7,
+            "Alpha": 11.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 7,
+            "Alpha": 12.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Blanc",
+            "Menge": 8,
+            "Alpha": 11.4,
+            "Zeit": 1,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 8,
+            "Alpha": 12.6,
+            "Zeit": 1,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Blanc",
+            "Menge": 38,
+            "Alpha": 11.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 38,
+            "Alpha": 12.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "HG: BUB 382 (Altbier Hefe), NG: WLP715 (Champagner Hefe)",
+    "Gaertemperatur": "15",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Angaben zum Nachgusswasser nur gesch&auml;tzt. Wasser 77% D&uuml;sseldorfer Leitungswasser und 33% destilliertes Wasser. Vergoren kontrolliert im G&auml;rk&uuml;hlschrank bei 16&deg;C mit der 382 (Altbier Hefe), dann abgef&uuml;llt und jede einzelne Flasche mit der Pipette mit der gleichen Menge Champagner Hefe nachgeimpft (Fl&uuml;ssighefe vorher mit ein wenig Wasser verd&uuml;nnt, so dass die Menge ausreichte f&uuml;r alle Flaschen). \r\n\r\nBeim einschenken ruhig nen kleinen Tick Hefe mit aufschwenken und dazu geben."
+}

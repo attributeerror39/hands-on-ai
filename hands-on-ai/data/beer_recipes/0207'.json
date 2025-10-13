@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Balrog",
+    "Datum": "24.07.2012",
+    "Sorte": "Baltic Porter",
+    "Autor": "muldengold",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20.4,
+    "Bittere": 34,
+    "Farbe": 65,
+    "Alkohol": 9,
+    "Kurzbeschreibung": "Dunkelbraun und m\u00e4chtig! Sehr weich und malzig mit Aromen von Rosinen und anderen dunklen Trockenfr\u00fcchten. Der Alkohol l\u00e4uft angenehm sanft und warm in den Bauch. ",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz 20-25 EBC",
+            "Menge": 4.05,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.15,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caramalz dunkel 110-130 EBC",
+            "Menge": 160,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma\u00ae",
+            "Menge": 160,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Chocolate 500-600 EBC",
+            "Menge": 82,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stmalz  Carafa II \u00ae",
+            "Menge": 19,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20.253164556962023,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.658227848101264,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saaz",
+            "Menge": 53,
+            "Alpha": 4.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saaz",
+            "Menge": 25,
+            "Alpha": 4.4,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "F\u00fcr Baltic Porters werden traditionell unterg\u00e4rigen Hefen verwendet. Ein Versuch, z.B. mit WLP830 German Lager oder Wyeast 2206 Bavarian Lager, ist sicher eine gute Idee. Die sauber verg\u00e4rende und gut attenuierende Nottingham ist m.E. keine schlechte oberg\u00e4rige Alternative. Ein ordentlicher Hefestarter (2 Liter) oder mindestens zwei (besser 3) gut rehydrierte P\u00e4ckchen sind empfehlenswert.\r\nWasser: die Maische vertr\u00e4gt durch den hohen Anteil an sauren Malzen auch Wasser mit h\u00f6herer Restalkalit\u00e4t (z.B. 10-15\u00b0dH). Ggf. Maische mit Milchs\u00e4ure auf pH 5,5 einstellen.\r\nDas Bier wird nach 6-8 Monaten Reifung richtig gut! Bitte unbedingt warten."
+}

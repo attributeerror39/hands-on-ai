@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Haferbier",
+    "Datum": "13.09.2014",
+    "Sorte": "Mild Ale",
+    "Autor": "Hieronymus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 26,
+    "Farbe": 9,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "ausgewogenes, vollmundiges Ale mit eigenem, fruchtig lakritzartigem Charakter ",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Hafermalz",
+            "Menge": 1.25,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 830,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 210,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.333333333333332,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 69,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.833333333333332,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 29,
+            "Alpha": 6.6,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 8,
+            "Alpha": 3.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Saazer",
+            "Menge": 40
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "18-19",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Das Bier ist schon nach wenigen Wochen trinkbar. Als Hefe sind nat\u00fcrlich auch andere Alehefen m\u00f6glich. Eine interessante Variante war auch z.B. eine belgische Alehefe (WY 1214), ohne Hopfenstopfen und zus\u00e4tzlich ca. 10 g\/l Rohrzucker. Dieses Bier wurde allerdings erst nach 3 bis 4 Monaten Lagerung  wirklich gut."
+}

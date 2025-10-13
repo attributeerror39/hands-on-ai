@@ -1,0 +1,92 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Kwhite IPA",
+    "Datum": "05.01.2020",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "kolback",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 45,
+    "Farbe": 12,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Ein \"White IPA\" mit Kveik-Hefe. Zitronig-mandarinig in der Nase und im Antrunk, aber IPA-typische Bittere im Abgang.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.29,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 1.53,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 240,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.529411764705884,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 40
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 9.411764705882353,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 35,
+            "Alpha": 7,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 12,
+            "Alpha": 8.5,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 13,
+            "Alpha": 9.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 18,
+            "Alpha": 8.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mosaic Cryo",
+            "Menge": 11
+        },
+        {
+            "Sorte": "Citra Cryo",
+            "Menge": 16
+        }
+    ],
+    "Hefe": "Kveik #1 \/ #6 \/ Notti",
+    "Gaertemperatur": "23 \/ 23 \/17",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "M\u00e4\u00dfige Aufheizrate von Kombirast zum Abmaischen, ~\u2153\u00b0C\/min, f\u00fcr vollst\u00e4ndige Verzuckerung. Geringe Sudhausausbeute ist durchs Hopfenseien und die Aufteilung auf drei Hefen geschuldet.\r\n\r\nDie Kveik #1 (Voss\/Sigmund) schw\u00e4cht die Bittere ein wenig und macht eigene Orangennoten; passt also am besten als Ersatz f\u00fcr eine \"stilechte\" Wit-Hefe, mit der es sicherlich auch ein gutes Bier werden w\u00fcrde. 23\u00b0C ist an der Untergrenze f\u00fcr die Voss, beim n\u00e4chsten Mal w\u00fcrde ich um 30\u00b0C verg\u00e4ren.\r\n\r\nStopfhopfen haben ~24% Alphas\u00e4ure durch Gefriertrocknung \"Cryo\"; bei \"normalen\" Pellets die Menge einfach verdoppeln.\r\n\r\nDie Variante mit Nottingham-Hefe wurde zuerst abgef\u00fcllt und von deren Bodensatz ein paar Tropfen mit Einweg-Pipette in die Kveik-Flaschen gegeben. Mit Kveik alleine kann die Flascheng\u00e4rung bei Zimmertemperatur schleppend verlaufen; ggf. w\u00e4rmer stellen.\r\n\r\nGeringe Karbonisierung (0,33-Abf\u00fcllhilfe Zucker auf 0,5L-Flaschen) ist untypisch f\u00fcr ein Wit und Geschmackssache, aber ich finde es passend."
+}

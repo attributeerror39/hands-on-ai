@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Phex Winterbier",
+    "Datum": "25.12.2015",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "alt-phex",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 25,
+    "Farbe": 23,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "S\u00fcffiges, s\u00fc\u00df malziges Winterbier mit fruchtiger Hopfennote.",
+    "Malze": [
+        {
+            "Name": "M\u00fcncher",
+            "Menge": 1.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener",
+            "Menge": 1.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Eichenrauch Weizenmalz",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Melanoidin",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 13,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Newport",
+            "Menge": 16,
+            "Alpha": 12.8,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 50,
+            "Alpha": 6.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Brewferm Top",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Bier ist durchaus etwas mastig\/s\u00fc\u00dflich, passt dadurch aber sehr gut in die Weihnachtszeit. Kein Sch\u00fcttbier sondern eher was zum geniessen. Das Aroma vom Eichenrauch Weizenmalz harmoniert gut mit der restlichen S\u00fc\u00dfe\/Malzigkeit ohne dabei zu sehr zu dominieren. Der Mandarina Bavaria f\u00fcgt dem ganzen noch eine leckere Fruchtnote hinzu.\r\n\r\nZur Bitterung kann auch anderer Hopfen verwendet werden, Newport war halt noch da. Den Mandarina Bavaria bei unter 80\u00b0C in den Whirlpool geben um nur das Aroma zu l\u00f6sen.\r\n\r\n"
+}

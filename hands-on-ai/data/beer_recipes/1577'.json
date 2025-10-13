@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Kludde",
+    "Datum": "11.11.2021",
+    "Sorte": "Belgisches Blonde Ale",
+    "Autor": "Seb Brannigan",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.6,
+    "Bittere": 21,
+    "Farbe": 8,
+    "Alkohol": 7.9,
+    "Kurzbeschreibung": "Spritziges und typisch belgisches Blonde mit tollen Bubblegum-Aromen ",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 5.45,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 450,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.090909090909093,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Herkules",
+            "Menge": 6,
+            "Alpha": 17.9,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 18,
+            "Alpha": 3.8,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 18,
+            "Alpha": 3.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Candisirup Hell",
+            "Menge": 455,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Koriandersamen zersto\u00dfen und anger\u00f6stet",
+            "Menge": 18,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "Mangrove Jack's M41 Belgian Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 87,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Die Koriandersamen kurz in der trockenen Pfanne anr\u00f6sten bis diese ordentlich zitrisch riechen. Danach einfach grob zersto\u00dfen.\r\n\r\nWasser:\r\nRestalkalit\u00e4t: 0\r\nCalzium: 60\r\nMagnesium: 6\r\nNatrium: 30\r\nChlor: 50\r\nSulfate: 40\r\nAnstellen bei 20\u00b0 und bei 20\u00b0 verg\u00e4ren lassen. Gegen Ende der G\u00e4rung etwas w\u00e4rmer kommen lassen.\r\n\r\nKleine Geschichte zu dem Bier:\r\n\r\nWiderspenstiges Feierabendbierchen\r\nAls der Brauer eines Abends sein wohlverdientes Feierabendbierchen, ein selbstgebrautes, belgisches Blonde, in's Glas schenkte, bemerkte er etwas seltsames. Geschw\u00e4tz. Irgendwer wollte ihm die Ruhe nicht verg\u00f6nnen und quasselte in einer Tour vor sich hin. Der Brauer konnte nicht ausmachen, woher das Geschw\u00e4tz kam. Er schloss die Fenster und T\u00fcren, doch, es half nichts. Unabl\u00e4ssig h\u00f6rte er ein komisches Geschwafel. Als er genauer hinh\u00f6rte konnte er nur einzelne Wortfetzen ausmachen \"... Gew\u00fcrze... Gebot... St\u00fcmper ... Panscher\". Jetzt konnte er auch die grobe Richtung ausmachen, aus der das Gezeter zu kommen schien. Ungl\u00e4ubig nahm er sein Bierglas in die Hand und horchte.\r\nDas Bier sprach \"Na endlich, ich schreie mir hier schon die Kohlens\u00e4ure aus dem Leib. H\u00f6mma Kollege, was bist du eigentlich f\u00fcr ein Brauer mit deiner Panscherei?\"\r\nDer Brauer schaute ungl\u00e4ubig auf sein Glas. \"Wurde ich gerade von meinem eigenen Bier beleidigt?\"\r\n- \"Ganz Recht, und jetzt pass mal auf. Was hast du da eigentlich in den Sud geworfen? Ich will ja nicht behaupten, dass ich st\u00e4nke, aber nach Bier rieche ich mal gar nicht.\"\r\n\"\u00c4\u00e4h, ich dachte ... also ... ich wollte ...\"\r\n- \"WAS HAST DU MIT MIR GEMACHT?\"\r\n\"Jetzt bleib mal ruhig! Ich hab einfach nur ein belgisches Bier gebraut.\"\r\n- \"Aha! Und dann?`\"\r\n\"Naja, das stand halt so im Rezept. 15 Minuten vor Kochende gibt man Koriandersam...\"\r\n- \"WAS?! \"\r\n\"Naja, Koriandersamen........... und ... Kandis...zucker. Belgisch halt...\"\r\n- \"Sind die beh\u00e4mmert in Belgien? Was kommt als N\u00e4chstes? Bier mit Fr\u00fcchten panschen?\"\r\n\"Nun ja, also eigentlich machen die da...\"\r\n- \"Die spinnen ja wohl. Haben die Lack gesoffen oder was? Haben die noch nie was vom Reinheitsgebot geh\u00f6rt?\"\r\n\"Also genau genommen bist du ja selbst Belgier... ein belgisches Blonde.\r\n- \"Eine ... Blondine?\"\r\n\"Ein Blonde.\"\r\n-\"...\"\r\n\"Das ist ein belgischer Bierstil.\"\r\n- \"... OK ... ich nehm das erstmal einfach so hin, auch wenn ich der Meinung bin, dass du offensichtlich mal als Kind vom Wickeltisch gefallen bist. Also, erz\u00e4hl mal. Was macht mich jetzt genau zu einem Blonde? Abgesehen von den zweifelhaften Zutaten?\"\r\nDer Brauer konnte es nicht glauben. Er f\u00fchrte gerade eine Unterhaltung mit seinem Bier. Und dann war das Ding auch noch ganz sch\u00f6n widerspenstig. War er nun endg\u00fcltig verr\u00fcckt geworden? Und woher wusste es, dass er als Kind wirklich mal auf den Kopf gefallen war?\r\nGedankenverloren nippte er an seinem Glas.\r\n-\"HEY!!?!\"\r\nDer Brauer erschrak und h\u00e4tte fast das Glas fallen gelassen. Das Bier schwappte fast \u00fcber, aber das gelernte Handgelenk wei\u00df das nat\u00fcrlich auszugleichen.\r\n- \"Hey, ich habe dir ein Frage gestellt und du stehst da rum wie ein Schluck Wasser in der Kurve und schaust erstmal minutenlang gegen die Wand w\u00e4hrend dir der Sabber aus dem Mundwinkel l\u00e4uft. Jetzt mal Butter bei dem Kutter ... oder so ... was ist denn jetzt ein Blonde?\"\r\n\"\u00c4\u00e4\u00e4h, Moment da muss ich mal googlen, weil so ganz genau kann ich dir das auch nicht sagen. ... Also, laut dem Internet ist ein belgisches Blonde ein m\u00e4\u00dfig starkes goldenes Ale, das etwas belgische Komplexit\u00e4t, einen leicht s\u00fc\u00dflichen Geschmack und einen trockenen Abgang hat. Tja, h\u00e4tte ich jetzt auch nicht besser zu erkl\u00e4ren gewusst.\"\r\n-\"...\"\r\n\"Hmmm... warte mal, ich such mal eben das Rezept raus ... da die Frage ja sowieso gleich kommt ... *Kramger\u00e4usche* ... Aaaah ja, hier ist es.\r\nAlso, das Rezept (f\u00fcr 22 Liter) sieht folgenderma\u00dfen aus:\r\n(Siehe oben)\r\nSo, bist du jetzt schlauer?\"\r\n-\"...\"\r\n\"Hallo? Bist du noch da?\"\r\nAus der Ecke des Raumes h\u00f6rte der Brauer ein fieses Kichern. Die Luft begann zu wabern und aus dem Nichts schien sich eine blaue Gestalt mit krass muskul\u00f6sen Oberarmen zu materialisieren.\r\n\"Skeletor!?\"\r\n-\"Ich wusste du w\u00fcrdest auf meinen Trick hereinfallen und dich verplappern. Jetzt habe ich dein Rezept und kann nun endlich das Schloss Grayskull einnehmen ... Hihihihi\"\r\nDie Gestalt schien sich wieder in wabernde Luft aufzul\u00f6sen und war nur Sekunden sp\u00e4ter wieder verschwunden.\r\nDer Brauer war perplex.\r\n\"Was? ... Wa...W...Moment...WAS??\"\r\nStille kehrte wieder ein. Sein Bier schien nun verstummt. Nach einigen Sekunde der Ratlosigkeit und Verbl\u00fcffung zuckte der Brauer mit den Schultern, setzte sich in seinen gem\u00fctlichen Ledersessel vor den Kamin, nippte gem\u00fctlich von seinem Bier und erfreute sich daran.\r\nUnd so meine Freunde kam es, dass Skeletor anfing Biere abseits des Reinheitsgebotes zu brauen.\r\nENDE\r\n"
+}

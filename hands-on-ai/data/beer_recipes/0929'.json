@@ -1,0 +1,142 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Cookie Dude",
+    "Datum": "18.07.2018",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "flaschenpost",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20.7,
+    "Bittere": 40,
+    "Farbe": 60,
+    "Alkohol": 12,
+    "Kurzbeschreibung": "Dunkel braunes schweres Bier, das durch Geschmack nach Keksen, Bitterschokolade, Vanille und Whiskey besticht",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.23,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Biscuit Malz",
+            "Menge": 1.39,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken, selbst ger\u00f6stet",
+            "Menge": 560,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraamber",
+            "Menge": 490,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa II",
+            "Menge": 70,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Honig (dunkel und intensiv)",
+            "Menge": 870,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.086956521739129,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Fuggles",
+            "Menge": 46,
+            "Alpha": 4.8,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 14,
+            "Alpha": 5.1,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Wakatu",
+            "Menge": 9,
+            "Alpha": 7.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 15,
+            "Alpha": 5.1,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Wakatu",
+            "Menge": 10,
+            "Alpha": 7.7,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss (optional)",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Kakaobruch",
+            "Menge": 435
+        },
+        {
+            "Sorte": "Holzchips Amerikanische Eiche, Medium Toasted",
+            "Menge": 30
+        },
+        {
+            "Sorte": "Vanilleschoten",
+            "Menge": 17
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Makers Mark Bourbon Whiskey",
+            "Menge": 870,
+            "Einheit": "ml"
+        }
+    ],
+    "Hefe": "Scottish Ale Yeast (Wyeast #1728)",
+    "Gaertemperatur": "18-21",
+    "Endvergaerungsgrad": 84.4,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Aufgrund der hohen Stammw\u00fcrze muss darauf geachtet werden, dass man genug Hefe ins Rennen schickt! Au\u00dferdem bitte die Wassermenge an die eigene Anlage anpassen.\r\n\r\nDie Haferflocken wurden auf einem Blech ausgebreitet im Ofen bei 150\u00b0C f\u00fcr ca 15min anger\u00f6stet. Dies sollte man solange tun, bis es leicht nach Haferkeksen riecht.\r\n\r\nDer Honig darf erst nach dem Kochen beigegeben werden, da sonst die fl\u00fcchtigen Aromen ausgetrieben werden. Es reicht ihn ins G\u00e4rgef\u00e4\u00df zu geben und beim Bel\u00fcften einzur\u00fchren. Im Zweifelsfall muss man sich aber auch keinen Kopf machen wenn nicht alles gleich in L\u00f6sung \u00fcbergeht - die Hefe kommt da auch so ganz gut ran und l\u00e4sst nichts am Boden kleben.\r\n\r\nNach der G\u00e4rung (der man auf jeden Fall genug Zeit geben sollte) werden Kakaobruch, Eiche und aufgeschnittene Vanilleschoten f\u00fcr 3 Tage in den Bourbon Whiskey eingelegt. Anschlie\u00dfend wird alles zusammen ins Bier gegeben und dort f\u00fcr weitere 3 Wochen belassen.\r\n\r\nNach der G\u00e4rung sind ca 10,0-10,5% Alkohol enthalten, durch den Whiskey wird dies auf etwa 12% angehoben.\r\n\r\nEinen Verk\u00f6stigungsbericht gibt es hier: https:\/\/hobbybrauer.de\/forum\/viewtopic.php?p=255663#p255663\r\n\r\nUnd das Bier wurde auch in Craft Beer and Friends Folge 25 verk\u00f6stigt. Bei etwa 1 Stunde 7 Minuten: https:\/\/craftbeer.works\/2019\/02\/15\/bjcp-2-2-2-2-2-2\/"
+}

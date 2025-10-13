@@ -1,0 +1,113 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "IPA Huell Melon",
+    "Datum": "18.07.2019",
+    "Sorte": "Pale Ale",
+    "Autor": "Gianola & Sons",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 49,
+    "Farbe": 20,
+    "Alkohol": 5.9,
+    "Kurzbeschreibung": "S\u00fcffiges Sommerbier mit guter und sehr fester Schaumkrone. Nicht zu herb und sehr fruchtig im Abgang. ",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 1.43,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 1.43,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 950,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Red",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen Hell",
+            "Menge": 480,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 240,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.047619047619047,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.428571428571427,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Huell Melon",
+            "Menge": 19,
+            "Alpha": 6.2,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Ella",
+            "Menge": 14,
+            "Alpha": 13.6,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Huell Melon",
+            "Menge": 19,
+            "Alpha": 6.2,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Huell Melon",
+            "Menge": 57
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 29
+        }
+    ],
+    "Hefe": "Safale Us-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 81.5,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Am 6. Tag der Haupt-G\u00e4rung umgeschlaucht und Zugabe Stopfhopfen. \r\nNachg\u00e4rung bis Tag 14 (Plato 2.5\u00b0, stabil f\u00fcr zwei Tage). Anschliessend umgeschlaucht und f\u00fcr Flaschenverg\u00e4rung vorbereiten (Zuckerzugabe). Habe relativ stark karbonisiert, damit es ein frischen Bier f\u00fcr den Sommer gibt. Ist sehr gut gelungen. Das Bier ist ausserordentlich fruchtig und hat durch den Huell Melon einen Geschmack nach Melone. Je langer das Bier lagert desto besser wird es und die Balance zwischen bittere und s\u00fcsse reif nach.  "
+}

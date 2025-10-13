@@ -1,0 +1,98 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bavarian Melon Pale Ale",
+    "Datum": "11.06.2017",
+    "Sorte": "India Pale Ale",
+    "Autor": "Docpsycho",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 45,
+    "Farbe": 16,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Hell-Kupfernes IPA mit sch\u00f6nen mandarinigen erdbeerigen Noten und furztrocken.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.73,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz ",
+            "Menge": 1.18,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.636363636363635,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 15.454545454545453,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina Bavaria ",
+            "Menge": 6,
+            "Alpha": 10,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Huell Melon ",
+            "Menge": 8,
+            "Alpha": 7.8,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum ",
+            "Menge": 9,
+            "Alpha": 13.2,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria ",
+            "Menge": 22,
+            "Alpha": 10,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Huell Melon ",
+            "Menge": 28,
+            "Alpha": 7.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria ",
+            "Menge": 30,
+            "Alpha": 10,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Huell Melon ",
+            "Menge": 30,
+            "Alpha": 7.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Fermentis S-04",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Bier ist nach 3 Wochen Reifung trinkfertig und schmeckt herrlich nach Erdbeeren und Mandarinen und ist dabei wunderbar trocken, so mag ich mein IPA. Der Doldenhopfen wurde mit einem Zauberstab fein \"gemahlen\", das hilft beim Seien und der Ausbeute. Was die Abmaischtemperatur angeht, ich gehe nur noch selten auf 78\u00b0C, das spart Zeit und macht keine Probleme beim l\u00e4utern."
+}

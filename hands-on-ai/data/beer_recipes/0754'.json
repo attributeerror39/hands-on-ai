@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Holunder Weissbier",
+    "Datum": "13.07.2017",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "brauerbazi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 20,
+    "Farbe": 30,
+    "Alkohol": 4.2,
+    "Malze": [
+        {
+            "Name": "Weizen Malz ",
+            "Menge": 2.22,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.78,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz ",
+            "Menge": 440,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.77777777777778,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 43,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 71,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.333333333333332,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Hersbrucker",
+            "Menge": 22,
+            "Alpha": 2.8,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 13,
+            "Alpha": 3.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Holunderbl\u00fcten",
+            "Menge": 36,
+            "Einheit": "g",
+            "Kochzeit": 60
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Hallertauer Hersbrucker",
+            "Menge": 22
+        }
+    ],
+    "Hefe": "Gozdawa Bavarian Wheat11",
+    "Gaertemperatur": "28",
+    "Karbonisierung": 6
+}

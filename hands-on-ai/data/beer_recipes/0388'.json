@@ -1,0 +1,97 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "McBrownie",
+    "Datum": "14.04.2014",
+    "Sorte": "Brown Ale",
+    "Autor": "ZeroDome",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 22,
+    "Farbe": 37,
+    "Alkohol": 4.7,
+    "Kurzbeschreibung": "Leckeres und s\u00fcffiges Brown Ale im englischen Stil. ",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz",
+            "Menge": 700,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Belge",
+            "Menge": 280,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 150,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Pale (ca. 500 EBC)",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 9,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tradition",
+            "Menge": 10,
+            "Alpha": 6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 6,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tradition",
+            "Menge": 4,
+            "Alpha": 6,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Brewers Invert No2",
+            "Menge": "300 ",
+            "Einheit": "",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Safale S-04 ",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 73,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Reifung etwa 4-5 Wochen. Nach der Hauptg\u00e4rung wurde auf 1-3\u00b0C f\u00fcr 1-2 Tage gek\u00fchlt und dann mit Gelatine gekl\u00e4rt f\u00fcr weitere 2 Tage. Danach Abf\u00fcllung in ein NC-Keg."
+}

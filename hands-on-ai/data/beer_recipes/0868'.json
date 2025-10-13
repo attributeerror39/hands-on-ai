@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Cologne Dunkelblond",
+    "Datum": "04.03.2018",
+    "Sorte": "Pale Ale",
+    "Autor": "BrewProphet",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 31,
+    "Farbe": 10,
+    "Alkohol": 4.6,
+    "Kurzbeschreibung": "Eine dunkelblonde ungefilterte K\u00f6lschvariante mit etwas Rests\u00fc\u00dfe, die die Nobelhopfen gut zur Geltung bringt - sehr s\u00fcffig und gute Schaumstabilit\u00e4t. ",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.75,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 420,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 420,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.5,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 29,
+            "Alpha": 3.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 29,
+            "Alpha": 3.2,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saaz",
+            "Menge": 33,
+            "Alpha": 4,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saaz",
+            "Menge": 17,
+            "Alpha": 4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WYeast 2565",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 60,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Gebraut wurde mit dem Grainfather. Haupt- und Nachg\u00e4rung haben jeweils eine Woche gedauert. Nach einer Woche Flascheng\u00e4rung und drei Wochen in der Garage (ca. 10 Grad) war es fertig, p\u00fcnktlich zu Karneval."
+}

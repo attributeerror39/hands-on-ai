@@ -1,0 +1,65 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Steinmar Weizen",
+    "Datum": "01.11.2024",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Steinmarbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 15,
+    "Farbe": 10,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Einfaches Hefeweizen mit anst&auml;ndigem Bananenaroma und sch&ouml;ner Citrus-Note.\r\nAuch f&uuml;r Anf&auml;nger geeignet!",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2.1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.1,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saphir",
+            "Menge": 20,
+            "Alpha": 5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 5,
+            "Alpha": 12,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Weihenstephan W3068",
+    "Gaertemperatur": "21",
+    "Karbonisierung": 6
+}

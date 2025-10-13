@@ -1,0 +1,73 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ru&szlig;kuchl",
+    "Datum": "08.01.2024",
+    "Sorte": "Rauchbier",
+    "Autor": "David P",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 15,
+    "Farbe": 29,
+    "Alkohol": 4.4,
+    "Kurzbeschreibung": "Dunkles Rauchweizen. Ein Schinkenbrot mit einer Banane zum Nachtisch. Was will man mehr.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 460,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Bisquitmalz",
+            "Menge": 300,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Special W",
+            "Menge": 240,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 24,
+    "Einmaischtemperatur": 52,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 5,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hersbrucker",
+            "Menge": 52,
+            "Alpha": 2.1,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "w68 (2. F&uuml;hrung)",
+    "Gaertemperatur": "22",
+    "Karbonisierung": 6
+}

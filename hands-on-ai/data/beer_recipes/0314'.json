@@ -1,0 +1,63 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Frucht-Weizen",
+    "Datum": "21.06.2013",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "FantaRainer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.5,
+    "Bittere": 12,
+    "Farbe": 27,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Ein leichtes Weizenbier, dass eine Nachg\u00e4rung mit Fr\u00fcchten verpasst bekam",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 1.82,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 270,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.18181818181818,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.636363636363635,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 9,
+            "Alpha": 10,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Kirschen \/ Himbeeren",
+            "Menge": 2182,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Fermentis Safbrew WB-06",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 7,
+    "Anmerkung_Autor": "Nach abgeschlossener Hauptg\u00e4rung wurde der Sud aufgeteilt: jeweils 8 Liter wurden mit 1 kg Himbeeren und 1,2 kg Kirschen gestopft. Das ganze durfte so nochmal 10 Tage stehen bleiben. Vor dem Abf\u00fcllen hab ich durch ein K\u00fcchensieb filtriert, sind allerdings einige St\u00fcckchen durchgegangen...\r\nDas Ergebnis ist Geschmackssache: vielen Leuten hat es sehr gut geschmeckt, ich pers\u00f6nlich mag es nicht so. Eines muss man sich klar machen: es wird auf jeden Fall sauer und hat mit Bier nur noch wenig zu tun."
+}

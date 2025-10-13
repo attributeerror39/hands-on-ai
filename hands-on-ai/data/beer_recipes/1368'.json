@@ -1,0 +1,95 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Gen&uuml;sslicher Andy",
+    "Datum": "31.10.2020",
+    "Sorte": "Saison",
+    "Autor": "integrator",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.7,
+    "Bittere": 27,
+    "Farbe": 18,
+    "Alkohol": 8,
+    "Kurzbeschreibung": "Fruchtig weiches Saison mit dem herrlichen Motueka Hopfen. Der Malzk&ouml;rper ist sehr schlank und l&auml;sst den Hopfen gut zur Geltung kommen.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 4.27,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 410,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M&uuml;nchener Malz I",
+            "Menge": 360,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Spitzmalz",
+            "Menge": 360,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.727272727272727,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 9.545454545454547,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Motueka",
+            "Menge": 28,
+            "Alpha": 6.4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Motueka",
+            "Menge": 19,
+            "Alpha": 6.4,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Kokosbl&uuml;tenzucker",
+            "Menge": 250,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Motueka",
+            "Menge": 44
+        }
+    ],
+    "Hefe": "Wyeast #3711 French Saison",
+    "Gaertemperatur": "20-24",
+    "Endvergaerungsgrad": 86,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Mein Bekannter Andy ist eigentlich Weintrinker, er hat einen trockenen Humor und ist ein wahrer Geniesser wenn es um Leckereien geht. Da ich Bierbrauer bin musste ich mich an einem Wein orientieren und entschied mich f&uuml;r ein fruchtigeres Saison. Da es mein erstes war, habe ich mich an Marsabba Schti und Bierwisch Doppelnelson orientiert. Das Bier sollte mindestens 2-3 Monate reifen.\r\n\r\nOhne Zuckerzugabe war die Stammw&uuml;rze 14,7%\r\n\r\nWICHTIG: Man sollte das G&auml;rfass nach dem abf&uuml;llen gr&uuml;ndlich reinigen da diese Hefe sich gerne in den n&auml;chsten Sud verschleppt und dann bei der n&auml;chsten G&auml;rung mithilft. Hat mir mal mein Weizen stark ver&auml;ndert. ;-)\r\n\r\nBrauen im Grainfather &bull; Einmaischtemperatur ist Malz+Wasser &bull; PH-Wert 5,5 &bull; Restalkalit&auml;t 1,0&deg;dH &bull; Nachisomisierung 5 min.\r\nWasserwerte: Ca=93 &bull; Mg=6 &bull; SO4=108 &bull; Cl=59 "
+}

@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Triticum Wormatia",
+    "Datum": "29.11.2012",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Gambrinus zu Borbetomagus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 17,
+    "Farbe": 9,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Dieses Weizenbier zielt auf Bananenaromen ab. Auch f\u00fcr jeden Anf\u00e4nger ein sch\u00f6nes Weizen, das mit Sicherheit gelingt.",
+    "Malze": [
+        {
+            "Name": "Pilsener ",
+            "Menge": 1.25,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Hell",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 1.25,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saphir",
+            "Menge": 18,
+            "Alpha": 5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 10,
+            "Alpha": 5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir Wirlpool",
+            "Menge": 8,
+            "Alpha": 5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WLP300 oder Zyferm 33 oder Wyeast 3068",
+    "Gaertemperatur": "20-22",
+    "Endvergaerungsgrad": 4.5,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Das Maischverfahren wurde einfach gehalten, mit ansteigender Infusion. Die Weizenrast wurde bewu\u00dft weg gelassen, um wenig bis keine Nelkenaroman zu produzieren. Alles Banane... Ihr werdet schon in der HG einen starken Bananengeruch bemerken. Wenn ihr dann einmal probiert, bekommt ihr das volle Bananenbrett, fast schon zuviel. Das wird sich aber nach der NG ein wenig legen. Deutliche Bananenester werdet ihr dennoch schmecken k\u00f6nnen, genau richtig dosiert. Rundum ein s\u00fcffiges Weizen das jedem schmeckt, auch meine Frau ist begesitert. Mein bisher bestes Weizen."
+}

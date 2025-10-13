@@ -1,0 +1,112 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Molotov Cocktail",
+    "Datum": "22.04.2020",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "schwallerbeat@gmail.com",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 30,
+    "Bittere": 229,
+    "Farbe": 22,
+    "Alkohol": 13,
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 10,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Amber",
+            "Menge": 470,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 290,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 23.157894736842106,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.526315789473683,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 29,
+            "Alpha": 13.4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Apollo",
+            "Menge": 29,
+            "Alpha": 17.2,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Apollo",
+            "Menge": 29,
+            "Alpha": 17.2,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 29,
+            "Alpha": 9.1,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Apollo",
+            "Menge": 29,
+            "Alpha": 17.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 29,
+            "Alpha": 9.1,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Candis Zucker",
+            "Menge": 1421,
+            "Einheit": "g",
+            "Kochzeit": 90
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 29
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 29
+        }
+    ],
+    "Hefe": "WLP007 Dry English Ale",
+    "Gaertemperatur": "18",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "WLP007 mit 2L Starter f\u00fcr erste 36-48h. Danach WLP530 ABBEY ALE mit 2L Starter beigeben"
+}

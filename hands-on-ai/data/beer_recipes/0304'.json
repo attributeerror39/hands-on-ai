@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Schnapphahn",
+    "Datum": "22.04.2013",
+    "Sorte": "Dunkles Hefeweizen",
+    "Autor": "horstibus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 16,
+    "Farbe": 44,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Dunkles Weizen f\u00fcr alle Tage, mit vollmundigem Malzk\u00f6rper und dezenten R\u00f6stnoten",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 2.56,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caradunkel",
+            "Menge": 560,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 240,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stmalz Carafa II",
+            "Menge": 24,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.6,
+    "Einmaischtemperatur": 64,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 35
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Dr Rudi",
+            "Menge": 6,
+            "Alpha": 11,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Dr Rudi",
+            "Menge": 12,
+            "Alpha": 11,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WLP300 Hefeweizen Ale",
+    "Gaertemperatur": "22"
+}

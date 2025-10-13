@@ -1,0 +1,69 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "TBO001",
+    "Datum": "21.09.2018",
+    "Sorte": "Pale Ale",
+    "Autor": "sTill04",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.8,
+    "Bittere": 40,
+    "Farbe": 12,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Goldgelbes Pale Ale mit angenehmer Bitternote und leichten Fruchtaromen!",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 4.09,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 450,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.363636363636363,
+    "Einmaischtemperatur": 63,
+    "Rasten": [
+        {
+            "Temperatur": 58,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 65,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 19,
+            "Alpha": 8,
+            "Zeit": 65,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 46,
+            "Alpha": 8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 45
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "24",
+    "Endvergaerungsgrad": 71,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Mein erstes Selbstgebrautes! Schmeckt nat\u00fcrlich beim ersten Mal immer super! Es gibt aber auch einige Schwachpunkte. Durch die Hitze im Sommer konnte ich das Bier leider nur bei hohen Temperaturen g\u00e4ren lassen. Beim Abf\u00fcllen hab ich zu viel Hefe aufgewirbelt und es ist zu viel Sauerstoff ins Bier gekommen.\r\n\r\nDer Geruch ist super! Da ist Mandarina Bavaria echt eine super Wahl. Optisch etwas tr\u00fcb, aber super Schaum. Geschmacklich leichte Hopfenaromen (nicht so dominant wie erwartet), etwas herb und leider leicht \u00fcbercarbonisiert.\r\n\r\nEs ist insgesamt ein rundes Bier geworden!"
+}

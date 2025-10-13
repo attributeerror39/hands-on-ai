@@ -1,0 +1,86 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Spezial Weizen",
+    "Datum": "09.11.2012",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Siedlerbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 16,
+    "Farbe": 6,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Ein kr\u00e4ftiges Weizen mit einem feinen Raucharoma ! (sehr dezent)",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2.65,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 1.77,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 410,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 140,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 140,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 25.581395348837212,
+    "Einmaischtemperatur": 40,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 65,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 6.046511627906977,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Celeia",
+            "Menge": 13,
+            "Alpha": 7,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Celeia",
+            "Menge": 6,
+            "Alpha": 9,
+            "Zeit": 40,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Brewferm Blanche",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 7,
+    "Anmerkung_Autor": "Das dezente Raucharoma tritt erst nach 2-3 Wochen Lagerung etwas in der Vordergrund. Wer es gerne rauchiger mag sollte den Anteil an Rauchmalz verdoppeln. Der Haupt- und Nachgu\u00df beziehen sich auf den Speidel Braumeister 50L."
+}

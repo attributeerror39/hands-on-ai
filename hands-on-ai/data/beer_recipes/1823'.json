@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Gurken Sour",
+    "Datum": "28.06.2023",
+    "Sorte": "Sauerbier",
+    "Autor": "Pollerbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 25,
+    "Farbe": 10,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Ein s\u00fcffiges Gurken Sour perfekt f\u00fcr den Sommer",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caramalz Hell",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 26,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Kochzeit_Wuerze": 30,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Summit",
+            "Menge": 14,
+            "Alpha": 18,
+            "Zeit": 30,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Koriander gem\u00f6rsert",
+            "Menge": 12,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Salz",
+            "Menge": 12,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Bio Gurken gesch\u00e4lt",
+            "Menge": 4000,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Philly Sour",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Hier mein Rezept zum spritzigen Gurken Sour. Naja es ist im klassischen Sinne kein echtes Sourbier da es mit der Philly Hefe vergoren wurde, aber f\u00fcr ein relativ schnelles Sourbier ist die Hefe perfekt. Gebaut habe ich im BIAG nach der Short & Shoddy Methode. Die Bio-Gurken habe ich gesch\u00e4lt und nach der HG f\u00fcr 3 Tage in den G\u00e4reimer. Nach 2 Wochen Kaltreifung schon sehr gut trinkbar und das Gurkenaroma war sehr gut wahrnehmbar, hier kann man nat\u00fcrlich die Gurkenmenge je nach Vorlieben anpassen. \r\nDie Verkoster waren erst alle skeptisch und dann war es das erste Keg welches leer war :-) "
+}

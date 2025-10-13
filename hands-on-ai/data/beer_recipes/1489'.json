@@ -1,0 +1,108 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hubertus Spezial",
+    "Datum": "14.05.2021",
+    "Sorte": "Schwarzbier",
+    "Autor": "Starenbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.2,
+    "Bittere": 26,
+    "Farbe": 77,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Dies Bier habe ich zu Ehren meines verstorbenen Vaters gebraut. Es sollte und ist ein Schwarzbier geworden -  die Farbe zwischen 90-100 EBC - Bittere ausgewogen - nicht s\u00fc\u00df aber s\u00fcffig und echt lecker - und das schon nach  15 Tagen, davon 9 Tagen in Flasche und 2 Tagen im K\u00fchlschrank probiert... und wir wollten sofort mehr... geht aber nicht - muss noch 2 Wochen reifen. Dann berichten wir mehr.",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchener Malz II",
+            "Menge": 1.18,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.49,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Bio Weizenmalz",
+            "Menge": 520,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin Malz",
+            "Menge": 370,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.339130434782609,
+    "Einmaischtemperatur": 49,
+    "Rasten": [
+        {
+            "Temperatur": 56,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.304347826086955,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 9,
+            "Alpha": 5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 11,
+            "Alpha": 6,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarilo",
+            "Menge": 20,
+            "Alpha": 9.8,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golgin",
+            "Menge": 9,
+            "Alpha": 5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moos",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Labrew Nottingham",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 73.8,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Die ersten Rasten mit Infusionverfahren - gestartet mit 11 ltr , dann 3 Liter kochendes Wasser auf 55\u00b0, diese gehalten im Kochtopf mit Inkbird, dann weitere 3,3 ltr kochendes Wasser  auf 63\u00b0 und diese wieder gehalten mit Inkbird - dann erhitzt auf 72 mit Heizung.\r\nDie R\u00f6stgerste im Thermomix zerkleinert und dann mit 500 ml Maische auf 70 \u00b0C erhitzt. Dann nach 10 Minuten Rast 63\u00b0C der Gesamtmaische zugef\u00fcgt. "
+}

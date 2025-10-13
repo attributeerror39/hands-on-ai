@@ -1,0 +1,59 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "MB Stout",
+    "Datum": "16.02.2011",
+    "Sorte": "Stout",
+    "Autor": "muldengold",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 56,
+    "Farbe": 100,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Leckeres Stout. Simples aber authentisches Rezept. Mildes R&ouml;staroma und rabenschwarzer Farbe.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.82,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "R&ouml;stgerste",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R&ouml;stmalz",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.545454545454547,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 90
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.90909090909091,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 44,
+            "Alpha": 10,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 1084 Irish Ale",
+    "Gaertemperatur": "16",
+    "Anmerkung_Autor": "Urspr&uuml;nglich waren 1 kg R&ouml;stgerste geplant. Habe die Gerste (1kg) selbst ger&ouml;stet, was eine ziemliche Rauchentwicklung in der K&uuml;che verursachte. Am Ende waren nur 600 g &uuml;brig. Den Rest habe ich durch R&ouml;stmalz (ca. 1200 EBC) ersetzt. Das Jungbier hat bei 8-15&deg;C f&uuml;r ca. 2 Monate im Nachg&auml;rfass gereift. Das Ergebnis war echt lecker. Das R&ouml;staroma war deutlich warnehmbar ohne jedoch aufdringlich zu sein. R&ouml;stmalz und -gerste wurden von Beginn an mit eingemaischt. Die Bittere von 56 mag hoch erscheinen - kam jedoch sehr ausgeglichen r&uuml;ber. "
+}

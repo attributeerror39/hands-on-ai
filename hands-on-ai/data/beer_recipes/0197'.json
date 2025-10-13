@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "SNPA",
+    "Datum": "20.05.2012",
+    "Sorte": "Pale Ale",
+    "Autor": "Kurt",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Sierra Nevada Pale Ale",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.1,
+    "Bittere": 37,
+    "Farbe": 20,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Was soll man sagen, nach dem Samuel Adams Boston Lager das beliebteste Craftbeer in Amerika - zu Recht!",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caramalz 120 EBC",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.2,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.399999999999999,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 10,
+            "Alpha": 15,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 10,
+            "Alpha": 10,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 20,
+            "Alpha": 6.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 40,
+            "Alpha": 6.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "US-05, Weast 1056 American Ale, WLP001 California Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Sch&uuml;ttung:\r\nZum Basismalz: Was Weyermann Pale Ale Malz ist im Vergleich zu amerikanischem 2-row malt etwas zu dunkel, klassisches Pilsner Malz etwas zu hell. Der Unterschied wird gering sein.\r\nDamit es keine Verwechslungen geben kann habe ich das Caramalz allgemeiner geschrieben. Ich kaufe es immer als &quot;Caram&uuml;nch II&quot;\r\n\r\nHopfen:\r\nDie letzte Hopfengabe am besten als Whirlpoolgabe bei ~80&deg;C um zu viel Bittere zu vermeiden und das Cascade-Aroma zu erhalten. Das Rezept ist das ursp&uuml;ngliche Clonerezept mit Magnum, Perle und Cascade. Diese Hopfen wurden urspr&uuml;nglich auf der Sierra-Nevada Homepage f&uuml;r Pale Ale erw&auml;hnt. \r\nSierra Nevada hat tats&auml;chlich ein abweichendes Rezept ver&ouml;ffentlich. Hier kommt nur Cascade zum Einsatz: \r\nhttps:\/\/sierranevada.com\/blog\/our-beer\/pale-ale-homebrew-recipe\r\nDer Produktmanager vorn Sierra-Nevada Terence Sullivan sagt hier (in den Kommentaren), das neben Cascade nur noch Magnum zum Bittern eingesetzt wird: https:\/\/youtu.be\/rhbcR6mT3_U?si=hyjIOVjpsm8K4ToF\r\n\r\n\r\nSingle Infusion Mash bei 67&deg;C. Nachg&uuml;sse bis Stammw&uuml;rze zu Kochbeginn 10,5&deg;P oder Glattwasser unter 2,5&deg;P. Verh&auml;ltnis Magnum\/Perle\/Cascade\/Cascade: 1\/1\/2\/4. Kein Hopfenstopfen. Eine reint&ouml;nige Verg&auml;rung ist gew&uuml;nscht, daher nicht underpitchen. F&uuml;r ein klares Bier empfieht es sich, vor dem Ausschank umzudr&uuml;cken. Die Karbonisierung soll im Original 2,6% v\/v betragen. Das entspricht in f&uuml;r uns gel&auml;ufigen Einheiten etwa 5g\/l."
+}

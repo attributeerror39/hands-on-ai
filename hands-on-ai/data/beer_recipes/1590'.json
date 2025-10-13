@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bodenseewelle",
+    "Datum": "07.12.2021",
+    "Sorte": "Pale Ale",
+    "Autor": "ralfsteck",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Kona Big Wave Golden Ale",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 10.8,
+    "Bittere": 21,
+    "Farbe": 13,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Nach einem US-Clone-Rezept (siehe unten) nachgebraute Version des sch\u00f6nen Big Wave Golden Ale von Kona Brewing. Ein hervorragend trinkbares, relativ leichtes Bierchen.\r\n\r\nOriginalrezept: https:\/\/www.clawhammersupply.com\/blogs\/moonshine-still-blog\/kona-big-wave-clone-blonde-ale-homebrew-recipe",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.21,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamellmalz Hell",
+            "Menge": 130,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "dekoktion",
+    "Einmaisch_Zubruehwasser_gesamt": 23.7,
+    "Dekoktionen": [
+        {
+            "Volumen": 23.7,
+            "Temperatur_ist": 72,
+            "Temperatur_resultierend": 67,
+            "Rastzeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 2.1052631578947367,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Callista",
+            "Menge": 38,
+            "Alpha": 3,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 4,
+            "Alpha": 13.2,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 4,
+            "Alpha": 13.2,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 9,
+            "Alpha": 13.2,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "16-18",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die VWH sollte eigentlich nach Rezept mit Galaxy passieren, ich hatte aber keinen da und der Callista machte sich auch gut.\r\n\r\nIch habe BIAB gebraut, deshalb der winzige Nachguss."
+}

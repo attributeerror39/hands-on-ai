@@ -1,0 +1,70 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "TfaG HoPo",
+    "Datum": "27.11.2011",
+    "Sorte": "Irish Ale",
+    "Autor": "TrashHunter",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.4,
+    "Bittere": 40,
+    "Farbe": 60,
+    "Alkohol": 6.2,
+    "Kurzbeschreibung": "Basierend auf dem Smithwick-Rezept von Klaus Kling mein erstes All Grain. Ergebnis ist ein seeeehr dunkel rotes Ale mit kr\u00e4ftigen 40,2 IBU. Geduld bei der Reifung ist also gefragt.",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 3.7,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carafa Spezial II",
+            "Menge": 110,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Maisflocken vorverkleistert",
+            "Menge": 590,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.555555555555555,
+    "Einmaischtemperatur": 38,
+    "Rasten": [
+        {
+            "Temperatur": 38,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 90
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.518518518518519,
+    "Kochzeit_Wuerze": 100,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Target",
+            "Menge": 23,
+            "Alpha": 10.5,
+            "Zeit": 100,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Target",
+            "Menge": 14,
+            "Alpha": 10.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale S-04",
+    "Gaertemperatur": "20-26",
+    "Anmerkung_Autor": "Nach dem Hopfenkochen ca. 20min Warten ehe der Whirlpool zum Hopfenseien erzeugt wird.\r\nIch empfehle ein ausreichend gro\u00dfes G\u00e4rgef\u00e4\u00df, die S-04 geht bei dieser Stammw\u00fcrze in diesem Temperaturbreich heftig ab. Die ideale Anstelltemperatur ist 31\u00b0C, die S-04 kann das gut ab und das Infektions-Risiko wird verringert.\r\nDurch den Mais wird sehr viel Mehl in der Maische gebunden, deshalb setzt der Treber erst nach einer Weile wirklich gut ab. Ich hab den Fehler gemacht und viel zu schnell gel\u00e4utert. Am Ende hatte ich dann nach dem W\u00fcrzekochen irrsinnig viel - durch das R\u00f6stmalz dunkelgrau gef\u00e4rbtes - Mehl im Hopfenfilter h\u00e4ngen und brauchte entsprechend Geduld. Also besser dem Treber sch\u00f6n Zeit lassen und die ersten 8 bis 12 Liter Vorderw\u00fcrze zur\u00fcck in den Maischebottich geben um einen sch\u00f6nen Treberkuchen zu erhalten."
+}

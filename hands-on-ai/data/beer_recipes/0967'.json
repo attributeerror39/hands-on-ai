@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Altbier-Weizen-Hybrid",
+    "Datum": "07.10.2018",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Pfiff180",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.8,
+    "Bittere": 24,
+    "Farbe": 45,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Das Altbier-Weizen-Hybrid ist, wie der Name schon sagt, eine Mischung aus Altbier und Weizenbier. Ziel war ein oberg\u00e4riges Bier mit einer kurzen \"Reifezeit\". Fruchtiges, dunkles Bier mit feinem Schaum. ",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz ",
+            "Menge": 3.41,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 680,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 68,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 68,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 11.363636363636365,
+    "Einmaischtemperatur": 61,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.590909090909092,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Marynka",
+            "Menge": 18,
+            "Alpha": 9.4,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Aramis",
+            "Menge": 16,
+            "Alpha": 7.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Fermentis SafAle S-04",
+    "Gaertemperatur": "27",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Wasser: 70% entsalztes Wasser 30% Rohwasser (21\u00b0dH).\r\nHauptg\u00e4rung nach 2 Tagen abgeschlossen weil G\u00e4rtemperatur zu hoch.\r\nNachg\u00e4hrung\/ Reifung 6 Wochen. Nach 4 Wochen bereits trinkbar. Trotz kurzer G\u00e4hrung kein \"Kopfwehbier\". Sehr s\u00fcffiges Bier."
+}

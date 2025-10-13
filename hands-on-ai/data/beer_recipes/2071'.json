@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "CuMato Gose (Gurken Tomaten Gose)",
+    "Datum": "13.02.2025",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "mastbrubeer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.4,
+    "Bittere": 19,
+    "Farbe": 5,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Die CuMato Gose ist eine Tomaten Gurken Gose. Das Bier riecht nach Gurken und der Tomatengeschmack wird beim Trinken deutlich!\r\n\r\nDas Bier ist ein Colab Brew von den Hobbybrauern von Scarrabr&auml;u und MaStBruBeer und basiert auf einem Rezept von Maische Malz und mehr (https:\/\/www.maischemalzundmehr.de\/index.php?inhaltmitte=rezept&amp;id=1452). Erg&auml;nzt wurden vor allem die Zutaten um Koriander, Tomaten &amp; Gurken.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 7.199999999999999,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 20,
+            "Alpha": 6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Koriandersamen",
+            "Menge": 13,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Salz",
+            "Menge": 13,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "San Marzano Tomaten (Dose)",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Bio Gurken",
+            "Menge": 600,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Philly Sour",
+    "Gaertemperatur": "22",
+    "Anmerkung_Autor": "\r\nFolgende Variationen haben wir bereits getestet:\r\n- Mango statt Tomaten &amp; Gurke: leider kam die Mango nicht so deutlich durch wie erhofft\r\n- Crips Sour Hefe statt der Philly Sour: Das Bier schmeckt weniger s&auml;uerlich und reduziert etwas die Komplexit&auml;t (nicht schlecht, aber wir finden die Philly Sour Version besser)"
+}

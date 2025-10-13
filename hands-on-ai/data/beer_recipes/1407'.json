@@ -1,0 +1,160 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Midwest IPA",
+    "Datum": "08.01.2021",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "Astir",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.5,
+    "Bittere": 60,
+    "Farbe": 29,
+    "Alkohol": 7.3,
+    "Kurzbeschreibung": "Midwest Style IPA, welches ich mit Hilfe des Hobbybrauer.de Forums entwickelt habe. Der Fokus ist auf einer ausgewogenen Malzigkeit und Rests\u00fc\u00dfe gepaart mit der Hopfigkeit und Bittere eines Westcoast IPA.\r\nDas Ergebnis ist ein ausgewogenes leckeres IPA mit toller \u201edrinkability\u201e\r\n",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.54,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 1.54,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.54,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carahell ",
+            "Menge": 310,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Crystal malt 60L",
+            "Menge": 310,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz ",
+            "Menge": 770,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken ",
+            "Menge": 230,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.461538461538463,
+    "Einmaischtemperatur": 75,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 12.307692307692308,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Centennial ",
+            "Menge": 8,
+            "Alpha": 9.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum ",
+            "Menge": 14,
+            "Alpha": 14.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo ",
+            "Menge": 8,
+            "Alpha": 9.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial ",
+            "Menge": 8,
+            "Alpha": 9.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo ",
+            "Menge": 8,
+            "Alpha": 9.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo ",
+            "Menge": 8,
+            "Alpha": 9.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial ",
+            "Menge": 15,
+            "Alpha": 9.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Motueka",
+            "Menge": 8,
+            "Alpha": 5.6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Centennial ",
+            "Menge": 15,
+            "Einheit": "g",
+            "Kochzeit": 0
+        },
+        {
+            "Name": "Amarillo ",
+            "Menge": 15,
+            "Einheit": "g",
+            "Kochzeit": 0
+        },
+        {
+            "Name": "Motueka",
+            "Menge": 9,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Centennial ",
+            "Menge": 31
+        },
+        {
+            "Sorte": "Amarillo ",
+            "Menge": 31
+        },
+        {
+            "Sorte": "Motueka ",
+            "Menge": 18
+        }
+    ],
+    "Hefe": "M44 US Westcoast ",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Es wurde aktiv gek\u00fchlt, die Whirlpool Hopfung war bei 75 Grad Celsius f\u00fcr 15Min, bevor auf Anstell-Temperatur (18Grad) gek\u00fchlt wurde. Angestellt mit einem Pack M44 gestopft f\u00fcr 4\/5 Tage 4g\/Liter, die Nachguss Temperatur war 75 Grad.\r\nMein bestes IPA probiert es ruhig mal aus !\r\nhttps:\/\/hobbybrauer.de\/forum\/viewtopic.php?f=17&t=26327&p=409740#p409740"
+}

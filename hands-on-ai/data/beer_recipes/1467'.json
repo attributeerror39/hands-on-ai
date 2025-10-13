@@ -1,0 +1,67 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Pure Burton",
+    "Datum": "17.04.2021",
+    "Sorte": "Strong Ale",
+    "Autor": "marsabba",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20,
+    "Bittere": 90,
+    "Farbe": 15,
+    "Alkohol": 8,
+    "Kurzbeschreibung": "Wieder mal ein Starkbier britischer Art. Stark, \u00d6lig, Bitter und S\u00fcss zugleich",
+    "Malze": [
+        {
+            "Name": "Maris Otter Pale Ale",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.47,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 73,
+    "Nachguss": 13.333333333333332,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Phoenix",
+            "Menge": 67,
+            "Alpha": 12.9,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 67,
+            "Alpha": 5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Invert No.2",
+            "Menge": 800,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Danstar Windsor",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 3.5,
+    "Anmerkung_Autor": "Wasser etwas \"burtonisieren\", so 300mg Sulfat d\u00fcrfens schon sein.\r\nInvert No2 selber machen durch Invertieren  &Karamellisieren von Rohrohrzucker und Haushaltszucker.\r\n\r\nBier mindestens 4 Monate reifen lassen, dann in den n\u00e4chsten Jahren Flasche f\u00fcr Flasche geniessen."
+}

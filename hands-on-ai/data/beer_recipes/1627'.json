@@ -1,0 +1,103 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Sundown Pale",
+    "Datum": "16.02.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "der untergierige",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 27,
+    "Farbe": 6,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Strohblondes Pale Ale mit schlankem K\u00f6rper und leichter Karamell-Note. Fein abgestimmte Hopfenharmonie aus Zitrusfr\u00fcchten und Kr\u00e4utergarten. Ausgewogen bitter. Absolut breitentaugliches Ale, das auch bei meiner Freundin sehr gut ankommt;-)  ",
+    "Malze": [
+        {
+            "Name": "Pilsner Premium",
+            "Menge": 3.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Pils",
+            "Menge": 560,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 190,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 230,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.6046511627907,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 77,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 11.162790697674419,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 14,
+            "Alpha": 8.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 15,
+            "Alpha": 11.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 16,
+            "Alpha": 8.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 16,
+            "Alpha": 11.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "S-04",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Mein Wasser hat nach 20' kochen etwa 7\u00b0dH. Chlorid\/Sulfat = 2\/1 (20mg\/l \/ 10mg\/l). Meine Nachisomerisierungszeit betr\u00e4gt 5 Min bis zu einer Temperatur von 80\u00b0C. WPH bei 75\u00b0C. \r\nZum Hopfenkochen: kurz vor Erreichen der Kochtemperatur sch\u00f6pfe ich bei jedem meiner Sude den grau-braunen Schaum ab. Ich bin mir sicher, damit deutlich klarere Biere zu bekommen. Habe aber diese Vorgehensweise bisher noch nirgendwo gelesen. Was haltet ihr davon? Nach etwa 20' Maltoserast messe ich den W\u00fcrze-pH und korrigiere nach Bedarf mit Milchs\u00e4ure, so dass ich in einen Bereich um 5,6 komme. Der Whirlpool steht f\u00fcr 30 Min. Danach wird \u00fcber einen Sputnik in den G\u00e4rbeh\u00e4lter geschlaucht und aktiv auf ca. 20\u00b0C gek\u00fchlt (Eintauchw\u00fcrzek\u00fchler) und angestellt. Ich verg\u00e4re OG- Biere normalerweise bei 16\u00b0C, da dann der Geschmackseintrag der Hefe geringer bleibt. Nach der Hauptg\u00e4rung wird mit Haushaltszucker auf 5,5g\/l CO2 carbonisiert (Dadurch erh\u00f6ht sich der Alc um ca. 0,3% auf den oben angegebenen Wert). Nachg\u00e4rung sowohl bei UG als auch bei OG bei etwa 18\u00b0C. Dieses Bier ist nach etwa 2-3 Wochen Nachg\u00e4rung Top. Vorher ist der Geschmack noch nicht ganz rund meiner Meinung nach. Probierts aus! "
+}

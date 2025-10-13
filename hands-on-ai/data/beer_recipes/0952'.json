@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Brown Gold",
+    "Datum": "04.09.2018",
+    "Sorte": "Brown Ale",
+    "Autor": "NorthernBrewer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.4,
+    "Bittere": 30,
+    "Farbe": 46,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Nordenglisches Brown Ale als Single Hop gebraut. Sch\u00f6n malzbetont, durch den Maris Otter leicht nussig und dabei trotzdem hopfenaromatisch. ",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Munich I",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Amber",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 110,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.333333333333332,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 9.166666666666666,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 19,
+            "Alpha": 6.5,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 11,
+            "Alpha": 4,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 17,
+            "Alpha": 4,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 17,
+            "Alpha": 4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Windsor Ale",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Das Bier wurde f\u00fcr die Craft Beer Days 2018 in Hamburg gebraut und hat - da bin ich ehrlich - sehr unterschiedliche, vor allem polarisierende Bewertungen erhalten. Von \"das ist das beste Bier was ich seit langem getrunken habe\" bis \"das will ich nicht austrinken\" war alles dabei. \r\n\r\nMein Eindruck, wer den Bierstil mag, mag auch das Bier. Es ist richtig satt malzbetont und hat ein dezentes Hopfenaroma. Wer aber auf schlanke Biere mit dominantem Hopfen- oder Hefearoma steht, der sollte etwas anderes brauen.\r\n\r\nDas Wasser war wie folgt eingestellt (mg\/l):\r\nCalcium: 90\r\nMagnesium: 7\r\nNatrium: 45\r\nChlorid: 72\r\nSulfat: 74\r\nDurch Nutzung von Milchs\u00e4ure lag die RA bei etwa 3.\r\n\r\nHefe war Trockenhefe, also erste F\u00fchrung. W\u00fcrze wurde bei 16\u00b0C angestellt und bei 17\u00b0C kontrolliert vergoren, G\u00e4rdauer etwa drei Tage. Karbonisierung dann mit Haushaltszucker in Flaschen. Anschlie\u00dfend drei Wochen Reifung im K\u00fchlschrank bei ca. 4\u00b0C - fertig.\r\n\r\nDie Alphas\u00e4ure beim Hopfen ist korrekt. Es war eine Mischung aus 2016\/2017 Ernte mit unterschiedlichen Werten."
+}

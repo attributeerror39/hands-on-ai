@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Klosterbier",
+    "Datum": "16.09.2012",
+    "Sorte": "Helles",
+    "Autor": "Horstibus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 25,
+    "Farbe": 18,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "Sattgoldenes, vollundig-weiziges, sehr s\u00fcffiges und harmonisches oberg\u00e4riges Bier, das eher malzbetont ist und moderat bitter. Der Hopfen riecht und schmeckt leicht blumig.",
+    "Malze": [
+        {
+            "Name": "B\u00f6hmisches Pilsner Malz (Weyermann)",
+            "Menge": 3.52,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 1.28,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carawheat",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Dinkelrohfrucht",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.399999999999999,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.399999999999999,
+    "Kochzeit_Wuerze": 105,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saazer",
+            "Menge": 8,
+            "Alpha": 4,
+            "Zeit": 105,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 8,
+            "Alpha": 7,
+            "Zeit": 105,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 4,
+            "Alpha": 7,
+            "Zeit": 40,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 20,
+            "Alpha": 7,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale S-04",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "Hartes Ludwigshafener Stadtwasser, der Hauptguss wurde mit ca 6 ml 80%iger Milchs\u00e4ure behandelt."
+}

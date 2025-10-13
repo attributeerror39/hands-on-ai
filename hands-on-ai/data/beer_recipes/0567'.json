@@ -1,0 +1,73 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "soma",
+    "Datum": "02.03.2016",
+    "Sorte": "Saison",
+    "Autor": "pltmbr",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 21,
+    "Farbe": 12,
+    "Alkohol": 6.7,
+    "Kurzbeschreibung": "sehr w\u00fcrziges Saison",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Helles Weizenmalz",
+            "Menge": 1.1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caraamber",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 24,
+    "Einmaischtemperatur": 62,
+    "Rasten": [
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 4,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 35,
+            "Alpha": 3.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 20,
+            "Alpha": 5.5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 10,
+            "Alpha": 5.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Belle Saison",
+    "Gaertemperatur": "24",
+    "Anmerkung_Autor": "Mit Speidel Braumeister 20 gebraut.\r\nSehr w\u00fcrziges Saison. "
+}

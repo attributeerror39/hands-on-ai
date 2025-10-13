@@ -1,0 +1,85 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Burst in Space Stout",
+    "Datum": "04.06.2020",
+    "Sorte": "Stout",
+    "Autor": "Eisbaer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 40,
+    "Farbe": 71,
+    "Alkohol": 6.2,
+    "Kurzbeschreibung": "Irish Extra Stout mit R\u00f6stgerste und leckerem Schokoladen-Bisquit-Aroma. 3.Platz HBCON 2020 BJCP Kategorie 15C Irish Stout ",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.77,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Crystal (120EBC)",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malz",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Biscuit Malz",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 120,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.7,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 17.4,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 14,
+            "Alpha": 5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding ",
+            "Menge": 65,
+            "Alpha": 5,
+            "Zeit": 40,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 17,
+            "Alpha": 4.75,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 1098 British Ale",
+    "Gaertemperatur": "19,5",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 4
+}

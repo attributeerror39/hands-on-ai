@@ -1,0 +1,73 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Offenbarungsweizen",
+    "Datum": "06.03.2016",
+    "Sorte": "Dunkles Hefeweizen",
+    "Autor": "Buze",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 15,
+    "Farbe": 34,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Dunkler Bernstein, malzig, kr\u00e4ftig, Lecker!!\r\n",
+    "Malze": [
+        {
+            "Name": "Weizenmalz Dunkel",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.200000000000001,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15.2,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 25,
+            "Alpha": 5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Hefe": "Zymoferm Z034",
+    "Gaertemperatur": "17",
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Dieses war mein allererstes gebrautes Weizen. Bei allen Freunden und Bekannten sehr gut angekommen, wird es nun immer wieder gebraut. An warmen Sommertagen unter den B\u00e4umen im Garten - Eine Offenbarung. \r\nBei diesem Weizen behandle ich das Wasser nur mit Milchs\u00e4ure auf RA0."
+}

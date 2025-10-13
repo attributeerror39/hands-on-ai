@@ -1,0 +1,80 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Quittenbock-Saison",
+    "Datum": "20.12.2022",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "Michael-CGN",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 26,
+    "Farbe": 9,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Mit Saisonhefe vergoren und mit Quittensaft \"gestopft\": Fruchtig, recht trocken, angenehm runde Bittere auch durch den Quittensaft. Die Quitte ist dabei gut wahrnehmbar, aber angenehm dezent im Hintergrund.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz (Weyermann)",
+            "Menge": 5.52,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Karamellmalz hell (Weyermann)",
+            "Menge": 380,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.623076923076923,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 9.938461538461539,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 28,
+            "Alpha": 5.7,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 12,
+            "Alpha": 6.8,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Hefenahrung",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Irish Moss",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Quittensaft",
+            "Menge": 1455,
+            "Einheit": "ml"
+        }
+    ],
+    "Hefe": "Fermentis SafAle BE-134",
+    "Gaertemperatur": "20-25",
+    "Endvergaerungsgrad": 85,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Gebraut auf einem Grainfather G30. Wie immer: bitte entsprechend auf Eure Anlage anpassen.\r\n\r\nF\u00fcr den Quittensaft habe ich nach Internetrecherche eine Ausbeute von 10% gesch\u00e4tzt.\r\n\r\nMein Wasser (Analyse siehe URL unten) habe ich mit Milchs\u00e4ure auf 0\u00b0dH RA eingestellt.\r\n\r\nDas Bier basiert auf Recherche in deutschen und amerikanischen\/britischen Hobbybrauer-Foren. Die wesentlichen Quellen im Hobbybrauer-Forum habe ich hier angegeben: https:\/\/hobbybrauer.de\/forum\/viewtopic.php?t=28851#p478136 \r\n\r\nEine Anmerkung zum hohen Pektingehalt der Quitten, durch den Quitte geliert: man findet sowohl im Hobbybrauer-Forum als auch amerikanischen\/britischen Foren diverse Diskussionen bzgl. Pektin und Produkten wie Pectinex, die dem Gelieren entgegenwirken sollen, aber offenbar wieder ihre eigenen Risiken mit sich bringen.\r\nIch habe mich letztlich entschieden, komplett auf jegliche Weiterbehandlung mit solchen Produkten zu verzichten und in Kauf zu nehmen, dass das Bier nicht v\u00f6llig klar wird. Mich st\u00f6rt das nicht bzw. finde ich, dass diese etwas tr\u00fcbe, aber farblich intensive Optik zu diesem Bier sehr gut passt. \r\nGeliert hat es nicht im Geringsten.\r\n\r\nZum eigentlichen Vorbereitungs- und Brauvorgang:\r\nDie Quitten wurden im Dampfentsafter \u2013 ohne sie zu sch\u00e4len oder zu entkernen - zu Quittensaft verarbeitet und dieser dann eingefroren.\r\nVergoren habe ich das Bier mit der Saisonhefe SafAle BE-134 bei 21-25\u00b0C: bei 20\u00b0C angestellt, dann am iSpindel-G\u00e4rverlauf orientiert und die Temperatur kontrolliert im Verlauf der G\u00e4rung erh\u00f6ht. Das Geschmacksprofil der BE-134 gef\u00e4llt mir pers\u00f6nlich sehr gut, aber selbstverst\u00e4ndlich kann sie durch andere Saisonhefen wie Belle Saison ersetzt werden.\r\nAm vierten Tag der Hauptg\u00e4rung habe ich den Quittensaft (ca. 73ml\/L) aufgetaut und auf die aktuelle G\u00e4rtemperatur erhitzt und dem gleich warmen Jungbier hinzugeben und ganz leicht unterger\u00fchrt. \r\nDann ausg\u00e4ren lassen, anschlie\u00dfend zwei Tage Coldcrash und dann abgef\u00fcllt (teils in Kegs mit Zwangskarbonisierung, teils in Flaschen mit Flascheng\u00e4rung).\r\nDas Bier schmeckte bereits einen Monat nach Abf\u00fcllung gut und ausgewogen, hat nach meinem Empfinden aber von ca. 3 Monaten kalter Reifung weiter profitiert. Fruchtig, recht trocken, angenehm runde Bittere, welche auch durch den Quittensaft kommen d\u00fcrfte und gef\u00fchlt die bewusst niedrig angesetzten 26 IBU \u00fcbersteigt.\r\n\r\nAuf dem Foto sieht man links das Bier, rechts ein wenig puren Quittensaft.\r\n\r\nWasseranalyse: https:\/\/web.cdn.rheinenergie.com\/cms\/media\/documents\/trinkwasseranalyse\/Trinkwasseranalyse_Frechen_Mischwasser_Wasserwerk_Tuernich_mit_Wasserwerk_RheinEnergie_AG_2021.pdf"
+}

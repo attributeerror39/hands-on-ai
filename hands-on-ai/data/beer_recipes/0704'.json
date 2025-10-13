@@ -1,0 +1,102 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Da'Funk",
+    "Datum": "13.04.2017",
+    "Sorte": "Saison",
+    "Autor": "augenzeuge",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.8,
+    "Bittere": 23,
+    "Farbe": 10,
+    "Alkohol": 5.9,
+    "Kurzbeschreibung": "Dieses Belgische Saison ist trocken bis der Arzt kommt und die Brett bringt den Funk. Sorachi Ace macht den Wahnsinn perfekt.",
+    "Malze": [
+        {
+            "Name": "Bohemian Pilsner",
+            "Menge": 2.94,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Helles Weizenmalz",
+            "Menge": 310,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Torrified Wheat",
+            "Menge": 310,
+            "Einheit": "g"
+        },
+        {
+            "Name": "AbbeyMalt",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 190,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.75,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.5,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Motueka",
+            "Menge": 7,
+            "Alpha": 6.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Motueka",
+            "Menge": 8,
+            "Alpha": 6.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Motueka",
+            "Menge": 19,
+            "Alpha": 6.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Motueka",
+            "Menge": 19,
+            "Alpha": 6.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Sorachi Ace",
+            "Menge": 19
+        }
+    ],
+    "Hefe": "Danstar Belle Saison und The Yeast Bay Saison and Brettanomyces Blend",
+    "Gaertemperatur": "25",
+    "Endvergaerungsgrad": 92,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "10 Minuten Nachisomerisierung, wobei das Hopfenaroma im Kampf mit den beiden Hefen eindeutig den K\u00fcrzeren zieht :-). Trotz des wahnsinnigen Aromas kommt der Motueka in diesem Bier ganz zahm r\u00fcber. \r\n\r\nHabe den Sud gedrittelt (je ca 10 L):\r\n1) Belle Saison\r\n2) The Yeast Bay\r\n3) Belle Saison mit Sorachi Ace gestopft (3g\/L)\r\n\r\n1) Ist knackig crisp, ohne dabei zu trocken zu sein.\r\n\r\n2) Ist etwas runder und im Geruch ganz(!) anders. Hier bringt die Brett animalische bis muffige Ger\u00fcche, die sich aber im Geschmack (zum Gl\u00fcck) sehr positiv darstellen. Bei Verkostungen hat der Geruch oft gro\u00dfe Fragezeichen in die Gesichter geworfen, beim Geschmack kam dann aber immer ein gro\u00dfes \"Oho!\", mit nach oben gezogenen Mundwinkeln.\r\n\r\n3) Hier wird es wahnsinnig. Sorachi gibt eine limettige und leicht kokosartige Note. Das gepaart mit dem trockenen \"Grundabgang\" und dem Hauch des Motuekas erzeugt bei den allermeisten Testern and\u00e4chtiges Kopfnicken mit der Aufforderung nach MEHR.\r\n"
+}

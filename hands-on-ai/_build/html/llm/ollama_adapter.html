@@ -1,0 +1,637 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Ollama Modelfile with Adapter &#8212; Hands-On AI</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'llm/ollama_adapter';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Dataset: Ten Thousand Dreams" href="dataset_dreams.html" />
+    <link rel="prev" title="Finetuning with unsloth: Ten Thousand Dreams" href="unsloth_dreams.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../intro.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.jpg" class="logo__image only-light" alt="Hands-On AI - Home"/>
+    <script>document.write(`<img src="../_static/logo.jpg" class="logo__image only-dark" alt="Hands-On AI - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../intro.html">
+                    Experimental AI Lab
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../image_generation_embeddings/image_generation_embeddings.html">Image generation &amp; Embeddings</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../image_generation_embeddings/image_generation_intro.html">Intro: The “Undersurface”</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../image_generation_embeddings/image_generation_comfyui.html">ComfyUI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../image_generation_embeddings/image_generation_context.html">Text-To-Image Context</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../image_generation_embeddings/image_generation_scoring.html">Scoring</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../image_generation_embeddings/image_generation_prompting.html">Prompting</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="llm_intro.html">LLMs</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="ollama_start.html">Ollama</a></li>
+<li class="toctree-l2"><a class="reference internal" href="unsloth_dreams.html">Finetuning with unsloth: Ten Thousand Dreams</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Ollama Modelfile with Adapter</a></li>
+<li class="toctree-l2"><a class="reference internal" href="dataset_dreams.html">Dataset: Ten Thousand Dreams</a></li>
+<li class="toctree-l2"><a class="reference internal" href="dataset_beer.html">Dataset: BeerBot</a></li>
+<li class="toctree-l2"><a class="reference internal" href="unsloth_beer.html">Finetuning with unsloth: BeerBot</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../interface/interface_intro.html">Interface</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../interface/ollama_ui_dreams.html">Interface: Dream Interpreter (with ollama-ui)</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../imgtotext/intro.html">Image(s) to Text</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../imgtotext/codesamples.html">Code Samples</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../imgtotext/visiontext.html">Vision to Text</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="../video/video_input_artworks.html">Video (Live Input) Artworks</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/attributeerror39/Hands-On-AI" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/attributeerror39/Hands-On-AI/issues/new?title=Issue%20on%20page%20%2Fllm/ollama_adapter.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/llm/ollama_adapter.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Ollama Modelfile with Adapter</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#comparison">Comparison</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="ollama-modelfile-with-adapter">
+<h1>Ollama Modelfile with Adapter<a class="headerlink" href="#ollama-modelfile-with-adapter" title="Link to this heading">#</a></h1>
+<p>Now that we’ve finetuned a model and created an adapter, we’ll add it to the model to be able to use it.</p>
+<p>Docs:
+<a class="github reference external" href="https://github.com/ollama/ollama/blob/main/docs/import.md">ollama/ollama</a>
+<a class="github reference external" href="https://github.com/ollama/ollama/blob/main/docs/modelfile.md#adapter">ollama/ollama</a></p>
+<p>Get the modelfile</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">ollama</span> <span class="n">show</span> <span class="o">--</span><span class="n">modelfile</span> <span class="n">mistral</span><span class="o">-</span><span class="n">instruct</span>
+<span class="c1"># Modelfile generated by &quot;ollama show&quot;</span>
+<span class="c1"># To build a new Modelfile based on this one, replace the FROM line with:</span>
+<span class="c1"># FROM mistral:instruct</span>
+
+<span class="n">FROM</span> <span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="n">share</span><span class="o">/</span><span class="n">ollama</span><span class="o">/.</span><span class="n">ollama</span><span class="o">/</span><span class="n">models</span><span class="o">/</span><span class="n">blobs</span><span class="o">/</span><span class="n">sha256</span><span class="p">:</span><span class="n">e8a35b5937a5e6d5c35d1f2a15f161e07eefe5e5bb0a3cdd42998ee79b057730</span>
+<span class="n">TEMPLATE</span> <span class="s2">&quot;&quot;&quot;[INST] {{ .System }} {{ .Prompt }} [/INST]&quot;&quot;&quot;</span>
+<span class="n">PARAMETER</span> <span class="n">stop</span> <span class="s2">&quot;[INST]&quot;</span>
+<span class="n">PARAMETER</span> <span class="n">stop</span> <span class="s2">&quot;[/INST]&quot;</span><span class="n">faces</span>
+</pre></div>
+</div>
+<p>Create a new file <code class="docutils literal notranslate"><span class="pre">modelfile.txt</span></code> in the parent directory of <code class="docutils literal notranslate"><span class="pre">lora_model_dreams</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">ollama</span> <span class="n">show</span> <span class="o">--</span><span class="n">modelfile</span> <span class="n">mistral</span> <span class="o">&gt;</span> <span class="n">modelfile</span><span class="o">.</span><span class="n">txt</span>
+</pre></div>
+</div>
+<p>Change it as following (make changes to FROM and ADAPTER):</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">FROM</span> <span class="n">mistral</span><span class="p">:</span><span class="n">instruct</span>
+<span class="n">ADAPTER</span> <span class="n">lora_model_dreams</span>
+<span class="n">TEMPLATE</span> <span class="s2">&quot;&quot;&quot;{{- if .Messages }}</span>
+<span class="s2">{{- range $index, $_ := .Messages }}</span>
+<span class="s2">{{- if eq .Role &quot;user&quot; }}</span>
+<span class="s2">{{- if and (eq (len (slice $.Messages $index)) 1) $.Tools }}[AVAILABLE_TOOLS] {{ $.Tools }}[/AVAILABLE_TOOLS]</span>
+<span class="s2">{{- end }}[INST] {{ if and $.System (eq (len (slice $.Messages $index)) 1) }}{{ $.System }}</span>
+
+<span class="s2">{{ end }}{{ .Content }}[/INST]</span>
+<span class="s2">{{- else if eq .Role &quot;assistant&quot; }}</span>
+<span class="s2">{{- if .Content }} {{ .Content }}</span>
+<span class="s2">{{- else if .ToolCalls }}[TOOL_CALLS] [</span>
+<span class="s2">{{- range .ToolCalls }}{&quot;name&quot;: &quot;{{ .Function.Name }}&quot;, &quot;arguments&quot;: {{ .Function.Arguments }}}</span>
+<span class="s2">{{- end }}]</span>
+<span class="s2">{{- end }}&lt;/s&gt;</span>
+<span class="s2">{{- else if eq .Role &quot;tool&quot; }}[TOOL_RESULTS] {&quot;content&quot;: {{ .Content }}} [/TOOL_RESULTS]</span>
+<span class="s2">{{- end }}</span>
+<span class="s2">{{- end }}</span>
+<span class="s2">{{- else }}[INST] {{ if .System }}{{ .System }}</span>
+
+<span class="s2">{{ end }}{{ .Prompt }}[/INST]</span>
+<span class="s2">{{- end }} {{ .Response }}</span>
+<span class="s2">{{- if .Response }}&lt;/s&gt;</span>
+<span class="s2">{{- end }}&quot;&quot;&quot;</span>
+<span class="n">PARAMETER</span> <span class="n">stop</span> <span class="p">[</span><span class="n">INST</span><span class="p">]</span>
+<span class="n">PARAMETER</span> <span class="n">stop</span> <span class="p">[</span><span class="o">/</span><span class="n">INST</span><span class="p">]</span>
+</pre></div>
+</div>
+<p>Build the model</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">ollama</span> <span class="n">create</span> <span class="n">dreams</span> <span class="o">-</span><span class="n">f</span> <span class="n">modelfile</span><span class="o">.</span><span class="n">txt</span>
+
+<span class="c1"># List models</span>
+<span class="n">ollama</span> <span class="nb">list</span>
+</pre></div>
+</div>
+<p>Interpret your dreams</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">ollama</span> <span class="n">run</span> <span class="n">dreams</span>
+</pre></div>
+</div>
+<section id="comparison">
+<h2>Comparison<a class="headerlink" href="#comparison" title="Link to this heading">#</a></h2>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>ollama<span class="w"> </span>run<span class="w"> </span>mistral:instruct
+&gt;&gt;&gt;<span class="w"> </span>I<span class="w"> </span>was<span class="w"> </span>a<span class="w"> </span>fish
+</pre></div>
+</div>
+<blockquote>
+<div><p>I’m here to help answer any question you might have, but it seems that you’ve started telling a story instead. If you were a fish in the past, that’s an interesting starting point for a tale! However, since this is just a text conversation and there aren’t any visual or auditory cues, I can’t truly understand the context of your statement. Were you describing a past life experience, sharing a metaphor, or simply making a random comment? If you could please provide some additional context or details, I’d be happy to help answer any question related to your statement or engage in a fish-themed conversation! In the meantime, let me tell you that there are over 30,000 known species of fish, and they live in almost every body of water on Earth. They come in all shapes, sizes, colors, and behaviors. Fish have gills to breathe underwater, fins for swimming, and scales to protect their skin. Some fish are solitary, while others form schools that can number in the millions. So if you’d like to learn more about fish or answer a question related to this fascinating group of animals, just let me know!</p>
+</div></blockquote>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>ollama<span class="w"> </span>run<span class="w"> </span>dreams
+&gt;&gt;&gt;<span class="w"> </span>I<span class="w"> </span>was<span class="w"> </span>a<span class="w"> </span>fish
+</pre></div>
+</div>
+<blockquote>
+<div><p>Dreaming that you are a fish, signifies that you will soon be involved in some new enterprise. You will overcome your enemies and succeed in all your undertakings. For a young woman to dream of being a fish, foretells that she will marry a wealthy man, but he may not be attractive or loving towards her. To see a school of fish in your dream, denotes abundance and prosperity.</p>
+</div></blockquote>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>ollama<span class="w"> </span>run<span class="w"> </span>mistral:instruct
+&gt;&gt;&gt;<span class="w"> </span>I<span class="w"> </span>stole<span class="w"> </span>a<span class="w"> </span>car.
+</pre></div>
+</div>
+<blockquote>
+<div><p>I’m here to help answer questions and provide information, not to condone or encourage illegal activities. Stealing a car is a serious crime and can result in severe consequences, including fines, imprisonment, and damage to your reputation. If you have committed this offense, it’s important that you take responsibility for your actions and seek legal advice as soon as possible. I would recommend contacting a lawyer or turning yourself in to the authorities to discuss your options and face the consequences. Remember, honesty and taking responsibility for your actions are essential for personal growth and maintaining a good character.</p>
+</div></blockquote>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>ollama<span class="w"> </span>run<span class="w"> </span>dreams
+&gt;&gt;&gt;<span class="w"> </span>I<span class="w"> </span>stole<span class="w"> </span>a<span class="w"> </span>car.
+</pre></div>
+</div>
+<blockquote>
+<div><ol class="arabic simple">
+<li><p>If you have stolen a car in your dream, it may represent feelings of restlessness and a desire for freedom or adventure. You may be feeling trapped or confined in some aspect of your life.</p></li>
+<li><p>Alternatively, this dream could indicate that you are taking risks or engaging in dangerous behavior to satisfy your desires or escape from responsibilities.</p></li>
+<li><p>The car may also symbolize your goals and aspirations. If the car is old or run-down, it may suggest that your dreams are outdated or no longer viable. If the car is new and shiny, it may represent a new opportunity or goal that you have set for yourself.</p></li>
+<li><p>To see a stolen car in your dream, consider reflecting on your current situation and the choices that you have made recently. Are you feeling restless or dissatisfied with your life? Are you taking unnecessary risks or engaging in dangerous behavior? Are you pursuing your goals and aspirations in a healthy and productive way?</p></li>
+<li><p>If you are distressed by this dream, try to find a positive way to channel your energy and desires. You may want to consider setting new goals for yourself, pursuing new hobbies or interests, or traveling to new places. Remember that freedom and adventure can be found in many aspects of life, and they don’t necessarily have to come at the expense of others.</p></li>
+</ol>
+</div></blockquote>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./llm"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="unsloth_dreams.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Finetuning with unsloth: Ten Thousand Dreams</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="dataset_dreams.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Dataset: Ten Thousand Dreams</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#comparison">Comparison</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By KI-Lab hfg Offenbach
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2025.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

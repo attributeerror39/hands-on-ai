@@ -1,0 +1,112 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "helles Kellerbier",
+    "Datum": "17.09.2012",
+    "Sorte": "Kellerbier",
+    "Autor": "Horstibus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 25,
+    "Farbe": 10,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Bek\u00f6mmliches, leicht tr\u00fcbes und goldenes Kellerbier mit erfrischenden Citrus\/Grapefruitnoten.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.15,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 900,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 450,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 56,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 35
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saazer",
+            "Menge": 10,
+            "Alpha": 4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 5,
+            "Alpha": 6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 5,
+            "Alpha": 4,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 5,
+            "Alpha": 6,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 5,
+            "Alpha": 4,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 15,
+            "Alpha": 4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade ",
+            "Menge": 5,
+            "Alpha": 6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 5,
+            "Alpha": 4,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "Weiches Wasser verwenden, ich habe Mannheimer Stadtwasser zur H\u00e4lfte mit Destilliertem Wasser verschnitte und 2 ml 80%ige Milchs\u00e4ure dem Hauptguss beigef\u00fcgt."
+}

@@ -1,0 +1,106 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Better Bitter",
+    "Datum": "19.01.2025",
+    "Sorte": "Bitter",
+    "Autor": "The British Pint",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 10,
+    "Bittere": 30,
+    "Farbe": 23,
+    "Alkohol": 4.3,
+    "Kurzbeschreibung": "W&uuml;rzig-hopfiges Best Bitter zum BJCP-Wettbewerb der HBCon 2025. Schlank, kupferfarben und samtig-seidig.",
+    "Malze": [
+        {
+            "Name": "Pale malt",
+            "Menge": 2.98,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Gold (12 EBC)",
+            "Menge": 370,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Torrefied wheat",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Crystal 150",
+            "Menge": 110,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate malt",
+            "Menge": 38,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 10,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 60,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Fuggle",
+            "Menge": 40,
+            "Alpha": 2,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Challenger",
+            "Menge": 15,
+            "Alpha": 6,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggle",
+            "Menge": 15,
+            "Alpha": 2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Savinjski Golding",
+            "Menge": 15,
+            "Alpha": 4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggle",
+            "Menge": 15,
+            "Alpha": 2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Savinjski Golding",
+            "Menge": 15,
+            "Alpha": 4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "WLP007 - Whitbread Dry",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 85,
+    "Karbonisierung": 3,
+    "Anmerkung_Autor": "F&uuml;r den Wettbewerb habe ich sowohl Hopfung als auch den Malzcharakter besonders betont um aus der Menge hervorzustechen. Die Hefe erm&ouml;glicht durch die starke Sedimentation sehr klare Biere, macht die Biere aber sehr schlank. Dadurch ist es herausfordernd, die richtige Balance herzustellen, was ich mit der Extradosis Cara Gold versucht habe.\r\n\r\nDas Wasser habe ich mit Aufsalzen und Abkochen an den Bierstil angepasst:\r\nCa: 210\r\nMg: 20\r\nNa: 55\r\nSO4: 400\r\nCl: 200\r\nHCO3: 20\r\n\r\nF&uuml;r die Hefe habe ich einen 0.75L-Starter erstellt und beim Anstellen zugegeben. Angestellt wurde bei 18&deg;C, vergoren bei 21&deg;C.\r\n\r\nIch habe so gr&uuml;ngeschlaucht, dass in der Flasche 3,0g\/l CO2 entstanden, ohne dass zus&auml;tzlicher Zucker den EVG weiter erh&ouml;hte."
+}

@@ -1,0 +1,104 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Sabro Rider and the Galaxy Sherrifs",
+    "Datum": "16.03.2020",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "haefner",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.5,
+    "Bittere": 47,
+    "Farbe": 13,
+    "Alkohol": 6.7,
+    "Kurzbeschreibung": "Ausgewogenes IPA mit dem sch\u00f6nen Aroma des Sabro Hopfens. Kokosnuss trifft auf einen exotischen Fruchtkorb. Fruchtig und hopfig, wahrnehmbar stark und bitter aber in einer sch\u00f6ner Balance.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.63,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.03,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Red",
+            "Menge": 370,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.565217391304348,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 8.695652173913043,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Sabro",
+            "Menge": 5,
+            "Alpha": 14.8,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 7,
+            "Alpha": 14.8,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 7,
+            "Alpha": 13.6,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 9,
+            "Alpha": 14.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 10,
+            "Alpha": 13.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Sabro",
+            "Menge": 80
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 40
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wasser wurde mit Milchs\u00e4ure auf 0\u00b0dh eingestellt. Nach der Kombirast direkt abmaischen. Stopfen 4g\/l Sabro und 2g\/l Galaxy.\r\nNachisomerisierungszeit: 20 Minuten. Die letzten Hopfengaben kamen bei 80\u00b0 in den WP."
+}

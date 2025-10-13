@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "99er Helles",
+    "Datum": "07.05.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "Bergbock",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 22,
+    "Farbe": 8,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Ein mildes Ale mit sch\u00f6nen, aber dennoch zur\u00fcckhaltenden, Hopfenaromen.\r\nGebraut f\u00fcr ein grosses Grillfest, wo man gerne auch mal mehr trinkt.\r\nMein erster Sud mit der Lutra-Hefe.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.78,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Maisgriess (grob)",
+            "Menge": 890,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.222222222222223,
+    "Einmaischtemperatur": 54,
+    "Rasten": [
+        {
+            "Temperatur": 53,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 80,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 80,
+    "Nachguss": 11.11111111111111,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 9,
+            "Alpha": 8,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Ariana",
+            "Menge": 8,
+            "Alpha": 11.1,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 4,
+            "Alpha": 3.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "OYL-071 Lutra Kveik",
+    "Gaertemperatur": "25",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Um den Mais sauber zu verzuckern, wurden 5 ml Ceremix Flex verwendet. Dieses Enzym erlaubt eine vollst\u00e4ndige Verzuckerung von Mais oder Reis ausdr\u00fccklich OHNE Vorkochen der Rohfrucht, man kann ein Standard-Maischeprogramm fahren. Die finale Rast bei 80\u00b0C wird von Novozymes empfohlen, um mit der alpha-Amylase die Ausbeute zu erh\u00f6hen.\r\nIch kann das Enzym w\u00e4rmstens empfehlen, es funktioniert einfach tadellos.\r\nDie Lutra hat sch\u00f6n sauber verg\u00e4rt, allerdings ben\u00f6tigte sie etwas mehr Lagerzeit als gedacht, anf\u00e4nglich war ein s\u00fcsslicher Geschmack deutlich erkennbar, der sich nach etwa 4 Wochen komplett gelegt hat. \r\nNat\u00fcrlich kann man die Polenta auch klassisch vorkochen, wenn man keine externen Enzyme hat oder verwenden m\u00f6chte. Der Maisgeschmack passt hervorragend f\u00fcr dieses Bier.\r\n\r\nFazit: Ein sehr angenehmes \"Trinkbier\", das in der grossen Runde des Grillabends (fast 40 Leute) viele Freunde gefunden hat. "
+}

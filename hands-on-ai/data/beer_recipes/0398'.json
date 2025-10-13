@@ -1,0 +1,96 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "WIT WITHOUT",
+    "Datum": "20.06.2014",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "manny15",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 16,
+    "Farbe": 11,
+    "Alkohol": 4.7,
+    "Kurzbeschreibung": "Eine Art WIT f\u00fcr den Sommer\r\nBewusst ohne Rohfrucht ",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.09,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Malz",
+            "Menge": 1.27,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 120,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 450,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.636363636363635,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.636363636363635,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 9,
+            "Alpha": 6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 10,
+            "Alpha": 6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Orangenschale gemahlen",
+            "Menge": 23,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Koriandersamen frisch zersto\u00dfen",
+            "Menge": 7,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Wyeast 3944",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Orangenschale gemahlen gibt es in Tee und Kr\u00e4utershops\r\nKoriandersamen frisch zersto\u00dfen, wichtig f\u00fcr das Zitrusaroma"
+}

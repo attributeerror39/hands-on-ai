@@ -1,0 +1,72 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "D\u00f6ner\u00b4s Br\u00e4u",
+    "Datum": "21.11.2020",
+    "Sorte": "Altbier",
+    "Autor": "Watomba",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 35,
+    "Farbe": 22,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Der Name des Bieres wird von meinem Spitznamen abgeleitet. Es ist ein sehr s\u00fcffiges Kupferfarbenes Bier, aber ohne R\u00f6staromen.",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara dunkel",
+            "Menge": 600,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 48,
+            "Alpha": 5.5,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 24,
+            "Alpha": 5.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Gozdwana OGA9",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Ich habe 10 Minuten vor Ende des W\u00fcrzekochen noch 5g Irisch Moos dazu gegeben. Das Bier sollte min. 3 Wochen Kaltreifen."
+}

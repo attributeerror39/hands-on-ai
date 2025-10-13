@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "\u00dcberflieger",
+    "Datum": "03.04.2020",
+    "Sorte": "Pale Ale",
+    "Autor": "funthomas",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 30,
+    "Farbe": 19,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Kaltgehopftes, bernsteinfarbenes American Pale Ale. Gebraut nur mit amerikanischen Hopfen.\r\nPlatz 4 beim Hobbybrauer-Wettbewerb auf der Homebrew in Bayreuth 2020 :-)",
+    "Malze": [
+        {
+            "Name": "Pale Ale Maz",
+            "Menge": 4.26,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara M\u00fcnch II",
+            "Menge": 320,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.2,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 11.6,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nugget",
+            "Menge": 6,
+            "Alpha": 14.2,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nugget",
+            "Menge": 4,
+            "Alpha": 14.2,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nugget",
+            "Menge": 10,
+            "Alpha": 14.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Comet",
+            "Menge": 60
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "18",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Hopfenstopfen mit 3g\/l f\u00fcr 5 Tage"
+}

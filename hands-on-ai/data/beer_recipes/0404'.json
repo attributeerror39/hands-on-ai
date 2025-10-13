@@ -1,0 +1,73 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Chinook Ale",
+    "Datum": "30.08.2014",
+    "Sorte": "Pale Ale",
+    "Autor": "eugen",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 38,
+    "Farbe": 20,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Helles Ale mit super Aroma und Limonen Geschmack",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cristal 70L",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.2,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook",
+            "Menge": 8,
+            "Alpha": 12.1,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 24,
+            "Alpha": 12.1,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 24,
+            "Alpha": 12.1,
+            "Zeit": 9,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 24,
+            "Alpha": 12.1,
+            "Zeit": 2,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale S-05",
+    "Gaertemperatur": "18-22",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Bei allen Angaben wie IBU, EBC, Stammw\u00fcrze und Endverg\u00e4rungsgrad bin ich mir nicht sicher, wurde nie gemessen. Habe einfach mal ausprobiert ein Pale Ale  ohne Rezept zu brauen und das schon zum 7 mal. W\u00fcrde mich sehr freuen wenn es jemand nach braut und mir die Werte sagt. Geschmacklich ist das Bier einfach nur geil und Chinook ist jetzt mein lieblings Hopfen. "
+}

@@ -1,0 +1,119 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "King of Stout",
+    "Datum": "09.01.2014",
+    "Sorte": "Stout",
+    "Autor": "Albersdorf",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.5,
+    "Bittere": 37,
+    "Farbe": 55,
+    "Alkohol": 6.7,
+    "Kurzbeschreibung": "Ein aromastarkes Bier mit Spuren von Kaffee, Schokolade und Karamell mit der W\u00fcrze der drei Hopfensorten",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.64,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener",
+            "Menge": 1.82,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Red",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Ger\u00f6stete Gerste",
+            "Menge": 910,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Hafermalz",
+            "Menge": 120,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.454545454545453,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 18.18181818181818,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook",
+            "Menge": 50,
+            "Alpha": 11.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Goldings",
+            "Menge": 25,
+            "Alpha": 4.7,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Fuggles",
+            "Menge": 25,
+            "Alpha": 4.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 50,
+            "Alpha": 11.5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Goldings",
+            "Menge": 25,
+            "Alpha": 4.7,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggles",
+            "Menge": 25,
+            "Alpha": 4.6,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WLP028 Edinburgh Scottish Ale Yeast",
+    "Gaertemperatur": "18",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Die gleiche Menge wie der Weizen mu\u00df noch Farbmalz hinzugef\u00fcgt werden. Da nur 7 Zeilen (resp. Malze) hier m\u00f6glich sind."
+}

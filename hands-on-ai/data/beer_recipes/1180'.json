@@ -1,0 +1,70 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hammerhop Triple",
+    "Datum": "30.11.2019",
+    "Sorte": "Belgisches Tripel",
+    "Autor": "sebas",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 19.3,
+    "Bittere": 28,
+    "Farbe": 10,
+    "Alkohol": 9.3,
+    "Kurzbeschreibung": "Sattgelbes Triple, das nach einigen Monaten Reife zur H\u00f6chstform aufl\u00e4uft. Fruchtig und gut trinkbar, die Umdrehungen werden gef\u00e4hrlich \u00fcberspielt. ",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4.47,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraBelge",
+            "Menge": 210,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.8,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 60,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 9.7,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 64,
+            "Alpha": 4.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Haushaltszucker",
+            "Menge": 1200,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Koriander",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "Hefe": "Wyeast #3522 Belgian Ardennes",
+    "Gaertemperatur": "18-21",
+    "Endvergaerungsgrad": 79.9,
+    "Karbonisierung": 5.7,
+    "Anmerkung_Autor": "Wasser auf 0\u00b0 eingestellt mit Milchs\u00e4ure. 13,3\u00b0P kommen vom Malz, 6\u00b0P vom Zucker. Koriander bei Kochende zugeben. Die Fl\u00fcssighefe ist definitiv zu empfehlen. "
+}

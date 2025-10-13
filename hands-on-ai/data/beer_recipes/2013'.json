@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Altdeutsches Helles",
+    "Datum": "08.08.2024",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "aegir",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.7,
+    "Bittere": 24,
+    "Farbe": 9,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Altdeutsches Helles, fast wie ein Export. Vollmundig und w&uuml;rzig gehopft.\r\nWer f&uuml;r unterg&auml;rig nicht kalt verg&auml;ren kann ist mit der WLP029 gut beraten. Ein Touch reiner verg&auml;rt noch die WLP001 bei gleichem G&auml;r-\/Absetzverhalten.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.04,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraBelge",
+            "Menge": 240,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 80,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.8,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 50
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 16,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Taurus",
+            "Menge": 12,
+            "Alpha": 14.6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr&uuml;h",
+            "Menge": 16,
+            "Alpha": 4.7,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 8,
+            "Alpha": 5.1,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WLP029 German Ale",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 79.7,
+    "Karbonisierung": 4.8,
+    "Anmerkung_Autor": "Wasser aus der Bodensee Wasserversorgung. Sauermalz muss gegebenenfalls angepasst werden. Karbonisierung mit Zucker. Lagerung 3 Monate bei ca. 5&deg;C. \r\nDie Nachisomerisierung wird bei meinem Braurechner (ProMash) nicht ber&uuml;cksichtigt."
+}

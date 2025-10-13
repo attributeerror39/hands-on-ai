@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Riggwelter Strong Yorkshire Ale",
+    "Datum": "25.01.2015",
+    "Sorte": "Strong Ale",
+    "Autor": "Captain Brewley",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Black Sheep Riggwelter",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.8,
+    "Bittere": 35,
+    "Farbe": 56,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "Kastanienbraunes Ale mit nussigem Geschmack. Im Original von der Black Sheep Brewery.",
+    "Malze": [
+        {
+            "Name": "Maris Otter Pale Ale Malz",
+            "Menge": 3.9,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenflocken",
+            "Menge": 440,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch II",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Chocolate ",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Fuggles",
+            "Menge": 18,
+            "Alpha": 5.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 18,
+            "Alpha": 6.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 19,
+            "Alpha": 6.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Safale S-04",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Im Original wird statt Weizenflocken Torrified Wheat eingemaischt und mit der WYEAST #1469 - West Yorkshire Ale vergoren, aber meine Version hat das Original sehr genau getroffen."
+}

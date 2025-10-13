@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Dry Palisade APA",
+    "Datum": "17.10.2017",
+    "Sorte": "Pale Ale",
+    "Autor": "Alenatic",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 40,
+    "Farbe": 16,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Ausgeglichenes, trocken-fruchtiges Sommer APA",
+    "Malze": [
+        {
+            "Name": "Pale Ale (2 row)",
+            "Menge": 4.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram\u00fcnch",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.8,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 65
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.7,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tomahawk",
+            "Menge": 8,
+            "Alpha": 16.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tomahawk",
+            "Menge": 10,
+            "Alpha": 16.5,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Palisade",
+            "Menge": 19,
+            "Alpha": 7.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Palisade",
+            "Menge": 40
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "19,5",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wasser evtl. mit 200g Sauermalz konditionieren (hat beim 2. Sud nochmal ne Verbesserung ergeben). Bier erreicht nach 1-2 Monat Lagerung bei Kellertemperatur sein bestes Aroma. ACHTUNG: nach 3-4 Monaten verliert es den Gro\u00dfteil seines Aromas. Am besten nach einem Monat Lagerung bei Kellertemperatur im K\u00fchlschrank aufbewahren.\r\n\r\nDies ist ein sehr sauberes, gradliniges Bier mit hoher drinkability. Auch sehr gut als Ausgangsbier geeignet um  den Sud aufzuteilen und zu experimentieren!\r\n\r\nDry hopping: Nach 5-7 Tagen Hauptg\u00e4rung f\u00fcr weitere 5 Tage mit losen Pellets."
+}

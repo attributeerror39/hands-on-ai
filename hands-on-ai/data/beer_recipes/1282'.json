@@ -1,0 +1,97 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Elbhangtorpedo",
+    "Datum": "19.05.2020",
+    "Sorte": "Belgisches Tripel",
+    "Autor": "bergbiere",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Westvleteren 12",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20.2,
+    "Bittere": 30,
+    "Farbe": 50,
+    "Alkohol": 8.9,
+    "Kurzbeschreibung": "Steht dem Original im direkten Vergleich in nichts nach. Hat den ersten Platz beim offenen Wettbewerb des 11. Mitteldeutschen Hobbybrauertreffens 2019 in Neuhaus\/Oberpfalz gewonnen.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4.93,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraBelge",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 51,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 77,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 13.333333333333332,
+    "Kochzeit_Wuerze": 85,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nordbrauer",
+            "Menge": 20,
+            "Alpha": 8.6,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Mittelfr\u00fch",
+            "Menge": 27,
+            "Alpha": 3.2,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Styrian Golding",
+            "Menge": 11,
+            "Alpha": 3,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Kandissirup dunkel (Brewferm)",
+            "Menge": 369,
+            "Einheit": "g",
+            "Kochzeit": 85
+        },
+        {
+            "Name": "Kandissirup dunkel (Brewferm)",
+            "Menge": 369,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Kandissirup dunkel (Brewferm",
+            "Menge": 369,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Wyeast 3787 Trappist High Gravity",
+    "Gaertemperatur": "22-27",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "- die 3. Sirupgabe w\u00e4hrend der G\u00e4rung bei etwa 18 Brix zugeben\r\n- Hefe aus zweiter F\u00fchrung und vorher mit einem belgisch Blond an die \"Aufgaben\" gew\u00f6hnt\r\n- G\u00e4rtemperatur zu G\u00e4rbeginn 22\u00b0C und alle drei Tage um 1\u00b0C erh\u00f6ht (Mantelheizung)\r\n- nach G\u00e4rende 14 Tage in neuem Eichenholzfass gelagert\r\n- nach 12 Monaten Lagerung noch NICHT trinkreif \/ nach 18 Monaten ausgezeichnet"
+}

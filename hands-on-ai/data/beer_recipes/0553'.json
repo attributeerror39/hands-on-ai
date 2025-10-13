@@ -1,0 +1,85 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Wistedter Ossenweg",
+    "Datum": "23.01.2016",
+    "Sorte": "Pale Ale",
+    "Autor": "bullfrog297",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 36,
+    "Farbe": 20,
+    "Alkohol": 6,
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Polenta\/Maisgries",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cararoma",
+            "Menge": 100,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caro Kaffee (R\u00f6stgerste)",
+            "Menge": 25,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 35,
+            "Alpha": 7,
+            "Zeit": 65,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 7,
+            "Alpha": 7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Safbrew S-33",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 5.5,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Dieses Rezept ist eine Abwandlung eines Rezepts von \"Alt-Phex\" (Cascade Amber Ale)\r\nIch habe als Brauwasser kein Leitungswasser benutzt, sondern stilles Wasser aus Flaschen, da ich ausprobieren wollte, ob es einen Unterschied macht, wenn man umgechlortes Wasser benutzt. Bin angenehm \u00fcberrascht. Auch der Caro Kaffee war ein Experiment, habe es statt R\u00f6stmalz benutzt. Ergibt eine satte Farbe und bringt meiner Meinung nach eine Interessante Nuance durch die weiteren Zutaten neben der R\u00f6stgerste (z.B. Zichorie). Ich habe jetzt, nach 3 Tagen Nachg\u00e4rung bei 20\u00b0 und 1 Woche Lagerung bei 5\u00b0, die erste Flasche verkostet und bin absolut angetan... mal sehen, wie es sich entwickelt... :-)\r\nAch ja, ich wu\u00dfte nicht, wie ich das in die Maske eingeben sollte, aber die 4.Rast ist eine 15minutige L\u00e4uterruhe..."
+}

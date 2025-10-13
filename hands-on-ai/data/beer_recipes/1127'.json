@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Schwalbe K\u00f6lsch",
+    "Datum": "17.08.2019",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "Schwalbe",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.5,
+    "Bittere": 26,
+    "Farbe": 6,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Klassisches K\u00f6lsch mit klassischen K\u00f6lsch-Hopfen - \u00e4hnlich eines P\u00e4ffgen K\u00f6lsch. ",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 38,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 25,
+            "Alpha": 3.1,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 18,
+            "Alpha": 6.7,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 8,
+            "Alpha": 3.1,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "White Labs WLP029 K\u00f6lsch",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 73,
+    "Karbonisierung": 5.2,
+    "Anmerkung_Autor": "Nachisomerisierungszeit: 5 Minuten durch aktive K\u00fchlung\r\nLetzte Hofpengabe Tettnanger bei unter 80\u00b0C f\u00fcr 20 Min. in den Whirlool\r\nWasserwerte: Ca 65mg\/l, Mg 6,5mg\/l, SO4\/Cl-Verh\u00e4ltnis 0,22, CL 91mg\/l\r\nRestalkalit\u00e4t auf -1,8\u00b0dH mit Milchs\u00e4ure eingestellt\r\n4-6 Wochen Kaltreifung werden empfohlen.\r\nZur Hefe: Ein K\u00f6lsch sollte auch von einer K\u00f6lsch-Hefe vergoren werden. Die im Rezept angegebene White Labs WLP029 K\u00f6lsch ist mutma\u00dflich die P\u00e4ffgen-K\u00f6lsch-Hefe und daher 1. Wahl. Als alternative Hefen empfehle ich noch die Wyeast #2565 K\u00f6lsch, die Colonia F (Brauwerkstatt) oder die LalBrew K\u00f6ln. Bitte kalt bei ~ 14\u00b0C anstellen!\r\nEin K\u00f6lsch wird NICHT vergoren mit der S-04, US-05, Notti o.\u00e4.\r\nViel Erfolg beim nachbrauen und viele Gr\u00fc\u00dfe aus K\u00f6ln-S\u00fcd!!!"
+}

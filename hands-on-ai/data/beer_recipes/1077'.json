@@ -1,0 +1,100 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Vesperbier",
+    "Datum": "05.04.2019",
+    "Sorte": "Roggenbier",
+    "Autor": "B\u00fcttnerBr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 41,
+    "Farbe": 19,
+    "Alkohol": 4.5,
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Roggenmalz",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "H\u00fcll Melon",
+            "Menge": 20,
+            "Alpha": 5.5,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Pacific Gem",
+            "Menge": 9,
+            "Alpha": 15.5,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 14,
+            "Alpha": 4.3,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 10,
+            "Alpha": 3.6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 24,
+            "Alpha": 9.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "M 15",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 50,
+    "Karbonisierung": 5
+}

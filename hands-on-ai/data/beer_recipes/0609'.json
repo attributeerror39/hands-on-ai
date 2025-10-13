@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "MANU TAPU",
+    "Datum": "26.07.2016",
+    "Sorte": "India Pale Ale",
+    "Autor": "Nachtflug",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.5,
+    "Bittere": 60,
+    "Farbe": 20,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "British inspired, brewed with New Zealand's unique hops!",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 4.52,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Crystal Malt 40\u00b0L",
+            "Menge": 240,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.666666666666668,
+    "Einmaischtemperatur": 77,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 14.285714285714286,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Rakau",
+            "Menge": 19,
+            "Alpha": 8.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Waimea",
+            "Menge": 10,
+            "Alpha": 13,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Rakau",
+            "Menge": 29,
+            "Alpha": 8.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Waimea",
+            "Menge": 19,
+            "Alpha": 13,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Wai-Iti",
+            "Menge": 48
+        },
+        {
+            "Sorte": "Motueka",
+            "Menge": 48
+        },
+        {
+            "Sorte": "Waimea",
+            "Menge": 19
+        }
+    ],
+    "Hefe": "White Labs WLP002 English Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Brauwasser: (~) RA -3\u00b0dH, HCO3 40 mg\/L, Ca 120 mg\/L, Mg 5 mg\/L, Na 10 mg\/L, SO4 200 mg\/L, Cl 60 mg\/L\r\n\r\nBatch sparge Methode\r\n5 kg + 17.5 L 77\u00b0C -> 67\u00b0C -> 75 Min -> komplett abl\u00e4utern\r\nTreber + 15 L 79\u00b0C -> 75\u00b0C -> 30 Min -> komplett abl\u00e4utern\r\n\r\nHopfen 7 Tage stopfen\r\n\r\n6 g\/L Zucker f\u00fcr die Flascheng\u00e4rung"
+}

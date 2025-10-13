@@ -1,0 +1,96 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Dunkles Kellerbier",
+    "Datum": "16.09.2012",
+    "Sorte": "Kellerbier",
+    "Autor": "Horstibus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 35,
+    "Farbe": 34,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Ein dunkles Kellerbier, leicht bitter, hopfig mit einer leichten Citrus-Note, einem weizen\u00e4hnlichen K\u00f6rper und dezenten R\u00f6staromen.",
+    "Malze": [
+        {
+            "Name": "B\u00f6hmisches Pilsner Malz (Weyermann)",
+            "Menge": 3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "dunkles Weizenmalz",
+            "Menge": 730,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz (selbstger\u00e4uchert)",
+            "Menge": 360,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Whiskymalz",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Dinkelrohfrucht",
+            "Menge": 91,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz (selbstger\u00f6stet)",
+            "Menge": 45,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.363636363636363,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.636363636363635,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 42,
+            "Alpha": 7.2,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Strisselspalter",
+            "Menge": 42,
+            "Alpha": 3.6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Southern Cross",
+            "Menge": 17,
+            "Alpha": 14,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 27,
+            "Alpha": 7.2,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "20-22",
+    "Anmerkung_Autor": "Ich habe Volvic Wasser f\u00fcr den Hauptguss genommen, muss man aber nicht unbedingt, da das Zeug viel zu teuer ist.\r\nSelbstger\u00e4uchertes - und ger\u00f6stetes Malz muss auch nicht unbedingt sein, hatte ich aber gerade zur Hand.\r\nWenn noch relativ jung schmeckt es leicht exotisch fruchtig dank dem Southern Cross.\r\nDa ich nicht immer wissenschaftlich genau braue und messe sondern nach Gef\u00fchl, sind ein paar Werte (Bittere, Farbe und Haupt und Nachg\u00fcsse, Sudhausausbeute) gesch\u00e4tzt. \r\nMit fortschreitender Lagerung wird es etwas trockener."
+}

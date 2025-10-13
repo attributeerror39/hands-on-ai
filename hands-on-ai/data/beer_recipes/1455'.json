@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "G-Br\u00e4u - Budkvar",
+    "Datum": "02.04.2021",
+    "Sorte": "Pale Ale",
+    "Autor": "Tommys G-Br\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 29,
+    "Farbe": 10,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Ein (falsches) b\u00f6hmisches Pilsener, denn gebraut wurde es mir der Lutra kveik. Es ist daher ein echt gutes Anf\u00e4ngerbier, was nah an ein b\u00f6hmisches Budweiser\/Budvar ran kommt. ",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.81,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 240,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 240,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.238095238095237,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 12.380952380952381,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saazer",
+            "Menge": 30,
+            "Alpha": 4.3,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 12,
+            "Alpha": 4.3,
+            "Zeit": 40,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 17,
+            "Alpha": 4.3,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Lutra kveik",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Ein sehr leckeres Bier, was sich auch als Anf\u00e4nger gut brauen l\u00e4sst, da es am besten bei etwa 20\u00b0C vergoren wird (daf\u00fcr dauert dann die Hauptg\u00e4rung aber auch 7-14 Tage, was f\u00fcr eine kveik eher lange ist). Die Angaben f\u00fcr den Nachguss sind nur beispielhaft, ich mache immer solange Nachguss, bis ich einen Wert von 2-3 brix mit dem Refraktometer messe. Bereits nach wenigen Wochen Reifung im R\u00fchlschrank sehr lecker. Angegeben sind 20 Liter Ausschlagsw\u00fcrze, da dies oft verwechselt wird, meine ich damit die Menge, die am Ende im G\u00e4reimer landet! ;-) Die tats\u00e4chliche Ausschlagsw\u00fcrze (inkl. Hopfen und Kalttrub) waren etwa 24 Liter."
+}

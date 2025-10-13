@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mallorca bei Nacht",
+    "Datum": "25.09.2012",
+    "Sorte": "Stout",
+    "Autor": "cosmophobia",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 23,
+    "Farbe": 100,
+    "Alkohol": 4,
+    "Kurzbeschreibung": "R\u00f6stiges, eher schlankes schwarzes Bier mit Kaffee- und Zitrusaromen",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Polenta",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 330,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 63,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 40
+        }
+    ],
+    "Abmaischtemperatur": 73,
+    "Nachguss": 4,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 10,
+            "Alpha": 12.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 10,
+            "Alpha": 12.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 5,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 40
+        }
+    ],
+    "Hefe": "Brewferm Top",
+    "Gaertemperatur": "25",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Vom Chocolate malt werden 150g beim Einmaischen zugegeben, der Rest gegen Ende der Verzuckerungsrast. Gestopft habe ich direkt schon beim Abk\u00fchlen der W\u00fcrze.\r\n\r\nIch braue High Gravity, wer eine gr\u00f6\u00dfere Sudpfanne hat, kann nat\u00fcrlich mehr Nachguss geben und eine bessere Ausbeute erreichen. Die Rastzeiten gelten f\u00fcr die Bottichinfusion, wer statt kochendes Wasser zuzugeben aufheizt, verweilt ja automatisch etwas l\u00e4nger bei den Rasten und kann sie somit etwas verk\u00fcrzen (z.B. 2x35min).\r\nDas Bier schmeckt trotz der niedrig verg\u00e4renden Brewferm Top recht schlank und l\u00e4sst sich super auch in gr\u00f6\u00dferen Mengen trinken.\r\n\r\nPs: Wie man sieht auch super noch zu brauen, wenns schon etwas w\u00e4rmer in der Wohnung ist.\r\n\r\nLink zum Verkostungsthread, um sich noch ein wenig ein Bild machen zu k\u00f6nnen: http:\/\/hobbybrauer.de\/modules.php?name=eBoard&file=viewthread&tid=15704"
+}

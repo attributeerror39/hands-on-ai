@@ -1,0 +1,73 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "OldPec",
+    "Datum": "03.11.2023",
+    "Sorte": "Old Ale",
+    "Autor": "tedd",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Theakston&#039;s Old Peculier",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.3,
+    "Bittere": 35,
+    "Farbe": 76,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "Ein dunkles Old Ale \/ Burton Ale aus England. Old Peculier von der Theakston Brauerei ist hier das Vorbild. Komplex im Geschmack mit dezentem Geruch von dunklen Fr&uuml;chten.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4.03,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "R&ouml;stgerste",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Crystal Malt",
+            "Menge": 220,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.513513513513512,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 68,
+    "Nachguss": 14.594594594594595,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Challenger",
+            "Menge": 23,
+            "Alpha": 6.1,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Target",
+            "Menge": 8,
+            "Alpha": 9.3,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggles",
+            "Menge": 48,
+            "Alpha": 4.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "S-04, WLP500",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Old Peculier ist eines meiner Lieblingsbiere aus England. \r\nSchmeckt s&uuml;ffig, mild, malzig, etwas karamellig mit einer leichten Fruchtigkeit und dunkler Schokolade. Nach dem Antrunk kommen dezente R&ouml;stnoten dazu.\r\n\r\nAlle Malze wurden zusammen eingemaischt und sind bis auf die R&ouml;stgerste von Warminster.\r\n\r\nAls Hefen kommen die\r\nS-04, (VG 75%, 12&deg;C-25&deg;C, Ausflockung hoch)\r\nsowie die\r\nWLP500 Monastery Ale (Fl&uuml;ssighefe, fruchtig, VG 75%-80%, 18&deg;C-21&deg;C, Ausflockung gering-mittel)\r\nzum Einsatz. Anstelle der S-04 h&auml;tte auch die WLP550 Belgian Ale funktioniert, die aber nicht verf&uuml;gbar war.\r\nDie G&auml;rtemperatur liegt bei der Hefe-Kombination bei 20&deg;C. Der Verg&auml;rgrad liegt bei 77%.\r\n\r\nDie Karbonisierung ist bei Flascheng&auml;rung auf max. 4 g\/l eingestellt.\r\n\r\nGebraut wird mit D&uuml;sseldorfer Stadtwasser.\r\n\r\nBesonderer Dank geht an The-British-Pint, der das Rezept aus verschiedenen Quellen recherchiert hat!\r\n\r\n09.11.2023 Verkostung auf dem D&uuml;sseldorfer Hobbybrauer Stammtisch: Im Vergleich mit dem Original aus der Flasche hat der Clone hier deutlich mehr bei Geschmack und Geruch zu bieten. Sehr &auml;hnlich dem Original in englischen Pubs vom Cask von der Handpump. Die Originalflasche war allerdings auch schon ein halbes Jahr alt, wenn ich das richtig behalten habe.\r\n\r\n22.11.2023: Verkostung des Clones aus der Flasche gegen das gleiche Batch von der Handpump. Das Bier von der Handpumpe schmeckt im Vergleich zur Flasche deutlich runder und k&ouml;nnte durchaus so in einem englischen Pub ausgeschenkt werden."
+}

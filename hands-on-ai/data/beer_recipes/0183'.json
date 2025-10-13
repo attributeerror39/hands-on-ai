@@ -1,0 +1,71 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Samba Pale Ale",
+    "Datum": "21.03.2012",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Boludo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 20,
+    "Farbe": 7,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Samba Pale Ale mit 4 Getreidearten",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.73,
+            "Einheit": "kg"
+        },
+        {
+            "Name": " Weizenmalz hell",
+            "Menge": 550,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Polenta Maisgries",
+            "Menge": 360,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Seitenbacher Corn Flakes",
+            "Menge": 140,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 120,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 110,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.454545454545455,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.636363636363637,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 27,
+            "Alpha": 6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "17",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Nachtrag vom 04.06.2018:\r\nIch habe das Bier noch einmal gebraut, allerdings den gesamten Maisanteil mit Maisflocken von HuM ersetzt und mit Tettnanger Hopfen. Es ist nach 1h iodnormal und die Ausbeute lag \u00fcber 70%, L\u00e4utern ist ein Kinderspiel. Die G\u00e4rtemperatur mit der Nottingham sollte nicht \u00fcber 17\u00b0C liegen, dann gibt es weniger Nebenger\u00e4usche. 5 Wochen Reifezeit tun dem Bier auch gut.\r\nSehr wichtig ist die Trinktemperatur. Wenn man dieses Bier im Sommer bei gro\u00dfer Hitze eiskalt (3\u00b0C) trinkt, ist es einfach nur genial. Warm und im Winter ist es ein Graus;-)\r\n\r\n*****************************************************************\r\n\r\nMeine Lieblingsvariante des Samba Pale Ales.\r\nUnbedingt vorverkleisterte Instant Polenta nehmen. Diese erkennt man an der kurzen Kochzeit. Sonst gibt es L\u00e4uterprobleme und einen Blausud.\r\nPolenta und Corn Flakes einfach mit einmaischen. Restalkalit\u00e4t 0\u00b0 mit Milchs\u00e4ure eingestellt. Muss eventuell mit abgekochten Wasser auf 13\u00b0P verd\u00fcnnt werden.\r\nDas Bier ist nach 4 Wochen trinkreif und sehr frauenkompatibel und ideal geeignet f\u00fcr Grill-und Gebutstagsfeste. "
+}

@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Nachmittags wird kein Wit gejudged",
+    "Datum": "31.12.2022",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "Ricardo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 19,
+    "Farbe": 6,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "2. Platz bei der HBCon 2020 in der Kategorie Weizen \/ Wit",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.47,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Rohfrucht",
+            "Menge": 1.32,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.692307692307693,
+    "Einmaischtemperatur": 42,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.615384615384615,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Motueka",
+            "Menge": 36,
+            "Alpha": 4.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Bitterorangenschalen",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Koriander",
+            "Menge": 8,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Wyeast Wit 3944",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Ich habe meinen Sud f\u00fcr den Wettbewerb der HBCon 2020 in der Kategorie \"Weizen \/ Wit\" gebraut. Bei der Namenswahl im Anmeldebogen war ich offensichtlich nicht sehr kreativ - sorry daf\u00fcr.\r\n\r\nIch habe vollentsalztes Wasser benutzt und mit 5g CaSo4 und 10g CaCl2 aufgesalzt.\r\n\r\nDie Sch\u00fcttung und Maischef\u00fchrung sind unspektakul\u00e4r.\r\n\r\nAus meiner Sicht ist es f\u00fcr ein optimales Ergebnis wichtig, die Koriandersamen anzur\u00f6sten und nicht den \u00fcblichen, runden Koriander aus dem Supermarkt zu nehmen. \r\nDie Samen habe ich gerade so lange in einer trockenen Pfanne anger\u00f6stet, bis das typische Aroma wahrnehmbar war. Im Anschluss kam der Koriander direkt in den M\u00f6rser, wurde zermahlen und sofort dem Sud hinzugef\u00fcgt. Ich habe mir indischen Koriander beim Gew\u00fcrzh\u00e4ndler beschafft.\r\n\r\nIch habe mir Pomeranzen (Bitterorangenschalen) aus der Apotheke gekauft, um diese f\u00fcr 10 min mit zu kochen. Vorher habe ich bereits Versuche mit frisch geriebener Orangenschale durchgef\u00fchrt. Diese brachten aber nicht das von mir gew\u00fcnschte Ergebnis.\r\n\r\nDie Weizen-Rohfrucht habe ich aus dem \u00f6rtlichen Reformhaus und auch direkt dort schroten lassen.\r\n\r\nBeim Hopfen w\u00fcrde ich keinen gro\u00dfen Wert auf den Motueka legen. Ich hatte den eben noch da. Nachdem der Hopfen 60 min gekocht wurde, d\u00fcrfte sich das meiste Aroma verfl\u00fcchtigt haben. Falls noch etwas \u00fcbergeblieben sein sollte, wird das verl\u00e4sslich vom Koriander \u00fcberdeckt."
+}

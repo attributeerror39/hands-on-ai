@@ -1,0 +1,69 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Neuenkirchener Weizen",
+    "Datum": "26.05.2015",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "oliver0904",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 20,
+    "Farbe": 17,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Kombirast-Weizen mit Cascade und einer leichten Comet Aromagabe. ",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 20,
+            "Alpha": 5.5,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Comet",
+            "Menge": 8,
+            "Alpha": 7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Maisels Weisse gestrippt",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Dieses Rezept ist angelehnt an das Schnelle Weizenbier von Trisman, jedoch als Kombirast mit einer leichten Aromagabe.\r\nSchmeckt super abgerundet, der Cascade harmoniert sehr gut mit dem Comet und der gestrippten Maisels Hefe.\r\nKann nach 2 Wochen schon getrunken werden.\r\nHabe die Abmaischtemperatur auf 78 Grad ge\u00e4ndert um das Bier etwas vollmundiger zu machen.\r\n"
+}

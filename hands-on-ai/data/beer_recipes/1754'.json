@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Pekanut Ale",
+    "Datum": "13.12.2022",
+    "Sorte": "Brown Ale",
+    "Autor": "hobbyalchemist",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 34,
+    "Farbe": 94,
+    "Alkohol": 6.3,
+    "Kurzbeschreibung": "Dunkles malzig-nussiges Brown Ale inspiriert durch das Rezept von L\u00e4uterwerk aus dem Buch von Ferdinand Laudage \"50 Craft Bier Rezepte\"",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 4.07,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Platinum Swaen Brown Porter",
+            "Menge": 620,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Black Swaen Honey Biscuit",
+            "Menge": 310,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caramalz dunkel",
+            "Menge": 310,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pecan\u00fcsse gemalen + anger\u00f6stet",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.920000000000002,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 62,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.18,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 27,
+            "Alpha": 6,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 35,
+            "Alpha": 5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "S04",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Sehr leckers Ale f\u00fcr die Feiertage gebraut.\r\nDas Pecanussaroma harmoniert sehr gut mit Malz ud Hopfen.\r\nDer Schaum ist besser als erwartet, trotz der N\u00fcsse.\r\nWasser mit Milchs\u00e4ure auf 6\u00b0dH eingestellt."
+}

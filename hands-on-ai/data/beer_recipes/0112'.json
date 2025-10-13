@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Amarillo Cream Ale",
+    "Datum": "03.04.2011",
+    "Sorte": "Mild Ale",
+    "Autor": "pippen",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.5,
+    "Bittere": 18,
+    "Farbe": 7,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Sehr leichtes, helles Cream Ale mit leichter Maiss\u00fcsse und fruchtigem Hopfengeschmack. Toller Durstl\u00f6scher.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 1.81,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 970,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcncher Malz Typ 1",
+            "Menge": 120,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Maisflocken",
+            "Menge": 730,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 11.60621761658031,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.507772020725389,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 10,
+            "Alpha": 8,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 12,
+            "Alpha": 8,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 12,
+            "Alpha": 8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "2xUS-05 oder 3l Starter American Ale 1056",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 78.4,
+    "Anmerkung_Autor": "Brauwasser sollte eine Restalkalit\u00e4t von 0 oder drunter haben. \r\nKarbonisierung auf 5.5g\/C02 pro Liter.\r\n4 Wochen g\u00e4ren und sedimentieren lassen\r\n2 Wochen Nachg\u00e4rung\r\n2 Wochen Reifezeit\r\n"
+}

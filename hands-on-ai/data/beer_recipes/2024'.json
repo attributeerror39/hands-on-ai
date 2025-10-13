@@ -1,0 +1,104 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Spiced Bourbon barrel Stout",
+    "Datum": "15.09.2024",
+    "Sorte": "Imperial Stout",
+    "Autor": "Stuggbrew",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17,
+    "Bittere": 40,
+    "Farbe": 105,
+    "Alkohol": 6.9,
+    "Kurzbeschreibung": "Ein komplexes Stout im Rahmen der &bdquo;12 beers for Christmas&ldquo; Reihe. \r\nKomplexe Struktur durch die Zugabe von Gew&uuml;rzen und der Lagerung auf in bestem Bourbon Whiskey eingelegten Eichenchips. Leichte Noten von Rauch, Vanille und Kaffee. \r\nAnimierend f&uuml;r den n&auml;chsten Schluck bei moderatem Alkoholgehalt f&uuml;r ein Imperial Stout",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchner Malz I",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Melanoidin Malz",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Special II",
+            "Menge": 330,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 64,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 6.666666666666666,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cluster",
+            "Menge": 27,
+            "Alpha": 6.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cluster",
+            "Menge": 27,
+            "Alpha": 6.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Eichenchips high Caramel",
+            "Menge": 20,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Bourbon whiskey",
+            "Menge": 267,
+            "Einheit": "ml"
+        },
+        {
+            "Name": "Gew&uuml;rze siehe Bemerkung ",
+            "Menge": "1 &frac14;",
+            "Einheit": ""
+        }
+    ],
+    "Hefe": "MJ42 new world Strong + MJ15 Empire Ale",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die W&uuml;rze wird ganz nochmal gebraut. Am Ende der Hauptg&auml;rung kommt die Gew&uuml;rzmischung hinzu:\r\nDie Eichenchips wurden 2 Wochen im Bourbon eingelegt; dazu 2 Vanilleschoten, 5 Wacholderbeeren; 1TL Zimt; 2 Nelken; 0,5TL Koriander; 2 Espressi sowie 50ml Molasse. \r\nDies wird komplett hinzugegeben und das Jungbier darauf noch 2 Wochen gelagert. \r\nKarbonisiert wurde mit dunklem Kandissirup. \r\n\r\n"
+}

@@ -1,0 +1,98 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Lo-so-NEIPA",
+    "Datum": "27.11.2023",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "brunitika",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.1,
+    "Bittere": 31,
+    "Farbe": 13,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Meine erste eigene Rezept f&uuml;r eine NEIPA in meinen Dorf (Losone, CH). &Uuml;bersetzt von italienisch w&uuml;rde &quot;ich-weiss-NEIPA&quot; bedeuten :-)\r\n\r\nDefinitiv dunstiges Bier mit gute Schaumstabilit&auml;t. Meiner Meinung nach, gut ausgeglichen zwischen den leichten (f&uuml;r den Stiel) Fruchtigkeit, nicht zu s&uuml;ss, mit Hopfen Aroma, welches auch hier nie dominant auftaucht. Maximale Geschmack bereits nach 2 Wochen.\r\n\r\nViel Spass beim nach brauen und trinken!",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.12,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchener Malz Typ 1",
+            "Menge": 1.52,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Maris Otter Malz",
+            "Menge": 610,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 610,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 610,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.484848484848484,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 68,
+    "Nachguss": 7.272727272727273,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook",
+            "Menge": 12,
+            "Alpha": 13.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 18,
+            "Alpha": 5.6,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 9,
+            "Alpha": 7.9,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Ekuanot",
+            "Menge": 9,
+            "Alpha": 12.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Amarillo 5.6%",
+            "Menge": 24
+        },
+        {
+            "Sorte": "Ekuanot 12.5%",
+            "Menge": 24
+        }
+    ],
+    "Hefe": "Fermentis S-33",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 68,
+    "Karbonisierung": 4.7,
+    "Anmerkung_Autor": "Maische wurde mit 5 mL Phosphors&auml;ure (75%) f&uuml;r ein pH von 5.5 korrigiert. G&auml;rung unter Druck (0.8 bar). Stopfen am Tag 5, danach langsame progrediente k&uuml;hlen bis 5.5&deg;C und Karbonisierung mit CO2 Flasche weiterhin bei 0.8 bar &uuml;ber eine Woche."
+}

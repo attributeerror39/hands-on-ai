@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "4 Jahreszeiten Ale",
+    "Datum": "14.03.2021",
+    "Sorte": "Pale Ale",
+    "Autor": "Bier - ein Weltstar",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 41,
+    "Farbe": 18,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Egal welche Jahreszeit es schmeckt. \r\nGeschmacklich ist es s\u00fcffig, leicht malzig s\u00fc\u00df mit einer deutlichen Note fruchtigem Hopfen. Reifung braucht ca. 3-4 Wochen bei 8\u00b0C dann ist es spitze. ",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Karamellmalz Hell",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch Typ II",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 56,
+    "Rasten": [
+        {
+            "Temperatur": 62,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 6.5,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook ",
+            "Menge": 15,
+            "Alpha": 11.7,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 15,
+            "Alpha": 11.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 15,
+            "Alpha": 5.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "Kveik Voss",
+    "Gaertemperatur": "23",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Wasser wurde aufbereitet mit Calciumhydroxid und auf 2 \u00b0dH eingestellt. Irish Moss ist vermutlich \u00fcberfl\u00fcssig, da die Hefe extrem sedimentiert. Flascheng\u00e4rung gelingt ohne weitere Hefe wenn man ins umgeschlauchte Jungbier 1 EL Bodensatz aus der Hauptg\u00e4rung einbringt und gut umr\u00fchrt. \r\n"
+}

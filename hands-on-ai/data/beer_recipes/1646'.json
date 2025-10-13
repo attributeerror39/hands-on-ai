@@ -1,0 +1,74 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Red 'n Black - Black Currant Philly Sour",
+    "Datum": "18.03.2022",
+    "Sorte": "Sauerbier",
+    "Autor": "Keek",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 11,
+    "Farbe": 6,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "herrlich fruchtig-rotes Sauerbier mit schwarzen Johannisbeeren und der Philly Sour vergoren. Ein super Sommerbier der besonderen Art!",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.52,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2.52,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.77777777777778,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 19.25925925925926,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Ariana",
+            "Menge": 6,
+            "Alpha": 10.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Bramling Cross",
+            "Menge": 5,
+            "Alpha": 7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "TK Schwarze Johannisbeeren",
+            "Menge": 3111,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Philly Sour",
+    "Gaertemperatur": "20-21",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Im Rahmen des \"2. Parallel- und Tauschsuds*\" zum Thema Wild & Sauer vom Essener Hobbybrauerstammtisch ist dieses Rezept entstanden. Mein erstes selbst erstelltes Rezept und zudem noch super lecker! Grund genug es hier auf MMuM zu teilen.\r\n\r\n(* Jeder braut lediglich ein Bier passend zum Thema und nicht jeder dasselbe Bier)\r\n\r\nMit der eingangs erw\u00e4hnten Themenvorgabe war mir ziemlich schnell klar, dass es ein fruchtiges Sauerbier werden soll. Aufgrund Ihrer einfachen Handhabe ist die Wahl dann auch prompt auf die Philly Sour gefallen. Im Sp\u00e4tsommer 2019 hatte ich gemeinsam mit London Rain sein <a href=\"https:\/\/www.maischemalzundmehr.de\/index.php?id=920&inhaltmitte=rezept\">It\u2019s a Girl!<\/a> Rezept gebraut und erstmalig mit TK-Fr\u00fcchten gestopft und war begeistert \u2013 so sollte auch dieses Bier mit etwas fruchtigem \u2013 aber etwas anderem als Himbeeren - gestopft werden.\r\n\r\nAuf der Suche nach einer Himbeeralternative bin ich nach einiger Recherche schlie\u00dflich auf schwarze Johannisbeeren gesto\u00dfen und die Entscheidung war gefallen. Aufgrund des Infektionsrisikos empfehle ich auch hier auf TK Fr\u00fcchte zur\u00fcckzugreifen (und im Winter hatte ich ohnehin keine andere Wahl). Da man die nicht in jedem Supermarkt findet bin ich zum Globus gefahren, dort gibt\u2019s die f\u00fcr 2\u20ac pro 300g Karton (Alternative: Metro im 1Kg Gebinde).\r\n\r\nGestopft wurde nach der Hauptg\u00e4rung f\u00fcr eine Woche. Geplant waren urspr\u00fcnglich 140g\/l \u2013 durch die bei diesem Sud grottigen SHA sind es dann 155g\/l geworden (2100g auf etwa 13,5l). Beim n\u00e4chsten Mal w\u00fcrde ich wahrscheinlich versuchen weniger (vielleicht 120g\/l) zu nehmen.\r\n\r\nAls Hopfen habe ich Ariana als VWH zugegeben und Bramling Cross als Aromagabe 10 Minuten vor Kochende. Beide sollen passende Cassis Aromen mitbringen und sind dann bei der ohnehin notwendigen Zutatenbestellung einfach mit im Einkaufswagen gelandet \u2013 bei der starken Fruchtsstopfung ist der gew\u00e4hlte Hopfen aber wahrscheinlich ziemlich egal. Wer die beiden nicht da hat kann sicher einfach x-beliebige andere nehmen.\r\n\r\nAnsonsten habe ich was Rezept bewusst einfach gehalten: 50% Pilsmalz 50% Weizenmalz und Kombirast bei ca 67\u00b0C. Zum Kochende kam noch 0,1g\/l Irish Moss hinzu. F\u00fcr die G\u00e4rung habe ich zwei P\u00e4ckchen der Philly Sour verwendet \u2013 eins h\u00e4tte es vermutlich auch getan.\r\n\r\nDas Wasserprofil habe ich nicht angepasst \u2013 auch nicht mit Milchs\u00e4ure. Gebraut wurde mit bestem Essener Trinkwasser (Karbonath\u00e4rte: 5,4\u00b0dH). \r\n\r\nAbgef\u00fcllt wurde in B\u00fcgelflaschen und mit Hilfe der Dosierhilfe und mit einfachem Zucker karbonisiert. Mit dem Fruchtzucker, dem Zucker zum Karbonisieren bin ich am Ende auf auf etwa 5 Vol% gekommen. Schon nach wenigen Wochen nach dem Abf\u00fcllen war es bereits sehr lecker.\r\n\r\n\u00dcber Feedback von Leuten die das Bier nachbrauen freue ich mich nat\u00fcrlich sehr \u2013 ganz besonders f\u00fcr den Sommer ist es denke ich ein hervorragendes Bier \u2013 wenn man Sauerbiere mag.\r\n\r\n\r\n\r\n"
+}

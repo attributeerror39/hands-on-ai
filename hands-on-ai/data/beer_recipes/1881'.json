@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bramling X",
+    "Datum": "18.11.2023",
+    "Sorte": "Pale Ale",
+    "Autor": "Brewery",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.8,
+    "Bittere": 30,
+    "Farbe": 13,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Ausgewogenes, englisches Pale Ale mit Aromen von Heu und Johannisbeere, dass auch eingeschworene Pilstrinker begeistert.",
+    "Malze": [
+        {
+            "Name": "Maris Otter Malt",
+            "Menge": 4.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Karamellmalz Rot",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Bramling Cross",
+            "Menge": 5,
+            "Alpha": 6.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Bramling Cross",
+            "Menge": 10,
+            "Alpha": 6.5,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Bramling Cross",
+            "Menge": 10,
+            "Alpha": 6.5,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Bramling Cross",
+            "Menge": 15,
+            "Alpha": 6.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Bramling Cross",
+            "Menge": 30,
+            "Alpha": 6.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "LalBrew London ESB",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 73,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Da ich meine Biere mit Zucker karbonisere wird die Alkoholmenge entsprechend gr&ouml;&szlig;er als es mit der reinen Stammw&uuml;rze m&ouml;glich w&auml;re. Die zus&auml;tzlichen 0,4% Alkohol sind in der Angabe ber&uuml;cksichtigt (4,6 + 0,4 = 5,0% Alkohol).\r\n\r\nDa die Londonhefe nicht mehr lieferbar ist, kann als Alternative die Nottingham verwendet werden.\r\n\r\nInsgesamt kamen 11g Hefe auf 20l zum Einsatz, die bei 20&deg;C ihre Arbeit verrichteten.\r\n\r\nBeim Whirlpool unbedingt darauf achten, dass die Temperatur unter 80&deg;C liegt.\r\n\r\nNach der Flascheng&auml;rung das Bier im K&uuml;hlschrank bei 4-5&deg;C f&uuml;r 6 Wochen reifen lassen.\r\n\r\nDas Abmaischen kann erfolgen, sobald jodnoral erreicht wurde.\r\n\r\nStammw&uuml;rze vor dem Kochen: 10,0&deg;P\r\n\r\nSulfat\/Chlorid-Verh&auml;ltnis: 1,5:1 \r\n\r\nMaische pH 5,5 \r\nNachguss pH 6,0 max. 78&deg;C \r\nW&uuml;rze pH 5,4 \r\n\r\nDas Brauwasser wurde mit Kalziumchlorid und NaCl angepasst.\r\n\r\nRA: -3&deg;dH\r\nCa: 62,7 mg\/l \r\nMg: 11,5 mg\/l (2,7&deg;dH) \r\nSO4: 115,3 mg\/l \r\nCl: 77,3 mg\/l \r\nNa: 49,1 mg\/l"
+}

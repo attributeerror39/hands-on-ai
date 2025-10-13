@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Summer KVEIPA",
+    "Datum": "26.05.2023",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "Plankton",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 30,
+    "Farbe": 6,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "NEIPA-artiges Bier als Raw Ale mit Kveik. Strohgelb und opak, mildes Grapefruit- und Maracuja-Aroma, dazu leichte Assoziationen von Witbier und Limonade. Sehr schnell und energiesparend gebraut. Schmeckt auch Nicht-Biertrinker*innen! Heimt\u00fcckisch, da deutlich st\u00e4rker, als es schmeckt.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4.55,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 910,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.363636363636363,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 75
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.909090909090908,
+    "Kochzeit_Wuerze": 1,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 32,
+            "Alpha": 10.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 18,
+            "Alpha": 9.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 18,
+            "Alpha": 13,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 18
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 27
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 27
+        }
+    ],
+    "Hefe": "Hornindal Kveik",
+    "Gaertemperatur": "32",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 3,
+    "Anmerkung_Autor": "Meine Arbeitsweise mit Kveik ist an nordisches Farmhouse-Ale angelehnt. Bei Raw Ale sollte man sehr sorgf\u00e4ltig und langsam l\u00e4utern, da eine nachtr\u00e4gliche Korrektur der Stammw\u00fcrze schwierig ist. Die W\u00fcrze wird NICHT gekocht (Kochzeit 0 Min. akzeptiert MMuM aber nicht) und bei 32\u00b0C Anstelltemperatur im provisorisch mit Isomatte und Decken warmgehaltenen G\u00e4rgef\u00e4\u00df vergoren. Die G\u00e4rung sollte sehr schnell starten und innerhalb weniger Tage durch sein, wobei man am Ende die Temperatur auf warme Raumtemperatur (ca. 23\u00b0C) abfallen lassen kann. Nach meiner subjektiven Erfahrung ist es f\u00fcr die gew\u00fcnschte rapide G\u00e4rung am sichersten - entgegen skandinavischen Gebr\u00e4uchen - einen kleinen 0,5l-Starter zu machen. Wenn die st\u00fcrmische Phase vorbei ist, den Stopfhopfen f\u00fcr drei Tage hinzuf\u00fcgen.\r\n\r\nIch lasse dann ausnahmsweise nicht mehr lange lagern, sondern f\u00fclle z\u00fcgig ab, karbonisiere schwach mit geringer Zuckerzugabe und k\u00fchle, wenn die gew\u00fcnschte Karbonisierung erreicht ist, direkt auf 4\u00b0C ab und lagere das Bier dann konstant bei dieser Temperatur. Druckkontrolle mit Flaschenmanometer wird empfohlen! Bei dieser Vorgehensweise sollte das Bier mindestens zwei Monate lang lecker sein und sicher auch noch l\u00e4nger haltbar.\r\n\r\n(Auf \u00e4hnliche Weise habe ich auch schon ein Gr\u00fcnhopfen-Bier zubereitet; das war auch sehr gut und hat mich veranlasst, eine Art NEIPA mit dieser Methode auszuprobieren.)\r\n\r\nDie Werte oben sind zT grob gesch\u00e4tzt, da die einschl\u00e4gigen Tools nicht gut auf Raw Ales anwendbar sind. IBU-Angabe ist rein subjektives Empfinden, wobei die wahrgenommene Bitterkeit schnell abnimmt.\r\n\r\nIch habe f\u00fcr dieses Rezept unser mineralienarmes Leitungswasser angepasst auf folgende Werte:\r\n\r\nKalzium 102; Magnesium 3; Sulfat 65; Chlorid 135; Natrium 31 (jeweils mg\/l).\r\n\r\nEntgegen der g\u00e4ngigen NEIPA-Wissenschaft fand ich auch vorangegangene Versuche, bei denen ich mit dem mineralienarmen Wasser gearbeitet habe, gut und lecker."
+}

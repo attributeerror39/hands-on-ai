@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "HAZY NEIZY",
+    "Datum": "27.03.2020",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "Illya",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 60,
+    "Farbe": 9,
+    "Alkohol": 5.5,
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Karamell Malz Pils",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken ",
+            "Menge": 670,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 62,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 17,
+            "Alpha": 17.4,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 33,
+            "Alpha": 13.3,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra ",
+            "Menge": 33
+        },
+        {
+            "Sorte": "HBC 520",
+            "Menge": 33
+        }
+    ],
+    "Hefe": "Safale S-04",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5.5
+}

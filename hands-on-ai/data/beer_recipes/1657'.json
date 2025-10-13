@@ -1,0 +1,71 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Rakau Pale Ale",
+    "Datum": "07.04.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "Alt-Phex",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 33,
+    "Farbe": 17,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Leicht herbes Pale Ale bei dem die fruchtigen Noten aus dem Hopfen und der Hefe dominieren. Ideales Sommerbier zum Grillen. ",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz (Ireks)",
+            "Menge": 3.64,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carawheat",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Spitzmalz",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.636363636363635,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 10.909090909090908,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Rakau",
+            "Menge": 23,
+            "Alpha": 9.5,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Rakau",
+            "Menge": 18,
+            "Alpha": 9.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Rakau",
+            "Menge": 91,
+            "Alpha": 9.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Mangrove Jacks M66 Hophead",
+    "Gaertemperatur": "15",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Zugegeben, dass ist ein recht einfaches Rezept. Kam beim letzten Stammtisch aber so gut an, dass ich euch das nicht vorenthalten m\u00f6chte.\r\n\r\nWhirlpool hei\u00dft bei mir eine Hopfengabe knapp unter 70\u00b0C w\u00e4hrend des W\u00fcrzek\u00fchlens.\r\n\r\nDie Hefe finde ich richtig gut. War hier zum ersten mal im Einsatz. Leistet auch bei niedrigeren Temperaturen gute Arbeit und kl\u00e4rt auch sehr sch\u00f6n. "
+}

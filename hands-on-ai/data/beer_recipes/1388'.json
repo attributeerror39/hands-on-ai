@@ -1,0 +1,109 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Fire Rock Clone",
+    "Datum": "28.11.2020",
+    "Sorte": "Pale Ale",
+    "Autor": "Waikoloa",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Fire Rock Kona Brewing",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 35,
+    "Farbe": 18,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Mein liebstes Bier von Kona Brewing.\r\nEs ist ein wenig mit dem SNPA vergleichbar durch das Stopfen aber fruchtiger. Gebraut mit dem 30 L Mundschenk. ",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.23,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz 2",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 330,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22.27272727272727,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 7.363636363636363,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 14,
+            "Alpha": 9.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 7,
+            "Alpha": 6,
+            "Zeit": 40,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 7,
+            "Alpha": 6,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 7,
+            "Alpha": 6,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 7,
+            "Alpha": 6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fcher",
+            "Menge": 7,
+            "Alpha": 5.2,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 20
+        }
+    ],
+    "Hefe": "Mangrove Jack M44",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 75.2,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Gestopft wurde nach 14 Tage f\u00fcr 5 Tage. Karboniert wurde mit Zucker und der Dosierhilfe. Bier ist schon nach kurzer Lagerung sehr Lecker. \r\n"
+}

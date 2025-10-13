@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Gurgelrutscher",
+    "Datum": "05.02.2013",
+    "Sorte": "Helles",
+    "Autor": "horstibus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.8,
+    "Bittere": 25,
+    "Farbe": 10,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "S\u00fcffiges oberg\u00e4riges Helles, leicht hopfig,etwas blumig mit einem Hauch Zitrus-\/Nadelholznoten. Rutscht seeehr schnell die Gurgel runter...",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.64,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 550,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 91,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.363636363636363,
+    "Einmaischtemperatur": 46,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 74,
+            "Zeit": 35
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.545454545454547,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Dr, Rudi (Super Alpha)",
+            "Menge": 5,
+            "Alpha": 11,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Dr, Rudi (Super Alpha)",
+            "Menge": 5,
+            "Alpha": 11,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Dr, Rudi (Super Alpha)",
+            "Menge": 5,
+            "Alpha": 11,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Dr, Rudi (Super Alpha)",
+            "Menge": 23,
+            "Alpha": 11,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 1007 German Ale",
+    "Gaertemperatur": "15-18",
+    "Anmerkung_Autor": "Hauptguss besteht aus Kirkel Wasser von Lidl.\r\nNachguss Ludwigshafener Stadtwasser.\r\nMein Versuch eines hellen \"Saufbiers\".\r\nNoch nie zuvor habe ich so viel vom Jungbier vernichtet (ca 2 Liter).\r\nWie der Name vermutet rutscht es die Gurgel seeeehr schnell runter..."
+}

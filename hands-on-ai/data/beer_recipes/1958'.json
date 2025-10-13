@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Breakfast at Tiffany&#039;s",
+    "Datum": "07.03.2024",
+    "Sorte": "Milk Stout",
+    "Autor": "PaBe1992",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.2,
+    "Bittere": 32,
+    "Farbe": 75,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Sehr leckeres Coffee&amp;Milk Stout welches vor allem durch seinen guten Kaffegeschmack auff&auml;llt und an einen trinkbaren Fr&uuml;hst&uuml;cksgenuss erinnert und gleichzeitig eine sehr gute Schaumstabilit&auml;t hat.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.94,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchner Malz",
+            "Menge": 1000,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 530,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R&ouml;stgerste unverm&auml;lzt",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R&ouml;stmalz Spezial 2",
+            "Menge": 190,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.823529411764707,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.588235294117647,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Fuggles",
+            "Menge": 38,
+            "Alpha": 4.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggles",
+            "Menge": 38,
+            "Alpha": 4.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Lactosepulver",
+            "Menge": 265,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Kaffeepulver ",
+            "Menge": 59,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Godzawa Porter &amp; Kwass",
+    "Gaertemperatur": "19-21",
+    "Endvergaerungsgrad": 68,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Gebraut wurde das Stout mit einem Malzrohrsystem.\r\nK&uuml;hlung durch Brunnenwasser &lt;5min auf unter 80&deg;C. Angestellt wurde direkt bei 20&deg;C nach Rehydrierung der Trockenhefe. Diese ist nach ca. 24h angekommen. Nach 7 Tagen wurde mit Kaffeepulver gestopft. Verwendet habe ich ein Kaffeepulver welches f&uuml;r Espresso geeignet ist und somit ziemlich stark ist. Dieses wurde in einem Mahlgrad mit Stufe &quot;Frenchpress&quot; also grob gemahlen. Nach 10 Tagen war die Hauptg&auml;rung beendet und es wurde in Flaschen abgef&uuml;llt.\r\n\r\nNach 7 Tagen Nachg&auml;rung auf Raumtemperatur wurde das Bier im G&auml;rk&uuml;hlschrank (5-6&deg;C) gelagert f&uuml;r die Reifung.\r\n\r\nVerwendet habe ich ein Kaffeepulver welches f&uuml;r Espresso geeignet ist und somit ziemlich stark ist. Dieses wurde in einem Mahlgrad mit Stufe &quot;Frenchpress&quot; also grob gemahlen."
+}

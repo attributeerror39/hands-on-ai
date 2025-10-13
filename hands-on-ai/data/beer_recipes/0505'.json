@@ -1,0 +1,68 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bayrisch-Mandarin Hell",
+    "Datum": "04.08.2015",
+    "Sorte": "Pale Ale",
+    "Autor": "Spasskrapfen1",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.4,
+    "Bittere": 24,
+    "Farbe": 6,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Sehr helles Pale Ale mit einer deutlichen Spur von Mandarine. Tolles Sommerbier, nahezu ideal karbonisiert. Optimale Trinktemperatur 9\u00b0C",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 100,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.7,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 20,
+            "Alpha": 7.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 30,
+            "Alpha": 7.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "18-22",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Lagerung in der Flasche \u00fcber 4 Wochen, nach rund 2 Monaten ist das Bier richtig gut. Ich habe Dolden verwendet. F\u00fcr Pellets ca. 15% abziehen."
+}

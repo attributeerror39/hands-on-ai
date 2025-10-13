@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Alt Nr.1",
+    "Datum": "03.11.2014",
+    "Sorte": "Altbier",
+    "Autor": "Alt-Phex",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 36,
+    "Farbe": 26,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Leckeres, sehr s\u00fcffiges Altbier mit angenehmer aber deutlicher Hopfenote.\r\n\r\n",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 2.56,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 1.09,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial II",
+            "Menge": 42,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.68,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.35,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Norther Brewer",
+            "Menge": 28,
+            "Alpha": 8.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 12,
+            "Alpha": 4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Brewferm Top",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "Rezept abgeleitet vom H\u00f6vels Alt Clone auf M\u00fcggeland.\r\nAndere Hefe und Aromahopfen (30%) hinzugef\u00fcgt.\r\n\r\nWeizenmalz einfach direkt mit einmaischen, R\u00f6stmalz zum ende der Maltoserast\r\nhinzuf\u00fcgen (2te Rast)\r\n\r\nAlt Nr.1 weil es mein erstes war und das ist auch direkt mal richtig lecker geworden. Sollte eigentlich nur ein Testsud werden, nach dem Motto \"Egal wird schon passen\", werde das so oder in leicht abgewandelter Form aber irgendwann nochmal brauen."
+}

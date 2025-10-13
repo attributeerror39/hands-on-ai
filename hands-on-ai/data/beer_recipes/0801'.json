@@ -1,0 +1,85 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ailinger Callista",
+    "Datum": "08.11.2017",
+    "Sorte": "Pale Ale",
+    "Autor": "K\u00fcchenbrauer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 31,
+    "Farbe": 19,
+    "Alkohol": 4.6,
+    "Kurzbeschreibung": "Leckeres fruchtiges ausgewognes dunkeloragefarbenes Bier . Gebraut mit dem braumeister 20",
+    "Malze": [
+        {
+            "Name": "Wiener Malz ",
+            "Menge": 3.09,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 960,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carra Hell",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 5.217391304347826,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Huell melon",
+            "Menge": 17,
+            "Alpha": 5.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 5,
+            "Alpha": 14.3,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 87,
+            "Alpha": 2.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Callista",
+            "Menge": 130
+        }
+    ],
+    "Hefe": "Mangrove Jack Empire ale M 15",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 60.1,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Sehr leckeres und fruchtiges Bier. Der Callista bringt ein multivitamin Aroma rein das gut zu der bittere passt. Auch sehr gut im Abgang und nicht so leer wie viele Pale Ales\r\nWurde von meinen testtrinkern durchweg als sehr lecker und s\u00fcffig bewertet.\r\nDurch die Hefe die einen niedrigen evg hat auch ein relativ leichtes Bier, aber ich mag sie sehr gerne bringt auch sch\u00f6ne fruchtaromen mit.\r\nGestopft f\u00fcr 7 Tage bei 20grad"
+}

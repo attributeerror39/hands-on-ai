@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hans' Martiniacum K\u00f6lsch",
+    "Datum": "01.05.2018",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "huntsman ",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 27,
+    "Farbe": 9,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Leichtes, s\u00fcffiges und nicht zu fruchtiges Bier K\u00f6lner Brauart. \r\nDas Bier f\u00fcr die ganz Ungeduldigen, da es bereits nach zwei Wochen Lagerung probiert werden kann - f\u00fcr den vollen Geschmack sollte es nat\u00fcrlich auch ca. vier Wochen liegen. ",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Malz hell",
+            "Menge": 1.25,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20.833333333333336,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.166666666666668,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition ",
+            "Menge": 37,
+            "Alpha": 6.2,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 8,
+            "Alpha": 6.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moos",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "FERMENTIS S-33",
+    "Gaertemperatur": "19",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Ist mein erstes eigenes Bier. Alle sagen es w\u00fcrde sehr gut schmecken, ich hoffe ich habe die Werte alle richtig berechnet.\r\nSollte es mal jemand nachbrauen, w\u00fcrde mich die Meinung sehr interessieren. \r\nALTERNATIV: kann man als Aroma-Hopfen auch Citra 3gr 12% auf 11 Liter schmeckt auch sehr gut"
+}

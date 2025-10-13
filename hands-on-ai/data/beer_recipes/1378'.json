@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Fly Blown Belgian anderer Hopfen Amarill",
+    "Datum": "15.11.2020",
+    "Sorte": "Belgisches Blonde Ale",
+    "Autor": "pjascii",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 25,
+    "Bittere": 27,
+    "Farbe": 19,
+    "Alkohol": 10,
+    "Kurzbeschreibung": "Dunkles Belgian Blonde Ale. Sehr Malzig mit moderaten Bittere und fruchtigem Geschmack. ",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 5.71,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamellmalz Amber",
+            "Menge": 140,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin",
+            "Menge": 95,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.047619047619047,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 5.7142857142857135,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 24,
+            "Alpha": 7.3,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 43,
+            "Alpha": 7.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Zucker",
+            "Menge": 952,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "M47",
+    "Gaertemperatur": "23",
+    "Endvergaerungsgrad": 66,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": " Nach Ende der G\u00e4rung wird 20 ml Orangensirup hinzugef\u00fcgt."
+}

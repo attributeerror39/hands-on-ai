@@ -1,0 +1,73 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hangover",
+    "Datum": "27.01.2022",
+    "Sorte": "Rauchbier",
+    "Autor": "marsabba",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 27,
+    "Farbe": 46,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Ein Rauchbier f\u00fcr Einsteiger: nur mild rauchig, daf\u00fcr fett malzig",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 1.06,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner 2",
+            "Menge": 1.53,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram\u00fcnch 1",
+            "Menge": 420,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraAroma",
+            "Menge": 130,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rauchmalz Viking",
+            "Menge": 1.06,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.470588235294116,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 9.411764705882353,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Opal",
+            "Menge": 24,
+            "Alpha": 7.6,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Opal",
+            "Menge": 12,
+            "Alpha": 7.6,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Windsor",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 4
+}

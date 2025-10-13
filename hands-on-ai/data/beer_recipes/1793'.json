@@ -1,0 +1,119 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hula Hula IPA",
+    "Datum": "19.03.2023",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "Hembitter",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.7,
+    "Bittere": 25,
+    "Farbe": 11,
+    "Alkohol": 7.4,
+    "Kurzbeschreibung": "Juicy IPA mit Schwerpunkt Simcoe, wurde auf der diesj\u00e4hrigen HBCON beim Puplikumswettbewerb von mir ausgeschenkt und flei\u00dfig weggetrunken!",
+    "Malze": [
+        {
+            "Name": "Golden Promise PA",
+            "Menge": 2.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Barke Pilsner",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 150,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Red",
+            "Menge": 130,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20.5,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 67.5,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 9.5,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 17,
+            "Alpha": 12.5,
+            "Zeit": 75,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 90,
+            "Alpha": 12.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Simcoe ",
+            "Menge": 38
+        },
+        {
+            "Sorte": "Citra ",
+            "Menge": 50
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 50
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Cryo Citra",
+            "Menge": 30,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cryo Simcoe",
+            "Menge": 30,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Motueka ",
+            "Menge": 20,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "WY 1007",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Das Rezept ist angelehnt an das \"Training Bines\" von Pinthouse in Texas,\r\nallerdings an meinen pers\u00f6nlichen Geschmack angepasst.\r\nDie gef\u00fchlte Bittere liegt so bei ca. 50-60 IBU (gerechnet 25),\r\nes kam noch 20g Simcoe in die Maische am ende der Kombirast.\r\nWasser: Sulfat 69mg\/l  Chlorid 155mg\/l\r\nMaische PH 5,3  W\u00fcrze PH 5,2\r\nWhirlpoolgabe bei 92\u00b0C f\u00fcr 20min auf 80\u00b0C\r\nNach Ende der HG 20\u00b0C f\u00fcr 3 Tage halten, anschlie\u00dfend auf 13 \u00b0C k\u00fchlen \r\nund den gesamten Stopfhopfen zugeben. \r\nNach dem CC umdr\u00fccken und zwangskarbonisieren.\r\nViel Spa\u00df beim Nachbrauen!\r\n"
+}

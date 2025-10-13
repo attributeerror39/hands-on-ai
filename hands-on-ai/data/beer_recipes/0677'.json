@@ -1,0 +1,65 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "SMasH Wiener+Citra",
+    "Datum": "01.02.2017",
+    "Sorte": "Pale Ale",
+    "Autor": "hyper472",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 24,
+    "Farbe": 12,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "helles erfrischendes Ale mit deutlicher Citrusnote",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 3.74,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.173913043478262,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 62,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.82608695652174,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 6,
+            "Alpha": 14,
+            "Zeit": 75,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 6,
+            "Alpha": 14,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 6,
+            "Alpha": 14,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "17-18",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Mein bisher einfachstes Rezept f\u00fchrte zu einem meiner besten Biere. Urspr\u00fcnglich wollte ich mit dem SMasH-Rezept nur die Zutaten kennenlernen, aber das hier wird genau so wieder gebraut. \r\nDas gleiche Rezept, nur mit Spalter Select statt Citra, f\u00fchrte zu einem v\u00f6llig anderen, ebenfalls sehr leckeren Bier.\r\nDas Wasser habe ich mit Milchs\u00e4ure auf 3\u00b0DH getrimmt (alle Berechnungen nach kBH).\r\nDas Bier kommt sehr gut an und ist sehr einfach zu brauen. Das Rezept eignet sich gut, um darauf aufbauend individuelle Erg\u00e4nzungen \/ \u00c4nderungen vorzunehmen. Letztlich kann man so zahlreiche Hopfen und Basismalze kombinieren. Bitte etwas vorsichtig sein mit dem Citra, mehr als auf 25 IBU w\u00fcrde ich mit dem nicht machen, er wird dann etwas eigen.\r\nFragen dazu gerne hier oder im Forum.\r\nGr\u00fc\u00dfe,\r\nHenning\r\n"
+}

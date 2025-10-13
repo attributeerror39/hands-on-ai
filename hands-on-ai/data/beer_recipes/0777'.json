@@ -1,0 +1,96 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Leipziger Gose (Schummelversion)",
+    "Datum": "17.09.2017",
+    "Sorte": "Sauerbier",
+    "Autor": "hyper472",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 9.5,
+    "Bittere": 15,
+    "Farbe": 6,
+    "Alkohol": 4.2,
+    "Kurzbeschreibung": "Gose mit Koriander, Salz und Milchs\u00e4ure. Gebraut mit 25% High Gravity am BM 10.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.87,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 1.36,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.125,
+    "Einmaischtemperatur": 48,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 0
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8.75,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 18,
+            "Alpha": 4.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hersbrucker Sp\u00e4t",
+            "Menge": 30,
+            "Alpha": 2.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Kochsalz",
+            "Menge": 13,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Koriander",
+            "Menge": 13,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Milchs\u00e4ure 80%",
+            "Menge": 66,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Nottingham Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Wasser mit Milchs\u00e4ure auf 2,5\u00b0dH eingestellt.\r\nDie Koriander- und Salzmenge ist moderat, aber deutlich sp\u00fcrbar und verh\u00e4lt sich sehr ausgewogen zu Milchs\u00e4ure, Hopfen und Malz.\r\nBitte frisch gem\u00f6rserten Koriander verwenden. Ich habe mit Wasser auf Zielstammw\u00fcrze verd\u00fcnnt, drei Wochen g\u00e4ren lassen und dann direkt aus dem G\u00e4rbottich abgef\u00fcllt. Bereits nach einer Woche sehr trinkbar und rund im Geschmack.\r\nSicher einer der einfachsten Wege, ein leckeres (Schummel-)Sauerbier zu brauen."
+}

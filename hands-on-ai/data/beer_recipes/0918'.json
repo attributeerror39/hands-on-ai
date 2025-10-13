@@ -1,0 +1,139 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Saison d'\u00eatre",
+    "Datum": "20.06.2018",
+    "Sorte": "Saison",
+    "Autor": "DrFedi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.7,
+    "Bittere": 52,
+    "Farbe": 18,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Orangefarbenes, erfrischend spritziges Saison, mit einer Geschmackstiefe, die die Geschmackssinne angenehm kitzelt. Man ahnt die Gew\u00fcrze, sie sind aber in keiner Weise aufdringlich. Es ist auch sch\u00f6n herb. ",
+    "Malze": [
+        {
+            "Name": "Pilsenermalz",
+            "Menge": 1.89,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wienermalz",
+            "Menge": 1.37,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 630,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 530,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchnermalz",
+            "Menge": 420,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Spitzmalz",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "siehe Bemerkung unten",
+            "Menge": 460,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22.10526315789474,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 42,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.473684210526315,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 26,
+            "Alpha": 4.7,
+            "Zeit": 75,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 26,
+            "Alpha": 5.7,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 21,
+            "Alpha": 4.7,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 21,
+            "Alpha": 4.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sval\u00f6f Maurits",
+            "Menge": 12,
+            "Alpha": 2.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Petersilie, frisch",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Salbei, frisch",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Thymian, frisch",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Protafloc (zur Kl\u00e4rung)",
+            "Menge": " &frac12;",
+            "Einheit": "St\u00fcck"
+        }
+    ],
+    "Hefe": "Crossmyloof Lille Saison",
+    "Gaertemperatur": "19",
+    "Karbonisierung": 7,
+    "Anmerkung_Autor": "Weitere Malze: Roggenmalz 150g, Caramunich 175g, Sauermalz 100g, Rauchmalz 15g. \r\nDie Gew\u00fcrze einfach zerfleddern und im Teebeutel mitkochen (Vorteil des Teebeutels: Man kann es vor dem Whirlpool wieder rausnehmen).\r\nSval\u00f6f Maurits ist ein schwedischer Hopfen aus meinem Garten. Es ist eine Saaz-Tochter. \r\nHaferflocken sind irgendwelche Haferflocken. Ich habe nichts damit gemacht ausser einmaischen. \r\nIch karbonisiere mit Zucker. Ziehe 0,6% Alkoholgehalt ab, wenn du ohne Zucker karbonisierst. \r\nCrossmyloof ist eine Brauerei in Glasgow, die aber auch Trockenhefen und Hopfen verscherbelt, u. A. auf ebay.\r\nTante Edit: Nachguss gesch\u00e4tzt. "
+}

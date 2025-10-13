@@ -1,0 +1,85 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Wild Romance Klon",
+    "Datum": "14.02.2024",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "Tille1987",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Wild Romance von Kuehn Kunz Rosen",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.6,
+    "Bittere": 9,
+    "Farbe": 5,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "leichte S&auml;ure durch das Bergamottenp&uuml;ree, leicht kr&auml;uterig durch den Zitronenthymian und Noten von Vanille und Marzipan durch die Tonkabohne",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenflocken",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken kernig",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.545454545454547,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 56,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 13.818181818181818,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amira",
+            "Menge": 6,
+            "Alpha": 11.9,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Bergamottenp&uuml;ree",
+            "Menge": 909,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Zitronenthymian",
+            "Menge": 36,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Tonkabohne",
+            "Menge": 18,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Gozdawa Classic Belgian Witbier",
+    "Gaertemperatur": "19-21",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 5.4,
+    "Anmerkung_Autor": "Das Wild Romance ist ein White Ale mit Bergamotte, Zitronenthymian und Tonkabohne. Das spritzige Bier erfrischt mit leichter S&auml;ure der Bergamotte gepaart mit angenehm herbalen Noten des Zitronenthymians. Abgerundet wird das fruchtaromatische Bier mit einem Hauch Tonkabohne, der s&uuml;&szlig;lich-herb an Vanille und Marzipan erinnert.\r\n\r\nGebraut habe ich das Bier in einem 34l Topf mit R&uuml;hrwerk, L&auml;uterhexe und Hendi Induktionsplatte. Gel&auml;utert wurde in einem 36l Topf in dem anschlie&szlig;end gekocht wurde. Aktiv gek&uuml;hlt wurde mit der Hydra von JaDeD und dann mit einem Bierheber durch ein Monofilamentfilter in den G&auml;rbottich transportiert.\r\n\r\nWasserprofil: Calcium: 74, Magnesium: 4, Sulfat: 62, Chlorid: 77, Natrium: 7, RA: 0\r\n\r\nMaische pH wurde mit Milchs&auml;ure auf 5,5 eingestellt.\r\n\r\nDie Hopfensorte ist total egal da sie nur zum bittern dient.\r\n\r\nAnstelltemperatur: 19&deg;C, nach 3 Tagen auf 21&deg;C kommen lassen.\r\n\r\nNach 4 Tagen habe ich dann gestopft.\r\nBeim Stopfen der Gew&uuml;rze zuerst die Tonkabohne rein werfen, danach den Zitronenthymian und dann das Bergamottenp&uuml;ree. Ich hatte zuerst den Zitronenthymian rein getan und dann erst die Tonkabohnen, Problem war damit sich ein Zitronenthymianteppich gebildet hat und ein Gro&szlig;teil der Tonkabohnen gar kein Kontakt mit dem Bier hat. Mit einer Schaumkelle w&uuml;rde die Tonkabohnen dann ins Bier runter gedr&uuml;ckt, sie doch noch absinkt.\r\n\r\nDie Tonkabohnen wurde vorher klein gehackt und f&uuml;r 3min bei 160&deg;C anger&ouml;stet.\r\n\r\nGestopft wurde ca. 36h. Danach habe ich einen Monofilamentfilter abgekocht, darin den Bierheber gesteckt und in einen anderen G&auml;reimer umgef&uuml;llt um das Bier von den Gew&uuml;rzen zu trennen. Dort habe ich das dann endverg&auml;ren lassen.\r\n\r\nDie CBW war ziemlich fix und hat das Bier nach 8 Tagen von 12,6&deg;P auf 3,6%mas Restextrakt vergoren, was eine sEVG von 72% entspricht."
+}

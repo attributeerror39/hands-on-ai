@@ -1,0 +1,97 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "TBO002",
+    "Datum": "18.01.2019",
+    "Sorte": "Scottish Ale",
+    "Autor": "still04",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 25,
+    "Farbe": 50,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Super s\u00fcffiges Bier mit leichten Karamell- und R\u00f6staromen.   ",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 830,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraAmber",
+            "Menge": 330,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Chocolate",
+            "Menge": 83,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraAroma",
+            "Menge": 42,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.666666666666668,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 90
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 8,
+            "Alpha": 5.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 8,
+            "Alpha": 4.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 33,
+            "Alpha": 5.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 8,
+            "Alpha": 4.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 1728 Scottish Ale Yeast",
+    "Gaertemperatur": "23",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Die Haferflocken habe ich im Ofen bei 180 \u00b0C f\u00fcr eine Stunde und unter regelm\u00e4\u00dfigem R\u00fchren leicht anger\u00f6stet um Nussaromen ins Bier zu bekommen.\r\nDen Vorlauf habe ich aufgefangen und separat zu einem Sirup runtergekocht. Anschlie\u00dfend habe ich den Sirup wieder zur W\u00fcrze gegeben. \r\n\r\nDie G\u00e4rtemperatur war leider diesen Sommer f\u00fcr mich nicht niedriger einzustellen. Das Bier brauchte somit 2 Monate Lagerung, bevor die Fuselnote endg\u00fcltig nicht mehr zu schmecken war. \r\n\r\nDanach ein super leckeres s\u00fcffiges und rundes Scottish Ale!"
+}

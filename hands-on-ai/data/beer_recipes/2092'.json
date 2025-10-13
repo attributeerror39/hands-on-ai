@@ -1,0 +1,118 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Manneliefde",
+    "Datum": "30.03.2025",
+    "Sorte": "Saison",
+    "Autor": "francoisduprez",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Manneliefde Oedipus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 45,
+    "Farbe": 9,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "Het is een saison, een stijl met de oorsprong in het zuiden van Belgi&euml;. Saisons worden vaak gekenmerkt door een hoge vergistingsgraad wat een droog bier oplevert. De saison gisten die hiervoor geschikt zijn geven naast fruitige ook vaak kruidige smaken als typische peperigheid aan het bier. Het gebruik van verschillende granen naast gerst en kruiden in het brouwproces is ook vrij gebruikelijk. Het recept Mannenliefde is een moderne interpretatie van deze traditionele bierstijl. We gebruiken wat uitgesproken Amerikaanse hoppen en citroengras en Szechuanpeper om de frisse kruidigheid te versterken.",
+    "Malze": [
+        {
+            "Name": "Dingemans Pilsen MD",
+            "Menge": 3.17,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Dingemans Tarwemout",
+            "Menge": 1.46,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Chateau Biscuit",
+            "Menge": 240,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.5,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16.5,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 21,
+            "Alpha": 6.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sorachi Ace",
+            "Menge": 28,
+            "Alpha": 11.1,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 45,
+            "Alpha": 13.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Sorachi Ace",
+            "Menge": 70,
+            "Alpha": 11.1,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Szechuan peper",
+            "Menge": 8,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Lemon Grass (Citroen gras) (Sereh) gedroogd",
+            "Menge": 8,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Servomyces",
+            "Menge": 0,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Irish Moss",
+            "Menge": 8,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Mangrove Jacks M29 French Saison",
+    "Gaertemperatur": "30",
+    "Endvergaerungsgrad": 88,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "https:\/\/brouwbeesten.nl\/recept-mannenliefde-oedipus-saison\/\r\n\r\nDe ingredienten zijn voor 19l, alle waardes zijn van de website overgenomen. Brouwzaalrendement voor mijn systeem. Alleen de IBU komen bij mij met de hoeveelheid hop die zij gebruiken hoger uit. Ik heb de hoeveelheid van de site aangehouden, maar de IBU&#039;s verhoogt.\r\n\r\nOrgineel gebruiken zij Wyeast Labs 3711 French Saison of Lallemand Belle Saison. Ik heb gekozen voor Mangrove Jacks M29 French Saison."
+}

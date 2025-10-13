@@ -1,0 +1,69 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Kupfer Alt",
+    "Datum": "29.11.2014",
+    "Sorte": "Altbier",
+    "Autor": "muldengold",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 35,
+    "Farbe": 30,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "...malzig-leckeres und anf\u00e4ngerfreundliches Altbier",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 2.96,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenfarbmalz",
+            "Menge": 40,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14,
+    "Einmaischtemperatur": 61,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 46,
+            "Alpha": 5.3,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 1007 oder 1338",
+    "Gaertemperatur": "14-18",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Bier wird trotz der langen Rasten ausgewogen malzbetont. "
+}

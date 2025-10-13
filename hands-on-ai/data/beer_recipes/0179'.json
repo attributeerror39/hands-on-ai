@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Weizentinus",
+    "Datum": "11.02.2012",
+    "Sorte": "Weizenbock",
+    "Autor": "saarmoench",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 18.5,
+    "Bittere": 28,
+    "Farbe": 40,
+    "Alkohol": 7.1,
+    "Kurzbeschreibung": "dunkler Weizendoppelbock, feine Bananenaromen und Ankl\u00e4nge von Pflaumen ",
+    "Malze": [
+        {
+            "Name": "Weizenmalz ",
+            "Menge": 3.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchnermalz ",
+            "Menge": 2.24,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wienermalz",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste (1100 EBC)",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.6,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 75
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8.8,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum ",
+            "Menge": 12,
+            "Alpha": 15,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 22,
+            "Alpha": 4,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 5,
+            "Alpha": 4,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 3068 Weihenstephan Weizen",
+    "Gaertemperatur": "21-23",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Die R\u00f6stgerste habe ich 20 min vor dem Abmaischen zugegeben. \r\nVorbild war das Schneider Aventinus, geschmacklich im Vergleich etwas kr\u00e4ftiger\/r\u00f6stiger trotz 1% weniger Alkohol. Die 3068 bringt sch\u00f6ne Bananenaromen hervor, die gut mit den w\u00fcrzigen Aromen (Weizenrast) harmonisieren. "
+}

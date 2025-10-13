@@ -1,0 +1,110 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Kunzeb\u00e4cher IPA",
+    "Datum": "09.05.2020",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "Male",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17,
+    "Bittere": 30,
+    "Farbe": 30,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Goldbraunes Bier nicht zu bitter sehr s\u00fcffiges IPA",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.46,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 1.82,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Bohemia",
+            "Menge": 610,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch II",
+            "Menge": 550,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener ",
+            "Menge": 570,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.25,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 7.75,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 23,
+            "Alpha": 5.3,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Aurora",
+            "Menge": 5,
+            "Alpha": 7.7,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 8,
+            "Alpha": 9.4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 6,
+            "Alpha": 5.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 3,
+            "Alpha": 9.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Aurora",
+            "Menge": 6,
+            "Alpha": 7.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Nottingham",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Mein Erster Sud nach mehr als 20 Jahren. Das Bier war feinherb goldbraun und lies sich sehr gut drinken (Meinung von vielen Testern)\r\nWasser kommt aus unserer Entsalzungsanlage mit 7dh und wenig Mineralsalze \r\nDie Lagerung des Bieres wurde mit 7 Wochen bei 10-14 grad vollf\u00fchrt\r\nSpeisemenge 2,7 liter \r\n"
+}

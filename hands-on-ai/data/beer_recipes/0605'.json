@@ -1,0 +1,109 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Zwischen den St\u00fchlen",
+    "Datum": "01.07.2016",
+    "Sorte": "India Pale Ale",
+    "Autor": "DrFedi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.5,
+    "Bittere": 78,
+    "Farbe": 22,
+    "Alkohol": 7.1,
+    "Kurzbeschreibung": "Einem Engl\u00e4nder w\u00fcrde es amerikanisch vorkommen, einem Amerikaner eher englisch (Also ist es genau richtig). Dunkle, w\u00fcrzige Hopfenaromen im angenehmen Gleichgewicht mit Bittere, Alkohol und Malz.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.71,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener",
+            "Menge": 2.07,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Crystal Rye",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 360,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchnermalz",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 140,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.142857142857142,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 90
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.285714285714286,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Sticklebract",
+            "Menge": 21,
+            "Alpha": 12.3,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sticklebract ",
+            "Menge": 21,
+            "Alpha": 12.3,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sticklebract ",
+            "Menge": 29,
+            "Alpha": 12.3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Protafloc",
+            "Menge": " &frac34;",
+            "Einheit": "St\u00fcck",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Hefenahrung",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Sticklebract ",
+            "Menge": 29
+        }
+    ],
+    "Hefe": "Safale 04",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Nachguss gesch\u00e4tzt. Farbe auch. IBU ist Pi mal Daumen gerechnet, stimmt aber mit dem Trinkeindruck.\r\nDurch pl\u00f6tzlichen Brauhelferausfall stand die W\u00fcrze nach dem Kochen etwas l\u00e4nger als geplant. Daher wurde das Bier etwas bitterer als geplant. Und das ist wirklich gelungen.\r\nDass die Sch\u00fcttung kleine Malzreste beinhaltet, ist Zufall, aber das Crystal Rye, denke ich, ist wichtig f\u00fcr die Komplexit\u00e4t des Malzes. \r\nWird nach 2 Wochen Flascheng\u00e4rung gen\u00fcsslich getrunken. "
+}

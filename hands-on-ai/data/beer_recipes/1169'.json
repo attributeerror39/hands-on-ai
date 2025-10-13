@@ -1,0 +1,138 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "DC Imperial Stout",
+    "Datum": "06.11.2019",
+    "Sorte": "Imperial Stout",
+    "Autor": "DerDallmann",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20.4,
+    "Bittere": 50,
+    "Farbe": 198,
+    "Alkohol": 8.8,
+    "Kurzbeschreibung": "Imperial Stout, mein Weihnachtsbier 2019. Fruchtig, r\u00f6stig, Schwarz, stark, gut. Gestopft mit ProvOak Hopfen-Holz-Pellets, EU Version.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz (Avangard)",
+            "Menge": 4.73,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken, kernig ",
+            "Menge": 1.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caraaroma (Weyermann, 400EBC)",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz, hell (Avangard)",
+            "Menge": 470,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt (Best, 900 EBC)",
+            "Menge": 330,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste (1150 EBC)",
+            "Menge": 170,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Eichenrauch Weizenmalz",
+            "Menge": 130,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 32,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 0.6666666666666666,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Herkules",
+            "Menge": 15,
+            "Alpha": 15.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Ariana",
+            "Menge": 10,
+            "Alpha": 9.9,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Ariana",
+            "Menge": 10,
+            "Alpha": 9.9,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 17,
+            "Alpha": 3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 13,
+            "Alpha": 13.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 27,
+            "Alpha": 13.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Hefenahrung",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Irish Moss",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Muscovado Zucker",
+            "Menge": 467,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "ProvOak Pellets, EU-Variante",
+            "Menge": 33
+        }
+    ],
+    "Hefe": "Mangrove Jack's M42",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 4.2,
+    "Anmerkung_Autor": "Aufgrund der maximal m\u00f6glichen 7 Sch\u00fcttungsanteile habe ich etwas zusammen gefasst. Folgende \u00c4nderungen: Die 7100 g PiMa enthalten 1000 g WiMa. Die 1700 g Haferflocken enthalten 850 g Dinkelflocken. Die 500 g Chocolate Malt enthalten 250 g Pale Chocolate Malt.\r\n\r\nGrunds\u00e4tzlich hatte ich mich grob am Camba-Rezept von dadr orientiert. Das Stout ist sehr komplex, vielschichtig und fruchtig geworden. Die ProvOak-Pellets haben leichte Aromen Richtung Fasslagerung rein gebracht, zus\u00e4tzlich ganz leichte Stopfaromen. Der Rauchmalzanteil kommt leicht durch im Hintergrunde. Man schmeckt es nur raus, wenn man es wei\u00df. Was ich nicht erwartet h\u00e4tte ist, dass es trotz kurzer Lagerzeit (gebraut am 31.08.2019) schon sehr gut trinkbar ist. Ich bin gespannt, was jetzt noch damit passiert.\r\n\r\nGebraut per BIAB, daher die Ausbeute\/Nachg\u00fcsse.\r\n\r\nDer Name kommt aus dem Buch \"Imperial Stout and selling out\", \u00fcber die Geschichte der Goose Island Brauerei. Sehr zu emfehlen... (Cheers an Hans!)\r\n\r\nWichtig:\r\nBitte das Rezept nicht 1:1 \u00fcbernehmen, sondern an eure Brauanlage, sowie eure Sudhausausbeute anpassen. Ebenso sind die Mengen zu Haupt-, und Nachguss an euer System anzupassen. "
+}

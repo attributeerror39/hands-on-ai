@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Saphir Hopfenweisse",
+    "Datum": "23.12.2021",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "saxgaard",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.4,
+    "Bittere": 31,
+    "Farbe": 11,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Kombination von Bananen- und Citrusaromen. Gute Schaumstabilit&auml;t.\r\nTrotz der 36 IBU kommt das Weissbier nicht trocken oder zu bitter daher. Es hat einen angenehmen Abgang und man setzt gern zum n&auml;chsten Schluck an.",
+    "Malze": [
+        {
+            "Name": "Weizen Hell",
+            "Menge": 2.53,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener",
+            "Menge": 1.26,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Vienna",
+            "Menge": 1.26,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 26.400000000000002,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saphir",
+            "Menge": 41,
+            "Alpha": 4.3,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 16,
+            "Alpha": 4.3,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 18,
+            "Alpha": 4.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Wyeast 3068, gestrippte Farny Hefe",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 77.3,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Wasser\r\nCa70, Mg9, Na8, Cl51, SO4 56, HCO3 110.\r\nHartes Wasser.\r\nAnlage BIAB.\r\nAnstellen bei 22 Grad. \r\nHauptg&auml;rung f&uuml;r 2 Wochen bei 20 bis 22 Grad um noch mehr das Bananige Aroma zu f&ouml;rdern.\r\nNachg&auml;hrung in der Flasche f&uuml;r 3 Wochen bei ca. 20 Grad. \r\nDruck am Flaschenmanometer im Blick behalten. Wenn der nicht mehr steigt nach ca. 4 Tagen in Folge, ab damit in den K&uuml;hlschrank bei ca. 5 Grad. Trinkfertig bereits nach ca. 2 bis 3 Tagen beim Reifen im K&uuml;hlschrank. \r\nTr&uuml;bung siehe Foto. \r\n"
+}

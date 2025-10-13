@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Grisette",
+    "Datum": "27.05.2024",
+    "Sorte": "Saison",
+    "Autor": "Rhoener",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 9.9,
+    "Bittere": 18,
+    "Farbe": 5,
+    "Alkohol": 4.7,
+    "Kurzbeschreibung": "Entstanden im Rahmen der 7HB7B2 Aktion.\r\nGrisette l&auml;sst sich in viele Richtungen interpretieren. Meine Version habe ich leichter gehalten, eher weniger Alkohol und mild gehopft. Ein guter Durstl&ouml;scher nach einem harten Arbeitstag im Bergwerk... oder auch nach 2 Stunden Rasenm&auml;hen im Sommer.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.35,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 610,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 60,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 11.75,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 71,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.95,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertau Tradition",
+            "Menge": 16,
+            "Alpha": 6.8,
+            "Zeit": 55,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Tradition",
+            "Menge": 9,
+            "Alpha": 6.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Eeast Kent Golding",
+            "Menge": 14,
+            "Alpha": 4.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Safale BE 134 + Mangrove Jack M29",
+    "Gaertemperatur": "22-27",
+    "Endvergaerungsgrad": 89.9,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Mit der G&auml;rtemperatur evtl. noch etwas nach oben gehen."
+}

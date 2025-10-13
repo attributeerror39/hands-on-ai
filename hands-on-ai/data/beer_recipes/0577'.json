@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Urfelder Wie\u00df",
+    "Datum": "01.04.2016",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "ChrisBe",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 24,
+    "Farbe": 10,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Sehr s\u00fcffiges oberg\u00e4riges Bier nach k\u00f6lscher Brauart. Bereits drei mal gebraut und immer schnell weg :)",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.19,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz (hell)",
+            "Menge": 490,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch II",
+            "Menge": 48,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.761904761904763,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.80952380952381,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Magnum",
+            "Menge": 11,
+            "Alpha": 15,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 15,
+            "Alpha": 5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Malzwerkstatt Colonia F",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 68.8,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die zweite Hopfengabe nach flame out, Nachisomerisierungszeit 15 min.\r\nBrauwasser mit 80mg CaO\/ltr. entkarbonisiert, so auf Restalakalit\u00e4t 1,8 Grad dH\r\neingestellt. Nach der Nachg\u00e4rung schon nach 2 bis 3 Wochen Lagerzeit im Keller\r\nsehr lecker."
+}

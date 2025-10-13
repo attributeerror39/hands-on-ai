@@ -1,0 +1,68 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "white is red",
+    "Datum": "02.03.2016",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "pltmbr",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 10.3,
+    "Bittere": 32,
+    "Farbe": 4,
+    "Alkohol": 4.3,
+    "Kurzbeschreibung": "wiess",
+    "Malze": [
+        {
+            "Name": "Pilsner Tennenmalz",
+            "Menge": 3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Tennenmalz",
+            "Menge": 800,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 23,
+    "Einmaischtemperatur": 43,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 3,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 25,
+            "Alpha": 8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mittelfr\u00fch",
+            "Menge": 16,
+            "Alpha": 4,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hersbrucker",
+            "Menge": 13,
+            "Alpha": 4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Gozdawa Old German Altbier 9",
+    "Gaertemperatur": "16",
+    "Anmerkung_Autor": "Mit Speidel Braumeister 20 gebraut.\r\nRA auf 0 mit Laktat einstellen."
+}

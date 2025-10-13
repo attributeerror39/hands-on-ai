@@ -1,0 +1,64 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Autumn Copper",
+    "Datum": "27.11.2018",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "alt-phex",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 26,
+    "Farbe": 21,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "S\u00fcffiges, kupferfarbenes Pseudo-Weizen mit Withefe und Caramalz",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchnermalz Dunkel",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Phoenix",
+            "Menge": 20,
+            "Alpha": 10.9,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Phoenix",
+            "Menge": 5,
+            "Alpha": 10.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Gozdawa Classic Belgian Wit",
+    "Gaertemperatur": "20-25\u00b0C",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Diese Withefe hat es mir einfach angetan. Wenig dominante Ester, schnelle Haupt- und Nachg\u00e4rung und das ganze sogar bei h\u00f6heren Temperaturen. Die habe ich dann mal auf verschiedene Biere losgelassen und wurde geschmacklich nie entt\u00e4uscht. Das ist eins davon. Sedimentiert auch sehr gut und macht sch\u00f6n klare Biere.\r\n\r\n4-6 Wochen Kaltreifung machen eine runde Sache aus dem Bier. Der Hopfen spielt hier nur eine untergeordnete Rolle und kann sicherlich auch durch Tradition, Perle oder andere englische Bitterhopfen ersetzt werden. "
+}

@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Twisted Raspberry",
+    "Datum": "26.08.2019",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "N\u00f8rdBrew",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 25,
+    "Farbe": 9,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Fruchtig jedoch Herb trockenes Bier mit einem Thymian twist!\r\nGenau richtig an hei\u00dfen Tagen",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen Hell",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 24,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 6,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tradition",
+            "Menge": 30,
+            "Alpha": 5.1,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 16,
+            "Alpha": 7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Thymian (getrocknet)",
+            "Menge": 6,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Himbeeren (gefroren)",
+            "Menge": 2000,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Safale K-97",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die Himbeeren habe ich nach der Hauptg\u00e4rung (ca. nach 10 Tagen) dazu gegeben und noch einmal 5 Tage g\u00e4ren lassen vorm Abf\u00fcllen.\r\nUnbedingt lange genug kalt reifen lassen! Mindestens einen Monat. Dann wird die Balance zwischen Cascade, Thymian und den Himbeeren perfekt! "
+}

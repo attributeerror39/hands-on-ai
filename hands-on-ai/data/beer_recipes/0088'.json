@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ur-Alt, Typ II",
+    "Datum": "22.03.2011",
+    "Sorte": "Altbier",
+    "Autor": "tauroplu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 35,
+    "Farbe": 45,
+    "Alkohol": 4.7,
+    "Kurzbeschreibung": "S\u00fcffiges Altbier nach D\u00fcsseldorfer Art mit feiner R\u00f6stnote",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.17,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch II",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa spezial II",
+            "Menge": 42,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.5,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 22,
+            "Alpha": 5.3,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 24,
+            "Alpha": 6,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 4,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Brewferm TOP",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 69,
+    "Anmerkung_Autor": "Das R\u00f6stmalz zugeben, wenn die Maltoserast beendet ist.\r\nTyp II hat, bedingt durch die niedrig verg\u00e4rende Hefe, weniger Alk. und ist noch s\u00fcffiger als Typ I"
+}

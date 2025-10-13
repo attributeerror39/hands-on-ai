@@ -1,0 +1,96 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hoplic Enemy",
+    "Datum": "19.09.2016",
+    "Sorte": "Pale Ale",
+    "Autor": "augenzeuge",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 35,
+    "Farbe": 12,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Ein tolles Sommerbier. Nicht zu schwer und gut trinkbar auch bei hohen Temperaturen. Ein Pale Ale, wie es amerikanischer kaum sein k\u00f6nnte. Klassische Pale Ale Hopfen, gepaart mit feinstem Amarillo im dry-hopping. Orange- und Zitrusaromen sind deutlich wahrnembar ohne eine aufdringliche Bittere zu haben.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.97,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Bohemian Pilsner Malz",
+            "Menge": 1.89,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 570,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.142857142857142,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.571428571428571,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 23,
+            "Alpha": 8.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Ahtanum",
+            "Menge": 17,
+            "Alpha": 4.2,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Ahtanum",
+            "Menge": 11,
+            "Alpha": 4.2,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 6,
+            "Alpha": 8.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 86
+        }
+    ],
+    "Hefe": "Fermentis Safale S-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Nachisomerisierungszeit ca 20 Minuten.\r\nHabe eine etwas h\u00f6here Rezens gew\u00e4hlt, um es als ideale Sommererfrischung zu haben. Anmerkung: bei 6g\/L ist es mit dem Fillboy gar nicht so einfach auf Flaschen zu ziehen, da es schnell zum gushing kommt. 5,5g\/l reichen aber auch aus. Trotzdem, sehr lecker!"
+}

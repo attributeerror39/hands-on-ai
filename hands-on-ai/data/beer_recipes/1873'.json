@@ -1,0 +1,102 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "l&#039;abb&eacute; sombre - TriPeDa",
+    "Datum": "01.11.2023",
+    "Sorte": "Belgisches Tripel",
+    "Autor": "DanMe",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20,
+    "Bittere": 30,
+    "Farbe": 45,
+    "Alkohol": 7.3,
+    "Kurzbeschreibung": "Ein von belgischen Bieren inspiriertes dunkles Tripel oder Quadrupel mit Muscovado-Zucker",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchner",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Farbmalz",
+            "Menge": 70,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 53,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 55
+        },
+        {
+            "Temperatur": 75,
+            "Zeit": 17
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 85,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nordbrauer",
+            "Menge": 18,
+            "Alpha": 9.7,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr&uuml;h",
+            "Menge": 20,
+            "Alpha": 4.5,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggles",
+            "Menge": 7,
+            "Alpha": 4.6,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 6,
+            "Alpha": 3.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "1.Gabe Dark Muscovadozucker",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "2.Gabe Dark Muscovadozucker",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "M47 Belgische Abbeyhefe",
+    "Gaertemperatur": "22-24",
+    "Karbonisierung": 5.4,
+    "Anmerkung_Autor": "Wasser: 13&deg;dH, pH 7,5\r\nNach Flameout erste Gabe des MauiSu Dark Muscovadozuckers.\r\nNach 2 Wochen Hauptg&auml;rung, erneute Zugabe von 250g Muscovadozucker.\r\nNach 1 Woche zweite G&auml;rung 8g Haushaltszucker pro Liter hinzugeben f&uuml;r die Flascheng&auml;rung. \r\nNach 2 Wochen Kaltlager.\r\nNach 6 Wochen schon sehr lecker."
+}

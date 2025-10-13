@@ -1,0 +1,122 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Crepping Death",
+    "Datum": "09.07.2019",
+    "Sorte": "Cascadian Dark Ale",
+    "Autor": "Kaldini",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17,
+    "Bittere": 115,
+    "Farbe": 249,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Ein Pechschwarzes IPA, das R\u00f6stmalz passt super mit dem Hopfenaroma von Kokos. Das Black IPA empfinde ich als nicht zu bitter trotz der 115 Bittereinheiten.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Farb-R\u00f6stmalz Cara Spezial II",
+            "Menge": 350,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Black Malt",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 23,
+    "Einmaischtemperatur": 63,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Sorachie Ace",
+            "Menge": 35,
+            "Alpha": 12.2,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 22,
+            "Alpha": 12.4,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 35,
+            "Alpha": 5.1,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sorachie Ace",
+            "Menge": 25,
+            "Alpha": 12.2,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 30,
+            "Alpha": 15.1,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sorachie Ace",
+            "Menge": 20,
+            "Alpha": 12.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 30,
+            "Alpha": 15.1,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Sorachie Ace",
+            "Menge": 40
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 60
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "15-18",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Ich hab das Farb-R\u00f6stmalz erst bei der 67\u00b0Grad Rast hinzugef\u00fcgt, das Black Malt hab ich bei 72\u00b0Grad Rast hinzugef\u00fcgt. Abgemaischt hab ich nach der dritten Rast bei 72\u00b0Grad. \r\nDer Hopfen f\u00fcr den Whirpool hab ich bei unter 80\u00b0Grad dazu gegeben "
+}

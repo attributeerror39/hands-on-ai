@@ -1,0 +1,96 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Simple NEIPA",
+    "Datum": "25.11.2020",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "Aenic",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.3,
+    "Bittere": 25,
+    "Farbe": 8,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Ein New England IPA, dass einfach, fruchtig und nicht bitter ist. Schmeckt nicht nur IPA-Trinkern!",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Hafermalz (Naked Oats)",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Spitzmalz",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 28,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Galaxy (70C Whirlpool, 10min)",
+            "Menge": 75,
+            "Alpha": 13.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mosaic (70C Whirlpool, 10min)",
+            "Menge": 75,
+            "Alpha": 11.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Hefenahrung",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Galaxy (2,5 Tage)",
+            "Menge": 15
+        },
+        {
+            "Sorte": "Galaxy (1,5 Tage)",
+            "Menge": 45
+        },
+        {
+            "Sorte": "Mosaic (1,5 Tage)",
+            "Menge": 60
+        }
+    ],
+    "Hefe": "Wyeast #1318 London Ale III",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 4.3,
+    "Anmerkung_Autor": "Der Versuch eines simplen New England IPA mit nur zwei Hopfen: Mosaic und Galaxy. Der Fokus liegt hier auf einer sehr geringen\r\nBittere und hoher Fruchtigkeit, das nicht nur IPA-Trinkern schmeckt. Die Farbe geht Richtung Mango\/Maracujasaft.\r\n\r\nRezeptdetails:\r\n\r\nGebraut im BIAB-Verfahren, kein Nachguss. Um das NEIPA so hell wie m\u00f6glich zu bekommen (Stichwort Oxidation), habe ich als Basismalz Pilsner genommen. F\u00fcr die (leichte) Hazyness und das Mundgef\u00fchl sorgen Hafermalz, Gerstenflocken und Spitzmalz.\r\n\r\nDie erste und einzige Hopfengabe erfolgt erst im Whirlpool bei 70\u00b0C f\u00fcr 10 Minuten, Nachisomerisierungszeit daher Null Minuten.\r\nNach dem Kochende wurde mit einer K\u00fchlspirale die W\u00fcrze auf 70\u00b0C gek\u00fchlt, und wieder geheizt, um die Temperatur zu halten. Laut BeerSmith ergibt das 7,7 IBU. Die gef\u00fchlte Bittere jedoch geht in Richtung 25 IBU, daher kommt kein Hopfen in der Kochphase zum Einsatz. Danach wird die W\u00fcrze auf Anstelltemperatur gek\u00fchlt und ins G\u00e4rfass geschlaucht. Das Hopfenseihen war Pain in the Ass vom Feinsten, trotz Einsatz einer Hopspider. Bei Bieren mit weniger Hopfen habe ich schon erfolgreich auch den Trub mitgeschlaucht, das w\u00fcrde ich jedoch bei solchen Mengen nicht machen, da es nachteilig f\u00fcr den G\u00e4rverlauf sein kann.\r\n\r\nAngestellt wurde mit der Wyeast #1318 London Ale III. Es wurde ein 1,2L Starter gemacht, dadurch \u00e4nderte sich die Stammw\u00fcrze auf 15,4%. Mit einem sEVG von 72% ergibt sich ein ABV von 6%. Die G\u00e4rf\u00fchrung erfolgte kontrolliert im K\u00fchlschrank: die ersten drei Tage bei 19\u00b0C, danach f\u00fcr weitere drei Tage bei 21\u00b0C. Anschlie\u00dfend Cold Crash bei ca. 1,5\u00b0C f\u00fcr zwei Tage.\r\n\r\nDas Dryhopping-Schema war wie folgt (Zeitangaben nach G\u00e4rbeginn):\r\n\r\nVerh\u00e4ltnis: 5,7g\/L\r\n\r\n15g Galaxy nach 1,5 Tagen, Dauer: 2,5 Tage\r\n45g Galaxy nach 2,5 Tagen, Dauer: 1,5 Tage\r\n60g Mosaic nach 2,5 Tagen, Dauer: 1,5 Tage\r\n\r\nDer Hopfen dazu kam in Hopfensocken und Hoptube, als kleine Versicherung gegen Hopburn.\r\n\r\nAbgef\u00fcllt wurde in 0,5L B\u00fcgelflaschen. Diese lassen sich bequem direkt verschlie\u00dfen, um den Sauerstoffeintrag zu verringern.\r\nDer CO2-Gehalt wurde auf ca. 4,3g\/L angepeilt (k\u00f6nnte n\u00e4chstes Mal etwas mehr sein, so 4,5-6). Aufgespeist mit Traubenzucker. Nach ca. 5 Tagen Nachg\u00e4rung bei ~20\u00b0C kamen die Flaschen in die K\u00fchlung bei 3\u00b0C, um das Bier frisch und die Oxidation niedrig zu halten.\r\n\r\nDas Wasserprofil ist ein sehr wichtiger Aspekt f\u00fcr diesen Stil, auf diese Werte habe ich das Brauwasser eingestellt:\r\n\r\nCalcium: 103,6 mg\/L\r\nMagnesium: 27,4 mg\/L\r\nNatrium: 20,7 mg\/L\r\nSulfat: 94,3 mg\/L\r\nChlorid: 142,3 mg\/L\r\n\r\nChlorid\/Sulfat-Verh\u00e4ltnis ist 1,5:1 -> um nicht zu sehr die Hopfenbittere zu betonen.\r\n\r\nMit Milchs\u00e4ure wurde die Restalkalit\u00e4t auf -3dH eingestellt.\r\n\r\nNun zu den f\u00fcr mich wichtigen Learnings beim Brauen eines NEIPA:\r\n\r\n- Der Hopfen muss so frisch wie m\u00f6glich sein und immer im Tiefk\u00fchlfach gelagert werden.\r\n- Ein NEIPA ist Hazy, man muss es aber nicht darauf anlegen. Meine Einbildung hier ist: Je tr\u00fcber, desto schlimmer sieht die Oxidation aus.\r\n- Nur Hopfen im Whirlpool reicht vollkommen f\u00fcr eine dezente Bittere aus, IBU-Bittere und wahrgenommene Bittere sind zwei Paar Schuhe.\r\n- Frisch trinken! Eins der wenigen Biere, die man sofort nach der Nachg\u00e4rung trinken kann. Reifen\/Lagern in Flaschen ist schwierig, wenn man nicht Sauerstofffrei arbeiten kann.\r\n- NEIPA nach der HG nicht umschlauchen. Dryhop vorher rausnehmen, 1-2 Tage Cold Crash, dann per Abf\u00fcllr\u00f6hrchen in die Flasche funktioniert wunderbar. Kein nennenswerter Hopburn mit dieser Methode.\r\n\r\nCredit und Shoutout an sudlachs f\u00fcr sein Rezept TAG TEAM IPA hier auf MMuM. Von ihm habe ich die Inspiration, mich wieder an das Thema NEIPA zu setzen.\r\n\r\nDas hier ist mein erstes \u00f6ffentliches Rezept. \u00dcber Anregungen, Verbesserungen und Fragen freue ich mich."
+}

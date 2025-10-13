@@ -1,0 +1,123 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "PEACHEE IPA",
+    "Datum": "17.02.2019",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "Bier39",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.2,
+    "Bittere": 62,
+    "Farbe": 21,
+    "Alkohol": 7.6,
+    "Kurzbeschreibung": "Fruchtiges IPA mit Pfirsich-, Zitrus- und Litschi-Aromen, leicht s\u00fcsslich, moderat bitter, orangeroter Farbe und feinporigem Schaum. Delicious! ",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 4.52,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 520,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraamber",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Biscuit",
+            "Menge": 360,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.714285714285715,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 8
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.571428571428571,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 20,
+            "Alpha": 12.7,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 10,
+            "Alpha": 12.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 10,
+            "Alpha": 11.1,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 10,
+            "Alpha": 12.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 13,
+            "Alpha": 11.1,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 13,
+            "Alpha": 12.3,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 33
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 33
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 33
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "15",
+    "Endvergaerungsgrad": 70.4,
+    "Karbonisierung": 5.3,
+    "Anmerkung_Autor": "-Kochende bis Beginn der K\u00fchlung: 12 Minuten \r\n-Temperatur vor K\u00fchlung: 85\u00b0C\r\n-G\u00e4rbeginn: 1 Tage nach Brautag\r\n-G\u00e4rung: 10 Tage bei 15\u00b0C\r\n-Kalthopfung: Am 6. Tag der G\u00e4rung dazugegeben\r\n-In Flaschen abgef\u00fcllt: 39.7 Liter\r\n-Aufkarbonisierung: 300g Zucker, aufgel\u00f6st in 2 Liter abgekochtem Wasser vor dem Abf\u00fcllen dazugegeben (vorsichtig mit Jungbier vermischen damit der Hefesatz nicht aufgewirbelt wird)\r\n-Flascheng\u00e4rung: 10 Tage bei 19\u00b0C\r\n-Lagerung: Mind. 21 Tage im K\u00fchlschrank bei 7\u00b0C"
+}

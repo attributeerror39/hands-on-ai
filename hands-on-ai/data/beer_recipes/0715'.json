@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Roggenweizen",
+    "Datum": "09.05.2017",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "K\u00fcchenbrauer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.5,
+    "Bittere": 15,
+    "Farbe": 15,
+    "Alkohol": 4,
+    "Kurzbeschreibung": "Sch\u00f6n fruchtiges und bananiges Hefeweizen das durch den Roggen ein tolles Aroma bekommt",
+    "Malze": [
+        {
+            "Name": "Weizen hell",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Roggenmalz",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.400000000000002,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina ",
+            "Menge": 12,
+            "Alpha": 7.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 8,
+            "Alpha": 2.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Mangrove Jack  Bavaria M 20",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 67,
+    "Karbonisierung": 5.8,
+    "Anmerkung_Autor": "sch\u00f6n frisches malziges und bananiges Weizen mit guten fruchtnoten vom Hopfen und der Mangrove Hefe.\r\nDa die Hefe relativ niedrig verg\u00e4rt zwar nur 4% Alkohol was aber gar nicht auff\u00e4llt da es trotzdem sehr vollmundig schmeckt was wiederum am Roggen liegt. Und Mann kann eins mehr trinken gerade im Sommer. Die Tester waren durchaus alle begeistert."
+}

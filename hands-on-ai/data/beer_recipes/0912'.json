@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Abendstern XPA",
+    "Datum": "10.06.2018",
+    "Sorte": "Pale Ale",
+    "Autor": "schlupf",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.3,
+    "Bittere": 28,
+    "Farbe": 7,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Extra Pale Ale (XPA) nach neuseel\u00e4ndischem Vorbild.\r\nExtra pale, extra hopfig und extra Schlank - verglichen mit Standard Pale Ale zumindest. \r\nEin tolles Sommerbier!",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 3.44,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 420,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner II",
+            "Menge": 180,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "dekoktion",
+    "Einmaisch_Zubruehwasser_gesamt": 16.1,
+    "Dekoktionen": [
+        {
+            "Volumen": 16.1,
+            "Temperatur_ist": 73,
+            "Temperatur_resultierend": 67,
+            "Rastzeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.12280701754386,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Herkules",
+            "Menge": 4,
+            "Alpha": 17.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 35,
+            "Alpha": 7.3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Azacca",
+            "Menge": 35,
+            "Alpha": 12.7,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 35
+        },
+        {
+            "Sorte": "Azacca",
+            "Menge": 35
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 86,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Nachisomerisierungszeit ca. 5 min.\r\n\r\nGestopft wurde nach der Hauptg\u00e4rung f\u00fcr 4 Tage.\r\n\r\nAbmaischtemperatur 78\u00b0C bedeutet in diesem Fall, dass die Nachg\u00fcsse mit dieser Temperatur aufgebracht wurden, die Maische selbst ist weiterhin im unbeheizten Bottich.\r\n\r\nWar einer meiner schnellsten Brautage... Das Rezept ist recht schnell gebraut."
+}

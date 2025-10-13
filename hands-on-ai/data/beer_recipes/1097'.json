@@ -1,0 +1,118 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Rye Pale Ale",
+    "Datum": "28.05.2019",
+    "Sorte": "Pale Ale",
+    "Autor": "dh26883",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.8,
+    "Bittere": 30,
+    "Farbe": 16,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Angelehnt an das Guinness Rye Pale Ale",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz",
+            "Menge": 2.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Roggenmalz",
+            "Menge": 510,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraAmber",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.27659574468085,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 65,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 6.808510638297872,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 19,
+            "Alpha": 6,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 6,
+            "Alpha": 8,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 11,
+            "Alpha": 6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 11,
+            "Alpha": 8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 6,
+            "Alpha": 6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 6,
+            "Alpha": 8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 26
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 17
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "18-20",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Gestopft wurde f\u00fcr 5 Tage nach der HG, wobei 2,5 Tage bei Raumtemperatur gestartet wurde, und dann das Jungbier f\u00fcr 2,5 Tage zum ColdCrash bei 2\u00b0C in den K\u00fchlschrank wanderte. Dies soll auch die Aromen feiner einbinden (laut dem Br\u00fccklmeier).\r\n\r\nReifung bei 1,5 Wochen Raumtemperatur, Lagerung bei 2\u00b0C im K\u00fchlschrank. Bereits nach 1-2 Wochen ein feines Getr\u00e4nk, freue mich auf die weitere Entwicklung"
+}

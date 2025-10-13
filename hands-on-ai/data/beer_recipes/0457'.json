@@ -1,0 +1,94 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Centerillo IPA",
+    "Datum": "22.04.2015",
+    "Sorte": "India Pale Ale",
+    "Autor": "Karhu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.4,
+    "Bittere": 38,
+    "Farbe": 18,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Fruchtiges IPA auf der nicht ganz so bitteren Seite.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell Malz",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin Malz",
+            "Menge": 270,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.599999999999998,
+    "Einmaischtemperatur": 77,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.533333333333335,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 16,
+            "Alpha": 10.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 13,
+            "Alpha": 10.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 16,
+            "Alpha": 9.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 1,
+            "Alpha": 10.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 1,
+            "Alpha": 9.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 17
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 17
+        }
+    ],
+    "Hefe": "Craft Series M07 British Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5
+}

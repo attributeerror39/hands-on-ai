@@ -1,0 +1,62 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Royal Weizen ",
+    "Datum": "13.03.2023",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Bolus",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Franziskaner Royal Weizen ",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.8,
+    "Bittere": 17,
+    "Farbe": 20,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Nach aufwendiger Recherche und Mitwirkung von Bernd Unger (danke noch Mal daf\u00fcr), ist dieses Rezept entstanden.Von mehreren Testern als sehr nahe am Original befunden. ",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2.32,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz Typ II",
+            "Menge": 2.32,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.81818181818182,
+    "Einmaischtemperatur": 61,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 11.272727272727272,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Herkules ",
+            "Menge": 9,
+            "Alpha": 16.9,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Hefe": "Wyeast 3068",
+    "Gaertemperatur": "20-24",
+    "Endvergaerungsgrad": 73,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Die Anstelltemperatur von 20 Grad und die G\u00e4rtemperatur von 24 Grad , sind entscheidend um die Hefe-Aromen vom Original ann\u00e4hernd zu treffen.Ob die Sch\u00fcttung auch so im Original vorkommt, wei\u00df ich nicht, aber der Geschmack und die Farbe passen sehr gut. \r\nIch meine dass das Original etwas s\u00fc\u00dfer schmeckt, deswegen werde ich bei dritten Versuch etwas Cara Malz dazu geben. \r\nAber wie schon erw\u00e4hnt, es ist ein sehr gelungener Versuch und schmeckt hervorragend. \r\nIch m\u00f6chte mich noch einmal f\u00fcr die schnelle und super kompetente Unterst\u00fctzung bei Bernd Unger bedanken. \r\nF\u00fcr Interessierte, hier noch Mal die Story dazu :\r\nhttps:\/\/www.facebook.com\/groups\/hobbybrauer\/permalink\/5364853903535554\/\r\nViel Spa\u00df bei nachbrauen.  "
+}

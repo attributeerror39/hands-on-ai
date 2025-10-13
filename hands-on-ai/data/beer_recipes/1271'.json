@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Big Wave Golden Ale",
+    "Datum": "26.04.2020",
+    "Sorte": "Pale Ale",
+    "Autor": "joerg74",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 25,
+    "Farbe": 13,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Kona's Big Wave Golden Ale Klon. \u00c4hnlich dem Kaventsmann Rezept von grindoctor, aber etwas einfacher.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4.17,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 580,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.333333333333332,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 6,
+            "Alpha": 10.4,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 6,
+            "Alpha": 13.5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 6,
+            "Alpha": 13.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 30
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 81,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Ein Freund schrieb mir aus seinem Urlaub auf Honolulu ich solle das Wig Wave von Kona einmal nachbrauen. Ich selbst habe das Original leider noch nicht getrunken, aber dieses hier ist sehr lecker geworden. \r\nDie US-05 stammte aus 1. F\u00fchrung von einem IPA, deshalb vermutlich auch der hohe SVG. Das Rezept ist so \u00e4hnlich wie das Kaventsmann Rezept von grindoctor, aber etwas einfacher in der Herstellung und etwas schw\u00e4cher eingebraut. Unser Wasser hat eine Restalkalit\u00e4t von 7,65\u00b0dH, es wurde unbehandelt eingesetzt. Das Original von Kona hat nur 4,4 Vol%. Wer es also originalgetreu haben m\u00f6chte sollte die Stammw\u00fcrze auf 11\u00b0P reduzieren."
+}

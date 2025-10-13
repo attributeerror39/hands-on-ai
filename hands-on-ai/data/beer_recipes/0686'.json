@@ -1,0 +1,101 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "In the caves, all cats are grey",
+    "Datum": "20.03.2017",
+    "Sorte": "Saison",
+    "Autor": "jemo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 31,
+    "Farbe": 8,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Hochvergorenes, schlankes Saisonbier mit einer expressiven Hefe. Ein ideales Sommerbier.  ",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Dinkelflocken (Rohfrucht)",
+            "Menge": 670,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12,
+    "Einmaischtemperatur": 47,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 21,
+            "Alpha": 6.5,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 7,
+            "Alpha": 6.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 9,
+            "Alpha": 2.9,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 7,
+            "Alpha": 6.5,
+            "Zeit": 2,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 9,
+            "Alpha": 2.9,
+            "Zeit": 2,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Tomcat",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 94,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Der Maischplan orientiert sich an einem klassischen Maischplan f\u00fcr Saisons. Die verwendete Hefe ist keine klassische Saison-Hefe, kommt dem aber sehr nahe und bringt das Bier locker auf einen EVG jenseits der 90%. Es ist eine Nachisomerisierungszeit von 15 Minuten eingerechnet.\r\n"
+}

@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Matrjoschka RIS",
+    "Datum": "17.11.2016",
+    "Sorte": "Stout",
+    "Autor": "butascratch",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 19,
+    "Bittere": 50,
+    "Farbe": 220,
+    "Alkohol": 7.4,
+    "Kurzbeschreibung": "Tiefschwarzes Stout mit Kaffee- und Bitterschokoladennoten. Inspiriert vom Coffee Imperial Stout von Brewdog",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 5.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Chocolate Malz",
+            "Menge": 420,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 350,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraAroma",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.5,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook",
+            "Menge": 16,
+            "Alpha": 10.8,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Galena",
+            "Menge": 16,
+            "Alpha": 13.6,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Galena",
+            "Menge": 14,
+            "Alpha": 13.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 12,
+            "Alpha": 5.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Muscovado",
+            "Menge": 200,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "S 04",
+    "Gaertemperatur": "18-21",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 4.8
+}

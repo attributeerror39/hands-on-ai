@@ -1,0 +1,94 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Die Engelein singen...",
+    "Datum": "05.01.2019",
+    "Sorte": "Old Ale",
+    "Autor": "DrFedi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 54,
+    "Farbe": 52,
+    "Alkohol": 6.7,
+    "Kurzbeschreibung": "Dieses Bier, mein Weihnachtsbier 2018, ist irgendwo zwischen Brown Ale, Old Ale und American Brown Ale angesiedelt. Ann\u00e4hernd perfekt balanciert zwischen Malzs\u00fcsse, Bittere und Alkohol. Mit noten von schwarzen Johannisbeeren, Vanille, Nuss und Herrenzimmer. Man erlebt es nicht so bitter, wie mein IBU-Rechner es andeutet (beercalc.org). Kurzum: Ein wirklich gutes Bier f\u00fcr schweres Essen und kalte Abende.  V\u00f6llig Gew\u00fcrzfrei!",
+    "Malze": [
+        {
+            "Name": "Maris Otter Pale Ale",
+            "Menge": 4.75,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Brown Malt - englisch",
+            "Menge": 1.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 50,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 160,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz ",
+            "Menge": 130,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Golden Naked Oats",
+            "Menge": 630,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 30,
+    "Einmaischtemperatur": 44,
+    "Rasten": [
+        {
+            "Temperatur": 40,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.5,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 38,
+            "Alpha": 8,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 31,
+            "Alpha": 8,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 19,
+            "Alpha": 8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "MJ 42 New World Strong Ale",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Nachg\u00e4rung in der Flasche mit Zucker. Daher  6,7%. Zwangskarbonisiert w\u00e4ren es nur 6,3. \r\n\r\nViel Englisches Malz. Golden Naked Oats (von Simpsons) ist spelzenloser, karamellisierter Hafer. M\u00f6glicherweise in DE schwer zu bekommen (Ich komme aus D\u00e4nemark, da gehts. themaltmiller.co.uk k\u00f6nnte eventuell helfen - bis zum Brexit...) GNO tr\u00e4gt mit einer gewissen nussigkeit, einem etwas z\u00e4hfl\u00fcssigen Mundgef\u00fchl und stabilerem Schaum zum Genuss bei. Sollte ich es ersetzen m\u00fcssen, w\u00fcrde ich Teils Haferflocken r\u00f6sten und Teils etwas CaraSonstwas dazutun. \r\n\r\nIch habe keine Erkl\u00e4rung f\u00fcr die furchtbare Sudhausausbeute, aber nachdem ich das Bier getrunken habe, st\u00f6rt sie mich nicht mehr. \r\n\r\nDieses Bier braucht drei Monate Reifung. \r\n "
+}

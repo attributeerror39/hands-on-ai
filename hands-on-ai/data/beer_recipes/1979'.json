@@ -1,0 +1,108 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Base Malt Ale",
+    "Datum": "26.03.2024",
+    "Sorte": "Pale Ale",
+    "Autor": "Heisenberg ",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 26,
+    "Farbe": 14,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Mein erstes eigenes Rezept mit 4 Basis Malzen zu je 25% Sch&uuml;ttung und fruchtig Amerikanischem Hopfen",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.25,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 1.25,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.25,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchner Malz",
+            "Menge": 1.25,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 14,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook",
+            "Menge": 8,
+            "Alpha": 11.1,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 10,
+            "Alpha": 8.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 10,
+            "Alpha": 6.1,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 5,
+            "Alpha": 13.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 20,
+            "Alpha": 8.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 20,
+            "Alpha": 6.1,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 25,
+            "Alpha": 13.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 68,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Am ende hatte ich 16 Liter im G&auml;reimer mit 15,6%. Die habe ich dann mit ca. 3 Liter Wasser auf die gew&uuml;nschte Stammw&uuml;rze und Ausschlagw&uuml;rze verd&uuml;nnt. Sind also 19 Liter geworden. Der EVG ist leider niedriger ausgefallen als erwartet. Aber nachdem er mehrere Tage unver&auml;ndert war konnte ich ohne bedenken abf&uuml;llen. \r\n10 Liter habe ich in 0,5er Flaschen abgef&uuml;llt und mit einer Dosierhilfe und Haushaltszucker karbonisiert. \r\nDen Rest habe ich 3 Tage mit 10g Chinook, 10g Amarillo, 10g Cascade und 10g Citra gestopft und ebenfalls in 0,5er Flaschen abgef&uuml;llt. \r\nNach 2 Wochen kalter lagerung im K&uuml;hlschrank bei 5&deg;C ist es ein sehr gutes Bier geworden. F&uuml;r den Fr&uuml;hling auf jeden fall sehr fruchtig und erfrischend. "
+}

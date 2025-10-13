@@ -1,0 +1,60 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Not so Pale Ale",
+    "Datum": "29.06.2020",
+    "Sorte": "Pale Ale",
+    "Autor": "Juergen",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 28,
+    "Farbe": 22,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Einfaches, schnelles und Fruchtiges Ale mit Callista. Das erste Bier das meine Frau dank Aprikose und Pfirsich in der Nase und Mund f\u00fcr sich beansprucht hat...",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara M\u00fcnch",
+            "Menge": 450,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "dekoktion",
+    "Einmaisch_Zubruehwasser_gesamt": 15.7,
+    "Dekoktionen": [
+        {
+            "Volumen": 15.7,
+            "Temperatur_ist": 73,
+            "Temperatur_resultierend": 67,
+            "Rastzeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 17.833333333333332,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Callista Dolden",
+            "Menge": 82,
+            "Alpha": 2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Callista Dolden",
+            "Menge": 93,
+            "Alpha": 2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "15-20",
+    "Endvergaerungsgrad": 82,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Der Callista Hopfen w\u00e4chst in meinem Garten. Die Dolden werden nach der Ernte f\u00fcr zwei bis drei Tage mit einer einfachen Holz-Darre getrocknet und dann Vakuumiert eingefroren.\r\n\r\nDer S\u00e4ure Gehalt ist nur von mir gesch\u00e4tzt bzw. von dem Erntejahr abgeleitet. \r\n\r\nDas Brauwasser (Oberallg\u00e4uer Hahnenwasser) wird nur mit Milchs\u00e4ure auf RA=0 eingestellt.\r\n\r\nNach dem Kochen hol ich die Dolden mit einem Schauml\u00f6ffel heraus und Press dabei mit einem Kochl\u00f6ffel die W\u00fcrze aus um den Fl\u00fcssigkeitsverlust etwas entgegenzuwirken. \r\nDannach Whirlpool andrehen und seihen.\r\n\r\nDie Hefe (0,5g\/l) wird bei 15\u00b0C angestellt. Nach ca 24h die Temperatur auf 18\u00b0 erh\u00f6hen. Nach weiteren 48h auf 20\u00b0 erh\u00f6hen und ausg\u00e4ren lassen.\r\n\r\nDas Rezept wird so mit einem 12L Thermobeh\u00e4lter zum Maischen gebraut."
+}

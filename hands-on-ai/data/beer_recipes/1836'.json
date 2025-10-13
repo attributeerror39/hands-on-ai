@@ -1,0 +1,62 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Irish Red",
+    "Datum": "26.08.2023",
+    "Sorte": "Irish Ale",
+    "Autor": "bierbitch",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 30,
+    "Farbe": 30,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Malziges Irish Red mit dezenter Hopfung.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram\u00fcnch Typ 3 ",
+            "Menge": 300,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin",
+            "Menge": 100,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 5,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Fuggels",
+            "Menge": 40,
+            "Alpha": 4.4,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggels",
+            "Menge": 20,
+            "Alpha": 4.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Brewferm Union Jack",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 4
+}

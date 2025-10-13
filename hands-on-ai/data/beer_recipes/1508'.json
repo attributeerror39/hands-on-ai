@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Sweet NEIPA",
+    "Datum": "02.06.2021",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "Globox1206",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.7,
+    "Bittere": 29,
+    "Farbe": 10,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Fruchtiges NEIPA mit leichter S\u00fc\u00dfe im Vordergrund und angenehmer Bitterkeit im Abgang",
+    "Malze": [
+        {
+            "Name": "Pale Malt",
+            "Menge": 3.47,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara-Pils",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 870,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 75,
+    "Rasten": [
+        {
+            "Temperatur": 69,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 69,
+    "Nachguss": 8.626666666666665,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Topaz",
+            "Menge": 43,
+            "Alpha": 17,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Sorachi Ace",
+            "Menge": 43,
+            "Alpha": 10.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Traubenzucker",
+            "Menge": 333,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Birkenzucker oder Milchzucker",
+            "Menge": 200,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Topaz",
+            "Menge": 53
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 133
+        }
+    ],
+    "Hefe": "Voss KVEIK",
+    "Gaertemperatur": "30",
+    "Endvergaerungsgrad": 79.4,
+    "Karbonisierung": 2.4,
+    "Anmerkung_Autor": "Sch\u00fcttung\r\n\r\nDurch den Hohen Proteinanteil durch die Haferflocken wird das NEIPA sch\u00f6n Hazy es sieht fast aus wie Saft\r\n\r\nMaischplan\r\n\r\nIch habe Die Daten f\u00fcr meinen Hauptguss und Nachguss durch Beersmith enthalten f\u00fcr meine Malzrohranlage,muss ggf. Angepasst werden wegen Verdampfungsrate etc.\r\n\r\nWasserprofil\r\n\r\nCalcium 130 Magnesium 15 Natrium 30 Sulfat 203 Chlorid 152 Bicarbonat 15\r\n\r\nPh wert nach 10 Minuten Maische auf 5.2 Geregelt mit Milchs\u00e4ure 80%\r\nW\u00fcrzekochen - Hopfung\r\n\r\nHopfen Habe ich bei 90\u00b0 f\u00fcr 15 minuten ziehen lassen mit Laufender Pumpe ,danach Entfernt\r\n\r\nG\u00e4rung \/ Reifung\r\n\r\nHabe 2 Hefen ausprobier Verdant IPA bei 23\u00b0 Und Voss Kveik bei 30\u00b0 das Ergebnis der Voss Kveik hat mir besser gefallen es war Runder und hatte Sch\u00f6ne Maracuja Aromen,beide Hefen habe ich im Oberen Temperatur bereich gef\u00fchrt um Fruchtige Noten zu bekommen\r\n\r\nStopfhopfen kann entweder nach 2 Tagen hinzugegeben werden f\u00fcr eine Biotransformation des Hopfens oder beim Coldcrash f\u00fcr 4 Tage\r\n\r\n"
+}

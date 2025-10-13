@@ -1,0 +1,70 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Single Hop IPA",
+    "Datum": "04.12.2011",
+    "Sorte": "India Pale Ale",
+    "Autor": "Grima",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 60,
+    "Farbe": 25,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Amerikanisches IPA mit sehr leichtem Malzk\u00f6rper, damit der Hopfen sehr gut durchkommt",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 5.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Dunkel",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21,
+    "Einmaischtemperatur": 62,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Willamette",
+            "Menge": 50,
+            "Alpha": 5.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 30,
+            "Alpha": 5.6,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 20,
+            "Alpha": 5.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Willamette",
+            "Menge": 100
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "ca. 20",
+    "Anmerkung_Autor": "Ein gutes Basisrezept f\u00fcr ein Single Hop IPA. Die Mengenangaben kann man lassen, auch wenn die Hopfensorte variiert. Somit hat man immer die gleiche Menge an Hopfen, jedoch immer einen anderen IBU Wert!\r\nDryhoping erfolgt nach der Hauptg\u00e4rung, f\u00fcr 7 Tage!"
+}

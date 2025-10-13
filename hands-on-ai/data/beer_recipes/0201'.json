@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Heufelder Rauchbier",
+    "Datum": "24.06.2012",
+    "Sorte": "Rauchbier",
+    "Autor": "mangfalltaler",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 30,
+    "Farbe": 40,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "intensives Raucharoma, sch\u00f6ne r\u00f6tliche Farbe und dank des Citra Hopfens auch angenehm frisch im Geschmack",
+    "Malze": [
+        {
+            "Name": "Rauchmalz",
+            "Menge": 2.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 640,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 720,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.399999999999999,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 60,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.399999999999999,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 28,
+            "Alpha": 6.9,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 14,
+            "Alpha": 12.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Nottingham Ale",
+    "Gaertemperatur": "16",
+    "Anmerkung_Autor": "ich habe den Alkohlogehalt nur gesch\u00e4tzt, der Verg\u00e4rungsgrad der Notti ist eher h\u00f6her, daher habe ich den Alkoholgehalt auf 6,0% korrigiert"
+}

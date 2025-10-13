@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Porter",
+    "Datum": "20.01.2023",
+    "Sorte": "Brown Porter",
+    "Autor": "Bornitrid",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.2,
+    "Bittere": 26,
+    "Farbe": 81,
+    "Alkohol": 4.7,
+    "Kurzbeschreibung": "Ein s\u00fcffiges, trockenes Porter, dass einfach zu brauen ist. Dunkle Noten von Schokolade und Biscuit, die aber nicht alles \u00fcberdecken. Die relativ hohe Karbonisierung f\u00fchrt zu einer angenehmen Spritzigkeit.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.35,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "GoldSwaen Brown Supreme",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "BlackSwaen Honey Biscuit",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Special II",
+            "Menge": 110,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Whisky Malt",
+            "Menge": 65,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.5,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 34,
+            "Alpha": 6,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 7,
+            "Alpha": 6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Mangrove Jack's M42",
+    "Gaertemperatur": "18\u00b0",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5.2,
+    "Anmerkung_Autor": "Das Bier wurde nach einer Woche G\u00e4rzeit umgeschlaucht und mit Zucker in Flaschen abgef\u00fcllt. Schon 2 Wochen sp\u00e4ter ist das Bier gut trinkbar auch wenn ihm eine l\u00e4ngere Reifung besser zu Gesicht steht. Da die Hefe stark sedimentiert, hilft eine aufrechte Lagerung, ein klares Bier zu erhalten."
+}

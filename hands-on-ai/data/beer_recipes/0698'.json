@@ -1,0 +1,86 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Cascade Einzelhopfen",
+    "Datum": "07.04.2017",
+    "Sorte": "Pale Ale",
+    "Autor": "Brauwerk 76",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 40,
+    "Farbe": 10,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Mildes Ale mit feinen Zitrus und Crapefruitaromen.S&uuml;ffig mit schlankem K&ouml;rper und einer feinen stabilen Schaumkrone.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.09,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.91304347826087,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.043478260869566,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 36,
+            "Alpha": 8.7,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 17,
+            "Alpha": 8.7,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 17,
+            "Alpha": 8.7,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 55,
+            "Alpha": 8.7,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 9
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 9
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 9
+        }
+    ],
+    "Hefe": "Wyeast 1056 American Ale oder Safale S-04",
+    "Gaertemperatur": "18",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Ein fruchtiges Pale Ale mit den typischen fruchtigen Aromen des Cascadehopfens.Wurde noch 3mal f&uuml;r je 2 Tage Kaltgehopft.Die feinen Aromen kommen erst bei einer l&auml;ngeren kalten Lagerung so richtig durch."
+}

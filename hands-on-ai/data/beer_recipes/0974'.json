@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Nobel geht die Welt zugrunde",
+    "Datum": "14.10.2018",
+    "Sorte": "India Pale Ale",
+    "Autor": "marsabba",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17,
+    "Bittere": 65,
+    "Farbe": 12,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Mein bislang bestes \"IPA\" mit ausschliesslich europ\u00e4ischem Hopfen gebraut. Super Hopfenblume und nobel-kr\u00e4uteriges Hopfenaroma. Und nat\u00fcrlich Quietschbitter.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 3.41,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 1.76,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Clair 5 EBC",
+            "Menge": 350,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.470588235294116,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 73,
+    "Nachguss": 10.588235294117647,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 41,
+            "Alpha": 4,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Styrian Celeia",
+            "Menge": 59,
+            "Alpha": 3.9,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Cascade",
+            "Menge": 35,
+            "Alpha": 6,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 41,
+            "Alpha": 4,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Brewers Invert No.2",
+            "Menge": 353,
+            "Einheit": "g",
+            "Kochzeit": 30
+        }
+    ],
+    "Hefe": "US 05",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 85,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wasser mit KalziumSulfat aufbereiten.\r\nBrewers Invert so erzeugen: http:\/\/www.unholymess.com\/blog\/beer-brewing-info\/making-brewers-invert\/comment-page-1\r\nZur Not geht auch normaler heller Invertzucker."
+}

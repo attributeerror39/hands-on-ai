@@ -1,0 +1,104 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Beach Party",
+    "Datum": "03.01.2017",
+    "Sorte": "Pale Ale",
+    "Autor": "dergrutz",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.1,
+    "Bittere": 37,
+    "Farbe": 20,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Sehr s\u00fcffiges Pale Ale mit tollen tropischen Aromen (Maracuja, Mango,...) durch Verwendung der erst seit Kurzem erh\u00e4ltlichen Callista- und Ariana-Hopfen.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.78,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram\u00fcnch II",
+            "Menge": 340,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.399999999999999,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.16,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Callista",
+            "Menge": 46,
+            "Alpha": 3.6,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 38,
+            "Alpha": 3.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Ariana",
+            "Menge": 15,
+            "Alpha": 8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 20,
+            "Alpha": 3.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Ariana",
+            "Menge": 20,
+            "Alpha": 8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "WYEAST Nutrient",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Irish Moss",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Ariana",
+            "Menge": 37
+        }
+    ],
+    "Hefe": "Danstar BRY-97",
+    "Gaertemperatur": "20-21",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die Sch\u00fcttung und Gesamtbittere orientieren sich am aus diesem Forum bekannten und beliebten SNPA-Clone. Der Reiz der eigenen Abwandlung dieses Rezeptes lag f\u00fcr mich v.a. in der Verwendung der erst seit Kurzem f\u00fcr Hobbybrauer erh\u00e4ltlichen neuen Hopfensorten, Ariana und Callista. Die Kombination aus Vorderw\u00fcrzehopfung, sp\u00e4te Hopfengabe, Whirlpoolhopfung und Hopfenstopfen zielt auf maximales Hopfenaroma.\r\n\r\nZugabe von Braugips zu Haupt- und Nachguss f\u00fcr einen Sulfatgehalt von ca. 150 mg\/l f\u00fchrt bei meinen Bochumer Wasserwerten (ca. 50 mg\/l Chlorid) zu einem Sulfat:Chlorid-Verh\u00e4ltnis von etwa 3:1, um die Hopfenbittere etwas zu betonen.\r\nF\u00fcr den Callista-Hopfen habe ich Dolden, f\u00fcr den Ariana-Hopfen Pellets verwendet. \r\nZugabe von WYEAST Nutrient (Hefenahrung) und Irish Moss sind m. E. optional.\r\nZugabe des Whirlpoolhopfens f\u00fcr 25 Minuten nach Herunterk\u00fchlen der W\u00fcrze auf unter 80 \u00b0C unmittelbar nach Kochende (dauerte bei mir mit Spiralk\u00fchler ca. 2 Minuten).\r\nAnstellen mit 2 P\u00e4ckchen Danstar BRY-97 bei 20 \u00b0C und ankommen lassen bis auf 21 \u00b0C, dann Temperatur dort halten bis Endverg\u00e4rung. Anschlie\u00dfend Hopfenstopfen f\u00fcr weitere 3 Tage mit 2 g\/l Ariana im G\u00e4reimer (bei mir waren es 23 L). Ich verwende dazu mit Glasmurmeln beschwerte und mit Plastikclips verschlossene XXL-Teebeutel.\r\n\r\nDas Bier ist nach 2 Wochen Nachg\u00e4rung bei Raumtemperatur (21 \u00b0C) und 1 Woche Kaltlagerung im K\u00fchlschrank schon super trinkbar. Sehr s\u00fcffig! Die Bittere ist recht moderat und nicht aufdringlich. Vielmehr wurde von den Verkostern ein phantastisches, eher s\u00fc\u00dfliches Aroma nach tropischen Fr\u00fcchten bescheinigt (Maracuja, Mango), merklich anders als die h\u00e4ufig in Pale Ales zu findenden \u201eGrapefruit-\/Zitrus-Aromen\u201c  durch Cascade & Co. Der Caramalz-Anteil k\u00f6nnte ggf. noch etwas (auf ca. 5%) reduziert werden, um die S\u00fc\u00dflichkeit nicht zu dominant werden zu lassen.\r\n\r\n"
+}

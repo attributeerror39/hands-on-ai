@@ -1,0 +1,103 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Maracuja Weizen IPA",
+    "Datum": "20.06.2017",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Exedus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.8,
+    "Bittere": 40,
+    "Farbe": 15,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "goldgelbes Weizen IPA mit einer Maracuja Note. Mit Hopfen gestopft.",
+    "Malze": [
+        {
+            "Name": "Weizen, hell",
+            "Menge": 2.35,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 2.17,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CARAWHEAT",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.91304347826087,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Herkules",
+            "Menge": 10,
+            "Alpha": 16.1,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 12,
+            "Alpha": 14,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 12,
+            "Alpha": 8.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 9,
+            "Alpha": 14,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 15,
+            "Alpha": 8.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra ",
+            "Menge": 43
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 76
+        }
+    ],
+    "Hefe": "Maisels Wei\u00dfe Strip oder WLP300",
+    "Gaertemperatur": "21-24",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 5.8,
+    "Anmerkung_Autor": "Als Hefe eignet sich wunderbar ein Strip aus der Maisels Wei\u00dfe. Alternativ geht auch die WLP300. Zum Hopfenstopfen: Citra in etwa 2g\/L, Amarillo 3,5g\/L W\u00fcrze.\r\nGestopft wird nach vollst\u00e4ndig abgeschlossener Hauptg\u00e4rung. Stopfhopfen f\u00fcr 4 Tage direkt in den G\u00e4rbottich geben und nach dem stopfen zum abf\u00fcllen umschlauchen.\r\n\r\n4 Wochen nach dem abf\u00fcllen bereits sehr lecker.\r\n\r\nBeschreibung:\r\n\r\nDer Schaum ist fein und relativ haltbar, sehr wei\u00df.\r\n\r\nDer Geruch ist sehr frisch, hopfig und erinnert aufjedenfall an Maracuja.\r\n\r\nDer Geschmack best\u00e4tigt die Wahrnehmung der Nase. Ein sehr fruchtiges, wohlriechendes Weizen IPA. Auch im Geschmackj ist deutlich Maracuja wahrzunehmen. Die Bittere tritt v\u00f6llig in den Hintergrund und wird erst nach dem   runterschlucken bemerkbar, verweilt dann noch sehr angenehm eine Weile im Mund."
+}

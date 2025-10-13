@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Summer Ale El Dorado\/Citra",
+    "Datum": "25.05.2018",
+    "Sorte": "Pale Ale",
+    "Autor": "mariarita",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.5,
+    "Bittere": 30,
+    "Farbe": 12,
+    "Alkohol": 4.6,
+    "Kurzbeschreibung": "Goldgelbes, leicht tr\u00fcbes , erfrischendes, s\u00fcffiges Ale",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner I Malz",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamell Malz hell ",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 65,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 35
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "El Dorado",
+            "Menge": 16,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "El Dorado",
+            "Menge": 24,
+            "Alpha": 15,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 40
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 20
+        }
+    ],
+    "Hefe": "WLP 005",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 73,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Whirlpool 80\u00b0 C\r\nStopfen 1 nach 4 Tagen,\r\nStopfen 2 nach 7 Tagen\r\nmit Braumeister 50 gebraut "
+}

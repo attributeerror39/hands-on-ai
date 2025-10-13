@@ -1,0 +1,111 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Sunbeam Fruity IPA",
+    "Datum": "17.10.2013",
+    "Sorte": "India Pale Ale",
+    "Autor": "Zauberlehrling",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 18,
+    "Bittere": 85,
+    "Farbe": 14,
+    "Alkohol": 7.4,
+    "Kurzbeschreibung": "Sonnenscheinfarbenes IPA mit starken Fruchtaromen. Exzellenter Schaum.",
+    "Malze": [
+        {
+            "Name": "Halcyon Pale Ale",
+            "Menge": 2.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 1000,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafoam",
+            "Menge": 330,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20.833333333333336,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Pacific Gem",
+            "Menge": 15,
+            "Alpha": 14.8,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Pacific Gem",
+            "Menge": 15,
+            "Alpha": 14.8,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 11,
+            "Alpha": 14.2,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 11,
+            "Alpha": 14.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 11,
+            "Alpha": 10.1,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 11,
+            "Alpha": 10.1,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 29
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 29
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Erster ernsthafter Versuch an einem (Double) IPA. Ziel war es \u00fcber den Hopfen sehr fruchtige Aromen hervorzubringen, was auch voll und ganz gelungen ist.\r\n\r\nStopfhopfen kam nach ca. 3 Tagen in den Bottich und blieb dort f\u00fcr 3 Wochen.\r\n\r\nBis zur ersten Verkostung lagerte das Bier 3 Wochen bei ca. 15\u00b0 C.\r\nGeschmacklich sehr fruchtig, was bei den Hopfensorten auch kein Wunder ist. Pfirsich, Mango und Citrusfr\u00fcchte kommen einem beim Trinken in den Sinn. Dennoch nicht wirklich s\u00fc\u00df.\r\nSchmeckt auch noch nach \u00fcber einem Monat sehr gut, Aromen sind immer noch sehr stark.\r\n"
+}

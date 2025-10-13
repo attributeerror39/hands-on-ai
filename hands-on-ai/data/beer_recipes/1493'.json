@@ -1,0 +1,69 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Sorachi Ace",
+    "Datum": "17.05.2021",
+    "Sorte": "Pale Ale",
+    "Autor": "jmooren",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 35,
+    "Farbe": 11,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Sorachi Ace was f\u00fcr ein verr\u00fcckter Hopfen! Ich h\u00e4tte nicht gedacht, dass ein Hopfen wirklich nach Kokosnuss schmecken kann. Hat sich nach einigen Wochen Lagerung noch in etwas kr\u00e4uterige Aromen entwickelt. Ist aber ein sehr leckeres Bier geworden.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.54,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 370,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.782608695652172,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 1
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.304347826086955,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Sorachi Ace",
+            "Menge": 12,
+            "Alpha": 11.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sorachi Ace",
+            "Menge": 35,
+            "Alpha": 11.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Sorachi Ace",
+            "Menge": 40
+        }
+    ],
+    "Hefe": "Wyeast 1056",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Wasserprofil\r\n\r\nCalcium: 85 mg\/l\r\nMagnesium: 9 mg\/l\r\nNatrium: 31 mg\/l\r\nChlorid: 48 mg\/l\r\nSulfat: 117 mg\/l\r\n\r\nRestalkalit\u00e4t: -1 [\u00b0dH]\r\n\r\nHinweis: Beim Dry-Hopping nicht \u00fcbertreiben. Bei zuviel Hopfen kann sich das Aroma ganz schnell in die Richtung Dill entwickeln.\r\n\r\n\r\n<a href=\"https:\/\/ibb.co\/wW0T5hV\"><img src=\"https:\/\/i.ibb.co\/wW0T5hV\/164302751-4212824778742049-4297807091848047350-n.jpg\" alt=\"164302751-4212824778742049-4297807091848047350-n\" border=\"0\"><\/a>"
+}

@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Freches Fr\u00fcchtchen",
+    "Datum": "09.10.2019",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "Opa Ganda",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 15,
+    "Farbe": 5,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "Fruchtiges Kiwi-Weizen mit einer deutlichen aber angenehmen Fruchts\u00e4ure. \r\nWunderbar s\u00fcffig im Sommer. ",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.97,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 1.05,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Dinkelrohfrucht",
+            "Menge": 1.05,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.7,
+    "Einmaischtemperatur": 48,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.3,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Jarrylo",
+            "Menge": 10,
+            "Alpha": 12,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Jarrylo",
+            "Menge": 24,
+            "Alpha": 12,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Kiwi (p\u00fcriert)",
+            "Menge": 2000,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Wyeast 3068",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6.7,
+    "Anmerkung_Autor": "Die Idee des Kiwi-Weizen entstand aus der Situation heraus entstanden, dass die Himbeerbiere derzeit so inflation\u00e4r gebraut werden. \r\n\r\nNach dem die G\u00e4rung durch war habe ich die Kiwis gesch\u00e4lt, p\u00fcriert und in einem weiteren G\u00e4rfass vorgelegt. Das Jungbier hab ich dann umgeschlaucht und das ganze weiter vergoren.\r\n\r\nNach der ersten Flasche war ich erstmal geschockt, da das Bier saurer war als ich erwartet hatte. Aber ab der zweiten und dritten Falsche fand ich es ehrlich gesagt sehr lecker. Bei der Hobbybraumeisterschaft in Stralsund kam das Bier im Publikum sehr gut an."
+}

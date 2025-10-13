@@ -1,0 +1,130 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Borms East Coast IPA",
+    "Datum": "26.05.2024",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "bormolino",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.4,
+    "Bittere": 61,
+    "Farbe": 12,
+    "Alkohol": 6.2,
+    "Kurzbeschreibung": "Zu gleichen Teilen tropisch-juicy und bitter. Mit leichter hazyness.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.86,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Maris Otter",
+            "Menge": 1.43,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 1.07,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchner",
+            "Menge": 710,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 140,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 32.857142857142854,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 1.4285714285714284,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 21,
+            "Alpha": 12.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 7,
+            "Alpha": 12.4,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Lotus",
+            "Menge": 7,
+            "Alpha": 15.2,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 7,
+            "Alpha": 15.3,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 29,
+            "Alpha": 12.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Lotus",
+            "Menge": 29,
+            "Alpha": 15.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 29,
+            "Alpha": 15.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Lotus",
+            "Menge": 71
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 71
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 29
+        }
+    ],
+    "Hefe": "Mangrove Jacks M66",
+    "Gaertemperatur": "21",
+    "Anmerkung_Autor": "Ich nutze Braunschweiger-Wasser ohne Anpassung (au&szlig;er Sauermalz f&uuml;r PH). Malzrohranlage mit nur 1L Nachguss um den Rest Zucker aus dem Treber zu sp&uuml;len.\r\n\r\nWhirlpool bei 80&deg;C und absteigend f&uuml;r 15min.\r\n\r\nGestopft wurde nach der Hauptg&auml;rung bei G&auml;rtemperatur f&uuml;r 5 Tage. Dann Cold Crash."
+}

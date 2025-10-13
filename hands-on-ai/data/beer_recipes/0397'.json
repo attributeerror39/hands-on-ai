@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "rabenschwarz",
+    "Datum": "18.06.2014",
+    "Sorte": "Robust Porter",
+    "Autor": "Burkhart",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.8,
+    "Bittere": 80,
+    "Farbe": 118,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Whitbread London Porter 1850 (Mod)\r\nKr\u00e4ftiges, samtschwarzes Porter.\r\nCremiger Schaum, voller K\u00f6rper, malzig mit sch\u00f6nen R\u00f6staromen und Ankl\u00e4ngen an Kaffee und Schokolade. Kr\u00e4ftiger Hopfenabgang. Sehr lecker!",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.81,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram\u00fcnch",
+            "Menge": 710,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stmalz",
+            "Menge": 240,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 480,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.714285714285714,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 180
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.285714285714286,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Fuggles",
+            "Menge": 60,
+            "Alpha": 6.4,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 36,
+            "Alpha": 6.9,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Godings",
+            "Menge": 24,
+            "Alpha": 6.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Windsor",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 63,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Ich habe dem Rezept die Haferflocken hinzugef\u00fcgt um einen cremigeren Schaum und volleren K\u00f6rper zu erhalten.\r\nDie Maischzeit kann man wahrscheinlich auch verk\u00fcrzen (-> Jodnormalit\u00e4t).\r\nNach den Originalangaben soll die Reifezeit 4 Monate betragen.\r\nDas Originalrezept ist aus: Harrison, Dr. John: Old British Beers and How To Make Them, Durden Park Beer Circle, Revised 1991"
+}

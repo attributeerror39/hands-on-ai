@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "JoHimBier",
+    "Datum": "16.07.2022",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "Jan_Zac",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 11,
+    "Farbe": 6,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Saures und Fruchtiges Himbeerbier",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2.21,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.21,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken ",
+            "Menge": 360,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.272727272727273,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 18.18181818181818,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Ariana ",
+            "Menge": 5,
+            "Alpha": 10.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Bramling Cross",
+            "Menge": 5,
+            "Alpha": 7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Himbeeren",
+            "Menge": 1200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Johannesbeeren",
+            "Menge": 1600,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Philly Sour",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Das Bier hat durch die Beeren eine sch\u00f6ne nat\u00fcrliche rote Farbe erhalten. Es ist meine ganz pers\u00f6nliche Version eines sauren, auf echten Fr\u00fcchten basierenden Berliner Kindls. Es schmeckt deutlich saurer und Fruchtiger als das Original. Die Beeren habe ich teils frisch vom heimischen Strauch gepfl\u00fcckt und auf dem Herd als eine Art \"Kompott\" eingekocht. Diese Vorgehensweise kann ich jedem ans Herz legen, der das Risiko einer Infektion klein halten m\u00f6chte."
+}

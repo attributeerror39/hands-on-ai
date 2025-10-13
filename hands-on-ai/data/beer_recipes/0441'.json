@@ -1,0 +1,72 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Brave New Year",
+    "Datum": "03.02.2015",
+    "Sorte": "Pale Ale",
+    "Autor": "braugnom",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 35,
+    "Farbe": 18,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Amerikanisches Pale Ale",
+    "Malze": [
+        {
+            "Name": "Maris Otter Pale Ale",
+            "Menge": 5.05,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraM\u00fcnch II",
+            "Menge": 290,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.095238095238095,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 45
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 13.333333333333332,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Columbus",
+            "Menge": 11,
+            "Alpha": 12.9,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 7,
+            "Alpha": 14.1,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 21,
+            "Alpha": 5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 4,
+            "Alpha": 14.1,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "SafAle US-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 4.5
+}

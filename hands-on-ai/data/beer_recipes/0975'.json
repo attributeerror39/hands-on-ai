@@ -1,0 +1,137 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Morning Glory",
+    "Datum": "17.10.2018",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "flying",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 36,
+    "Farbe": 25,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "S\u00fc\u00dfkartoffel Ale mit Gew\u00fcrzen------\r\n\r\nDie S\u00fc\u00dfkartoffel ist botanisch eine Prunkwinde (engl. Morning Glorys), genau wie die Bl\u00fcten im Haar der jungen Dame auf dem Etikett..",
+    "Malze": [
+        {
+            "Name": "S\u00fc\u00dfkartoffeln",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "IREKS Aromamalz",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "IREKS Palisander",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "IREKS Chokomalz",
+            "Menge": 50,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 40,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Lemondrop",
+            "Menge": 14,
+            "Alpha": 4.9,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Lemondrop",
+            "Menge": 13,
+            "Alpha": 4.9,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Lemondrop",
+            "Menge": 18,
+            "Alpha": 4.9,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Lemondrop",
+            "Menge": 55,
+            "Alpha": 4.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Ingwer, frisch, fein gehackt",
+            "Menge": 86,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Koriander, indisch, frisch gem\u00f6rsert",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "1 Zimtstange, grob zerbr\u00f6selt",
+            "Menge": "1 ",
+            "Einheit": "St\u00fcck",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "1 Vanilleschote, Mark ausgekratzt und die ganze Schote grob zerhackt",
+            "Menge": "1 ",
+            "Einheit": "St\u00fcck",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "1\/2 Tonkabohne, grob gehackt",
+            "Menge": " &frac12;",
+            "Einheit": "St\u00fcck",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Mangrove Jacks- British Ale M 07",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die 2 kg S\u00fc\u00dfkartoffeln wurden gesch\u00e4lt, grob gew\u00fcrfelt und dann in 10 L vom Hauptguss vorher f\u00fcr 20 Minuten weichgekocht. Dann den Rest vom Hauptguss dazu und mit dem Malz gemaischt."
+}

@@ -1,0 +1,71 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Martiniacum Citra-Weizen",
+    "Datum": "06.04.2019",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "huntsman",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.4,
+    "Bittere": 21,
+    "Farbe": 12,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Sehr leckeres, helles Weizen - mit einer ganz leichten Fruchtnote - ideal f\u00fcr den Sommer, aber nicht nur. Schmeckt bereits nach drei Wochen sehr gut!",
+    "Malze": [
+        {
+            "Name": "Weizen Malz hell",
+            "Menge": 2.53,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz ",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.789473684210527,
+    "Einmaischtemperatur": 53,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 60,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15.789473684210527,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 26,
+            "Alpha": 5.3,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra ",
+            "Menge": 6,
+            "Alpha": 12,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "BREWFERM Blanche",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 6
+}

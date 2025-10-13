@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Sommerbier",
+    "Datum": "23.03.2011",
+    "Sorte": "Pale Ale",
+    "Autor": "tauroplu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 30,
+    "Farbe": 13,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Sonnengelber und erfrischend herber Sommergenuss mit dem unvergleichlich citrischen Cascadearoma",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 1.54,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.15,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.15,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.384615384615385,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 24,
+            "Alpha": 5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 4,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 23,
+            "Alpha": 5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5.3,
+    "Anmerkung_Autor": "Trotz des herben Cascadearomas ist das Bier s\u00fcffig und abgerundet.\r\nDie IBU Werte wurden mit Earls Hopfenrechner f\u00fcr Profis ermittelt. Ich verwende Pellets. - Nachisomerisierungszeit: 15 Min. -"
+}

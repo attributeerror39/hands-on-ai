@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Saison du For\u00eat",
+    "Datum": "24.09.2015",
+    "Sorte": "Saison",
+    "Autor": "marsabba",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 27,
+    "Farbe": 18,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Ausgewogenes Saisonbier mit Fichtentrieben aromatisiert",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 1000,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rohweizen",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Special B",
+            "Menge": 83,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.166666666666668,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 73,
+    "Nachguss": 14.166666666666668,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Willamette",
+            "Menge": 38,
+            "Alpha": 4.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mittelfr\u00fch",
+            "Menge": 33,
+            "Alpha": 3,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Kiefern&Fichtentriebe",
+            "Menge": 67,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Waldhonig",
+            "Menge": 417,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Danstar Belle Saison",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 87,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Fichtentriebe nicht zu jung sammeln, sonst schmecken sie langweilig. Besser warten, bis sie ca 4-5cm lang sind.\r\nDen Honig erst zugeben, wenn W\u00fcrze 50-60 grad kalt ist.\r\n\r\nDie Fichtentriebe sind am Anfang noch dominant, aber nach 2 Monaten kaum noch wahrnehmbar. Daf\u00fcr kommt dann der Honig zur Geltung."
+}

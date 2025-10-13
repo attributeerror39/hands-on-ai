@@ -1,0 +1,108 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Dark Impact",
+    "Datum": "08.06.2013",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Boludo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 21,
+    "Bittere": 85,
+    "Farbe": 80,
+    "Alkohol": 10,
+    "Kurzbeschreibung": "Comet Hopfenfeuerwerk trifft R\u00f6stmalz",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.65,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 930,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 470,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Special II",
+            "Menge": 280,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 190,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.27906976744186,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 11.627906976744187,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Comet",
+            "Menge": 47,
+            "Alpha": 10.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Comet",
+            "Menge": 12,
+            "Alpha": 10.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Comet",
+            "Menge": 12,
+            "Alpha": 10.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Comet",
+            "Menge": 12,
+            "Alpha": 10.9,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Muscovado Rohrohrzucker",
+            "Menge": 465,
+            "Einheit": "g",
+            "Kochzeit": 0
+        },
+        {
+            "Name": "Wyeast Nutrient - Hefenahrung",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Comet",
+            "Menge": 105
+        }
+    ],
+    "Hefe": "Fermentis Safale US-05 1g\/Liter W\u00fcrze",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 84,
+    "Karbonisierung": 5.3,
+    "Anmerkung_Autor": "\r\nZugabe R\u00f6stmalz bei 70\u00b0C beim Aufheizen auf Abmaischtemperatur.\r\nDas Weizenmalz macht einen sch\u00f6nen Schaum und das Bier cremiger.\r\nMuscovado hab ich aus dem Edeka, ansonsten kann man ihn im Netz bestellen.\r\nEr macht tolle Rum und Vanillearomen.\r\nIch hab ihn ganz zum Schlu\u00df nach dem Whirlpool in die hei\u00dfe W\u00fcrze gegeben, damit keine Aromen verloren gehen.\r\nEs wurde \u00fcber Nacht abgek\u00fchlt, Nachisomerisierung ca 30 Minuten.\r\nDas Bier riecht und schmeckt durch den Comet sagenhaft nach Brombeere und Marmelade.\r\nDer hohe Alkoholgehalt schmeckt gar nicht sprittig. Die R\u00f6staromen sind erstaunlich zahm und harmonisieren sehr gut mit den Vanille und Hopfenaromen. \r\nBin gespannt, wie das in einem halben Jahr wird.\r\nDie Nachgu\u00dfmenge ist gesch\u00e4tzt, ich verdampfe sehr viel und hab entsprechend viel Nachgu\u00df. Man muss so lange Anschw\u00e4nzen, dass man nach dem Hopfen Kochen und der Zuckergabe auf die 21\u00b0P kommt.\r\nBrauwasser: Restalkalit\u00e4t 2,3\u00b0dH mit Kalkmilch und Milchs\u00e4ure, aufgesalzen auf 75mg\/L Chlorid und 71mg\/L Sulfat.\r\nHauptg\u00e4rung war 1 Woche, 2 Wochen gestopft, Nachg\u00e4rung mit Glucose bei 25\u00b0C."
+}

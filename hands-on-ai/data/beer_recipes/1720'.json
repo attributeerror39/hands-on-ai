@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Senatorenschluck",
+    "Datum": "19.09.2022",
+    "Sorte": "Amber Ale",
+    "Autor": "HopfenHugo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 30,
+    "Farbe": 24,
+    "Alkohol": 6.1,
+    "Kurzbeschreibung": "Rotbier mit Rauchnote f\u00fcr die Hamburger Meisterschaft 2022",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "RedX",
+            "Menge": 2.75,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Rauchmalz Swaen",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "dekoktion",
+    "Einmaisch_Zubruehwasser_gesamt": 26.5,
+    "Dekoktionen": [
+        {
+            "Volumen": 26.5,
+            "Temperatur_ist": 71,
+            "Temperatur_resultierend": 67,
+            "Rastzeit": 60
+        },
+        {
+            "Volumen": 10.5,
+            "Form": "Dickmaische",
+            "Teilmaische_Rastzeit": 10,
+            "Teilmaische_Temperatur": 72,
+            "Teilmaische_Kochzeit": 15,
+            "Temperatur_resultierend": 72,
+            "Rastzeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 27,
+            "Alpha": 10,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 20,
+            "Alpha": 3,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Barbe Rouge",
+            "Menge": 10,
+            "Alpha": 11,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Wacholder",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Wyeast 2565 K\u00f6lsch",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Bier war f\u00fcr die Hamburger Meisterschaft 2022 bestimmt. Vorgaben gab es wenige. Rot und s\u00fcffig sollte es sein. 26 Biere wurden eingereicht.\r\nIch hab das erste Mal eine Dekoktion im BrewBag gemacht. Das hat super funktioniert. 1\/3 Dickmaische auf 72\u00b0 f\u00fcr 10min, 15Min gekocht und 15min hatte die Maische zum Absetzen\r\nDas Rauchmalz von Swaen finde ich genau richtig. Angenehm wahrnembar und nicht aufdringlich. Aber das h\u00e4ngt wohl auch von der Charge ab. Die Farbe h\u00e4tte mehr ins Rote gehen k\u00f6nnen. Mehr RedX ?\r\nWacholder w\u00fcrde ich n\u00e4chstes Mal etwas mehr nehmen. Schmeck ich nicht raus. Aber 2 Juroren ist es aufgefallen.\r\nHauptg\u00e4rung 2 Wochen und dann einige Tage kalt gestellt vor dem Abf\u00fcllen.\r\nDas Bier ist sauber, rund und s\u00fcffig geworden. Vielleicht w\u00e4re noch mehr Saazer sch\u00f6n gewesen. BarbeRouge gibt eine fruchtige Note.\r\nTja, und ich hab den 2. Platz damit gemacht :)"
+}

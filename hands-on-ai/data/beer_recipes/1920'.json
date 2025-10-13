@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bretted Imperial Stout",
+    "Datum": "04.02.2024",
+    "Sorte": "Imperial Stout",
+    "Autor": "der_ak",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 21.5,
+    "Bittere": 70,
+    "Farbe": 76,
+    "Alkohol": 8.6,
+    "Kurzbeschreibung": "Ein Imperial Stout, inspiriert von historischen Rezepten, mit Brett nachgereift. Intensive Kaffeearomen mit deutlichen Brettanomyces-Noten.",
+    "Malze": [
+        {
+            "Name": "Maris Otter Pale Malt",
+            "Menge": 4.18,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Warminster Brown Malt",
+            "Menge": 2.09,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Warminister Low Colour Chocolate Malt",
+            "Menge": 450,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 113
+        },
+        {
+            "Temperatur": 75,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 14.545454545454547,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 91,
+            "Alpha": 5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 91,
+            "Alpha": 5,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Invert Sugar No. 2",
+            "Menge": 909,
+            "Einheit": "g",
+            "Kochzeit": 60
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Imperial Yeast W15 (Suburban Brett)",
+            "Menge": "1 ",
+            "Einheit": "St\u00fcck"
+        }
+    ],
+    "Hefe": "Nottingham",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 69.8,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "S&auml;mtliches Brauwasser war unbehandeltes Berliner Leitungswasser (PLZ 10553). Die Maischetemperatur nach dem Einmaischen war bei 45&deg;C, daraufhin wurde unmittelbar aufgeheizt bis auf 68&deg;C, was mit meinem Weck-Einkocher 37 Minuten dauerte.\r\n\r\nDie L&auml;uterrast betrug 34 Minuten. Bei der Vorderw&uuml;rze wurden 23&deg;Brix gemessen, beim Glattwasser 5&deg;Brix. Das Abl&auml;utern dauerte insgesamt 36 Minuten.\r\n\r\nNach dem Abk&uuml;hlen auf 20&deg;C wurden 2 P&auml;ckchen Nottingham-Hefe sowie ein P&auml;ckchen Imperial Yeast W15 (Suburban Brett) hinzugegeben. Nach Ende der Hauptg&auml;rung wurde das Bier noch weitere 6 Monate im G&auml;reimer gereift (dabei bildete sich eine Brett-typische Pellicula) und schlie&szlig;lich auf Flaschen abgef&uuml;llt. Zur Karbonisierung wurde trockenes Malzextrakt in hei&szlig;em Wasser aufgel&ouml;st und individuell in die Flaschen dosiert, sodass eine Karbonisierung von etwa 4 g\/l zu erwarten ist.\r\n\r\nDer gemessene Restextrakt vor dem Abf&uuml;llen war bei 6,5&deg;P."
+}

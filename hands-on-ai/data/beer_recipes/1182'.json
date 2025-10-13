@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "El brujo (especial)",
+    "Datum": "07.12.2019",
+    "Sorte": "California common",
+    "Autor": "Bieryllium",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 8.5,
+    "Bittere": 15,
+    "Farbe": 10,
+    "Alkohol": 3.5,
+    "Kurzbeschreibung": "Goldfarbene fruchtige leichte \u00dcberraschung. Ausgewogen gebittert. Jeder der es probierte schmeckte etwas anderes. F\u00fcr mich war ein Birnenaroma am pr\u00e4sentesten.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 4.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Triticale (Rohfrucht)",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Maisflocken",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Marynka",
+            "Menge": 5,
+            "Alpha": 9.4,
+            "Zeit": 40,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Marynka",
+            "Menge": 5,
+            "Alpha": 9.4,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Marynka",
+            "Menge": 5,
+            "Alpha": 9.4,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Mangrove Jack's M54 California Lager ",
+    "Gaertemperatur": "24-17",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die ersten 10 Liter wurden zur especial Variante verarbeitet. ~16.5\u00b0P Stammw\u00fcrze und ~40IBU nach demselben Hopfenkochschema (10gr f\u00fcr 40,20 und 0 Minuten). Hier kam ein P\u00e4ckchen Hefe bei 17\u00b0C zum Einsatz. Das especial war nicht schlecht, aber das leichte war besser. K\u00fchle noch \u00fcber Nacht und musste das P\u00e4ckchen Hefe am n\u00e4chsten Tag unbedingt zugeben. Deswegen die hohe G\u00e4rtemperatur am Anfang. Das ergab dann Fruchtaromen ohne Ende. Die Hefe macht das auch schon bei 17\u00b0C, weil sie unterg\u00e4rig ist, aber so war es noch mal \u00fcbertriebener. Hier konnte ich lernen, dass mir Fehlgeschm\u00e4cker manchmal sogar zusagen. In meinem Fall hatte ich Birne pur in der Nase. Das Bier w\u00e4re ohne wahrscheinlich sehr viel langweiliger gewesen."
+}

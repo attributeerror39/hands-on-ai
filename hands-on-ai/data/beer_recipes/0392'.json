@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Dark Side of the Sun",
+    "Datum": "04.05.2014",
+    "Sorte": "Stout",
+    "Autor": "BigMoz",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 35,
+    "Farbe": 94,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "kr\u00e4ftig r\u00f6stig, cremig, mit leichter Fruchtigkeit. Evtl. Mischung aus Dry- und American Stout.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.88,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Polenta",
+            "Menge": 540,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 210,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 10.615384615384615,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16.307692307692307,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 15,
+            "Alpha": 14.2,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 15,
+            "Alpha": 14.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 20
+        }
+    ],
+    "Hefe": "WYEAST 1084 - Irish Ale",
+    "Gaertemperatur": "18",
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Das Rezept wurde von cosmophobias \"Mallorca bei Nacht\" aus der Datenbank inspiriert. \r\nIch finde es ein wirklich gut gelungenes Stout mit einer Mischung aus cremigem, kr\u00e4ftigem R\u00f6stgeschmack und leichter Fruchtigkeit. Nicht gerade s\u00fcffig aber trotzdem angenehm zu trinken. Das Bier kam bei Verkostungen ausgesprochen gut an!\r\n\r\nAls Wasserwerte habe ich die Einstellung \"black balanced\" aus dem Brun-Water Excel Sheet \u00fcbernommen (googeln!).\r\n\r\nDie Gerstenflocken wurden im Backofen bei 150 \u00b0C f\u00fcr 10-15 min hellbraun getoasted.\r\nVon dem Chocolate Malt wurden 50% sofort eingemaischt, der Rest kam nach ca. 40 min Kombirast dazu.\r\n\r\nGestopft wurde f\u00fcr 4 Tage in der Nachg\u00e4rung.\r\nEine l\u00e4ngere Lagerung (2 Monate) hat dem malzigen, r\u00f6stigen Geschmack gut getan, der fruchtige Hopfengeschmack blieb dabei gut erhalten."
+}

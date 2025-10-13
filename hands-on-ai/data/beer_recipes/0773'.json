@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Riwaka Single Hop",
+    "Datum": "06.09.2017",
+    "Sorte": "India Pale Ale",
+    "Autor": "BrauWastlKoeln",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.8,
+    "Bittere": 51,
+    "Farbe": 16,
+    "Alkohol": 7.6,
+    "Kurzbeschreibung": "Sch\u00f6n fruchtiges, trockenes IPA\/Pale Ale mit dem vollen Aroma des Neuseel\u00e4ndischen Riwaka Hopfens.",
+    "Malze": [
+        {
+            "Name": "Golden Promise Pale Ale Malt",
+            "Menge": 2.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 1.95,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz I",
+            "Menge": 910,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caramalz Hell",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caramalz Amber",
+            "Menge": 210,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.909090909090907,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 66,
+    "Nachguss": 10.727272727272727,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Riwaka (2016)",
+            "Menge": 48,
+            "Alpha": 5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Riwaka (2016)",
+            "Menge": 36,
+            "Alpha": 5,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Riwaka (2016)",
+            "Menge": 36,
+            "Alpha": 5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Riwaka (2016)",
+            "Menge": 60
+        }
+    ],
+    "Hefe": "White Labs WLP051 California Ale V",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 83,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Hatte das Bier mit Freunden zusammen als Publikumsbier f\u00fcr die Deutsche Hobbybrauermeisterschaft bei St\u00f6rtebeker im Juli 2017 gebraut und dort pr\u00e4sentiert. Einen Monat sp\u00e4ter habe ich es beim K\u00f6lner Hobbybrauerstammtisch mitgenommen. Mir selber schmeckt's sehr gut und es gab durchweg positives Feedback. Viel Spa\u00df beim Nachbrauen :-)\r\n\r\nDen Riwaka Hopfen habe ich online aus England bezogen, da ich den bei den einschl\u00e4gigen deutschen Anbietern nicht gefunden habe.\r\n\r\nDas Hochheizen vorm Abmaischen haben wir vergessen, daher die geringe Temperatur. Letzte Hopfengabe kurz nach Flame Out bei ca. 90\u00b0C. Danach noch mal 15 Minuten bis es auf 80\u00b0C runter war. K\u00fchlung \u00fcber Nacht.\r\n\r\nStopfhopfen 3g\/l nach zehn Tagen G\u00e4rung f\u00fcr sieben Tage hinzugef\u00fcgt. Dann Zucker f\u00fcr Karbonisierung und auf Flasche. Zwei Wochen Raumtemperatur f\u00fcr die Flascheng\u00e4rung und drei Wochen bei 4\u00b0C gelagert. Danach super trinkbar."
+}

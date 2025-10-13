@@ -1,0 +1,101 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Smoked Raspberry Habanero Porter",
+    "Datum": "24.09.2021",
+    "Sorte": "Brown Porter",
+    "Autor": "Tille1987",
+    "Klonbier": "ja",
+    "Klonbier_Original": "boomshakalaka von orca brau",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 28,
+    "Farbe": 69,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Alles andere als ein typisches Porter. Rauchnoten, Himbeeraromen und eine Prise sch\u00e4rfe schickt dich auf eine spannende Geschmacksreise.\r\nVorbild war das boomshakalaka von der  Brauerei orca brau.",
+    "Malze": [
+        {
+            "Name": "Maris Otter Pale Ale",
+            "Menge": 2.43,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 1.1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Crystal",
+            "Menge": 350,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weyermann Special W",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken kernig",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial II",
+            "Menge": 90,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 54,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 73,
+    "Nachguss": 14,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Polaris",
+            "Menge": 10,
+            "Alpha": 17.3,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 28,
+            "Alpha": 5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Himbeeren TK",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Habaneropulver",
+            "Menge": 0,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Safale S-04",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 66,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "0,3g Habaneropulver habe ich verwendet. Leider macht die Website 0g daraus.\r\n\r\nDas Wasser habe ich mit 5g Calciumchlorid und 4g Natron eingestellt auf folgende Werte (in mg\/l):\r\n\r\nCalcium: 83, Magnesium: 4, Sulfat: 62, Chlorid: 94, Natrium: 43, RA: 4,2\u00b0dH\r\n\r\nDas Carafa Spezial II habe ich sofort mit eingemaischt.\r\n\r\nGebraut habe ich das Bier in einem 34l Topf mit R\u00fchrwerk, L\u00e4uterhexe und Hendi Induktionsplatte. Gel\u00e4utert wurde in einem 36l Topf in dem anschlie\u00dfend gekocht wurde. Aktiv gek\u00fchlt wurde mit der Hydra und dann mit einem Bierheber durch ein Monofilamentfilter in den G\u00e4rbottich umgeschlaucht.\r\n\r\nNachisomerisierungszeit: 1 Minute\r\n\r\nAngestellt habe ich bei 16\u00b0C mit der S-04\r\n\r\nNach 4 Tagen G\u00e4rung hatte ich das erste mal gemessen. Das Ergebnis war 4,8\u00b0P (von 13,2\u00b0P Stammw\u00fcrze) was einem sEVG von ca. 64% entspricht. \r\nHier habe ich dann 600g tiefk\u00fchl Himbeeren direkt aus der Packung und 0,3g Habaneropulver in den G\u00e4rbottig hinzugegeben.\r\nJa, wirklich nur 0,3g Habaneropulver. Hier bitte aufpassen mit der Dosierung, hier kann man es schnell \u00fcbertreiben und das Bier wird zu scharf. \r\n\r\nDie Himbeeren und das Habaneropulver habe ich insgesamt 7 Tage im G\u00e4rfass gelassen. Also an G\u00e4rtag 11 habe ich umgeschlaucht um das Jungbier von den Himbeeren zu trennen. Ich habe einen Monofilamentfilter ins G\u00e4rfass platziert und darin dann einen Bierheber rein getan. Hat super funktioniert, Himbeeren samt Kerne blieben im G\u00e4rfass zur\u00fcck. Beim Umschlauchen unbedingt Oxidation vermeiden, also nix pl\u00e4tschern lassen.\r\n\r\nJetzt das Jungbier noch einige Tage stehen lassen damit der Zucker von den Himbeeren vergoren werden kann. Nach insgesamt 14 Tagen war die G\u00e4rung durch. An Tag 17 habe ich dann abgef\u00fcllt. Der Restextrakt betrug noch 3,2\u00b0P was einen sEVG von 76% ergibt.\r\n\r\nBereits nach 2 Wochen Kaltreifung ist das Bier schon durchaus trinkbar. Mehrere Wochen Kaltreifung sind aber empfehlenswert.\r\n\r\nIm Glas hatte ich ein recht klares Bier mit feinporigen Schaum. In der Nase nimmt man sofort den Rauch wahr.\r\nBeim Trinken schmeckt man auch sofort das rauchige Aroma welches in Himbeere \u00fcbergeht und mit einer angenehmen Sch\u00e4rfe endet.\r\n\r\nDer Crew von orca brau habe ich davon mal 2 Flaschen geschickt, diese wurden Blindverkostet mit dem Original. Es wurde mir eine gewisse \u00c4hnlichkeit bescheinigt, deshalb hab ichs als Clonrezept hier rein gestellt."
+}

@@ -1,0 +1,97 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Kurikuj\u00e1 Morot\u00ee",
+    "Datum": "15.10.2017",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "sudlachs",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.2,
+    "Bittere": 30,
+    "Farbe": 10,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Sehr sehr fruchtiges Pale Ale, samtiges Mundgef\u00fchl und komplexes Aroma (Mango, Maracuja, Pinie). NEIPA bzw NEPA - hauptsache New England. Ist recht tr\u00fcb, hazy, allerdings wegen der Proteine und des Hopfens - nicht wegen der Hefe.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.75,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 880,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner I",
+            "Menge": 660,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 90,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Columbus",
+            "Menge": 20,
+            "Alpha": 15.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 20,
+            "Alpha": 13.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 25,
+            "Alpha": 14.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 25,
+            "Alpha": 11.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 30
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 35
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 35
+        }
+    ],
+    "Hefe": "US-05, S-04, W1318, Conan",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 4.8,
+    "Anmerkung_Autor": "30 IBU laut Earls Hopfenrechner\r\nWhirlpool unter 80 \u00b0C\r\n5 Minuten Nachisomerierung\r\n\r\nEin extrem fruchtig-tropisches New England Pale Ale mit tollem Mundgef\u00fchl und hoher Drinkability. Kaum bitter. War sehr schnell weg. Sehr empfehlenswert!\r\n\r\n(Der Name kommt aus dem Guaran\u00ed: Kuri - Pinie, Mburukuj\u00e1 - Passionsfrucht, Morot\u00ee - wei\u00df)\r\n\r\nEdit: Mittlerweile mag ich's weniger Bitter, habe das Rezept angepasst.\r\n60 (5g) und 20 min (5 g) Gaben fallen weg, werden bei Kochende hinzugegeben (10 -> 20 g)."
+}

@@ -1,0 +1,110 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bock auf Honig",
+    "Datum": "12.03.2016",
+    "Sorte": "Heller Doppelbock",
+    "Autor": "Plankton",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20.6,
+    "Bittere": 27,
+    "Farbe": 18,
+    "Alkohol": 8.9,
+    "Kurzbeschreibung": "Weicher, rotgoldener Bock (oberg\u00e4rig) mit sehr intensiven Honig- und Malzaromen",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Honig (zur G\u00e4rung)",
+            "Menge": 1,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Aurora",
+            "Menge": 20,
+            "Alpha": 7,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fcher",
+            "Menge": 20,
+            "Alpha": 4.3,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Aurora",
+            "Menge": 20,
+            "Alpha": 7,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fcher",
+            "Menge": 20,
+            "Alpha": 4.3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Honig",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Honig",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Danstar Nottingham Ale",
+    "Gaertemperatur": "15",
+    "Anmerkung_Autor": "- Haferflocken im Ofen bei 150\u00b0 anr\u00f6sten\r\n- Hauptg\u00e4rung im unteren oberg\u00e4rigen Temperaturbereich\r\n- Honiggabe erst nach Ende der st\u00fcrmischen G\u00e4rung: im Abstand von einigen Tagen 2mal \"stopfen\" mit je 500g Honig im abgedeckten G\u00e4rgef\u00e4\u00df (Honig in etwas 30\u00b0 warmem Wasser aufl\u00f6sen und vorsichtig einr\u00fchren)\r\n- moderate Carbonisierung (max. 5g\/l)\r\n- lange Nachg\u00e4rung (2 - 3 Wochen) wegen des hohen Alkoholgehalts\r\n Das Ergebnis war bei mir ein komplexes, s\u00fc\u00dfliches, aber nicht mastiges Stark-(!!!)bier mit sehr cremigem Mundgef\u00fchl. Harmonische Honig- und Getreidearomen. Ich habe Waldhonig vom \u00f6rtlichen Imker benutzt; vermutlich h\u00e4ngt das Ergebnis geschmacklich und farblich stark vom verwendeten Honig ab. Infektionsprobleme wegen des ungekochten Honigs hatte ich nicht. Nach 2 maliger Erprobung mein erstes Rezept, das ich f\u00fcr ver\u00f6ffentlichungsw\u00fcrdig halte!\r\nZum Vergleich werde ich bei Gelegenheit bei h\u00f6heren Temperaturen mit einer belgischen Abteibier-Hefe verg\u00e4ren; stelle ich mir ebenfalls sehr lecker vor. \r\n"
+}

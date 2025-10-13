@@ -1,0 +1,120 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Buchweizen Milk Stout",
+    "Datum": "20.07.2019",
+    "Sorte": "Milk Stout",
+    "Autor": "mlie",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.9,
+    "Bittere": 48,
+    "Farbe": 220,
+    "Alkohol": 6.8,
+    "Kurzbeschreibung": "Tief Schwarzes Stout, mit sch\u00f6nen karamelfarbenen feinporigen Schaum, leckeren leicht nussiges karameliger Malz Geschmack, wobei der Hopfen gut harmoniert und nicht den Geschmack vom Malz \u00fcberdeckt",
+    "Malze": [
+        {
+            "Name": "Maris Otter Malz",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Brown Malz",
+            "Menge": 1.11,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Aroma",
+            "Menge": 560,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Buchweizen Malz",
+            "Menge": 560,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chokoladen Malz 400",
+            "Menge": 440,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 560,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 78,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.77777777777778,
+    "Einmaischtemperatur": 35,
+    "Rasten": [
+        {
+            "Temperatur": 35,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 70
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.11111111111111,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Maiche \/ Idaho 7",
+            "Menge": 22,
+            "Alpha": 12,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Columbus",
+            "Menge": 17,
+            "Alpha": 13,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggles",
+            "Menge": 24,
+            "Alpha": 5,
+            "Zeit": 6,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "EKG",
+            "Menge": 39,
+            "Alpha": 6.3,
+            "Zeit": 3,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Huell Melon",
+            "Menge": 24,
+            "Alpha": 7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Milchzucker",
+            "Menge": 556,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "WLP 051",
+    "Gaertemperatur": "19",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Idaho 7 Hopfen mit zum Anfang in die Maiche \/ ich bin in der Topf Klasse,desswegen ist Nachguss gesch\u00e4tzt \/ mit 2,5 g Cassonade bruin(belg. Kandiszucker)auf Flasche carbonisiert nach 4 Woche Reifezeit sehr sehr gutes Bierchen"
+}

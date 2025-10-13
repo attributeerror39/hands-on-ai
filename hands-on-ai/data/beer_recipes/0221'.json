@@ -1,0 +1,106 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ora & Labora",
+    "Datum": "17.08.2012",
+    "Sorte": "Belgisches Dunkel",
+    "Autor": "everell",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 30,
+    "Farbe": 60,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Starkes, dunkles Bier nach belgischer Machart.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4.16,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara M\u00fcnch",
+            "Menge": 170,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Aroma",
+            "Menge": 140,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Typ3",
+            "Menge": 56,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.8,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 17.6,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Willamette",
+            "Menge": 14,
+            "Alpha": 5.6,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 14,
+            "Alpha": 5.6,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 30,
+            "Alpha": 5.6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Kandiszucker",
+            "Menge": 648,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Koriander",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Kreuzk\u00fcmmel",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "K\u00fcmmel",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "Wyeast 3787 Trappist High Gravity oder Safbrew T-58",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Den Koriander schrote ich jeweils mit der Malz-M\u00fchle, die \u00fcbrigen Gew\u00fcrze kommen unbehandelt in die W\u00fcrze.\r\nDas Bier wird richtig rund nach ca. 30 Wochen Reifung, ist aber auch nach 2 Wochen schon gut trinkbar. "
+}

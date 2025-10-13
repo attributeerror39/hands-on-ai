@@ -1,0 +1,49 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Extra Hell",
+    "Datum": "17.11.2020",
+    "Sorte": "Helles",
+    "Autor": "hackl",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 30,
+    "Farbe": 4,
+    "Alkohol": 3.9,
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4.38,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.625,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.375,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 19,
+            "Alpha": 12.3,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Nottingham",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "Carbonisierung mittels Dosierhilfe.\r\nLagerung 3 Tage bei 20\u00b0C, dann 4 Wochen bei im Schnitt 7\u00b0C (Garage)."
+}

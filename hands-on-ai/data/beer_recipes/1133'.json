@@ -1,0 +1,85 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Amarillo Amarillo",
+    "Datum": "26.08.2019",
+    "Sorte": "Pale Ale",
+    "Autor": "N\u00f8rdBrew",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 25,
+    "Farbe": 8,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Sehr frisches fruchtiges Paleale, inspiriert (kein Clone) vom Amarillo PaleAle von \"ElTap\" in Spanien",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 1.9,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 23,
+    "Einmaischtemperatur": 52,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 6,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 10,
+            "Alpha": 12,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 12,
+            "Alpha": 9.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 12,
+            "Alpha": 9.2,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 25,
+            "Alpha": 9.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 5
+}

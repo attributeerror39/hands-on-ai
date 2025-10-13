@@ -1,0 +1,98 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mehrkorn Woiza Bock",
+    "Datum": "29.12.2021",
+    "Sorte": "Dinkel-, Emmer- oder Mehrkornbier",
+    "Autor": "saxgaard",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 24,
+    "Farbe": 23,
+    "Alkohol": 6.6,
+    "Kurzbeschreibung": "Passend zur Weihnachtszeit dieser malzbetonte Weizenbock.\r\nErinnert auch ein wenig an ein M\u00e4rzen. \r\nDie Rohfrucht 6 Kornmischung tr\u00e4gt wohl auch dazu bei. Der Bock ist eher s\u00fc\u00dflich im Abgang.\r\nPasst gut zu Essen der asiatischen K\u00fcche. \r\nGesamturteil: Drinkable ",
+    "Malze": [
+        {
+            "Name": "Weizen",
+            "Menge": 3.71,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener",
+            "Menge": 570,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 1.14,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara 50 EBC",
+            "Menge": 570,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner Dunkel 22 EBC ",
+            "Menge": 570,
+            "Einheit": "g"
+        },
+        {
+            "Name": "6 Korn Mischung Davert",
+            "Menge": 570,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 110,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 27.42857142857143,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertau Tradition",
+            "Menge": 15,
+            "Alpha": 7,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger Perle",
+            "Menge": 11,
+            "Alpha": 8,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger Herkules",
+            "Menge": 8,
+            "Alpha": 17,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 3068",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "BIAB \r\nWasserprofil\r\nCa 76,\r\nMg 19,\r\nNa 8,\r\nCl 48,\r\nSO4 51,\r\nHCO3 169,\r\n\r\nHartes Wasser. \r\nHauptg\u00e4rung 2 Wochen bei 20\u00b0C\r\nNachg\u00e4rung 2 Wochen bei 20\u00b0C\r\nReifung mindestens 1 Woche bei 5\u00b0C\r\n\r\n\r\n"
+}

@@ -1,0 +1,70 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Therwiler Maisbier",
+    "Datum": "13.02.2012",
+    "Sorte": "Maisbier",
+    "Autor": "Bergbock",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.4,
+    "Bittere": 24,
+    "Farbe": 7,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "S\u00fcffiges, oberg\u00e4riges Maisbier",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 830,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Maismehl",
+            "Menge": 1000,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.333333333333332,
+    "Einmaischtemperatur": 53,
+    "Rasten": [
+        {
+            "Temperatur": 53,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 11.666666666666668,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 11,
+            "Alpha": 10,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 8,
+            "Alpha": 10,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "16",
+    "Anmerkung_Autor": "Maismehl in 4 l Wasser mit HT-Amylase f\u00fcr 40 min kochen.\r\nHat man keine HT-Amylase, mehr Wasser nehmen und kr\u00e4ftig r\u00fchren (Anbrenngefahr)\r\nAlternative : Polenta statt Maismehl (kann direkt eingemaischt werden).\r\n"
+}

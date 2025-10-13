@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Kreuz-Wei\u00dfe",
+    "Datum": "14.06.2020",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Occitanus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.7,
+    "Bittere": 12,
+    "Farbe": 11,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Ausgewogenes und vollmundiges Weizen. 1. Platz in der Kategorie Weizen  beim BJCP-Wettbewerb der HBCON 2020.",
+    "Malze": [
+        {
+            "Name": "Helles Weizenmalz",
+            "Menge": 2.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 730,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 730,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchener Malz 25",
+            "Menge": 730,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 38,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.333333333333332,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Diamant",
+            "Menge": 8,
+            "Alpha": 8,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Diamant",
+            "Menge": 5,
+            "Alpha": 8,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hersbrucker",
+            "Menge": 11,
+            "Alpha": 3.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "W205",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "F\u00fcr meinen Geschmack ein sehr rundes Weizen mit leichter Hopfenblume, stabilem Schaum und guter Rezenz. Habe auf die 30 Liter einen 1,5 Liter Starter mit der W 205 gemacht und bei 14,5\u00b0C angestellt. Dann bei 16\u00b0C bis kurz vor Ende der Hauptg\u00e4rung vergoren. Ganz zum Schluss bis auf 20\u00b0C kommen lassen. Mir schmeckt es nach zwei Wochen Kaltreifung am besten.\r\n\r\nDie W220 macht aus dem Rezept auch ein tolles Weizen, bei dem nach meinem Empfinden etwas mehr Nelke durch kommt."
+}

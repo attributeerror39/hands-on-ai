@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Michas Dampfbier",
+    "Datum": "26.09.2015",
+    "Sorte": "Mild Ale",
+    "Autor": "tauroplu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.1,
+    "Bittere": 22,
+    "Farbe": 19,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Bierspezialit\u00e4t auf Basis von Gerstenmalzen, mit feiner Wei\u00dfbierhefe vergoren",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carahell\u00ae",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.333333333333332,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 38,
+            "Alpha": 3,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Magnum",
+            "Menge": 1,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 27,
+            "Alpha": 4.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Munich Wheat",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 5.3,
+    "Anmerkung_Autor": "Riecht eher nach Gerstenbier, leicht fruchtige Note. Schmeckt aber doch mehr wie ein Weizenbier light. Sehr s\u00fcffig und erfrischend lecker, ohne Nelke oder Banane, leicht fruchtig und mit angenehmen phenolischen Aromen.\r\n\u00dcblicherweise mit sehr wenig Hopfen, da es ein Arme-Leute-Bier war. Von daher nicht ganz stilecht, aber ich mag es so. Sonst etwa 10 IBU einstellen.\r\nDie IBU Werte wurden mit Earls Hopfenrechner f\u00fcr Profis ermittelt. Ich verwende Pellets. - Nachisomerisierungszeit: 15 Min. -"
+}

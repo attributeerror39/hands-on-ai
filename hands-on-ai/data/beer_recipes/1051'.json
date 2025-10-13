@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "allezHOP",
+    "Datum": "12.03.2019",
+    "Sorte": "Franz\u00f6sisches Ale",
+    "Autor": "beryll",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 27,
+    "Farbe": 16,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Dunkelgelbes Bi\u00e8re de garde mit einer spritzigen, fruchtigen Note. <br><i>2. Platz Publikumspreis Heimbrau Convention 2019 in Romrod.<\/i>",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.77,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 830,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraAmber",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Spitzmalz",
+            "Menge": 110,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.132075471698112,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 720
+        }
+    ],
+    "Abmaischtemperatur": 63,
+    "Nachguss": 7.547169811320755,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Brewers Gold",
+            "Menge": 38,
+            "Alpha": 5,
+            "Zeit": 55,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Strisselspalter",
+            "Menge": 57,
+            "Alpha": 1.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Strisselspalter",
+            "Menge": 57,
+            "Alpha": 1.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Strisselspalter",
+            "Menge": 19
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 6
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Ascorbins\u00e4ure",
+            "Menge": 1,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Wyeast #3711 French Saison",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 93,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Restalkalit\u00e4t HG\/NG von 0\u00b0dH mit Milchs\u00e4ure eingestellt.\r\n\r\nDurchgef\u00fchrt wurde eine \u00dcbernachtmaische: \r\nEingemaischt im Thermoport um 21:00 Uhr. Das Wasser hatte 73\u00b0C und durch das k\u00fchle Malz sank die Einmaischtemperatur dann auf die gew\u00fcnschten 68\u00b0C.  Nach 12h wurde morgens um 09:00 Uhr mit dem Abmaischen begonnen, die Maische hatte dort immer noch eine Temperatur von 63\u00b0C.\r\n\r\nG\u00e4rf\u00fchrung: \r\nWir haben aktiv sofort auf 79\u00b0C gek\u00fchlt und danach die Whirlpoolhopfung f\u00fcr 20 min durchgef\u00fchrt, anschlie\u00dfend wurde auf Anstelltemperatur von 19\u00b0C runter gek\u00fchlt und mit einem 2,5 Liter Starter sofort angestellt.\r\n\r\nNach 4 Tagen wurde die Temperatur auf 20\u00b0C erh\u00f6ht und nach weiteren 2 Tagen auf 21\u00b0C. Hier wurde dann auch der Stopfhopfen und die Ascorbins\u00e4ure hinzugegeben.\r\n\r\nNach 5 Tagen Stopfen kam der Coldcrash an die Reihe, nach 2 weiteren Tagen wurde das Bier in NC Kegs abgef\u00fcllt.\r\n\r\nRumborak: Ausf\u00fchrung der Maischarbeit und Kochen\r\nberyll: Hefestarter\r\nAndreas: Hefegabe\r\nKarel: Die tollen Bierdeckel und unser HBCON Holzschild :-)"
+}

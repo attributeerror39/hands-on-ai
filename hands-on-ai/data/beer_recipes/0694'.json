@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Fr\u00e4nkisch Frisch",
+    "Datum": "01.04.2017",
+    "Sorte": "Pale Ale",
+    "Autor": "Bieryllium",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.3,
+    "Bittere": 40,
+    "Farbe": 25,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "Kupfernes Ale mit subtiler Blumen- und Kr\u00e4uternote. Ordentlich bitter aber sehr erfrischend.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.31,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Bohemian Pilsner",
+            "Menge": 1.23,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Red",
+            "Menge": 370,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.538461538461537,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 69,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 65,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 67.5,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.230769230769232,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hersbrucker Sp\u00e4t",
+            "Menge": 46,
+            "Alpha": 1.1,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Spalter Merkur",
+            "Menge": 15,
+            "Alpha": 12,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hersbrucker Sp\u00e4t",
+            "Menge": 46,
+            "Alpha": 1.1,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "14",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Servus! Die Idee f\u00fcr dieses Rezept war m\u00f6glichst viele Zutaten aus Franken zu verwenden und trotzdem was neues zu machen. Der Hauptguss wurde am Vortag abgekocht. Gebraut wurde es im holzgefeurtem Kessel. Das ist ziemlich tr\u00e4ge was die Temperaturwechsel anbelangt (25min von 68\u00b0 auf 78\u00b0). 3 P\u00e4ckchen Hefe in lauwarmen Wasser f\u00fcrs Anstellen. Gelagert wird es im Heizungskeller. Die Umgebung ist um die Zeit der G\u00e4rung nicht \u00fcber 14\u00b0 warm gewesen. HG war 10 Tage lang. Flascheng\u00e4rung f\u00fcr 9 Tage. Das war bisher das beste und innovativste Bier das wir gebraut haben. Hersbrucker Sp\u00e4t wird immer nur f\u00fcr unterg\u00e4rige Biere verwendet. Bis jetzt :-) Der eher subtile blumige und krautige Geschmack ist im ersten Moment vielleicht nicht so wuchtig wie man es von anderen Hopfensorten gew\u00f6hnt ist, aber mit jedem Schluck will man mehr und es hinterl\u00e4sst einen sehr angenehmen Nachgeschmack. Wir hatten auch nicht mit einer guten Sudhaus Ausbeute gerechnet, sodass unser Bier nun 1% vol. mehr Alkohol hat als geplant. Aber das hindert glaube ich niemanden hier am Genie\u00dfen. Ich pers\u00f6nlich will das definitiv noch mal brauen und dann auch kalt stopfen mit Saphir. Gutes Gelingen beim Nachbrauen und liebe Gr\u00fc\u00dfe! Ade!"
+}

@@ -1,0 +1,69 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Lawn Mower",
+    "Datum": "15.11.2021",
+    "Sorte": "Kveik",
+    "Autor": "Martl",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 14,
+    "Farbe": 8,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Helles Bier mit hoher Trinkbarkeit. Habe es bereits 2mal gebraut und ist perfekt f\u00fcr die warmen Jahreszeiten.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 3.68,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cornflakes ",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 560,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.72,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 8.8,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Columbus",
+            "Menge": 5,
+            "Alpha": 15.5,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 46,
+            "Alpha": 6.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Oslo Kveik",
+    "Gaertemperatur": "28",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Cornflakes hab ich die von Brouwland verwendet. Wahrscheinlich w\u00fcrden alle ungezuckerten Cornflakes funktionieren."
+}

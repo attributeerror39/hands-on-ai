@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Abenteuerlicher Ralf",
+    "Datum": "27.08.2023",
+    "Sorte": "California common",
+    "Autor": "integrator",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 25,
+    "Farbe": 13,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Ein Ale\/Lager was nicht mit einem zu aufdringlichen Fruchtkorb st&ouml;rt. Von dem goldgelben bis bernsteinfarbenen Bier kann man durchaus etwas mehr trinken. Ausgewogen bis mild gebittert macht der Vic Secret eine Hopfennote, die in Richtung Mango oder Ananas geht.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.64,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchner Malz",
+            "Menge": 910,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Spitzmalz",
+            "Menge": 450,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.81818181818182,
+    "Einmaischtemperatur": 64,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 10,
+            "Alpha": 11.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 13,
+            "Alpha": 17.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 35,
+            "Alpha": 17.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "WYEAST #2112 California Lager",
+    "Gaertemperatur": "17-18",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Auch Ralf ist kein einfach zu ortender Mensch. Irgendwie ist er immer auf der Suche nach was Neuen und Interessanten aber wenn er was gefunden hat, ist er auch kein bedingungsloser Fan der Sache ... also letzendlich immer auf der Suche.\r\nEr mag Pale Ale&#039;s, sie sollten aber nicht zu aufdringlich fruchtig sein. Der Versuch eines sog. Graff war schon gut aber er meint der w&auml;re zu &quot;speziell&quot;. Beim st&ouml;bern nach fruchtigen Lagerbieren und der guten Referenz von Muldengold&#039;s &quot;R-r-r-rasenm&auml;her Lager&quot; habe ich mich f&uuml;r ein California common entschieden. Ralf war sehr angetan, da es ein guter Kompromiss eine Pale Ale und Lagerbier ist.\r\nDie letzte Hopfengabe wurde unter 80&deg;C gegeben.\r\n\r\nBrauen im Grainfather &bull; Einmaischtemperatur ist Malz+Wasser &bull; PH-Wert 5,5 &bull; Restalkalit&auml;t -3,7&deg;dH &bull; Nachisomisierung 5 min.\r\nWasserwerte: Ca=96 &bull; Mg=5 &bull; SO4=81 &bull; Cl=72 "
+}

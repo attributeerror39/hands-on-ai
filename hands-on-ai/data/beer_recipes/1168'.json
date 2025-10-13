@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Summer Pale Ale ",
+    "Datum": "05.11.2019",
+    "Sorte": "Pale Ale",
+    "Autor": "hilope",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 37,
+    "Farbe": 10,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "<h4>Original-Beschreibung aus den Hobbybrauer-Wiki:<\/h4>\r\n<p>Vollmundiges und sch\u00f6n s\u00fcffiges, erfrischendes Bier mit toller Hopfenblume. Der Cascade gibt dem Bier einen tollen zitro-grasigen Charakter der wirklich gut zum Sommer passt. Der Schaum ist feinporig und lange haltbar. Die Kl\u00e4rung des Bieres mit der S-04 ist hervorragend, nach l\u00e4ngerer Lagerung kristallklar.<\/p>\r\n",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4.44,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 110,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.88888888888889,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.444444444444445,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 24,
+            "Alpha": 5.8,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 11,
+            "Alpha": 12,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 19,
+            "Alpha": 5.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham Ale oder Safale S-04",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Sehr fruchtiges Bier nach 3 Wochen Lagerung. Hat sich mit der Nottingham-Hefe gut und relativ klar entwickelt. Toller Schaum wenn die Flascheng\u00e4rung mindestens eine Woche im K\u00fchlschrank stattfindet (ein Teil wurde bei 18\u00b0C gelagert und hatte wesentlich eine schlechtere Schaumstabilit\u00e4t).\r\n\r\nNach einer Woche war die G\u00e4rung mit der Nottingham-Hefe abgeschlossen. Darauf folgte die Abf\u00fcllung in Flaschen und Nachg\u00e4rung im K\u00fchlschrank f\u00fcr mindestens eine Woche. Ein Teil wurde nicht gek\u00fchlt und lediglich im Keller bei 19\u00b0C gelagert, wobei hier eine deutlich schlechtere Schaumstabilit\u00e4t vorhanden war.\r\nLeider kann keine Bewertung nach l\u00e4ngerer Lagerzeit abgegeben werden weil das Bier so lecker war und deshalb viel zu schnell alle war ;)\r\n\r\n\u00dcbertrag aus dem Hobbybrauer-Wiki unter <a href=\"https:\/\/hobbybrauer.de\/forum\/wiki\/doku.php\/summer_pale_ale\">https:\/\/hobbybrauer.de\/forum\/wiki\/doku.php\/summer_pale_ale<\/a> mit Anpassungen und benutzten Materialien und angepassten Mengenangaben."
+}

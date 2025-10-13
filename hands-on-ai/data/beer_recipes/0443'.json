@@ -1,0 +1,80 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Cascade Pale Ale",
+    "Datum": "11.02.2015",
+    "Sorte": "Pale Ale",
+    "Autor": "Dekobier",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 35,
+    "Farbe": 15,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Single Hop American Pale Ale mit den unverwechselbaren, fruchtigen Cascade-Aromen",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.45,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz I",
+            "Menge": 910,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraRed",
+            "Menge": 240,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.545454545454547,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.545454545454547,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 24,
+            "Alpha": 6.9,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 12,
+            "Alpha": 6.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 12,
+            "Alpha": 6.9,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Fermentis US-05",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wasser mit Gips und CaCl2 auf 120mgCl- und 100mg (SO4)2- aufgesalzt,  mit Milchs\u00e4ure auf einen Maische-pH von ~5,5 eingestellt. Irish Mooss und Hefenahrung kurz vor Kochende\r\n\r\nDie Sch\u00fcttung habe ich urspr\u00fcnglich zum Ausprobieren von Hopfen genommen, aber man kann es sogar ganz gut trinken ;)"
+}

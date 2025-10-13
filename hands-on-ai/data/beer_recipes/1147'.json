@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Oktoberfestweizen",
+    "Datum": "27.09.2019",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "BrauSven",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 17,
+    "Farbe": 9,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Leckeres mild gehopftes goldgelbes Weissbier mit ausgewogen fruchtigem  Geschmack, schnell trinkbar.",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 1.1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Hell",
+            "Menge": 2.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener ",
+            "Menge": 1.1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraWheat",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 45,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 15,
+            "Alpha": 5.3,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 10,
+            "Alpha": 5.3,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 8,
+            "Alpha": 5.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Danstar Munich Classic oder 3068 oder Gutmann-Strip, ",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 4.5,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Maischen nach dem Herrmann-Verfahren: \r\n\u00b7Einmaischen von 50% des Malzes mit 50% des Wassers bei 60\u00b0 -> bei 63\u00b0 40 min rasten\r\n\u00b7Aufheizen auf 70\u00b0 und 15 min rasten.\r\n\u00b7weitere 50% des kalten Wassers und den Rest des Malzes dazu -> Temperatur sollte auf ca. 40-45\u00b0 fallen -> 45 min rasten\r\nDanach geht es mit der kompletten Maische normal weiter:\r\n\u00b7 bei 70\u00b0 30 min Rast\r\n\u00b7 bei 78\u00b0 abmaischen\r\n\r\nDie Hefe wurde rehydriert und legte bereits nach ca. 12 Stunden ordentlich los. Ein paar weitere Infos gibt es in meinem Blog unter https:\/\/selbstbraublog.de\r\n"
+}

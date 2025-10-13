@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Weizen- Schneider Weisse Style",
+    "Datum": "06.07.2017",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "cubase",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 13,
+    "Farbe": 14,
+    "Alkohol": 4.7,
+    "Kurzbeschreibung": "Ausgewogenes weder ganz helles noch ganz dunkles Weizen.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2.92,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 850,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 850,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch I",
+            "Menge": 280,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.615384615384615,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.846153846153847,
+    "Kochzeit_Wuerze": 120,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 23,
+            "Alpha": 4.8,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 8,
+            "Alpha": 4.8,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast Labs 3638 - Bavarian Wheat",
+    "Gaertemperatur": "18",
+    "Karbonisierung": 7
+}

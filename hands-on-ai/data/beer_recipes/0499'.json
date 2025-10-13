@@ -1,0 +1,101 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "SPA - Sandelzhauser Pale Ale",
+    "Datum": "23.07.2015",
+    "Sorte": "India Pale Ale",
+    "Autor": "holledauer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 60,
+    "Farbe": 25,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "IPA mit ausschlie\u00dflich Hallertauer Hopfen",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 4.63,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Hell",
+            "Menge": 330,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 330,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Mela",
+            "Menge": 170,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.666666666666668,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hall. Tradition",
+            "Menge": 83,
+            "Alpha": 7.1,
+            "Zeit": 75,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hall. Cascade",
+            "Menge": 30,
+            "Alpha": 8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hall. Saphir",
+            "Menge": 7,
+            "Alpha": 4,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hall. Hersbrucker",
+            "Menge": 17,
+            "Alpha": 2.3,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Hall. Cascade",
+            "Menge": 30
+        },
+        {
+            "Sorte": "Hall. Saphir",
+            "Menge": 13
+        },
+        {
+            "Sorte": "Hall. Hersbrucker",
+            "Menge": 13
+        }
+    ],
+    "Hefe": "Notti",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Ich habe ausschlie\u00dflich Dolden genommen. Nachgu\u00df selber ermitteln. \r\n\r\nUnd warum \"Sandelzhauser Pale Ale\" ?\r\nWeil ich aus Sandelzhausen in der sch\u00f6nen Hallertau komme :-)"
+}

@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Holzerbier",
+    "Datum": "04.02.2024",
+    "Sorte": "Amber Ale",
+    "Autor": "Hampi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.9,
+    "Bittere": 23,
+    "Farbe": 8,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "5000g Sch&uuml;ttung Einmaischen in 18 Liter Wasser mit 62&deg;C. 45 Minuten Rast.\r\nAufheizen auf 72&deg;C. 45 Minuten Rast.\r\nAufheizen auf 78&deg;C. 0 Minuten Rast.\r\nAbmaischen wenn Jodnormal",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.82,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamellmalz Hell",
+            "Menge": 91,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 91,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 91,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Zirbenzapfen",
+            "Menge": 91,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.363636363636363,
+    "Einmaischtemperatur": 62,
+    "Rasten": [
+        {
+            "Temperatur": 72,
+            "Zeit": 45
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8.636363636363637,
+    "Kochzeit_Wuerze": 55,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle Pellets",
+            "Menge": 14,
+            "Alpha": 9.6,
+            "Zeit": 55,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle Pellets",
+            "Menge": 14,
+            "Alpha": 9.6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle Pellets",
+            "Menge": 14,
+            "Alpha": 9.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Fermentis Saflager W-34\/70",
+    "Gaertemperatur": "12"
+}

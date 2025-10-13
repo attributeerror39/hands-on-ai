@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Maibock Spezial (oberg\u00e4rig)",
+    "Datum": "21.05.2019",
+    "Sorte": "Maibock",
+    "Autor": "Nico P.",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 19,
+    "Bittere": 20,
+    "Farbe": 20,
+    "Alkohol": 7.7,
+    "Kurzbeschreibung": "Bernsternfarbener Maibock mit abgerundetem, vollmundigem Geschmack -\r\ns\u00fc\u00dflich, s\u00fcffig, weich und elegant.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 5.11,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.28,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 260,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.72340425531915,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 12.76595744680851,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 9,
+            "Alpha": 9.3,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 9,
+            "Alpha": 9.3,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 17,
+            "Alpha": 6.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Huell Melon",
+            "Menge": 43
+        }
+    ],
+    "Hefe": "Nottingham und Top (11 und 8g)",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 59.7,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Gebraut Anfang Januar, 7 Tage G\u00e4rung bei 20-22\u00b0C (bei niedrigerer Temperatur dauerts entsprechend l\u00e4nger), die letzten 3 Tage kal gestopft, gelagert bis Mai (Flaschenabf\u00fcllung in 0,33er)."
+}

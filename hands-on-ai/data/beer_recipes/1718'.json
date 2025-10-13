@@ -1,0 +1,85 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "G-Br\u00e4u - The Mandarina",
+    "Datum": "15.09.2022",
+    "Sorte": "Kveik",
+    "Autor": "Tommys G-Br\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.3,
+    "Bittere": 24,
+    "Farbe": 7,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "The Mandarina - ein weiteres kveik Bier, das auch sehr gut als fake sauerl\u00e4nder Pils durch gehen kann, vielleicht nicht bei jedem Hobbybrauer, aber mit Sicherheit bei jedem Nachbarn oder Freund!",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.21,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Malz",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 180,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.285714285714286,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 66,
+    "Nachguss": 10.714285714285714,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 11,
+            "Alpha": 11.3,
+            "Zeit": 75,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 4,
+            "Alpha": 11.3,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 3,
+            "Alpha": 11.3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 29,
+            "Alpha": 11.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "2\/3 T\u00fctchen Backpulver",
+            "Menge": 7,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Lutra Kveik",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wie viele Kveik Biere, ein absolut Anf\u00e4nger taugliches Kveik Bier. Vergoren bei 21\u00b0C Zimmertemperatur. Daher auch ohne G\u00e4rf\u00fchrung sehr gut umsetzbar. Erinnert stark an ein sauerl\u00e4nder Pils. Ich behandele mein Wasser (D\u00fcsseldorfer Wasser) quasi garnicht, verschneide aber 50:50 mit destiliertem Wasser. Nachg\u00fcsse sind nur ca. Angaben, ich gebe so lange Nachguss, bis der Extraktgehalt vor Kochen passt. Vor dem anstellen geben ich ein bischen Backpulver hinzu, da die Kveiks w\u00e4hrend der G\u00e4rung den pH Wert gerne runter ziehen. Mehr Ahnung habe ich da aber auch nicht von. Das Foto entstand nach 2 Wochen K\u00fchlschrank Reifung, bzw. 5 Wochen und 4 Tage nach dem Brautag. Zu dem Zeitpunkt absolut trinkreif und bereits sehr klar, ohne dass ich irgendwelche sonstigen Mittel verwendet h\u00e4tte"
+}

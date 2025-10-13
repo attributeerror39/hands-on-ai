@@ -1,0 +1,103 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Spindelwalds Verbrechen",
+    "Datum": "11.03.2025",
+    "Sorte": "Amber Ale",
+    "Autor": "Maddes",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 15,
+    "Farbe": 30,
+    "Alkohol": 6.4,
+    "Kurzbeschreibung": "Unser britisches Amber Ale mit Honig, der Beitrag zur HBcon. Sieger in der Kategorie &quot;goldenes Schaumkr&ouml;nchen&quot; bei den Bundesheimbrauspielen.\r\nRot-gold, mit aromatischer und dezenter Honignote.",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 3.36,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Biscuit Malt",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraAmber",
+            "Menge": 280,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin light",
+            "Menge": 280,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Spitzmalz",
+            "Menge": 80,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.2,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 12.8,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 22,
+            "Alpha": 7.4,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Fuggle",
+            "Menge": 12,
+            "Alpha": 6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Pilgrim",
+            "Menge": 8,
+            "Alpha": 9.2,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggle",
+            "Menge": 20,
+            "Alpha": 6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Pilgrim",
+            "Menge": 8,
+            "Alpha": 9.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Waldhonig",
+            "Menge": 800,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Wyeast 1968 London ESB",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Der Honig wird die letzten 10 Minuten mitgekocht. Wir empfehlen einen kr&auml;fitgeren Honig, da au&szlig;er dem Aroma nicht viel davon verbleibt nach der G&auml;rung.\r\n\r\nDie W&uuml;rze wird vor dem Anstellen entsprechend verd&uuml;nnt, um wieder auf 14&deg;P zu kommen. In unserem Fall waren dazu 5 L Wasser n&ouml;tig.\r\n\r\nEBC und IBU k&ouml;nnen durch den Honig und das verd&uuml;nnen nur gesch&auml;tzt werden.\r\n\r\nWhirlpool-Hopfengabe: unter 80&deg;C und mit 15 Minuten HopStand.\r\n\r\nAccio lecker Bierchen!"
+}

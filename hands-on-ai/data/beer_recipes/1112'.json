@@ -1,0 +1,65 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Moabiter Weisse",
+    "Datum": "01.07.2019",
+    "Sorte": "Sauerbier",
+    "Autor": "der_ak",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 8.8,
+    "Bittere": 1,
+    "Farbe": 5,
+    "Alkohol": 4.2,
+    "Kurzbeschreibung": "Eine klassische Berliner Wei\u00dfe: ungekocht, maischegehopft, mit gemischten Kulturen vergoren. Schmeckt jung wie unges\u00fc\u00dfte Zitronenlimonade.\r\n\r\nDas hier dokumentierte Bier hat 2019 im Rahmen des Berliner Wei\u00dfe Gipfels den Heimbrauwettbewerb SLOSH SOUR gewonnen.",
+    "Malze": [
+        {
+            "Name": "Helles Weizenmalz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Gerstenspitzmalz",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "B\u00f6hmisches Tennenmalz (Pilsner Art)",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 10,
+    "Einmaischtemperatur": 46,
+    "Rasten": [
+        {
+            "Temperatur": 53,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 45
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 16,
+    "Kochzeit_Wuerze": 1,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 6,
+            "Alpha": 3.4,
+            "Zeit": 1,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Hefe": "S-04, WLP672, WLP650",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 91,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Der Hopfen wird mit eingemaischt. Die nach dem L\u00e4utern gesammelte W\u00fcrze wird nur kurz auf 80\u00b0C erhitzt, dann auf 20\u00b0C abgek\u00fchlt (Die Formulareingabe erlaubt leider keine Kochzeit von 0 Minuten). Dann wird ein halbes T\u00fctchen S-04 Trockenhefe sowie jeweils eine ganze Ampulle WLP672 Lactobacillus brevis und WLP650 Brettanomyces bruxellensis beigegeben. Nach der Hauptg\u00e4rung verbleibt das Bier weiterhin im G\u00e4rbeh\u00e4lter, bis die Brettanomyces ihre Nachg\u00e4rung beendet hat. In meinem Fall war das Ergebnis ein Restextrakt von 0.8\u00b0P. Dann mit Zucker auf 6g\/l karbonisieren und in Flaschen abf\u00fcllen und reifen. Die Berliner Wei\u00dfe sollte etwa 2 Monate nach Brautag gut trinkbar sein und sich \u00fcber mehrere Monate bis Jahre hin geschmacklich noch verbessern."
+}

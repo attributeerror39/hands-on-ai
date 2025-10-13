@@ -1,0 +1,107 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "IPA Fruit Bomb",
+    "Datum": "09.05.2023",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "saxgaard",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.7,
+    "Bittere": 63,
+    "Farbe": 13,
+    "Alkohol": 6.8,
+    "Kurzbeschreibung": "Kupferfarbiges fruchtiges IPA.\r\nKnabbert man am Schaum, so hat man das Gef\u00fchl, man h\u00e4tte ein Erdbeer Sahne Bonbon im Mund.\r\nNimmt man dann einen Schluck, so l\u00e4sst einem die Kombination aus prickelnder Kohlens\u00e4ure und Maracuja Aromen nicht an ein Bier denken, sondern fast schon Richtung Saftschorle.\r\nMacht Laune. Wortw\u00f6rtlich. \r\nAber erst nach ausgiebiger Reifung.",
+    "Malze": [
+        {
+            "Name": "Wiener",
+            "Menge": 3.04,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener",
+            "Menge": 2.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Chrystal Maple",
+            "Menge": 420,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 210,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.916666666666668,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 8.333333333333334,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Summit",
+            "Menge": 22,
+            "Alpha": 15.9,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 17,
+            "Alpha": 9.6,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 17,
+            "Alpha": 12.6,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 17,
+            "Alpha": 12.6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 17,
+            "Alpha": 12.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 17,
+            "Alpha": 9.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Huell Melon",
+            "Menge": 83
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 83
+        }
+    ],
+    "Hefe": "US 05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 81,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Brauverfahren: BIAB mit Nachg\u00fcssen.\r\n\r\nPH-Wert:5,3\r\n\r\nWhirlpoolhopfung bei 75\u00b0C f\u00fcr 15 Minuten. Danach schnell auf 18 Grad Anstelltemperatur runterk\u00fchlen.\r\n\r\nAuf 20 Grad die Hauptg\u00e4rung kommen lassen.\r\n\r\nKarbonisierung mit Zucker. Deshalb Alkoholgehalt wohl bei ca. 7,3%\r\n\r\n14 Tage Nachg\u00e4rung bei 20 Grad.\r\n21 Tage Reifung bei ca 5 bis 8 Grad\r\n\r\nHopfenstopfen nach 7 Tagen f\u00fcr 7 Tage.\r\nHabe bei einem Split Batch eine H\u00e4lfte mit BRU-1 und El Dorado gestopft. Auch Lecker.\r\n"
+}

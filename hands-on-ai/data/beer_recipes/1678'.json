@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hadouken!",
+    "Datum": "21.05.2022",
+    "Sorte": "Belgisches Tripel",
+    "Autor": "Seb Brannigan",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.7,
+    "Bittere": 30,
+    "Farbe": 8,
+    "Alkohol": 8.3,
+    "Kurzbeschreibung": "La Chouffe, La Trappe, La dolce Vita ...\r\nEs wird Zeit mal wieder was belgisches zu brauen, also wie w\u00e4r's mit diesem Mopped? Grob angelehnt an das Tripel Karmeliet was Alkohol und Zutaten angeht, allerdings etwas bitterer gehalten, wie die meisten Tripel. Feines Ding",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 4.55,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 820,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 180,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.090909090909093,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 10.909090909090908,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 41,
+            "Alpha": 5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 36,
+            "Alpha": 5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Kandiszucker",
+            "Menge": 455,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Koriandersamen zersto\u00dfen",
+            "Menge": 23,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Bitterorangenschale",
+            "Menge": 14,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Mangrove Jack's M31 Belgian Tripel",
+    "Gaertemperatur": "20-21",
+    "Endvergaerungsgrad": 85,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Wasserwerte: Ca: 47, Mg: 6, Na: 30, Cl: 40, SO4: 40, Restalkalit\u00e4t: -1,5, pH Maische: 5,5\r\n\r\nIch wei\u00df nicht ob es belgischer Kandis sein muss oder ob der aus dem Supermarkt es genauso tut. Ich hab belgischen genommen...\r\nDie Koriandersamen gut zersto\u00dfen bis es sch\u00f6n zitronig riecht. Trocken anr\u00f6sten kann man machen, hab ich dieses Mal aber weggelassen. Die Samen hatten auch so schon ordentlich Aroma.\r\nDie Haferflocken und der Weizen sollen den Schaum und das Mundgef\u00fchl unterst\u00fctzen. Das CaraPils soll dem Bier ein wenig Rests\u00fc\u00dfe geben, falls es die Hefe zu wild treibt.\r\n"
+}

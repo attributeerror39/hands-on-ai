@@ -1,0 +1,92 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Maronen Bier",
+    "Datum": "11.02.2020",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "klaasimodo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.3,
+    "Bittere": 27,
+    "Farbe": 14,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Bier mit Maronenmehl\/Gries. Leichte S\u00fcsse.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Maronen Mehl",
+            "Menge": 1.44,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz",
+            "Menge": 1.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamelmalz",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.600000000000001,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 36,
+            "Alpha": 6.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Mandarin Bavaria",
+            "Menge": 14,
+            "Alpha": 8.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 14,
+            "Alpha": 5.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "GOZDAWA Old German Altbier 9 ",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5
+}

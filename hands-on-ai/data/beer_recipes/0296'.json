@@ -1,0 +1,63 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Standard-\u00d8l",
+    "Datum": "04.04.2013",
+    "Sorte": "Pale Ale",
+    "Autor": "emjay28",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 35,
+    "Farbe": 9,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "S\u00fcffiges, malziges Helles",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz",
+            "Menge": 520,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 63,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15.652173913043478,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 47,
+            "Alpha": 5.1,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradittion",
+            "Menge": 23,
+            "Alpha": 5.1,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "S-33",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 69.2,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Dies ist mein Rezept f\u00fcr mein Standard-Hausbier. Es ist ein s\u00fcffiges, malziges Helles. Ich verwende immer wieder andere Kombinationen von Hefe und Hopfen. Bisherige Favoriten ist dies Variante mit der S-33 und Hallertauertradition, aber auch mit US-05 und Spalter Select \u00fcberzeugte das Ergebnis. Ein anderer Hobbybrauer hat es auch schon unterg\u00e4rig gebraut."
+}

@@ -1,0 +1,104 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Lemon Pale Ale",
+    "Datum": "06.01.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "cafehuesch",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 18,
+    "Farbe": 10,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "eine ordentliche Prise Zitrusfr\u00fcchte, gepaart mit Bier (Hybier aus Sierra Nevada und einem Lemon Lager)",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.48,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Malz",
+            "Menge": 1.24,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Karamalz hell",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.285714285714286,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.333333333333332,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 6,
+            "Alpha": 13,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 13,
+            "Alpha": 6.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 12,
+            "Alpha": 6.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 54,
+            "Alpha": 6.3,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Orangenschale",
+            "Menge": " &frac12;",
+            "Einheit": "",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Zitronenschalen",
+            "Menge": " &frac12;",
+            "Einheit": "",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 54
+        }
+    ],
+    "Hefe": "Nottingham",
+    "Gaertemperatur": "12-21",
+    "Anmerkung_Autor": "ich hab einmal das Lemon-Lager gebraut (Pilsener mit Zitronen- & Orangenschalengabe) und mehrfach das geniale Siera Nevada Pale Ale geclont.\r\nDas Rezept ist ein Hybrid (HyBier) beider Rezepte. Es rockt.\r\nDie Mengenangabe der Schalen meint jeweils 1 Sack Orangen und einen Sack Zitronen die ich Sch\u00e4le (und deren Schalen dann in der W\u00fcrze landen)\r\nMan kann das Bier selbstverst\u00e4ndlich auch unterg\u00e4rig verg\u00e4ren, als Weizen oder Kveik. Auch bei der Sch\u00fcttung kann man selbstverfreilich anstatt des Pale Ales ein Pilsener sch\u00fctten.\r\nGut Sud und Ahoi!  "
+}

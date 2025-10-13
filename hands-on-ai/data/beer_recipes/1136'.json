@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Himbeerschok",
+    "Datum": "27.08.2019",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "lupuslupulus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.4,
+    "Bittere": 31,
+    "Farbe": 193,
+    "Alkohol": 6.1,
+    "Kurzbeschreibung": "American Porter mit Himbeeren. Schokoladige Noten, die Himbeeren kommen deutlich durch und machen das Bier leicht s\u00e4uerlich. Erinnert an Himbeerpralinen.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.81,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 700,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial II",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 270,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.19047619047619,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 14.761904761904763,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Willamette",
+            "Menge": 48,
+            "Alpha": 3,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 8,
+            "Alpha": 9.7,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 31,
+            "Alpha": 3,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Himbeeren",
+            "Menge": 4286,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Gozdawa Porter & Kvass",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 73.3,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Stammw\u00fcrze, Alkoholgehalt und EVG sind ohne die Himbeeren. \r\n\r\nDie Beeren nach bzw. am Ende der Hauptg\u00e4rung dazugeben und die erneute G\u00e4rung abwarten. Dann erst abf\u00fcllen.\r\nIch hatte den Sud geteilt und die H\u00e4lfte mit Himbeeren gestopft, die Menge oben ist hochgerechnet auf den ganzen Sud. Ich habe gefrorene Himbeeren verwendet.\r\nDas Bier vertr\u00e4gt eine Lagerzeit von mindestens 3, 4 Monaten.\r\n\r\nDie Hopfenpellets waren schon etwas \u00e4lter, der Alphagehalt ist entsprechend runtergerechnet."
+}

@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Brown Bear",
+    "Datum": "13.04.2011",
+    "Sorte": "Brown Ale",
+    "Autor": "Jodel",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.5,
+    "Bittere": 34,
+    "Farbe": 42,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Malziges Brown Ale mit mit Kaffee- und Karamellaromen",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.92,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Amber Malt",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Crystal Malt",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 56,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.399999999999999,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.600000000000001,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 22,
+            "Alpha": 10,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 6,
+            "Alpha": 5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 4,
+            "Alpha": 5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WYEAST #1099 (British Ale)",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 73,
+    "Karbonisierung": 4.5
+}

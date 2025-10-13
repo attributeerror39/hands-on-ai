@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bee-Cave-Brewery Robust Porter",
+    "Datum": "26.01.2014",
+    "Sorte": "Robust Porter",
+    "Autor": "everell",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 35,
+    "Farbe": 163,
+    "Alkohol": 6.3,
+    "Kurzbeschreibung": "Brandschwarzes, leicht s\u00fcsses Porter. ",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.74,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 330,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa I",
+            "Menge": 330,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 160,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa II",
+            "Menge": 84,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 23,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.166666666666668,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16.666666666666668,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertau Perle",
+            "Menge": 23,
+            "Alpha": 10,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 13,
+            "Alpha": 5.9,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Brewbody (Malto Dextrin)",
+            "Menge": 163,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 66,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Orginalrezept aus dem Forum homebrewtalk.com (User: \"EdWort\").\r\nAls Hefe geht auch S-04.\r\nStatt Brewbody kann man auch Milchzucker reinkippen.\r\nDas Resultat ist ein leicht s\u00fcsses, unglaublich leckeres Porter, nahe an der Grenze zum Stout. Der Urheber sagt dazu: \"sometimes I call it a Robust Storter\"."
+}

@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Spruce Pale Ale - Fichten Pale Ale",
+    "Datum": "23.08.2019",
+    "Sorte": "Pale Ale",
+    "Autor": "DevilsHole82",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.1,
+    "Bittere": 37,
+    "Farbe": 22,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Auf Basis des Sierra Nevada Pale Ale verfeinertes Fichten Pale Ale (Spruce Pale Ale) mit frischen Fichtentrieben und -sprossen. Fruchtig, harzig, ideal f\u00fcr den Sommer.",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 4.24,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Crystal Malt 60\u00b0L",
+            "Menge": 360,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.53333333333333,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.933333333333334,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 10,
+            "Alpha": 12,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 10,
+            "Alpha": 4.5,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 41,
+            "Alpha": 5.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 41,
+            "Alpha": 5.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Wyeast Hefenahrung",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "frische Fichtentriebe",
+            "Menge": 400,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Weihenstephan W 177",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 80.5,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "- Wasseraufbereitung: RA=0\u00b0dH \/ Sulfat 100 ppm.\r\n- Hefe: Ich habe die Weihenstephan W 177 \"K\u00f6lsch\" verwendet, da sie \u00fcber 17\u00b0C st\u00e4rker estert und \"englischer\" wird. Das harmoniert sehr gut mit den anderen Zutaten. Alternative w\u00e4re hier die Safale S-04. K\u00f6nnte mir aber auch die Danstar Windsor Ale sehr gut vorstellen.\r\n- Wer es trockener und weniger englisch mag nimmt den Chico Strain aka US-05 aka WLP001 aka Wyeast #1056.\r\n- Reifung: 3-4 Wochen. L\u00e4nger w\u00fcrde ich nicht warten, damit die Aromen voll zur Geltung kommen."
+}

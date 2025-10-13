@@ -1,0 +1,101 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Amarillo Weizen mit Chinook",
+    "Datum": "23.09.2017",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "ZEkE-",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.8,
+    "Bittere": 21,
+    "Farbe": 34,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "S\u00fcffiges Weizen mit einmaliger Farbe und leichten Citrus-Noten.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 2.22,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 830,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karahell",
+            "Menge": 560,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 280,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.88888888888889,
+    "Einmaischtemperatur": 35,
+    "Rasten": [
+        {
+            "Temperatur": 35,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 16.666666666666668,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 3,
+            "Alpha": 8.4,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 3,
+            "Alpha": 11.2,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 6,
+            "Alpha": 8.4,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 6,
+            "Alpha": 11.2,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 14,
+            "Alpha": 8.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 14,
+            "Alpha": 11.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Brewferm Blance",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 7,
+    "Anmerkung_Autor": "Bei diesem Rezept handelt es sich um mein erstes Weizen und ich muss sagen ich bin sehr zufrieden damit. Die Farbe ist schon fast knallig orange. Beim n\u00e4chsten mal, werde ich noch Hefenahrung zugeben, da die Blance einen leichten Schwefelgeruch produziert. F\u00fcr die Flascheng\u00e4rung habe ich ein frisches P\u00e4ckchen Hefe zugegeben, was wohl binnen 24h zu 2,2 Bar auf dem Manometer gef\u00fchrt hat. Jetzt nach knapp 7 Tagen Falscheng\u00e4rung ist es schon wunderbar trinkbar. Ich bin schon gespannt, wie es Freunde und Kollegen finden!"
+}

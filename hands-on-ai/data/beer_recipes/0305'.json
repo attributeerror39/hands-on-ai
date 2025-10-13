@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Herbstweizen",
+    "Datum": "22.04.2013",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "horstibus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 15,
+    "Farbe": 20,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "W\u00fcrziges Weizen f\u00fcr den Herbst",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 1.05,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz dunkel",
+            "Menge": 950,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 570,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caradunkel",
+            "Menge": 190,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 0,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saazer",
+            "Menge": 19,
+            "Alpha": 5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 10,
+            "Alpha": 5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Munich",
+    "Gaertemperatur": "20"
+}

@@ -1,0 +1,107 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "APA Mosaic",
+    "Datum": "01.04.2020",
+    "Sorte": "Pale Ale",
+    "Autor": "HopfenBolle",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.2,
+    "Bittere": 31,
+    "Farbe": 13,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Pale Ale, das sehr fruchtig und trocken daher kommt. APA-Fans werden es lieben.",
+    "Malze": [
+        {
+            "Name": "PaleAle ",
+            "Menge": 3.17,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 580,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraRed",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 170,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 83,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 83,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 0
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 8.333333333333334,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nugget",
+            "Menge": 8,
+            "Alpha": 12.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "AmarilloCRYO",
+            "Menge": 17,
+            "Alpha": 14.3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "MosaicCryo",
+            "Menge": 23,
+            "Alpha": 25.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "AmarilloCryo",
+            "Menge": 7,
+            "Alpha": 14.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Topaz",
+            "Menge": 4,
+            "Alpha": 17,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "MosaicCryo",
+            "Menge": 23
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "18-20"
+}

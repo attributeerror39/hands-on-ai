@@ -1,0 +1,102 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Belga Belga 6",
+    "Datum": "23.08.2013",
+    "Sorte": "Belgisches Dubbel",
+    "Autor": "muldengold",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.5,
+    "Bittere": 24,
+    "Farbe": 36,
+    "Alkohol": 6.6,
+    "Kurzbeschreibung": "L\u00e4uft sanft, warm und \u00f6lig die Kehle runter. Ein Blumenstrau\u00df an Aromen.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz (Bio)",
+            "Menge": 3.26,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carabelge 30-40 EBC",
+            "Menge": 510,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma 350-450 EBC",
+            "Menge": 170,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Maisflocken",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.736842105263158,
+    "Einmaischtemperatur": 61,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 13.68421052631579,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saaz",
+            "Menge": 14,
+            "Alpha": 4,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Mittelfr\u00fch",
+            "Menge": 21,
+            "Alpha": 4.8,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Mittelfr\u00fch",
+            "Menge": 11,
+            "Alpha": 4.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Rohrzucker hell (Bio)",
+            "Menge": 437,
+            "Einheit": "g",
+            "Kochzeit": 30
+        },
+        {
+            "Name": "Koriander frisch zerstossen",
+            "Menge": 11,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Rochefort 8 gestrippt",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "In den meisten Rochefort Flaschen ist genug Hefe f\u00fcr einen 1\/2-1 Liter Starter. Einfach Flasche vorsichtig zu 4\/5 ins Glas gie\u00dfen (genie\u00dfen!) und den Rest  aufsch\u00fctteln und direkt in den Starter (8-10\u00b0P) gie\u00dfen (Flaschenrand vorher mit Alkohol desinfizieren). \u00dcberstand vom vergorenen Starter so gut es geht abgie\u00dfen und Hefe in die gut bel\u00fcftete W\u00fcrze geben, evtl. mit W\u00fcrze nachsp\u00fclen. Anstellen mit einer ordentlichen Hefemenge ist ratsam (1 Liter Starter pro 20 Liter). Alternative Hefen sind die WYeast 1762 (Belgian Abbey II) und die White Labs WLP540 (Abbey IV Ale), die nach \"Brew like a monk\" von beiden Firmen von Rochefort gezogen wurden. Allerdings kostet eine Flasche Rochefort 8 nur halb so viel und man kann sich vorher schon mal \"reintrinken\".\r\n\r\nBrauwasser: die dunklen Caramalze bringen viel S\u00e4ure mit - das Brauwasser darf deshalb mit  bis zu 15\u00b0dH eine relativ hohe Restalkalit\u00e4t besitzen. Im Gegensatz dazu, k\u00f6nnte ein Brauwasser mit sehr niedriger Restalkalit\u00e4t (2\u00b0dH oder darunter), ohne Aufbereitung, evtl. zu einem zu niedrigen Maische-pH-Wert f\u00fchren. Am sichersten ist die Vorhersage des Maische-pH mit einem entsprechenden Tool mit anschlie\u00dfendem Einstellen des Maische-pH auf etwa 5,5 (z.B. Natron - Bicarbonat zur Anhebung des Maische-pH oder Milchs\u00e4ure zur Senkung). \r\n \r\nDas Bier braucht unbedingt eine l\u00e4ngere Reifezeit (>6 Monate). Die -6- im Namen bezieht sich auf die alte belgische Tradition der Angabe der Stammw\u00fcrze.   \r\n\r\nViel Erfolg beim Nachbrauen!\r\n"
+}

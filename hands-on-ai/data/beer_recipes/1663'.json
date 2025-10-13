@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ostk\u00fcsten Fruchtkorb",
+    "Datum": "17.04.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "Gonzo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.2,
+    "Bittere": 40,
+    "Farbe": 17,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Sch\u00f6nes, s\u00fcffiges American Pale Ale mit feinem Fruchtkorb und ohne harzige Bittere. Die Hefe rundet den exotischen Fruchtkorb herrlich ab. Perfektes Sommerbier.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4.35,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Karamell 130 EBC",
+            "Menge": 260,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Maisflocken",
+            "Menge": 260,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 26.956521739130434,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Columbus",
+            "Menge": 9,
+            "Alpha": 16,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 9,
+            "Alpha": 14,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 9,
+            "Alpha": 14,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 13,
+            "Alpha": 14,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 17
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 26
+        }
+    ],
+    "Hefe": "Gozdawa East Coast Conan",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 5.2,
+    "Anmerkung_Autor": "Ich rezirkuliere im BIAB. HG und NG muss dann jeder individuell anpassen. Die Maisflocken mussten weg, kann man bestimmt auch weglassen - wird dann etwas anders werden. Die Hefe gef\u00e4llt mir sehr gut. Nach 4-5 Wochen war das Bier sehr klar und perfekt. Sch\u00f6n Fruchtig und vielf\u00e4ltig in der Nase.\r\n\r\nViel Spa\u00df beim Nachbrauen."
+}

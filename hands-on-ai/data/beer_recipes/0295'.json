@@ -1,0 +1,80 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Park Kristall",
+    "Datum": "02.04.2013",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "manny15",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 21,
+    "Farbe": 15,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Ein klares Weizen damit man sieht was hinter dem Glas vorgeht. :-)",
+    "Malze": [
+        {
+            "Name": "Weizen Malz",
+            "Menge": 2.27,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.82,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 230,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.090909090909092,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 60,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 40
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 14.090909090909092,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 17,
+            "Alpha": 7,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 5,
+            "Alpha": 7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Wyeast 3068 Weihenstephan Weizen",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 7,
+    "Anmerkung_Autor": "Nachisomerisierungszeit 15min.\r\nDurch das Irish Moss wird das Bier super klar.\r\n\r\n"
+}

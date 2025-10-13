@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ramba Zamba",
+    "Datum": "16.06.2023",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "braukeller_hdkr",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.5,
+    "Bittere": 60,
+    "Farbe": 23,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Klassisches  West Coast IPA mit herrlich fruchtiger Note und knackiger Bittere im Abgang.",
+    "Malze": [
+        {
+            "Name": "Swaen Wiener Malz",
+            "Menge": 2.61,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Swaen M&uuml;nchner Malz light",
+            "Menge": 1.74,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Best Caramel Aromatic",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Best Pale Ale Malz",
+            "Menge": 380,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 64,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 5.217391304347826,
+    "Kochzeit_Wuerze": 40,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 58,
+            "Alpha": 6.2,
+            "Zeit": 40,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Wai-iti",
+            "Menge": 86,
+            "Alpha": 1.1,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Comet",
+            "Menge": 43,
+            "Alpha": 7,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Comet",
+            "Menge": 70,
+            "Alpha": 7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Ariana",
+            "Menge": 87
+        }
+    ],
+    "Hefe": "Omega OYL-091 Hornindal Kveik",
+    "Gaertemperatur": "27",
+    "Endvergaerungsgrad": 64,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Nachisomisierungszeit 15 min (&gt;80 C&deg;)\r\nDa wir sehr hartes Wasser haben, wurde die H&auml;lfte des Hauptgusses mit destilliertem Wasser gemacht.\r\nDer Maische-pH wurde mit etwas Milchs&auml;ure korrigiert.\r\nDies ist mein erstes selbst entwickeltes Rezept. Ich habe mich dabei an den klassischen West Coast IPA&#039;s orientiert.\r\nMit der Kveik war die G&auml;rung auch schnell durch und auch nach einer Woche bereits gut trinkbar. Lediglich die bittere war noch etwas kratzig. Nach 3 Wochen hatte sich das aber gegeben und es ist ein sehr rundes stimmiges Bier geworden. \r\nDas n&auml;chste Mal w&uuml;rde ich aber eine fruchtige Kveik nehmen, die Hornindal ist (fast) zu clean f&uuml;r ein IPA.\r\nSo, habe jetzt nochmals alles &uuml;berpr&uuml;ft und die Malze spezifiziert, und die EBC und IBU korrigiert. Hier hatte ich wohl einen Berechnungsfehler in meiner Tabelle. Danke f&uuml;r den Hinweis."
+}

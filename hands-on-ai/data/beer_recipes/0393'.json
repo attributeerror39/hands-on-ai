@@ -1,0 +1,117 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ruthipa",
+    "Datum": "31.05.2014",
+    "Sorte": "India Pale Ale",
+    "Autor": "brauwolf",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 18,
+    "Bittere": 60,
+    "Farbe": 29,
+    "Alkohol": 7.9,
+    "Kurzbeschreibung": "Eine Aromabombe welche die hohe Stammw\u00fcrze heimt\u00fcckisch versteckt. 2. Platz in der Kategorie \"IPA\" im BJCP-Wettbewerb auf der Heimbrau Convention 2019 Romrod.",
+    "Malze": [
+        {
+            "Name": "Pilsener  Malz",
+            "Menge": 4.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Karadunkel",
+            "Menge": 460,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraAmber",
+            "Menge": 120,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19,
+    "Einmaischtemperatur": 61,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Horizon",
+            "Menge": 9,
+            "Alpha": 12,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 9,
+            "Alpha": 10,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 19,
+            "Alpha": 8.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 19,
+            "Alpha": 12.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 11,
+            "Alpha": 10,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 19,
+            "Alpha": 8.9,
+            "Zeit": 1,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 19,
+            "Alpha": 12.9,
+            "Zeit": 1,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 45
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 45
+        }
+    ],
+    "Hefe": "US 05",
+    "Gaertemperatur": "18-19",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Bew\u00e4hrt hat sich auch eine Bottichmaische im Zubr\u00fchverfahren. Hierzu wird zun\u00e4chst mit 13,8l HG bei 63\u00b0 eingemaischt und nach 10 Minuten werden 5,2l kochend Wasser zugebr\u00fcht - das sind 3x ein haushalts\u00fcblicher Wasserkocher voll. Auf die Erh\u00f6hung auf 78\u00b0 zum Abmaischen wird dann verzichtet. Die Stopfhopfen sind eine Whirlpoolhopfung (l\u00e4sst sich hier nicht anders eingeben) und werden dem Sud zugef\u00fcgt, wenn er auf 80\u00b0 abgek\u00fchlt ist. Bei 70\u00b0 wird der Whirlpool angedreht und nach 10 Minuten abgeseiht. Damit hat der Brauer nach dem Anstellen Feierabend und muss den Sud nicht mehr anfassen. Auf der HBCon 2019 wurde das Bier unter dem Namen \"Raging Thunder\" eingereicht und hat dort den 2. Platz in der Klasse \"American IPA\" belegt. Das \"Karadunkel\" war von Bestmalz und wird jetzt unter der Bezeichnung \"Caramell Munich II\" verkauft."
+}

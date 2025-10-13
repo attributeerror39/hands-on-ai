@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Red Henri",
+    "Datum": "01.09.2013",
+    "Sorte": "Pale Ale",
+    "Autor": "Mobilix",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.6,
+    "Bittere": 46,
+    "Farbe": 25,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Mein erster RedX Sud, tolle r\u00f6tliche Farbe, feine Malznoten dem der frische Cascade-Hopfen die Balance verleiht und das Bier zu einem eher frischen und fruchtigen Durstl\u00f6scher macht.",
+    "Malze": [
+        {
+            "Name": "REDX",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 1.2,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.4,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 22,
+            "Alpha": 5.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 6,
+            "Alpha": 14.9,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 21,
+            "Alpha": 5.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 85.6,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Red Henri habe ich zu Ehren meines kleinen Patenkindes Henri gebraut, am der Geburtstagsfeier habe ich das Bier mitgebracht. Ein toller frischer, fruchtiger Durtl\u00f6scher. Die Nottingham und der Cascade-Hopfen harmonieren super miteinander.\r\nAlle Berechnungen wurden anhand Earls Refrakto_SP 2.8 durchgef\u00fchrt.\r\n\r\nDas Bier ist nach 2-3 Wochen gut trinkbar.\r\nAuf dem Bild ist das Bier nicht ganz 4 Wochen alt, wird mit zunehmender Lagerung klarer und roter (da die Notti sehr gut sedimentiert).\r\nWer kein RedX zu Hause hat kann Ersatzweise M\u00fcnchner Malz und Melanoidin Malz verweden."
+}

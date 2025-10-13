@@ -1,0 +1,110 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "dark Blond",
+    "Datum": "22.03.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "starenbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 29,
+    "Farbe": 14,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Unser neues Bier, dark Blond, gebraut f\u00fcr Tochter und von Frau beim ersten Test als sehr lecker bewertet.\r\n\r\nAchtung - Maischeplan wir im Rezept nicht \u00fcbernommen- unten in Bemerkungen! \r\n\r\n\r\nGoldgelb ins Glas, sch\u00f6n klar, wenn man vorsichtig eingie\u00dft mit einer tollen wei\u00dfen feinporigen Schaumkrone.\r\nDer Geruch ist frisch und fruchtig.\r\nDer Antrunk fein, nicht massig und nicht zu viel Kohlens\u00e4ure.\r\nDer fruchtige, zitrusartige Geschmack kommt gut an, aber auch eine leichte S\u00fc\u00dfe und im Abgang und Nachgeschmack eine feine bittere Note.\r\nMan schmeckt ein wenig Karamell, Citrone, Johannisbeere und Brombeere, mit einem feinen Malzaroma.\r\nWir finden, echt gut gelungen, kommt auf die Liste, das brauen wir noch mal. Wir sind auf das Dekoktionsverfahren gekommen -  durch unser unterg\u00e4riger Mailbock, der auch gut geworden. \r\n \r\n",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.93,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Spezial W",
+            "Menge": 33,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caramelmalz Carabohemia",
+            "Menge": 67,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "dekoktion",
+    "Einmaisch_Zubruehwasser_gesamt": 12.5,
+    "Dekoktionen": [
+        {
+            "Volumen": 11.3,
+            "Temperatur_ist": 56,
+            "Temperatur_resultierend": 50,
+            "Rastzeit": 5
+        },
+        {
+            "Volumen": 1.2,
+            "Form": "Kochendes Wasser",
+            "Teilmaische_Kochzeit": 0,
+            "Temperatur_resultierend": 52,
+            "Rastzeit": 10
+        },
+        {
+            "Volumen": 3.7,
+            "Form": "Dickmaische",
+            "Teilmaische_Rastzeit": 15,
+            "Teilmaische_Temperatur": 64,
+            "Teilmaische_Kochzeit": 15,
+            "Temperatur_resultierend": 64,
+            "Rastzeit": 30
+        },
+        {
+            "Volumen": 4.5,
+            "Form": "Dickmaische",
+            "Teilmaische_Rastzeit": 10,
+            "Teilmaische_Temperatur": 72,
+            "Teilmaische_Kochzeit": 10,
+            "Temperatur_resultierend": 72,
+            "Rastzeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.333333333333332,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 25,
+            "Alpha": 6.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition ",
+            "Menge": 9,
+            "Alpha": 6.5,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 15,
+            "Alpha": 4.2,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moos",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Brenneke Oberg\u00e4rig ",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 62,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Achtung Rezept am 15.10. ge\u00e4ndert siehe Rezeptdaten\r\n\r\nMaische:\r\nEinmaischen mit 16,2 ltr 56\u00b0C ergibt 50\u00b0C 5 min. Rast\r\nErhitzen auf 52\u00b0C und 10 min Rast\r\n\r\n5,4 l Dickmaische ziehen und erhitzen auf 62\u00b0C 15 min. Rast.dann 15 Minuten kochen.\r\nzuf\u00fcgen ergibt ca. 63\u00b0C und 40 min. Rast,\r\n\r\nerhitzen auf 72\u00b0C und 30 min. Rast bis Jod normal.\r\n\r\nerhitzen auf 78\u00b0C und ab mit der Maische in den L\u00e4utereimer mit L\u00e4uterhexe. \r\n\r\n20 Minuten L\u00e4uterruhe.\r\nSolange W\u00fcrze gezogen und wieder hinzugef\u00fcgt, bis klar und dann schon mal mit 6 ltr Nachguss auff\u00fcllen.( Langsam \u00fcber L\u00f6ffel -  bleibt dann auf W\u00fcrze stehen. \r\nDann so lange Nachguss gegeben, bis W\u00fcrze fast klar wie Wasser - ging nicht alles in Einkocher, deshalb noch einen 14 l. Topf mit bef\u00fcllt.\r\n\r\nBeides geleichzeitig gekocht ( Induktionsplatte neben Einkocher)  und den Verlust im Einkocher mit W\u00fcrze aus Topf aufgef\u00fcllt.\r\n\r\nNach dem Kochen die W\u00fcrze stehen lassen bis keine thermische Bewegung und dann Wirlpool erzeugt.\r\nNach Ausdrehen in K\u00fchleimer eingef\u00fcllt und mit K\u00fchlspirale auf 22\u00b0C.\r\n\r\nDie W\u00fcrze mit vorbereitetem Eiswasser auf Stammw\u00fcrze verd\u00fcnnt.(6,92l.)\r\n500 ml W\u00fcrze extern gek\u00fchlt und mit Hefe als Starter in Auffangbeh\u00e4lter Fermszilla angestellt.\r\nDie auf k\u00fchle W\u00fcrze in Fermzilla laufen lassen und dann den Schieber ge\u00f6ffnet. Hefe wird im Beh\u00e4lter verwirbelt und es kommt auch noch Sauerstoff dazu.\r\nDann G\u00e4rspund drauf und in den Flur zur G\u00e4rung ( 18-20\u00b0C) \r\nNach einer Woche G\u00e4rung durch, dann auf die Terasse  - 3-5\u00b0C.\r\nHefe abgezogen - neuen Beh\u00e4lter unter das Jungbier, mit Co2 geflutet und dann erst ge\u00f6ffnet. G\u00e4rspund weg und Druckanschluss drauf. Mit 0,5 bar Co2 bef\u00fcllt und noch weiter kl\u00e4ren lassen. \r\nNach 2 Tagen dann mit Biergun in Flaschen abgef\u00fcllt und Nachg\u00e4rung bei 18-20\u00b0 1 Woche ( 2 bar bei 20\u00b0C) dann ab in die K\u00fchlung zur Reifung ( 3-6\u00b0C)\r\n \r\n "
+}

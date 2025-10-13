@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Altbier by S\u00f6rgar\u00e1zs",
+    "Datum": "11.02.2023",
+    "Sorte": "Altbier",
+    "Autor": "Toma01",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 27,
+    "Farbe": 29,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Altbier from Budapest, Hungary. Category first place winner beer on the X. Homebrewers International Competition, 2022. May 14., Budapest.",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Vienna Malz",
+            "Menge": 1.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram\u00fcnch II.",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial",
+            "Menge": 20,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22,
+    "Einmaischtemperatur": 53,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 65
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saaz",
+            "Menge": 20,
+            "Alpha": 4.5,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sorachi Ace",
+            "Menge": 8,
+            "Alpha": 13,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sorachi Ace",
+            "Menge": 8,
+            "Alpha": 13,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Safale K-97",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "- Add Carafa Spezial malt uncrashed to the mash\r\n- Primary fermentation 14 days \/ 18 celsius\r\n- After bottling 1 week 20-22 celsius (room temperature) then 4 weeks 4 celsius "
+}

@@ -1,0 +1,67 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mango Milkshake Pale Ale",
+    "Datum": "09.11.2020",
+    "Sorte": "Pale Ale",
+    "Autor": "decas40",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.8,
+    "Bittere": 40,
+    "Farbe": 10,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Fruchtiges Pale Ale mit intensivem Mangoaroma, absolutes Sommergetr\u00e4nk!",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.59,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Hafermalz",
+            "Menge": 1.29,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.823529411764707,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.11764705882353,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 25,
+            "Alpha": 12.6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Milchzucker",
+            "Menge": 800,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Mangop\u00fcree (gefroren)",
+            "Menge": 2471,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 64,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Es wurde TK Mango verwendet, p\u00fcriert und wieder eingefroren. Dann nach Ende der HG aufgetaut und in einem Filter zum Jungbier hinzugef\u00fcgt. Man muss beim Stopfen mit Mango sicherstellen, dass wenige Festbestandteile ins Bier gelangen, da es dann zu gushing kommen kann. "
+}

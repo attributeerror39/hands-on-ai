@@ -1,0 +1,95 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Weihnachts Quickie",
+    "Datum": "12.12.2019",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "eyo2013",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.6,
+    "Bittere": 22,
+    "Farbe": 60,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Ein leckeres, dunkles Weihnachtsbier, mit Orangen\/Zitronen Schalen, Zimt & Koriandersamen aromatisiert. Bereits nach 14 Tagen fertig zum trinken.",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.74,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.74,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "MelanoidinMalz",
+            "Menge": 1.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Chocolate Malt",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8.695652173913043,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 13,
+            "Alpha": 7.7,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 13,
+            "Alpha": 7.7,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Orangenschalen (frisch)",
+            "Menge": "3 &frac12;",
+            "Einheit": "St\u00fcck",
+            "Kochzeit": 30
+        },
+        {
+            "Name": "Zitronenschalen (frisch)",
+            "Menge": "1 &frac34;",
+            "Einheit": "St\u00fcck",
+            "Kochzeit": 30
+        },
+        {
+            "Name": "Zimtstangen",
+            "Menge": "1 &frac34;",
+            "Einheit": "St\u00fcck",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Koriander Samen (zerdr\u00fcckt)",
+            "Menge": 9,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "Safale S-04",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Gebraut mit Rheinhessischem Leitungswasser. Die (BIO) Orangen und Zitronen habe ich unmittelbar vor dem Gebrauch mit einer Saftpresse ausgedr\u00fcckt und die Zutaten dann mittels Hopfens\u00e4ckchen in die Kochende W\u00fcrze geh\u00e4ngt. Hauptg\u00e4rung war nach 5 Tagen durch. Karboni\u00adsiert mit Haushaltszucker. Danach noch 8 Tage in der Flasche bei 21 Grad gereift... Fertig"
+}

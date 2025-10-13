@@ -1,0 +1,121 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "PACIFIC COAST IPA",
+    "Datum": "19.05.2020",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "Bier39",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.8,
+    "Bittere": 50,
+    "Farbe": 17,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Stark gehopftes, fruchtig-bitteres IPA! Einfach geil!",
+    "Malze": [
+        {
+            "Name": "Pilsner ",
+            "Menge": 2.86,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 1.89,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 550,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Red X",
+            "Menge": 610,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.233009708737864,
+    "Einmaischtemperatur": 74,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 80
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.62135922330097,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook",
+            "Menge": 25,
+            "Alpha": 10.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 25,
+            "Alpha": 10.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 25,
+            "Alpha": 7.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 25,
+            "Alpha": 12.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 5,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 61
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 61
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 61
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Mosaic",
+            "Menge": 61,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Wyeast 1056",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 64,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "-Kochende bis Beginn der K\u00fchlung: 25 Minuten\r\n-Temperatur vor K\u00fchlung: 82\u00b0C\r\n-G\u00e4rbeginn: 1 Tage nach Brautag\r\n-G\u00e4rung: 11 Tage bei 20\u00b0C\r\n-Kalthopfung: Am 5. Tag der G\u00e4rung dazugegeben (ohne Hopfens\u00e4ckchen)\r\n\r\nVarinte Flascheng\u00e4rung:\r\n-Bier umf\u00fcllen und filtern (in einen sterilen Beh\u00e4lter)\r\n-Aufkarbonisierung: 300 g Zucker, aufgel\u00f6st in 1 Liter abgekochtem Wasser vor dem Abf\u00fcllen dazugegeben.\r\n-Flascheng\u00e4rung: 7 Tage bei 20\u00b0C\r\n-Lagerung: Mind. 21 Tage im K\u00fchlschrank bei 5\u00b0C\r\n\r\nVariante Keg:\r\n-Druck geben bis dieser nicht mehr unter 2.2 bar f\u00e4llt (bei 20\u00b0C)\r\n-Nach ca. einer Woche Keg k\u00fchl stellen bei 5\u00b0C\r\n\r\nBrauwasser\r\nKalzium 110.3 mg\/l\r\nMagnesium 20.5 mg\/l\r\nSulfat 111.8 mg\/l\r\nChlorid 17.3 mg\/l\r\nRestakalit\u00e4t -2.22 \u00b0dH"
+}

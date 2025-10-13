@@ -1,0 +1,126 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Elbenstolz",
+    "Datum": "02.09.2017",
+    "Sorte": "India Pale Ale",
+    "Autor": "B\u00fcttnerBr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 89,
+    "Farbe": 31,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Karamellfarbenes Weizen-IPA mit angenehmer Bittere, einem samtig weichen Mundgef\u00fchl und kr\u00e4ftig, fruchtiger Hopfennote.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 4.75,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.35,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carawheat",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara dunkel",
+            "Menge": 130,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19,
+    "Einmaischtemperatur": 47,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 50,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Lemondrop",
+            "Menge": 15,
+            "Alpha": 5.3,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "El Dorado",
+            "Menge": 20,
+            "Alpha": 14.2,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "El Dorado",
+            "Menge": 15,
+            "Alpha": 14.2,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Lemondrop",
+            "Menge": 25,
+            "Alpha": 5.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "El Dorado",
+            "Menge": 20,
+            "Alpha": 14.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Lemondrop",
+            "Menge": 20,
+            "Alpha": 5.3,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "El Dorado",
+            "Menge": 20,
+            "Alpha": 14.2,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Lemondrop",
+            "Menge": 40
+        },
+        {
+            "Sorte": "El Dorado",
+            "Menge": 25
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "19-22",
+    "Endvergaerungsgrad": 55,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Mein erster Versuch eines fruchtigen Weizen IPAs. Sch\u00fcttung und Maischef\u00fchrung beruhen auf dem \"BBB Indira Weizen IPA\".\r\nAuch wenn der Endverg\u00e4rungsgrad nicht gepasst hat, ist doch ein sehr angenehmes IPA entstanden, dass durch seine satte Karamellfarbe und das angenehme Mundgef\u00fchl besticht. \r\nDurch den Lemondrop Hopfen hat es eine kr\u00e4ftige Citrusnote bekommen, die vom El Dorado abgerundet wird.\r\nTrotz den knappen 90 IBUs nicht zu bitter.\r\nF\u00fcr 7 Tage nach der Hauptg\u00e4rung gestopft.\r\nWar schon nach 2 Wochen reifen bei 3-5\u00b0C gut trinkbar.\r\nInsgesamt ein sehr sch\u00f6nes IPA, dass meinen Freunden und mir sehr gut schmeckt. Werde es auf jeden Fall weiter brauen und verbessern. "
+}

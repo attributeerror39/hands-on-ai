@@ -1,0 +1,107 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "DC Dubbel",
+    "Datum": "04.11.2019",
+    "Sorte": "Belgisches Dubbel",
+    "Autor": "DerDallmann",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.1,
+    "Bittere": 27,
+    "Farbe": 70,
+    "Alkohol": 6.9,
+    "Kurzbeschreibung": "Kr\u00e4ftiges, dunkles Dubbel, welches ich nach ausgiebiger Recherche :) an den Varianten von Westmalle und La Trappe orientiert habe. ",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz (Avangard)",
+            "Menge": 2.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz (Avangard)",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram\u00fcnch 2 (120 EBC, Weyermann)",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt (900 EBC, Best)",
+            "Menge": 100,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Candi Syrup D-180 (336 EBC)",
+            "Menge": 310,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Candi Syrup D-90 (180 EBC)",
+            "Menge": 310,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 32,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 68,
+    "Nachguss": 0.6666666666666666,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Herkules",
+            "Menge": 11,
+            "Alpha": 15.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 20,
+            "Alpha": 3.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 13,
+            "Alpha": 3.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Ariana",
+            "Menge": 12,
+            "Alpha": 9.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Hefenahrung",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Irish Moss",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Mangrove Jack's M47, alternativ M31",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 4.2,
+    "Anmerkung_Autor": "Der Candi Syrup kam 5 Minuten vor Kochende dazu, die EBC sind gesch\u00e4tzt. Es ist auf jeden Fall relativ dunkel. \r\n\r\nDie Hefe habe ich gew\u00e4hlt, weil mir das La Trappe Dubbel am besten geschmeckt hat. Die M47 produziert relativ fruchtige Ester Richtung Banane, \u00e4hnlich wie beim La Trappe. Ein bi\u00dfchen Chocolate Malt habe ich rein genommen, weil das Westmalle leicht schokoladig daher kommt. Ich bin damit sehr zufrieden. \r\n\r\nDie Gabe mit Ariana bei 5 Minuten war eine Spontane Idee, der musste weg. Den kann man an der Stelle auch weglassen und bei Saazer bleiben. So entscheidend ist die Hopfenauswahl nicht mMn.\r\n\r\nNachisomerisierungszeit: 1 Minute. Ich habe High Gravity gebraut und direkt nach Kochende mit 8l kaltem Wasser unter 80\u00b0C gek\u00fchlt. Gebraut wurde per BIAB. Hefenahrung und IM jeweils 1 TL.\r\n\r\nF\u00fcr die Rezeptfindung hatte ich mir vorab diverse Dubbel der namenhaften Brauereien bestellt und verk\u00f6stigt. Dabei haben sich La Trappe, Westmalle und Affligem als meine Favoriten hervorgetan. Auf Basis einiger Klonrezepte habe ich dann versucht, einen crossover zischen den Bieren hinzubekommen. \r\n\r\nWichtig:\r\nBitte das Rezept nicht 1:1 \u00fcbernehmen, sondern an eure Brauanlage, sowie eure Sudhausausbeute anpassen. Ebenso sind die Mengen zu Haupt-, und Nachguss an euer System anzupassen. \r\n\r\nEdit:\r\nIch habe das Rezept jetzt mit 3 Hefen gebraut. M47, M31 und mit der Gozdawa Rochefort. Die Gozdawa hat mir von den 3 Varianten am schlechtesten gefallen."
+}

@@ -1,0 +1,72 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Full Suspension Pale Ale",
+    "Datum": "02.04.2015",
+    "Sorte": "Pale Ale",
+    "Autor": "Hopfenfreund",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Full Suspension Pale Ale",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 45,
+    "Farbe": 28,
+    "Alkohol": 4.6,
+    "Kurzbeschreibung": "Leichtes erfrischendes Pale Ale, trotzdem sehr w\u00fcrziger, harziger Geschmack. Angenehme Bittere mit leichter Grapefruitnote. Stabiler mittelporiger Schaum.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram\u00fcnch II",
+            "Menge": 620,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 29.23076923076923,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 77,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 4.615384615384616,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Nugget",
+            "Menge": 17,
+            "Alpha": 10.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Warrior",
+            "Menge": 18,
+            "Alpha": 14.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Warrior",
+            "Menge": 18,
+            "Alpha": 14.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale US-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 68,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Der Versuch, das wunderbare Full Suspension Pale Ale der Squatters Brewery aus Salt Lake City nachzubrauen. Das Original war klasse. Ein direkter Vergleich ist schwer m\u00f6glich. F\u00fcr sich trotzdem ein sch\u00f6nes Pale Ale, wunderbar f\u00fcr hei\u00dfe Sommertage.\r\nNachisomerisierung 10 Minuten. Gebraut wurde mit Malzrohrsystem, das Verh\u00e4ltnis Hauptguss \/ Nachguss m\u00fcsste f\u00fcr R\u00fchrsysteme angepasst werden (HG 30l \/ NG 14l). Das Originalrezept verlangt Columbus Hopfen - wurde im Rezept durch Warrior ersetzt."
+}

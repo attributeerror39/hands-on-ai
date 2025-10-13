@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Scharfe Sabine",
+    "Datum": "27.07.2019",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "integrator",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 20,
+    "Farbe": 9,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Ein goldgelbes Sommerbier mit dem herrlichen Duft nach Ingwer und einem scharfen, frischen und fruchtigen Geschmack.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.54,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 830,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 420,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Spitzmalz",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.666666666666668,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 11.666666666666668,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saazer",
+            "Menge": 33,
+            "Alpha": 4.6,
+            "Zeit": 65,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Koriander gem&ouml;rsert",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Orangenschale",
+            "Menge": 83,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Ingwer entsaftet (beim abf&uuml;llen)",
+            "Menge": 500,
+            "Einheit": "ml"
+        }
+    ],
+    "Hefe": "Wyeast #3944",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 73,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Meine Nachbarin Sabine mag Ingwer sehr gerne und fragte mich nach einem Bier damit. Es sollte m&ouml;glichst scharf sein und der Ingwer das pr&auml;gnante Aroma haben. Als Biertyp fand ich ein belgisches Wit ganz gut. Beim Bitterhopfen kann auch ein anderer genommen werden. Die angegebene Menge Ingwersaft stellt das Mittelmass dar. Wer es sch&auml;rfer mag kann auf 1 Liter hoch gehen. Aber was soll ich sagen ... die Sabine ist vollauf zufrieden und hat auch schon eine eigene Kiste bestellt.\r\n\r\nEdit: Der Malzk&ouml;rper wurde leicht ge&auml;ndert. Ich habe jetzt ausgepressten Ingwersaft beim abf&uuml;llen dazu gegeben, so habe ich Aroma UND Geschmack des Ingwers im Bier.\r\n\r\nBrauen im Grainfather &bull; Einmaischtemperatur ist Malz+Wasser &bull; PH-Wert 5,6 &bull; Restalkalit&auml;t -4,6&deg;dH &bull; Nachisomisierung 5 min.\r\nWasserwerte: Ca=71 &bull; Mg=5 &bull; SO4=37 &bull; Cl=62 "
+}

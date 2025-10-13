@@ -1,0 +1,94 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bochummer Kaiserweizen Hell",
+    "Datum": "06.03.2024",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Bierwurst",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.3,
+    "Bittere": 12,
+    "Farbe": 8,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "meine erste Eigenkreation. Ein leichtes Hefeweizen f&uuml;r den Sommer mit viel Bananenaroma.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2.7,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizendiastasemalz",
+            "Menge": 260,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.9,
+    "Einmaischtemperatur": 47,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.3,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Mittelfr&uuml;h",
+            "Menge": 11,
+            "Alpha": 4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 4,
+            "Alpha": 9,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 4,
+            "Alpha": 9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 4,
+            "Alpha": 9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safbrew WB-06",
+    "Gaertemperatur": "23.3",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6.9,
+    "Anmerkung_Autor": "Ich hatte eigentlich vorgehabt die Wyeast #3068 Weihenstephan Weizenhefe zu benutzen, doch leider war diese momentan nicht zu kriegen. Die G&auml;rung erfolgt bei ca. 22 Grad 6 bis 8 Tage. Zur Karbonisierung benutze ich die &bdquo;Dosierhilfe f&uuml;r Zucker&ldquo; und f&uuml;lle f&uuml;r meine 0,5 Liter Flaschen ca. 3,8 g Zucker pro Pulle ab. Die Flaschen m&uuml;ssen noch 3 Wochen reifen. Ich lasse sie die erste Woche etwas w&auml;rmer stehen und stelle sie f&uuml;r die restlichen 14 Tage ein wenig k&uuml;hler. Viel Spa&szlig; beim Nachbrauen Prost."
+}

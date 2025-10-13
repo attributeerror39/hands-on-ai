@@ -1,0 +1,99 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "SOMA",
+    "Datum": "09.04.2017",
+    "Sorte": "Stout",
+    "Autor": "augenzeuge",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 40,
+    "Farbe": 160,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "Samtweiches Stout mit cremigem Schaum und Eichenaromen durch Zugabe einer Eichenspirale in der Nachg\u00e4rung.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.43,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 1.14,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Hafermalz",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Crystal120",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraAroma",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 180,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.714285714285714,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.714285714285714,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 50,
+            "Alpha": 5.2,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 14,
+            "Alpha": 5.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Eichenspirale (medium toasted)",
+            "Menge": " &frac34;",
+            "Einheit": "St\u00fcck"
+        }
+    ],
+    "Hefe": "Safale S-04",
+    "Gaertemperatur": "15",
+    "Endvergaerungsgrad": 68,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "G\u00e4rung lief etwas schleppend mit niedrigem sEVG, da die Temp f\u00fcr die S04 scheinbar zu tief war. Das Eichenaroma der Sprirale (1 Woche im Fass; vorher abgekocht) ist kurz nach Abf\u00fcllung aufdringlich vanillig. Nach 3 Monaten Lagerung aber samtweich und absolut harmonisch. Werde n\u00e4chstes Mal die Heavy Toasted Version nehmen plus etwas Whisky-Malz"
+}

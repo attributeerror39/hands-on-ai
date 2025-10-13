@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Rotbrauner",
+    "Datum": "07.12.2015",
+    "Sorte": "Rauchbier",
+    "Autor": "fichtenknicker",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 24,
+    "Farbe": 18,
+    "Alkohol": 4.6,
+    "Kurzbeschreibung": "leicht rauchiges, dennoch s\u00fcffiges Bierchen",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener II",
+            "Menge": 910,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 640,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CARARED",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CARAPILS",
+            "Menge": 230,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.454545454545453,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.545454545454547,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Norther Brewer",
+            "Menge": 14,
+            "Alpha": 11.7,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 8,
+            "Alpha": 6.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Halltertauer Tradition",
+            "Menge": 6,
+            "Alpha": 4.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Safale S04",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "Die SHA ist nur gesch\u00e4tzt.\r\nWir haben sehr weiches Wasser, quasi Pilswasser (Veltins, Krommi, Warsteiner) bei uns.\r\nDas Aufheizen zur 2. Rast dauerte l\u00e4nger als die angepeilten 1\u00b0\/min, daher weicht mein Bier hier vom gewollten ab.\r\nMein Rauchmalz war etwas \u00e4lter, daher habe ich nur einen milden Rauchgeschmack erhalten.\r\nDie G\u00e4rung dauerte 1 Woche (4 Tage HG, 3 tage nerv\u00f6ses Warten) und endete bei 3,5 - 4\u00b0P. Die Flaschen standen dann 2 Wochen in Keller 1 (16\u00b0) und dann 2 Wochen in Keller 2 (13\u00b0) - Umzug halt.\r\nKarb. nur mit 10ml Zuckerl\u00f6sung (4g Zucker), da ich noch zu viel hungrige Hefe vermutet habe.\r\nToller Schaum, sch\u00f6n prickelnd."
+}

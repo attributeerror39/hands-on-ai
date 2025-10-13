@@ -1,0 +1,71 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "#5",
+    "Datum": "04.07.2019",
+    "Sorte": "Belgisches Dubbel",
+    "Autor": "HoseLupfRuedi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.7,
+    "Bittere": 20,
+    "Farbe": 29,
+    "Alkohol": 6.9,
+    "Malze": [
+        {
+            "Name": "Pislner",
+            "Menge": 4.61,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 350,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch",
+            "Menge": 260,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.043478260869566,
+    "Einmaischtemperatur": 63,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 17.391304347826086,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Hersbrucker",
+            "Menge": 30,
+            "Alpha": 3.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 30,
+            "Alpha": 4.5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Kandiszucker hell",
+            "Menge": 348,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Wyeast 3922 Belgian Witbier",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Die Sudhausausbeute wurde auf die vom Malz gegebenen 14.7% Stammw\u00fcrze berechnet. Zus\u00e4tzlich 400g (23 Liter) Kandiszucker = 16.5% und einen Alkoholgehalt von ca. 6.9 vol.%. "
+}

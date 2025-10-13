@@ -1,0 +1,94 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "D\u00fcsseldorfer Altbier",
+    "Datum": "19.01.2013",
+    "Sorte": "Altbier",
+    "Autor": "Siedlerbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.9,
+    "Bittere": 35,
+    "Farbe": 31,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Ein sehr s\u00fcffiges Alt mit einer feinen Hopfennote !",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.64,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener ",
+            "Menge": 1.12,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara dunkel",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 120,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Farbmalz",
+            "Menge": 80,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22,
+    "Einmaischtemperatur": 52,
+    "Rasten": [
+        {
+            "Temperatur": 62,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 6.6000000000000005,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Celeia",
+            "Menge": 8,
+            "Alpha": 14,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Celeia",
+            "Menge": 8,
+            "Alpha": 14,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Celeia",
+            "Menge": 12,
+            "Alpha": 14,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 73.4,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Farbmalz wurde nur 25 min mitgemaischt. Dadurch entstand kein R\u00f6staroma aber eine sch\u00f6ne dunkle F\u00e4rbung. Gebraut wurde das Alt mit dem Speidel Braumeister."
+}

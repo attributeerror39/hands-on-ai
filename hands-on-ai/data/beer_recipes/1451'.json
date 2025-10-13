@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Eichenrauchmalz-Weizendoppelbock",
+    "Datum": "01.04.2021",
+    "Sorte": "Weizenbock",
+    "Autor": "Kesselbrauer Stuttgart e.V.",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 18.3,
+    "Bittere": 13,
+    "Farbe": 24,
+    "Alkohol": 7.7,
+    "Kurzbeschreibung": "2.Platz beim Kesselbrauer Bierwettbewerb 2021 in der offenen Kategorie\r\n*Kesselbrauer Stuttgart e.V.*Rezept von Jens*\r\n\r\nGebraut nach dem Hermann-Verfahren f\u00fcr mehr Bananenaroma. Erst die H\u00e4lfte vom Malz und Hauptguss bei 62\u00b0C maischen, dann mit der anderen H\u00e4lfte vom Hauptguss auf 41\u00b0C runter k\u00fchlen und andere H\u00e4lfte vom Malz mit einmaischen.\r\n\r\nhttp:\/\/braumagazin.de\/article\/stilportrait-weissbier-von-nelken-und-bananen",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 1.57,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Eichenrauch-Weizenmalz",
+            "Menge": 3.48,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Special W",
+            "Menge": 87,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 87,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner Malz Typ II",
+            "Menge": 870,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 10.956521739130434,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 62,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 41,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.478260869565217,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle Dolden",
+            "Menge": 22,
+            "Alpha": 6.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Perle Dolden",
+            "Menge": 65,
+            "Alpha": 6.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "LalBrew Munich Classic Wheat",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 74.9,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Spezielle Angaben zum Maischeverlauf da im Rezept nicht voll abbildbar\r\n-----------------------------------------------------------------------\r\n3600g einmaischen mit 12.6l Wasser von 66.0\u00b0C ergibt 62.0\u00b0C. 40 Minuten Rast.\r\n3400g zugeben und 5.3l Wasser mit 98.0\u00b0C ergibt 41.0\u00b0C, 40 Minuten Rast.\r\nauf 62.0\u00b0C aufheizen, 30 Minuten Rast.\r\nauf 72.0\u00b0C aufheizen, 30 Minuten Rast.\r\nauf 78.0\u00b0C aufheizen, 10 Minuten Rast.\r\nAbmaischen nach Jodprobe."
+}

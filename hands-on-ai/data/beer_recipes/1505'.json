@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Emswie\u00df",
+    "Datum": "02.06.2021",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "Flaschenhals",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 24,
+    "Farbe": 7,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Unfiltriertes Bier nach K\u00f6lscher Art -> Wie\u00df. Mit einer sch\u00f6nen Ladung Citra Hopfen im Whirlpool, erfrischend s\u00fcffig f\u00fcr den Sommer. Bei hei\u00dfen Temperaturen genau das richtige, der Citra ist nicht zu aufdringlich und gibt dem Bier ein erfrischendes Zitrusaroma.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 3.69,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 44,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.666666666666666,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tradition",
+            "Menge": 28,
+            "Alpha": 6,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 12,
+            "Alpha": 4,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 44,
+            "Alpha": 12.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "OGA9",
+    "Gaertemperatur": "15-18",
+    "Karbonisierung": 5
+}

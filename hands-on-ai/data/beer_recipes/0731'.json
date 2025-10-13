@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Black IPA",
+    "Datum": "31.05.2017",
+    "Sorte": "Cascadian Dark Ale",
+    "Autor": "k1m3yy",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 19,
+    "Bittere": 80,
+    "Farbe": 107,
+    "Alkohol": 8.5,
+    "Kurzbeschreibung": "mein erster Versuch eines Black IPA bei dem die R\u00f6staromen bei ausgewogener Bittere sehr sch\u00f6n durchkommen. Ich find\u00b4s lecker ;)",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 7,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caramalz dunkel",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stmalz CARAFA II",
+            "Menge": 270,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22.22222222222222,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16.666666666666668,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 67,
+            "Alpha": 5.2,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 56,
+            "Alpha": 7.9,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 27,
+            "Alpha": 7.9,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "UK Fuggle",
+            "Menge": 100
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 80.3,
+    "Karbonisierung": 5
+}

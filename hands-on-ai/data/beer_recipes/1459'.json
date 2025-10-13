@@ -1,0 +1,71 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "G-Br\u00e4u - Schwarzw\u00e4lder",
+    "Datum": "07.04.2021",
+    "Sorte": "Pale Ale",
+    "Autor": "Tommys G-Br\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 44,
+    "Farbe": 8,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Mein \"Schwarzw\u00e4lder\" ist der Versuch, ein Bier in der Art des Rothaus Tannenz\u00e4pfle nach zu brauen, allerdings vergoren mit der Lutra Kveik, daher ist es kein echtes Pils, aber auch f\u00fcr einen Anf\u00e4nger sehr einfach zu erstellen.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 4.05,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchener Malz hell",
+            "Menge": 230,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 30,
+            "Alpha": 8.9,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 30,
+            "Alpha": 3.7,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 24,
+            "Alpha": 3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Lutra kveik",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Ein sehr leckeres Bier, was sich auch als Anf\u00e4nger gut brauen l\u00e4sst, da es am besten bei etwa 20\u00b0C vergoren wird (daf\u00fcr dauert dann die Hauptg\u00e4rung aber auch etwa 14 Tage, was f\u00fcr eine kveik eher lange ist). Die Angaben f\u00fcr den Nachguss sind nur beispielhaft, ich mache immer solange Nachguss, bis ich einen Wert von 2-3 brix mit dem Refraktometer messe. Bereits nach wenigen Wochen Reifung im R\u00fchlschrank sehr lecker. Das Foto ist 4 Wochen nach dem Brautag und etwa 10 Tagen im K\u00fchlschrank entstanden, aber es wird mit jedem Tag im K\u00fchlschrank noch besser, ist aber nach etwa 2 Wochen im K\u00fchlschrank schon sehr gut trinkbar. Angegeben sind 20 Liter Ausschlagsw\u00fcrze, da dies oft verwechselt wird, meine ich damit die Menge, die am Ende im G\u00e4reimer landet! ;-) Die tats\u00e4chliche Ausschlagsw\u00fcrze (inkl. Hopfen und Kalttrub) mit genau den oben angegebenen Mengen waren etwa 23 Liter."
+}

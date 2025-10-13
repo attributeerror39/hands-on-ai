@@ -1,0 +1,92 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Belgisches Stout",
+    "Datum": "25.09.2018",
+    "Sorte": "Stout",
+    "Autor": "BigMoz",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 25,
+    "Farbe": 230,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Trockenes, Kaffee\/Lakritz-intensives aber dabei erstaunlich weiches Stout",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4.44,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 280,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste (unverm\u00e4lzt)",
+            "Menge": 280,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stmalz Carafa I",
+            "Menge": 280,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stmalz Carafa II (spezial)",
+            "Menge": 110,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Aroma",
+            "Menge": 110,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stmalz Carafa III",
+            "Menge": 56,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.444444444444443,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 6.666666666666666,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Sovereign",
+            "Menge": 30,
+            "Alpha": 6.3,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sovereign",
+            "Menge": 25,
+            "Alpha": 6.3,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "D-180 Candy Syrup",
+            "Menge": 278,
+            "Einheit": "g",
+            "Kochzeit": 1
+        }
+    ],
+    "Hefe": "Mangrove Jack's M29 French Saison",
+    "Gaertemperatur": "26+",
+    "Endvergaerungsgrad": 87,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Vorne hinweg: 13% R\u00f6st(malz) Anteil wirken extrem, sind es in diesem Rezept aber nicht. Ich habe mich f\u00fcr die Sch\u00fcttung unter anderem hier inspirieren lassen: http:\/\/www.castlemalting.com\/CastleMaltingBeerRecipes.asp?Command=RecipeView&RecipeID=21 und herausgekommen ist ein ausgesprochen intensives aber dabei ausgewogenes Stout, trocken aber nicht 90% EVG trocken. Schon das Jungbier war erstaunlich weich und s\u00fcffig. \r\nFolgende Wasserwerte habe ich verwendet: Ca 60, Mg 15, Na 45, SO4 40, Cl 50, Bicarbonat 230\r\nIch w\u00fcrde dazu raten wirklich die drei verschiedenen R\u00f6stmalze zu verwenden, das erh\u00f6ht die Komplexit\u00e4t merklich. D-180 Candy Syrup hatte ich noch \u00fcbrig und es passt zu belgischen Stilen, in der Sch\u00fcttung von Castlemalting ist es nicht enthalten. Sovereign kann zur Not durch Fuggles ersetzt werden.\r\nNachguss und Hopfenmenge muss jeder selbst ermitteln, ich braue high-gravity nur mit Vorderw\u00fcrze und k\u00fchle mit dem Nachguss runter, daher geringere Bitterausbeute und nur 2min Nachisomerisierung.\r\nDie Hefe bildet ein festes und kompaktes Sediment. Typische Saison-Hefearomen halten sich in Grenzen, k\u00f6nnten nat\u00fcrlich auch vom R\u00f6staroma \u00fcberlagert werden.\r\nGutes Nachbrauen!"
+}

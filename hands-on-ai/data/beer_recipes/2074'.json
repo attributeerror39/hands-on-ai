@@ -1,0 +1,109 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Rosmarin Lemon Ale",
+    "Datum": "26.02.2025",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "Getreidemix",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.9,
+    "Bittere": 13,
+    "Farbe": 9,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Inspiriert durch das Rosemary Ale von MMUM: https:\/\/www.maischemalzundmehr.de\/index.php?id=1178\r\n\r\nLeichtes, leicht scharfes, Goldgelbes Ale mit einem angenehmen Zitronenaroma und leichtem Rosmarinaroma im Hintergrund.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malt",
+            "Menge": 3.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wezenmalz",
+            "Menge": 120,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caramalz",
+            "Menge": 340,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 55
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14,
+    "Kochzeit_Wuerze": 40,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amira",
+            "Menge": 12,
+            "Alpha": 11.9,
+            "Zeit": 40,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 8,
+            "Alpha": 10,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 20,
+            "Alpha": 11.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Zironenthymian",
+            "Menge": 20,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Rosmarin",
+            "Menge": 20,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Zitronenschale",
+            "Menge": 20,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Zitronengras",
+            "Menge": 20,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "SafAle S04",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 10,
+    "Anmerkung_Autor": "Weizenmalz kann auch durch Pilsener ersetzt werden.\r\nZur Hopfengabe: Habe Amira zu beginn des Aufheizens gegeben.\r\nNachdem die W&uuml;rze am Kochen war habe ich diese f&uuml;r 40 min Kochen lassen.\r\nPerle f&uuml;r 15 min Gekocht. Citra und die Gew&uuml;rze f&uuml;r 10 min mitgekocht.\r\nDie Rosmarinaromen sind sehr leicht, wer einen st&auml;rkeren will kann was mehr nehmen.\r\nBeim Karbonisieren k&ouml;nnt ihr die Menge nehmen womit ihr gute Erfahrungen gemacht habt. Ich habe hier 5g Haushaltszucker pro 500ml Bier genommen. \r\nLG und viel spa&szlig; beim ausprobieren"
+}

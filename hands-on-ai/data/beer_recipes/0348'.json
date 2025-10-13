@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Whisky-Ale",
+    "Datum": "11.11.2013",
+    "Sorte": "Rauchbier",
+    "Autor": "vetmike25",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 62,
+    "Farbe": 22,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "betonte Bittere, pr\u00e4sente \"Peated\"-Rauchnote, sehr stabiler Schaum",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.76,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 880,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Whiskymalz",
+            "Menge": 880,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Amber",
+            "Menge": 590,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.529411764705884,
+    "Einmaischtemperatur": 35,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 25
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15.294117647058822,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertau Hersbrucker",
+            "Menge": 24,
+            "Alpha": 4.2,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 10,
+            "Alpha": 10.6,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Styrian Goldings Dolden",
+            "Menge": 21,
+            "Alpha": 4.9,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Styrian Goldings Dolden",
+            "Menge": 35,
+            "Alpha": 4.9,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale S-04 (2 T\u00fctchen)",
+    "Gaertemperatur": "21",
+    "Anmerkung_Autor": "5 Liter Speise wurden f\u00fcr die Flascheng\u00e4rung verwendet. Das Bier ist herb und rauchig, passt sehr gut zu allem Gegrillten, Mettw\u00fcrsten oder auch Schlachtplatte. Im Vergleich zum Bamberger Rauchbier ist das Aroma vom leichten \"peated\"-Whiskymalz relativ dezent in dieser Dosierung, sehr interessant f\u00fcr Fans dieses speziellen Geschmacks.\r\nAnmerkung: einige Wochen sp\u00e4ter hat das Raucharoma nachgelassen und die Hopfenbittere steht im Vordergrund. N\u00e4chstes Mal werde ich deutlich weniger Hopfen verwenden, dann d\u00fcrfte es runder werden..."
+}

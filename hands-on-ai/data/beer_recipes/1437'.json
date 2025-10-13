@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Fr\u00fcchtebrot",
+    "Datum": "10.03.2021",
+    "Sorte": "Roggenbier",
+    "Autor": "Plankton",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 20,
+    "Farbe": 35,
+    "Alkohol": 6.1,
+    "Kurzbeschreibung": "Sehr fruchtiges Roggen-Dinkel-Bier. Vollmundig und samtig-tr\u00fcb mit hervorragendem Schaum. Bisher mein bestes Roggenbier.",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.74,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.15,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Roggenmalz Dunkel",
+            "Menge": 920,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Roggenbrot, ger\u00f6stet",
+            "Menge": 280,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 280,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Dinkelmalz",
+            "Menge": 870,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.652173913043478,
+    "Einmaischtemperatur": 43,
+    "Rasten": [
+        {
+            "Temperatur": 40,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.347826086956522,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 19,
+            "Alpha": 6,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 18,
+            "Alpha": 6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 3638 Bavarian Wheat",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Roggenmalz Dunkel selbst hergestellt (etwa wie dunkles M\u00fcnchner Malz).\r\n\r\nRoggenbrot: reines Roggensauerteigbrot etwas zerkleinern und bei 200\u00b0C im Backofen dunkel r\u00f6sten (aber nicht verbrennen lassen).\r\n\r\nDer Endverg\u00e4rungsgrad war h\u00f6her als gedacht; trotzdem ist das Bier sehr vollmundig und wirkt nicht trocken, obwohl es tats\u00e4chlich nicht s\u00fc\u00df ist. F\u00fcr mehr Rests\u00fc\u00dfe eventuell die Maltoserast verk\u00fcrzen und Verzuckerungsrast entsprechend verl\u00e4ngern.\r\n\r\nDie Hefe habe ich nur vorsichtig in die W\u00fcrze einger\u00fchrt und nicht bel\u00fcftet. Die Wyeast 3638 hat wie gew\u00fcnscht eine wunderbare Kombination aus Bananen-, Vanille- und weiteren Fruchtaromen produziert. \r\n\r\nDas Bier ist sehr tr\u00fcb und hat die typische dickfl\u00fcssige, beinahe \u00f6lige Roggenbier-Konsistenz."
+}

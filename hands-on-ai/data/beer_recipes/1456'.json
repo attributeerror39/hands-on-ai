@@ -1,0 +1,106 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Corsaire",
+    "Datum": "05.04.2021",
+    "Sorte": "Franz\u00f6sisches Ale",
+    "Autor": "grindoctor",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 23,
+    "Farbe": 12,
+    "Alkohol": 7.6,
+    "Kurzbeschreibung": "Inspiriert von Page 24 Reserve Hildegarde Blonde! Ein sueffig-aromatisches Bier mit fantastischen franco-belgischem Charakter und feinen Hopfennoten! Meine Frau liebt dieses Bier!",
+    "Malze": [
+        {
+            "Name": "Pale Malz",
+            "Menge": 1.57,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.14,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Helles Weizenmalz",
+            "Menge": 1000,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 140,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.142857142857142,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 56,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 75
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Ekuanot",
+            "Menge": 9,
+            "Alpha": 14.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Strisselspalt",
+            "Menge": 17,
+            "Alpha": 2.6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Strisselspalt",
+            "Menge": 14,
+            "Alpha": 2.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 11,
+            "Alpha": 11.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Strisselspalt",
+            "Menge": 21
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 11
+        }
+    ],
+    "Hefe": "WY3711 French Saison",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 90,
+    "Karbonisierung": 8,
+    "Anmerkung_Autor": "W\u00e6hrend des Kochens habe ich noch 2 Liter Wasser hinzugefuegt um den OG bei 1064 (16% Stammwuerze) zu halten.\r\nDer Hopstand im Whirlpool dauerte 25 Minuten bei etwas unter 80*C, so dass der IBU nicht weiter hochgetrieben wird.\r\nDie G\u00e6rtemperatur wurde nach zwei Tagen auf 21*C, nach zwei weiteren Tagen auf 22*C erh\u00f8ht. Insgesamt dauerte die Hauptg\u00e6rung 14 Tage.\r\nDer Stopfhopfen wurde die letzten 5 Tage w\u00e6hrend der Hauptg\u00e6rung hinzugegeben. \r\nVor dem Abfuellen habe ich einen 1,5 Tage dauernden Cold-Crash eingelegt. \r\nDie Hefe war ganz frisch, ich habe daher keinen Starter angesetzt, das Smashpack aktiviert und entsprechend der Beschreibung zur Wuerze gegeben. Keine Problem mit dem Verg\u00e6ren (90% relative Attenuation!!!). Die Hefe sowie Strisselspalt und Centennial sind essentiell fuer das richtige Gelingen! Nach vielen Exeprimenten mit alternativen Hefen und Hopfen ist dieses Bier endlich wie ich es haben m\u00f8chte!\r\n\r\nNB! Karbonieren wie oben angegeben ist Zucker pro Liter (8g\/l), nicht CO2\/liter!\r\n "
+}

@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "K&uuml;&#039;s Hopfensmoothie",
+    "Datum": "06.12.2024",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "kbrau",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.8,
+    "Bittere": 48,
+    "Farbe": 16,
+    "Alkohol": 6.6,
+    "Kurzbeschreibung": "Malzig, fruchtiges West-Coast IPA mit m&auml;&szlig;iger Bittere\r\nWettbewerbsbier zur Vereinsmeisterschaft 2024 der Braufreunde M&uuml;nster.\r\nSollte ein STONE IPA-Clone werden, ist es aber nicht, da die Abweichungen zu gro&szlig; und daher hier auch nicht als Klonrezept gekennzeichnet.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 6.87,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 440,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 23.700000000000003,
+    "Einmaischtemperatur": 64,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 8
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.1,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle US",
+            "Menge": 14,
+            "Alpha": 8.25,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Magnum US",
+            "Menge": 9,
+            "Alpha": 12,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 55,
+            "Alpha": 10.5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 28
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 14
+        }
+    ],
+    "Hefe": "American West Coast Ale, BRY-97",
+    "Gaertemperatur": "18-19",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Gebraut auf der Grainfather G30 mit aufbereitetem M&uuml;nsteraner Stadtwasser."
+}

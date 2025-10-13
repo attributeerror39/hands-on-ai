@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Helden von Kanpur",
+    "Datum": "10.02.2016",
+    "Sorte": "India Pale Ale",
+    "Autor": "jemo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.7,
+    "Bittere": 95,
+    "Farbe": 12,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Klassisches englisches IPA, mit Brett-C in der Nachg\u00e4rung.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.21,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.21,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 92,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.977099236641221,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.977099236641221,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 19,
+            "Alpha": 5.7,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 38,
+            "Alpha": 10,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 19,
+            "Alpha": 5.7,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 38,
+            "Alpha": 5.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 38
+        }
+    ],
+    "Hefe": "White Labs WLP 023 Burton Ale",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Das Bier riecht nach gr\u00fcnem Apfel und hat eine unglaubliche Geschmacksf\u00fclle. Leicht adstringierend, Aromen von gegrillter Ananas, Leder und Zigarren. Aufgrund der 95 IBU ist das eher ein M\u00e4nnerbier... \r\n\r\nDas Wasser sollte auf das Burton-Profil aufgesalzen werden. \r\nDer Stopfhopfen kommt nach sieben Tagen ins G\u00e4rfass und verbleibt dort ebenfalls sieben Tage. Danach umschlauchen und den Hopfen dabei ausfiltern. Dann kommen erst die Brettanomyces claussenii (White Labs WLP645) ins Bier und bleiben dort f\u00fcr mindestens drei bis vier Monate bei einer Temperatur von nicht unter 20\u00b0 Celsius.\r\nDer Magnum als Bitterhopfen kann nat\u00fcrlich durch EKG ersetzt werden, das d\u00fcrfte geschmacklich aber keinen Unterschied machen.\r\n\r\n\r\nKleines FAQ:\r\n\r\nF: Wieso wird da kein Maris Otter genommen?\r\n\r\nA: Weil es Maris Otter erst seit ca. 1960 gibt, in klassischen englischen Bieren wurde es definitiv nicht verwendet.\r\n\r\n\r\nF: Und warum dann nicht 100% Pale Ale?\r\n\r\nA: Weil auch das heutige Pale Ale-Malz daf\u00fcr nicht verwendet wurde. F\u00fcr IPAs wurde ein Pale-Malt verwendet, welches heute nicht mehr erh\u00e4ltlich ist, aber heller als Pale-Ale-Malz war. Eine Mischung von Pale Ale mit Pilsener Malz solle das n\u00e4herungsweise treffen, wobei das nat\u00fcrlich auch nicht authentisch ist.\r\n\r\n\r\nF: Hat ein klassisches IPA nicht auch Holzaromen?\r\n\r\nA: Eher nicht, weil es wurde alles daf\u00fcr getan, diese Aromen vor Abf\u00fcllung aus dem Holz zu bekommen. Teilweise wurden die F\u00e4sser von innen versiegelt, teilweise durch auslaugen \u201eweingr\u00fcn\u201c gemacht. Holzaromen d\u00fcrften, wenn \u00fcberhaupt, nur eine untergeordnete Rolle gespielt haben.\r\n\r\n\r\nF: Verseuche ich mir mit Brett C nicht meine komplette Ausr\u00fcstung?\r\n\r\nA: Jupp, ist so. Allerdings nur bis zur Reinigung. Kleinteile auskochen, das G\u00e4rfass erst mit Dan Klorix reinigen und vor der n\u00e4chsten Belegung dann mit Star San desinfizieren. Zumindest bei mir war danach von der Brett-Hefe nichts mehr vorhanden.\r\n"
+}

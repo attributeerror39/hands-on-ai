@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Single Hop Red Ale",
+    "Datum": "31.08.2014",
+    "Sorte": "Pale Ale",
+    "Autor": "Cara",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.9,
+    "Bittere": 35,
+    "Farbe": 40,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Rubinrotes Ale mit betonter aber angenehmer Bittere und \u00fcberw\u00e4ltigendem Zitronenaroma dank Citra",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Aroma",
+            "Menge": 270,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.636363636363635,
+    "Einmaischtemperatur": 48,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.727272727272727,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 8,
+            "Alpha": 12.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 10,
+            "Alpha": 12.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 10,
+            "Alpha": 12.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 10,
+            "Alpha": 12.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 11
+        }
+    ],
+    "Hefe": "Alehefe",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Wollte ein richtig zitroniges Pale Ale machen, was mir definitiv gelunngen ist. Insgesamt bin ich voll auf zufrieden. Wer es nicht so extrem zitronig mag sollte das Hopfenstopfen weglassen. Positiv war ich von der roten Farbnote \u00fcberrascht."
+}

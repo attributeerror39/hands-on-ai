@@ -1,0 +1,74 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Michas Jubelbr\u00e4u",
+    "Datum": "29.03.2011",
+    "Sorte": "Helles",
+    "Autor": "tauroplu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 25,
+    "Farbe": 16,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Ausgepr\u00e4gt malzaromatisches Festbier f\u00fcr jede Gelegenheit",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.92,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2.25,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.666666666666668,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.833333333333332,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 18,
+            "Alpha": 5.3,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 3,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 15,
+            "Alpha": 6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale US-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 5.3,
+    "Anmerkung_Autor": "<br>Die IBU Werte wurden mit Earls Hopfenrechner f\u00fcr Profis ermittelt. Ich verwende Pellets. - Nachisomerisierungszeit: 15 Min. -"
+}

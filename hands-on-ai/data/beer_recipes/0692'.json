@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Red X Ale",
+    "Datum": "30.03.2017",
+    "Sorte": "Irish Ale",
+    "Autor": "Chrissi_Chris",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 28,
+    "Farbe": 26,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "R\u00f6tliches Ale, leicht Malzbetont und sch\u00f6n Fruchtig, was lust auf mehr macht ..",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Best Red X",
+            "Menge": 2.3,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Brewers Gold",
+            "Menge": 20,
+            "Alpha": 7,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cluster",
+            "Menge": 12,
+            "Alpha": 7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cluster",
+            "Menge": 12,
+            "Alpha": 7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cluster",
+            "Menge": 60
+        }
+    ],
+    "Hefe": "Mangrove Jacks M36 Liberty Bell Ale",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 73,
+    "Karbonisierung": 5.5
+}

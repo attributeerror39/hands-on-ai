@@ -1,0 +1,103 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Melon Ale",
+    "Datum": "23.04.2019",
+    "Sorte": "Pale Ale",
+    "Autor": "heizungsrohr",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 30,
+    "Farbe": 21,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "bernsteinfarbenes, hopfiges, leicht s\u00fc\u00dfliches Ale mit Huell Melon, hoher Drinkability und gutem Schaum",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 350,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Special X",
+            "Menge": 87,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.52173913043478,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 16.52173913043478,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Huell Melon",
+            "Menge": 17,
+            "Alpha": 6.5,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Polaris",
+            "Menge": 7,
+            "Alpha": 20.7,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Huell Melon",
+            "Menge": 70,
+            "Alpha": 6.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 22,
+            "Alpha": 6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "N\u00e4hrsalz",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "W177 K\u00f6lsch",
+    "Gaertemperatur": "14-16",
+    "Endvergaerungsgrad": 71,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wasser:\r\nDas Brauwasser sollte auf eine leicht negative Restalkalit\u00e4t eingestellt werden. Zur Orientierung die Zusammensetzung des verwendeten Brauwassers:\r\nCa  (82 mg\/l)\r\nMg  (9 mg\/l)\r\nNa  (9 mg\/l)\r\nCl  (120 mg\/l)\r\nSO4 (15 mg\/l)\r\nHCO3(80 mg\/l)\r\nDer pH-Wert wurde mit Milchs\u00e4ure auf 5,6 eingestellt.\r\n\r\nDer Polaris-Hopfen kann durch \u00fcbliche Bitterhopfen ersetzt werden, vom Aroma bleibt da eh nicht viel \u00fcber.\r\n\r\nHefe:\r\nDie W177 (K\u00f6lsch) von Weihenstephan kann auch durch andere neutrale Alehefen wie die US05 ersetzt werden. \r\n\r\nDas Bier hat einen sehr leckeren Geruch nach Melone und Erdbeere, ist aber etwas vollmundig-s\u00fc\u00df geraten, daher kann man je nach Geschmack eine l\u00e4ngere 64\u00b0C-Rast machen (so 25-30 Minuten). Die angenehme Bittere und der Gesamteindruck laden aber zu mehr ein ;)"
+}

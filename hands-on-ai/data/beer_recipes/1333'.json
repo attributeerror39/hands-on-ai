@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mosaic Single Hop Pale Ale",
+    "Datum": "06.08.2020",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "domingo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.7,
+    "Bittere": 45,
+    "Farbe": 10,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Mango und Passionsfrucht pur! Helles India Pale Ale nur mit Mosaic Hopfen. Der hohe Anteil an Gerstenflocken verleiht diesem fruchtigen IPA einen wunderbar samtigen Malzk\u00f6rper. Stilm\u00e4ssig w\u00e4re dieses Bier wohl zwischen Westcoast IPA und NEIPA anzusiedeln.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.29,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 1.11,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 920,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 280,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.5,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 22,
+            "Alpha": 11.3,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 24,
+            "Alpha": 11.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 55
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 81,
+    "Karbonisierung": 5.25,
+    "Anmerkung_Autor": "Der hohe Gerstenflockenanteil f\u00fchrte zu einer eher niedrigen Sudhausausbeute.\r\n\r\nDa ich sehr hartes Wasser habe mit viel Magnesium und einer RA von ca. 10\u00b0dH, habe ich f\u00fcr diese helle Mischung Osmosewasser genommen und auf 80 mg\/l SO4 und 65 mg\/l Cl aufgesalzen."
+}

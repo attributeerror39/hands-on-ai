@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Fucking Corona Pale Ale",
+    "Datum": "04.05.2020",
+    "Sorte": "Pale Ale",
+    "Autor": "Waikoloa",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 35,
+    "Farbe": 11,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Warum Fucking Corona Pale Ale. Eigentlich w\u00e4ren wir bis zum 30.03. in Neuseeland gewesen, dank Corona waren wir schon am 24.03. Zuhause. Zur Erinnerung an Neuseeland wurde Nelson Sauvin Hopfen verwendet. Ergebnis ist eine Maracujabombe. ",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.21,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.21,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz 2",
+            "Menge": 550,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22.72727272727273,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.09090909090909,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 13,
+            "Alpha": 12.5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 9,
+            "Alpha": 10.6,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 9,
+            "Alpha": 10.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 6,
+            "Alpha": 10.6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 66,
+            "Alpha": 10.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Fermentis US05",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 81,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Karbonisiert wurde mithilfe der Dosierhilfe f\u00fcr 0,5 Liter Flaschen.\r\nGebraut wurde mit dem 30L Mundschenk. Die Wirlpoolgabe erfolgte bei 70\u00b0c. F\u00fcr die Wirlpoolgabe habe ich einfach den restlichen Hopfen von den gekauften 100 gr. verwendet. Das Ergebnis ist ein sehr leckeres fruchtiges Bier"
+}

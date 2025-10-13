@@ -1,0 +1,92 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Fast as a Shark",
+    "Datum": "13.03.2020",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "skappler",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.6,
+    "Bittere": 42,
+    "Farbe": 8,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "White IPA mit Kveik f\u00fcr den Wettbewerb in Romrod 2020. Sch\u00f6n fruchtig mit Aromen von Orangen und Mandarinen",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.88,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 1.7,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenrohfrucht",
+            "Menge": 1,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 66,
+    "Nachguss": 13,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 30,
+            "Alpha": 9.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 6,
+            "Alpha": 9.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 22,
+            "Alpha": 8.2,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 19,
+            "Alpha": 8.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Sorachi Ace",
+            "Menge": 20,
+            "Alpha": 8.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 15,
+            "Alpha": 7.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Kveik #1 Sigmund Voss",
+    "Gaertemperatur": "36",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Wasser mit Milchs\u00e4ure auf 0\u00b0dH eingestellt.\r\n\r\nDas Bier kam beim Stammtisch und meinem Wichtelpartner sehr gut an. Schade, dass ich es nicht beim Wettbewerb einreichen konnte.\r\n\r\nDer Name kommt daher, dass das Bier durch die Kveik sehr schnell trinkbereit ist. Die zweite Charge wurde Montags gebraut und Samstags auf einer Party ausgeschenkt. Die Hauptg\u00e4rung war dabei nach 2 Tagen durch."
+}

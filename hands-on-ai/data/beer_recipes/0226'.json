@@ -1,0 +1,86 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Birout Saison",
+    "Datum": "28.08.2012",
+    "Sorte": "Saison",
+    "Autor": "BrasseriePlan58",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 24,
+    "Farbe": 30,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "Belgisches Saison, leicht fruchtig, milde S\u00e4ure ",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 700,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Abbey",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenflocken",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14,
+    "Einmaischtemperatur": 52,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 18,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Goldings",
+            "Menge": 22,
+            "Alpha": 4.5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Styrians",
+            "Menge": 22,
+            "Alpha": 4.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 3724 Belgian Saison",
+    "Gaertemperatur": "25",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Mein erster Versuch ein Saison zu brauen. Hat gut geklappt, bin mit dem Ergebniss sehr zufrieden. Beim n\u00e4chsten mal werde ich es etwas bitterer machen. "
+}

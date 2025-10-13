@@ -1,0 +1,109 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Weizen IPA",
+    "Datum": "15.04.2024",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "cloudworks",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 55,
+    "Farbe": 9,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Ein fruchtiger Mix aus Weizenbier und IPA mit Banane als Leitaroma. Dazu gesellen sich weitere Fruchtaromen, die eine Br&uuml;cke schlagen zum IPA. Die Bittere ist deutlich vorhanden aber nicht dominierend. Die Farbe des Bieres spiegelt das Leitaroma nochmals wieder - Bananengelb. Erster Platz beim Hobbybrauerwettbewerb von Maisel &amp; Friends 2024.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2.9,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.31,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 520,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Hafermalz",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 270,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.142857142857142,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.428571428571427,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 10,
+            "Alpha": 12.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 14,
+            "Alpha": 12.5,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 14,
+            "Alpha": 12.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 14,
+            "Alpha": 12.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 14,
+            "Alpha": 12.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 57
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 57
+        }
+    ],
+    "Hefe": "White Labs WLP300",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Wasser:\r\nKalzium: 92 mg\/l\r\nMagne&shy;sium: 10 mg\/l\r\nSulfat: 100 mg\/l\r\nChlorid: 117 mg\/l\r\nNatrium: 0 mg\/l\r\n\r\nMaischplan und Hefeauswahl in Anlehnung an das Triticum Wormatia, f&uuml;r m&ouml;glichst viel Banane.\r\nhttps:\/\/www.maischemalzundmehr.de\/index.php?id=257&amp;inhaltmitte=rezept&amp;suche_begriff=triticum%20wormatia\r\n\r\nEin Drittel des Stopfhopfens kommen nach 1-2 Tagen zur aktiven G&auml;rung, um durch Biotransformation noch komplexere Aromen zu erzeugen."
+}

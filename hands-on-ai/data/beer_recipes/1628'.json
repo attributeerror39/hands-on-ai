@@ -1,0 +1,80 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Rocinante - Space Series No.1",
+    "Datum": "17.02.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "Straxel_",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 30,
+    "Farbe": 16,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Fruchtiges Leichtes Pale Ale, mit einem stark tropischen Geschmack sowie leichte Ananas Noten.\r\nBenannt nach dem Schiff Rocinante (spanisch: \"Ackergaul\") der Serie The Expanse, da die Crew hier auch zusammengew\u00fcrfelt ist, aus allen Ecken des Systems.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraRed",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 1
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 12,
+            "Alpha": 12.4,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 24,
+            "Alpha": 12.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 24,
+            "Alpha": 18.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 16
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 28
+        }
+    ],
+    "Hefe": "Mangrove Jack's M36 Liberty Bell",
+    "Gaertemperatur": "19-21",
+    "Endvergaerungsgrad": 61.7,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die Hopfenzugaben beim Whirlpool erst unter ~80 \u00b0C hinzuf\u00fcgen, dann kommen die Fruchtaromen der Hopfen besser zur Geltung \r\n\r\nDen Stopfhopfen nach der Hauptg\u00e4rung hinzugeben und nach weiteren 3-4 Tagen kann in Flaschen abgef\u00fcllt werden.\r\nDie Flaschenreifung ist ganz euch \u00fcberlassen, ich habe 2 Wochen bei Zimmertemperatur reifen lassen und dann noch einige Zeit im K\u00fchlschrank bei ca 4 \u00b0C\r\n\r\nDas Bier bekommt eine sch\u00f6ne Bernsteinfarbe.\r\n\r\nDas Roci ist in meinem Bekanntenkreis sehr beliebt und wurde dadurch zu meinem Haus-Ale.\r\nDa es bei Familie und Freunden so gut angekommen ist habe ich mich dazu entschieden eine kleine \"Weltraumserie\" zu brauen, da wir sehr auf The Expanse stehen :D\r\nDies ist die No.1\r\n\r\nHappy Brewing!"
+}

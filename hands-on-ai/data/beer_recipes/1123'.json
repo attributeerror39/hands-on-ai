@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Veni Vidi Wheat Beer",
+    "Datum": "29.07.2019",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "NorthernBrewer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 13,
+    "Farbe": 9,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "Ein helles Weizen mit intensiver Banane und einem leichten Anklang tropischer Fr\u00fcchte.",
+    "Malze": [
+        {
+            "Name": "Weizen hell",
+            "Menge": 2.23,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 1.53,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 650,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22.307692307692307,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 6.153846153846154,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 4,
+            "Alpha": 10.7,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 8,
+            "Alpha": 10.7,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 14,
+            "Alpha": 10.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Wyeast 3068",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6.7,
+    "Anmerkung_Autor": "Die Kombination bananiges Weizen & Nelson Sauvin ist ja schon lange bekannt und beliebt - absolut zu recht. Die sind wie f\u00fcreinander gemacht. Ich braue auf dem Braumeister 20, bei anderen Systemen das Verh\u00e4ltnis aus HG\/NG entsprechend anpassen.\r\n\r\nEin paar Details:\r\n- Ich nutze ein frisches Smack-Pack ohne Starter auf rund 25L.\r\n- Nachisomerisierung 5min.\r\n- Karbonisierung mit Haushaltszucker in Flaschen.\r\n- Reifung bei 4\u00b0C f\u00fcr zehn bis vierzehn Tage reicht. \r\n\r\nZuletzt noch das Wasserprofil (mg\/l):\r\nCalcium 54\r\nMagnesium 5\r\nNatrium 37\r\nChlorid 55\r\nSulfat 69\r\nRestalkalit\u00e4t 2.7"
+}

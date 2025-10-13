@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Dry Hopped Imperial Gose",
+    "Datum": "01.04.2021",
+    "Sorte": "Sauerbier",
+    "Autor": "Kesselbrauer Stuttgart e.V.",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.4,
+    "Bittere": 19,
+    "Farbe": 7,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "3.Platz beim Kesselbrauer Bierwettbewerb 2021 in der offenen Kategorie\r\n*Kesselbrauer Stuttgart e.V.*Rezept von Dominik*",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.61,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Malz hell",
+            "Menge": 2.17,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.782608695652176,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.695652173913043,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Ariana",
+            "Menge": 15,
+            "Alpha": 9.9,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Salz",
+            "Menge": 13,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Ariana",
+            "Menge": 72
+        }
+    ],
+    "Hefe": "Wildbrew Philly Sour",
+    "Gaertemperatur": "23",
+    "Endvergaerungsgrad": 72.4,
+    "Karbonisierung": 5
+}

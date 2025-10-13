@@ -1,0 +1,109 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "DC Wheat Stout",
+    "Datum": "15.01.2021",
+    "Sorte": "Imperial Stout",
+    "Autor": "DerDallmann",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 19,
+    "Bittere": 42,
+    "Farbe": 166,
+    "Alkohol": 8.2,
+    "Kurzbeschreibung": "Leicht gestopftes, pechschwarzes Stout, das mit der Munich Classic vergoren wurde und zus\u00e4tzlich noch eine Ladung Kokosflocken und Kakaonibs bekommen hat. Ziemlicher overkill, aber geil. :) Passt richtig gut zusammen.\r\n",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz (Avandard)",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz, hell (Avangard)",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Karamellmalz Aroma (400 EBC)",
+            "Menge": 480,
+            "Einheit": "g"
+        },
+        {
+            "Name": "The Swaen Salty Caramel (25 EBC)",
+            "Menge": 240,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt (900 EBC)",
+            "Menge": 240,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste (1150 EBC)",
+            "Menge": 160,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Eichenrauch Weizenmalz",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 30.4,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 68,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Polaris",
+            "Menge": 20,
+            "Alpha": 18.9,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 24,
+            "Alpha": 2.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Muscovadozucker",
+            "Menge": 400,
+            "Einheit": "g",
+            "Kochzeit": 1
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Comet (D), 2020",
+            "Menge": 24
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Kokosflocken",
+            "Menge": 160,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Kakaonibs",
+            "Menge": 120,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Munich Classic",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Gussmenge ist gesch\u00e4tzt. Gebraut als reines Vorderw\u00fcrzebier, ohne Nachguss. Die Kokosflocken und die Nibs hatte ich vorab ca. 3 Wochen in Vodka eingelegt, der komplette Auszug (inkl. Vodka) kam in den G\u00e4rbeh\u00e4lter zusammen mit dem Stopfhopfen.\r\n\r\nDurch die Weizenhefe in Kombination Stopfhopfen, Kokos und Kakao ergibt sich fast schon eine Art \"Pastry Stout\". Aus meiner Sicht mega lecker. Und das alles ohne k\u00fcnstliche Aromen und vegan.\r\n\r\n(So richtig \"imperial\" ist es nicht, passte aber in keine andere Kategorie)\r\n\r\nWichtig:\r\nBitte das Rezept nicht 1:1 \u00fcbernehmen, sondern an eure Brauanlage, sowie eure Sudhausausbeute anpassen. Ebenso sind die Mengen zu Haupt-, und Nachguss an euer System anzupassen. "
+}

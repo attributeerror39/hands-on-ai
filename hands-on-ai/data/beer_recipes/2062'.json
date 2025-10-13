@@ -1,0 +1,99 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Af (Winter) Dunkel",
+    "Datum": "18.01.2025",
+    "Sorte": "Alkoholfreies\/-armes",
+    "Autor": "der verr\u00fcckte Hutmacher",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 8,
+    "Bittere": 20,
+    "Farbe": 45,
+    "Alkohol": 0.7,
+    "Kurzbeschreibung": "Ein malzbetontes dunkles Bier, was in Richtung dunkler Bock mit weihnachtlichen Gew&uuml;rzen geht. Kr&auml;ftige Malznoten, leichte S&uuml;&szlig;e, gepaart mit deutlich schmeck- und riechbaren Gew&uuml;rzen, die an ein Dubbel oder Pumpkin Ale erinnern. Der Hopfen steht im Hintergrund, rundet den Geschmack aber mit einer leichten Bittere ab.",
+    "Malze": [
+        {
+            "Name": "M&uuml;nchner Malz",
+            "Menge": 1.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara dunkel",
+            "Menge": 140,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa",
+            "Menge": 67,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.333333333333332,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 7,
+            "Alpha": 13.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 8,
+            "Alpha": 6.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Koriander geschrotet",
+            "Menge": 5,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Piment zersto&szlig;en",
+            "Menge": 5,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Kardamom",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Zimt",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Fermentis LA-01",
+    "Gaertemperatur": "16-18",
+    "Endvergaerungsgrad": 13.6,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "F&uuml;r das Bier wurde einige Tage im Voraus ein frischer Starter aus etwa 5g LA-01 und Perlenbacher alkoholfrei mit etwas zus&auml;tzlichem Zucker angesetzt. Wer den Starter testen m&ouml;chte, kann etwas alkoholfreies Bier aus gestoppter G&auml;rung damit im Messzylinder versetzen und eine Spindel hinein stellen. Wenn der Restextrakt nach einigen Tagen im Bereich 5-6 bleibt, ist der Starter OK. Wenn er deutlich tiefer sinkt, hat man maltosepositive Fremdhefen drin. Ich habe, da die T&uuml;te frisch ge&ouml;ffnet wurde, diesmal darauf verzichtet und mich auf mein Auge mit Blick auf die Kr&auml;usen auf dem Starter und dessen allgemeine Entwicklung verlassen.  Da ich nur ein 30l G&auml;rgef&auml;&szlig; (ausschlie&szlig;lich f&uuml;r Af mit maltosenegativer Hefe) verwendet habe, wurde ein Endvolumen von 25l mit einer Sch&uuml;ttung f&uuml;r 35l angestrebt. Dementsprechend kam die W&uuml;rze mit 12&deg;P ins G&auml;rgef&auml;&szlig;, und sank innerhalb von drei Tagen G&auml;rung bei 16-17&deg;C mit Heizmatte im 6&deg; kalten Keller auf 10&deg;P, was ca. 1% vol. Alkohol entspricht. Zur Abf&uuml;llung in zwei CC Kegs wurden jeweils 4,5l Wasser vorgelegt, das Jungbier darauf geschlaucht und der pH mit 4ml Milchs&auml;ure  auf 5 eingestellt. Nach 5 Tagen wurde das erste (pro)Bier gezapft und f&uuml;r gelungen befunden. Der Alkoholgehalt sollte durch die Verd&uuml;nnung bei ca. 0,7 liegen. Der Geschmack rundet sich w&auml;hrend der Reifung noch ab und da vollst&auml;ndige Kl&auml;rung bei dieser Hefe sehr lange dauert, auf dem Foto noch tr&uuml;b im Glas."
+}

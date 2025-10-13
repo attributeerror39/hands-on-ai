@@ -1,0 +1,99 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Double IPA",
+    "Datum": "01.09.2011",
+    "Sorte": "India Pale Ale",
+    "Autor": "pippen",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 18,
+    "Bittere": 180,
+    "Farbe": 12,
+    "Alkohol": 8.5,
+    "Kurzbeschreibung": "Geschmacksnervenkiller.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 5.21,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 240,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara M\u00fcnch Typ 1",
+            "Menge": 120,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara M\u00fcnch Typ 2",
+            "Menge": 120,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 24,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Columbus",
+            "Menge": 96,
+            "Alpha": 14.7,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Columbus",
+            "Menge": 20,
+            "Alpha": 14.7,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 28,
+            "Alpha": 9,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 28,
+            "Alpha": 9.6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 72,
+            "Alpha": 9,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "siehe Anmerkungen ",
+            "Menge": 84
+        },
+        {
+            "Sorte": "siehe Anmerkungen ",
+            "Menge": 24
+        }
+    ],
+    "Hefe": "Wyeast 1056 American Ale",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 75,
+    "Anmerkung_Autor": "Dry Hopping:\r\n\r\nColumbus, 35g, 14 Tage\r\nCentennial, 35g, 14 Tage\r\nAmarillo, 35g, 14 Tage\r\n\r\nIBU sind berechnet, tats\u00e4chlich sind es wahrscheinlich weniger.\r\n\r\nColumbus, 10g, 5 Tage\r\nCentennial, 10g, 5 Tage\r\nAmarillo, 10g, 5 Tage\r\n\r\nWer kann, soll unbedingt den Amarillo durch Simcoe ersetzen und mir berichten!"
+}

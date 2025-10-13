@@ -1,0 +1,92 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Dark Barley Wine",
+    "Datum": "30.08.2021",
+    "Sorte": "Barley Wine",
+    "Autor": "jofrax",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 19,
+    "Bittere": 45,
+    "Farbe": 70,
+    "Alkohol": 9,
+    "Kurzbeschreibung": "Dark Barley Wine mit Restbest\u00e4nden und frischem Hopfen",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner (12-25 EBC)",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz (5 EBC)",
+            "Menge": 2.25,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara hell ( 25 EBC)",
+            "Menge": 750,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wienermalz (8 EBC)",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Brown Malt (110 EBC)",
+            "Menge": 930,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste (1100 EBC)",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch (100 EBC)",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 27.5,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 5,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Golding East Kent",
+            "Menge": 75,
+            "Alpha": 5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Opal",
+            "Menge": 125,
+            "Alpha": 5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Rohrzucker",
+            "Menge": 250,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Fermentis Safale US-05",
+    "Gaertemperatur": "19-21",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Malz: \r\nM\u00fcnchner: Angenehme Vollmundigkeit \r\nWeizenmalz: Dient zur F\u00f6rderung des typischen\r\noberg\u00e4rigen Aromas. Helles Weizenmalz wird auch in kleineren Menge zugef\u00fcgt um eine \u201eBrot\u201c-Note zu erzielen.\r\nCara hell: dient zur Erh\u00f6hung der Vollmundigkeit, Intensivierung des Malzarmomas, g\u00fcnstige Beeinflussung des Bierschaumes, voller, runder Geschmack\r\nBrown malt: Kaffee \/ Mocca \/ Toffee\r\nR\u00f6stgerste: R\u00f6st-Kaffee-Aromen, wenig Rauch\r\nCaram\u00fcnch: voll, Intensivierung des Malzaromas\r\nWiener: Intensiv malzig-s\u00fcss, leichte Honig- und Nussnoten\r\n\r\nHopfen: \r\nEast Kent Golding: K\u00f6nig der englischen Hopfen genannt. Aromen: w\u00fcrzig, erdig, Honig \r\nOpal: Aus dem eigenen Garten, Frisch geerntet, Eine relativ neue Aromasorte aus dem Hallterau, w\u00fcrzig, kr\u00e4uterig. Dosierung: Eigentlich nur 5g, da frisch und ungetrocknet x10 --> ca 50 Gramm in S\u00e4ckchen.\r\n\r\nHefe: Safale US-05 oberg\u00e4rige Trockenhefe\r\nSie produziert ein gut ausgewogenes Bier mit niedrigen Diacetylwerten und einem sauberen, frischen Nachtrunk. Rehydrieren bei 27Grad (+-3 Grad)\r\n\r\nBier mindestens 3 Monate reifen lassen, geniessen!!\r\n"
+}

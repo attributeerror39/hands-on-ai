@@ -1,0 +1,115 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Quincy - Quitten-Saison",
+    "Datum": "21.12.2022",
+    "Sorte": "Saison",
+    "Autor": "birnsojjel",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 25,
+    "Farbe": 9,
+    "Alkohol": 6.8,
+    "Kurzbeschreibung": "Saisonales Erntebier mit Quittenst\u00fccken und Quittensaft - \r\n3. Platz bei der Heimbrauconvention 2023 in Romrod in der Kategorie Saison ",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.9,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 190,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.6,
+    "Einmaischtemperatur": 52,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.7,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 5,
+            "Alpha": 7.9,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 13,
+            "Alpha": 5,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hersbrucker Sp\u00e4t",
+            "Menge": 25,
+            "Alpha": 3.2,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Styrian Dragon",
+            "Menge": 2,
+            "Alpha": 6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Styrian Dragon",
+            "Menge": 8,
+            "Alpha": 6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Quittensaft",
+            "Menge": 1000,
+            "Einheit": "ml"
+        },
+        {
+            "Name": "Kristallzucker",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Quittenst\u00fccke",
+            "Menge": 1000,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "LALLEMAND Belle Saison",
+    "Gaertemperatur": "17-25",
+    "Endvergaerungsgrad": 87,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wasser mit Milchs\u00e4ure auf 0\u00b0dH eingestellt.\r\n2 min Nachisomerisierungszeit durch aktive K\u00fchlung.\r\n\r\nAufbereitung und Zugabe der Quitte: \r\n1. Entflaumen, waschen, einfrieren\r\n2. auftauen, sch\u00e4len, entkernen, kleinschneiden\r\n3. 50 g\/l mit einmaischen\r\n4. 50 ml\/l Saft nach 5 Tagen zur G\u00e4rung und 3 Wochen stehen lassen \r\n\r\nAngestellt bei 17\u00b0C, dann schrittweise auf 25\u00b0C kommen lassen. Nach 3 Tagen 200g Zucker (in abgekochtem Wasser aufgel\u00f6st) hinzugeben.\r\nDer Zucker (10g\/Liter) erh\u00f6ht die Stammw\u00fcrze um ca. 1\u00b0P, wenn man der Literatur folgt. Die Sch\u00fcttung sollte demnach 12,5\u00b0P ergeben.\r\n\r\nAls Resultat erh\u00e4lt man ein Saison mit w\u00fcrzigen und pfeffrigen Aromen (Hefe), die Fruchtigkeit wird nach meinem Geschmack optimal durch eine leicht (aber doch deutlich) wahrnehmbare Quittennote unterst\u00fctzt. \r\nNach 2 Wochen Nachg\u00e4rung und 4 Wochen Lagerung bei 5\u00b0C ziemlich klar, mit einem sch\u00f6nen und halbwegs stabilen Schaum versehen."
+}

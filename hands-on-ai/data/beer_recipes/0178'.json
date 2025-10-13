@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Belgisches Wit",
+    "Datum": "02.02.2012",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "Boludo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 18,
+    "Farbe": 6,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Leckerer Durstl\u00f6scher",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.08,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Bio Weizen Rohfrucht",
+            "Menge": 1.51,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken k\u00f6rnig",
+            "Menge": 190,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.20754716981132,
+    "Einmaischtemperatur": 42,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.320754716981131,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 21,
+            "Alpha": 7,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Bitterorangenschalen getrocknet",
+            "Menge": 9,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Indische Koriandersamen",
+            "Menge": 8,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Wyeast 3944 Belgian Witbier oder 3463 Forbidden Fruit",
+    "Gaertemperatur": "22",
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Das Rezept stammt urspr\u00fcnglich von Hanghofer, ich habe es etwas anders gehopft.\r\nWeizenrohfrucht relativ fein schroten, sonst leidet die Ausbeute (mit Porkert o.\u00c4. mahlen, am besten zwei mal hintereinander, normale Walzenm\u00fchle geht nicht, da rutschen die K\u00f6rner nur durch und bleiben ganz). Koriandersamen frisch im M\u00f6rser zersto\u00dfen. Der Weizen kommt aus dem Reformhaus, alle anderen Zutaten und die Hefe k\u00f6nnen \u00fcber HuM besorgt werden, Bitterorangenschalen bekommt man auch in der Apotheke. L\u00e4utern ist gar kein Problem (Mattmill Blech). Iodprobe nicht vergessen (die Rohfrucht wird problemlos verzuckert).\r\nRestalkalit\u00e4t Brauwasser: 3,4\u00b0dH mit CaCl2 und Milchs\u00e4ure eingestellt.\r\nMuss eventuell mit abgekochten Brauwasser auf die gew\u00fcnschte Stammw\u00fcrze verd\u00fcnnt werden.\r\n\r\n\r\nDer Hopfen spielt keine gro\u00dfe Rolle. Man kann eigentlich alle g\u00e4ngigen deutschen Sorten nehmen, z.B. Tettnanger, Spalter Select usw. Strisselspalter passt sicher auch sehr gut.\r\n\r\nUnd noch mal Edit: Die Forbidden Fruit (3463) passt auch wunderbar rein.\r\nHier \u00fcbrigens das Originalrezept:\r\nhttp:\/\/netbeer.org\/content\/view\/21\/68\/lang,de_AT\/"
+}

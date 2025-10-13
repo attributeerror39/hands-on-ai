@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Dinkel Ale",
+    "Datum": "25.03.2011",
+    "Sorte": "Dinkel-, Emmer- oder Mehrkornbier",
+    "Autor": "tauroplu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 30,
+    "Farbe": 18,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Vollmundig und ausgewogen im Geschmack.\r\nObwohl Dinkel eine Weizenunterart ist, wurde es mit einer normalen Alehefe vergoren, um den Dinkelcharakter herauszuarbeiten.",
+    "Malze": [
+        {
+            "Name": "Dinkelmalz",
+            "Menge": 1.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.42,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 830,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell\u00ae",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.5,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 28,
+            "Alpha": 6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 7,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale US-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 5.3,
+    "Anmerkung_Autor": "Die IBU Werte wurden mit Earls Hopfenrechner f\u00fcr Profis ermittelt. Ich verwende Pellets. - Nachisomerisierungszeit: 15 Min. -"
+}

@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bernstein-Weizen",
+    "Datum": "19.05.2019",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "horstdeluxe",
+    "Klonbier": "ja",
+    "Klonbier_Original": "St\u00f6rtebecker",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 16,
+    "Farbe": 15,
+    "Alkohol": 5.9,
+    "Kurzbeschreibung": "Ein Klon vom St\u00f6rtebecker Bernstein-Weizen. ",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2.09,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.07,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 710,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 710,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 11.555555555555554,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16.88888888888889,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Smaragd",
+            "Menge": 22,
+            "Alpha": 5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Smaragd",
+            "Menge": 18,
+            "Alpha": 5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 3638 Bavarian Wheat",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 74.4,
+    "Karbonisierung": 7,
+    "Anmerkung_Autor": "Bitte unbedingt die angegebene Hefe benutzen. Mit anderen kommen v\u00f6llig andere Aromen dabei raus. Das Bier kommt dem Original schon sehr Nahe. Falls ich noch n\u00e4her ran komme, werde ich die Zutaten hier anpassen."
+}

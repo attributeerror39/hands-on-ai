@@ -1,0 +1,101 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ale\u00b4 Hop",
+    "Datum": "13.03.2018",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Schwarze Berge",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.8,
+    "Bittere": 22,
+    "Farbe": 14,
+    "Alkohol": 4.1,
+    "Kurzbeschreibung": "Vom Franz\u00f6sischen [Allez hop]\r\nKein Wit, kein Weizen, aber an beide angelehnt. \r\nS\u00fcffiges, spritziges Bier. Malzig, getreidig mit feinem Hopfen Aroma ",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.91,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Kamut Malz",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Kamut Rohfrucht",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamellmalz Pils",
+            "Menge": 360,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 91,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.181818181818182,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 0
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 0
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 0
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 74,
+    "Nachguss": 14.000000000000002,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 9,
+            "Alpha": 5.8,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 9,
+            "Alpha": 5.8,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 14,
+            "Alpha": 5.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Craft Series M36 Liberty Bell Ale",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Kamut (Khorasan Weizen) ist eine Urform von Weizen mit gro\u00dfen etwas dunkleren K\u00f6rnern und nu\u00dfigem Geschmack.\r\n\r\nZuerst nur Sauermalz und Kamut einmaischen. \r\nBei 72\u00b0C den Rest der Sch\u00fcttung zugeben. \r\nErgibt 66\u00b0C, danach fallende Infusion auf unter 60\u00b0C.\r\nBis 55\u00b0C ca. 90 min.\r\n\r\nNachisomerisierung 35 min. \r\n "
+}

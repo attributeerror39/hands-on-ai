@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Susi's",
+    "Datum": "31.12.2017",
+    "Sorte": "Dunkles Hefeweizen",
+    "Autor": "krampus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.4,
+    "Bittere": 14,
+    "Farbe": 31,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Hellbraunes Weizen, das auch meiner Frau schmeckt. Nicht zu bitter.",
+    "Malze": [
+        {
+            "Name": "Weizen hell",
+            "Menge": 1.96,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen dunkel",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CARAWHEAT",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.076923076923077,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.538461538461537,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 8,
+            "Alpha": 9.6,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch ",
+            "Menge": 5,
+            "Alpha": 3.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 5,
+            "Alpha": 5.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "German Wheat",
+    "Gaertemperatur": "22",
+    "Karbonisierung": 8,
+    "Anmerkung_Autor": "Eins meiner ersten gebrauten Biere, kommt gut an.\r\n"
+}

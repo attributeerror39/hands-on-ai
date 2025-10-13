@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Golden Whisky ",
+    "Datum": "09.02.2020",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "mavro",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.5,
+    "Bittere": 23,
+    "Farbe": 25,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Goldfarben, malzig, erdig, w\u00fcrzig mit Anklang von Vanille und Whisky. St\u00e4rker eingebraut und leicht \u00f6lig in der Kehle",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 4.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 2.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caraamber",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Target",
+            "Menge": 16,
+            "Alpha": 9.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggles",
+            "Menge": 24,
+            "Alpha": 4.3,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Eichenholzchips in Whisky eingelegt",
+            "Menge": 48,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Nottingham Ale 2*11gr",
+    "Gaertemperatur": "15",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Bier ist das Ergebnis von mehreren Variationen und passt f\u00fcr mich optimal. Es geht sehr \u00f6lig die Kehle runter - vorallem, wenn man es vor dem Genu\u00df etwas bei Raumtemperatur eingeschenkt stehen l\u00e4\u00dft. Die Vanille-Chips hatte ich ein paar Monate in Whisky eingelegt und dann habe ich sie f\u00fcr 8 Tage nach der HG drin gelassen. Nach 3 Monaten ist das Bier rund."
+}

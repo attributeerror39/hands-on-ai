@@ -1,0 +1,95 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "American Imperial IPA",
+    "Datum": "21.02.2019",
+    "Sorte": "India Pale Ale",
+    "Autor": "BrauSven",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20,
+    "Bittere": 120,
+    "Farbe": 11,
+    "Alkohol": 7.2,
+    "Kurzbeschreibung": "Englisches Malz trifft auf deutschen Hopfen und amerikanische Hefe :-) Goldoranges, sehr fruchtiges Ale mit intensiver Bittere",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 5.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraPils ",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 45
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 25,
+            "Alpha": 12.2,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Ariana",
+            "Menge": 100,
+            "Alpha": 10.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 50,
+            "Alpha": 4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moos",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Callista",
+            "Menge": 50
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 69,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Nachisomerisierungszeit 15 min, IBU-Berechnung mit dem Tool dieser Seite. Hopfenstopfen nach 1 Woche, trinkbar nach ca. 4 Wochen k\u00fchler Lagerung und Kl\u00e4rung."
+}

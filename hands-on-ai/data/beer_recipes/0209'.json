@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Blutrot",
+    "Datum": "28.07.2012",
+    "Sorte": "Irish Ale",
+    "Autor": "marvin",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 25,
+    "Farbe": 30,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "dunkelrotes Irish Red Ale mit festem, cremigem Schaum u. leichter Fuggles Note",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2.56,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Malz",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraM\u00fcnch II",
+            "Menge": 190,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 190,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 120,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.600000000000001,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Fuggles",
+            "Menge": 34,
+            "Alpha": 4.7,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggles",
+            "Menge": 8,
+            "Alpha": 4.7,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 1084 Irish Ale",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "die ersten beiden Sude mit der Kombirast hatten rel. wenig Rests\u00fc\u00dfe u. K\u00f6rper, was ja auch zur Sorte passt. Das R\u00f6staroma kommt gem\u00e4\u00dfigt zur Geltung. Um mehr Malzk\u00f6rper zu erhalten werde ich dieses Rezept auch mal mit der klassischen 63 \/ 72 Rast u. mit Earl-Dekoktion testen.\r\nDas Bier hat ein irres Lakritz-Aroma im Abgang."
+}

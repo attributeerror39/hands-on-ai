@@ -1,0 +1,71 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ho Ho Ho - Printenbier",
+    "Datum": "28.12.2020",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "gargarmel",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 17,
+    "Farbe": 50,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Dunkles Bier mit deutlichem, aber nicht \u00fcbertriebenem Geschmack nach den f\u00fcr Aachener Printen typischen Kr\u00e4utern. Ausgewogen genug um auch mehr als eine Flasche trinken zu k\u00f6nnen. ",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 3.03,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Aachener Kr\u00e4uterprinten (gemahlen)",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 510,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Malz Dunkel",
+            "Menge": 190,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.71428571428571,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 40
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 7.428571428571429,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 33,
+            "Alpha": 4.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Hefe": "Altbierhefe, z.B. Bolten, OGA9",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Da ich einige Zeit in Aachen gewohnt habe, wollte ich schon lange mal zu Weihnachten ein Bier machen das nach Aachener Printen schmeckt.\r\nDies habe ich nun verwirklicht und bin vom Ergebnis durchaus begeistert. Ich habe 16% der Sch\u00fcttung aus Aachener Kr\u00e4uter-Printen gemacht. Diese habe ich im Mixer zerkleinert, und dem Malz dann nach dem Schroten untergemischt. Das Ergebnis hat noch ausreichend Rests\u00fc\u00dfe, die braucht es auch damit der Eindruck passt, Printen sind ja auch recht s\u00fc\u00df. Der Zucker aus den Printen wird komplett vergoren, daher muss man das \u00fcber das Maischprogramm steuern.\r\n\r\nich w\u00fcnsche viel Spa\u00df beim Nachbrauen!\r\n\r\nPS: Haupt und Nachguss sind f\u00fcr ein Malzrohr-System abgestimmt. Also bitte entsprechend Wassermengen etwas verschieben, wenn man anders braut."
+}

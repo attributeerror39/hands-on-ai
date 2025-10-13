@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Nackhausener K\u00f6lsch",
+    "Datum": "21.04.2012",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "djmoehre",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 25,
+    "Farbe": 8,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "oberg\u00e4riges naturtr\u00fcbes Bier nach k\u00f6lscher Brauart",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 3.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen hell",
+            "Menge": 450,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 54,
+    "Rasten": [
+        {
+            "Temperatur": 53,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 80
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 79,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 79,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 85,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 13,
+            "Alpha": 5.8,
+            "Zeit": 85,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 5,
+            "Alpha": 6.8,
+            "Zeit": 85,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 13,
+            "Alpha": 6.8,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 3,
+            "Alpha": 6.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Brauwerkstatt Colonia ",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 5.3,
+    "Anmerkung_Autor": "Das Bier sollte min. 6 Wochen kalt lagern. Der optimale Geschmack stellt sich nach. ca. 8 Wochen ein. Meine EVGs sind alle immer schlecht. Bitte nicht daran orientieren."
+}

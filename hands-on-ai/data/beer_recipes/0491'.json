@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bierzeit Summer Ale",
+    "Datum": "29.06.2015",
+    "Sorte": "Mild Ale",
+    "Autor": "quartermoose",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.5,
+    "Bittere": 26,
+    "Farbe": 14,
+    "Alkohol": 4.4,
+    "Kurzbeschreibung": "Leichtes, dennoch vollmundiges und fruchtiges Sommerbier.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.17,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 780,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carabelge",
+            "Menge": 610,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 430,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.782608695652172,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.91304347826087,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Taurus",
+            "Menge": 10,
+            "Alpha": 15.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Opal",
+            "Menge": 6,
+            "Alpha": 5.3,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Huell Melon",
+            "Menge": 4,
+            "Alpha": 5.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Opal",
+            "Menge": 20
+        },
+        {
+            "Sorte": "Huell Melon",
+            "Menge": 20
+        }
+    ],
+    "Hefe": "GOZDAWA Pure Ale Yeast 7",
+    "Gaertemperatur": "18",
+    "Karbonisierung": 5
+}

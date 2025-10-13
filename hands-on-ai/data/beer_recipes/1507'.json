@@ -1,0 +1,71 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Zoigl Ale",
+    "Datum": "02.06.2021",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Flohaan",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 25,
+    "Farbe": 18,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Die OG Variante eines Zoigl\/ Kellerbiers, deshalb auch au\u00dfer Kategorie.\r\nBernsteinfarben, hopfig aber nicht aufdringlich.\r\nAuch jung schon sehr lecker.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Karamellmalz Dunkel Typ II",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen Rohfrucht",
+            "Menge": 380,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.285714285714286,
+    "Einmaischtemperatur": 74,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 9.523809523809524,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Magnum",
+            "Menge": 12,
+            "Alpha": 14.7,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 14,
+            "Alpha": 5.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 11,
+            "Alpha": 5.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 82,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Da mir leider die M\u00f6glichkeit fehlt UG zu brauen, ich jedoch ein \"Standard Bier\" f\u00fcr jeden Tag haben wollte, habe ich mich an diesem versucht.\r\nInspiration daf\u00fcr war f\u00fcr mich das \"Super Ale\" der Lang Br\u00e4u aus Sch\u00f6nbrunn.\r\n\r\nIch habe mich bewusst f\u00fcr deutschen Hopfen entschieden um den \"Zoigl\" Gedanken zumindest nicht ganz ad absurdum zu f\u00fchren.\r\n\r\nKombirast bei 67\u00b0C 60 Minuten bzw bis Jodnormal. Vergoren mit meiner Standardhefe US-05, da sie bei 17\u00b0C doch relativ neutral verg\u00e4rt.\r\n\r\nZwangskarbonisiert im Mini KEG bereits nach 2 Wochen so lecker, dass dieses das probieren nicht \u00fcberlebt hat.\r\nNach weiteren 2 Wochen allerdings f\u00fcr mein Empfinden noch ein wenig ausbalancierter.\r\n\r\nDa ein Zoigl klassisch sehr gering karbonisiert ist, ich aber eigentlich der Typ 5,5g\/l bin, habe ich mich f\u00fcr einen \"Mittelweg\" entschieden und auf 4,5g\/l (Zwangs)-karbonisiert.\r\n\r\nGebraut wurde in einem Einkocher mit eingebauter L\u00e4uterhexe.\r\n\r\n-\r\nWasser: Bayreuther Leitungswasser (unaufbereitet), mit 5-6\u00b0 dH Gesamth\u00e4rte; Restalkalit\u00e4t:\r\n1.1 mmol\/l (=3.2\u00b0dH)."
+}

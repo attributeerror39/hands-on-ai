@@ -1,0 +1,64 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "ThaIPA TBO009",
+    "Datum": "18.03.2020",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "still04",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.8,
+    "Bittere": 33,
+    "Farbe": 6,
+    "Alkohol": 6.3,
+    "Kurzbeschreibung": "Super erfrischendes IPA mit typischen Thai-Aromen!",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4.76,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 480,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Dinkelflocken",
+            "Menge": 480,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.285714285714286,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 15.238095238095237,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 14,
+            "Alpha": 19.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 14,
+            "Alpha": 19.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "BRY-97",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 4.8,
+    "Anmerkung_Autor": "F\u00fcr die typischen Thaiaromen habe ich ein Wodkaextrakt (300 mL Wodka) aufgesetzt. Im Extrakt enthalten waren 3 St\u00e4ngel Zitronengras, 2 daumengro\u00dfe St\u00fccke Galgant, 3 Thai Chilis, 20 Limettenbl\u00e4tter und ein Bund Koriander.\r\n\r\nF\u00fcr meinen Geschmack war eine 1%ige Dosierung des Extraktes zum fertig vergorenen Bier optimal. Die typischen Zitrusaromen, sowie der Koriander kamen gut zur Geltung, und durch die leichte Sch\u00e4rfe von Galgant und Chili im Abgang konnte man kaum aufh\u00f6ren zu trinken. \r\n\r\nEinfach super lecker!"
+}

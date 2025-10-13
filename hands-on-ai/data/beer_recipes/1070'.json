@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "SingleHop Weizen Mandarina Bavaria",
+    "Datum": "24.03.2019",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Schlaubier",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 20,
+    "Farbe": 12,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Mein erstes Singlehop Weizen und ich muss sagen, es war mega lecker. Angenehme Bittere und ein volles Mandarin-Geschmackserlebnis :-)\r\nNach 2 Wochen Lagerung im K\u00fchlschrank nach der Nachg\u00e4rung  hatte das Bier einen Goldgelbe Farbe und einen wunderbaren feinporigen Schaum. \r\nEin feiner Hefegeschmack darf nat\u00fcrlich nicht fehlen. Dank der Mangrove Jacks M20 Bavarian Wheat war dieses auch sehr ausgepr\u00e4gt.\r\n\r\n#dergaertnerbraut ",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 3.17,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 1.07,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.07,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 26,
+    "Einmaischtemperatur": 31,
+    "Rasten": [
+        {
+            "Temperatur": 30,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 45,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 6.666666666666666,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 18,
+            "Alpha": 8,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 34,
+            "Alpha": 8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Mangrove Jack M20 Bavarian Wheat",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5
+}

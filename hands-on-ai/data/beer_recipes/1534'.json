@@ -1,0 +1,106 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Waldmeister Biere de Saison",
+    "Datum": "18.07.2021",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "schwarzwaldbrauer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 23,
+    "Farbe": 8,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Biere de Saison mit Waldmeister verfeinert. Wenn der Brauer G\u00e4ste hat, kann er das wunderbar in Sektgl\u00e4ser gef\u00fcllt als Aperitiv kredenzen.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Malz",
+            "Menge": 650,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 650,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Herkules",
+            "Menge": 4,
+            "Alpha": 16.9,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 46,
+            "Alpha": 4.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 4,
+            "Alpha": 4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 3,
+            "Alpha": 4,
+            "Zeit": 1,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Waldmeister",
+            "Menge": 50,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Waldmeister",
+            "Menge": 25,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "SafAle BE 256",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Die erste Waldmeister-Gabe erfolgte bei flame out und wurde nach Abk\u00fchlung auf 80\u00b0C wieder entnommen.\r\nDie Abk\u00fchlung auf Anstelltemperatur erfolgte durch einen Gegenstromk\u00fchler an dessen Auslauf im Monofilamentfilter die zweite Waldmeister-Gabe vorgelegt war. "
+}

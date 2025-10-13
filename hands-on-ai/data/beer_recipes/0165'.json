@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Trappist 2009",
+    "Datum": "01.01.2012",
+    "Sorte": "Belgisches Tripel",
+    "Autor": "Boludo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 19,
+    "Bittere": 33,
+    "Farbe": 25,
+    "Alkohol": 9.5,
+    "Kurzbeschreibung": "Mein erster Versuch eines Abteibieres",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenflocken",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Special B",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.5,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 70
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 45
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.5,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 13,
+            "Alpha": 4.8,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 20,
+            "Alpha": 10,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 15,
+            "Alpha": 4.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Dunkler Kandiszucker",
+            "Menge": 250,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Wyeast #3787  Trappist High Gravity",
+    "Gaertemperatur": "24",
+    "Anmerkung_Autor": "Mit Traubenzucker auf 6,5g CO2\/Liter aufspeisen.\r\nSollte die G\u00e4rung am Ende einschlafen kann man 1 P\u00e4ckchen S-33 auf die W\u00fcrze streuen.\r\nSchmeckt die ersten Monate sehr bitter, dann mehrere Monate sehr sprittig und entwickelt nach 2 Jahren einen irren Honiggeruch, fantastische Trockenfr\u00fcchte- Sherry- und Apfelaromen und wird wunderbar ausgewogen. Unbedingt lagern (mindestens 1 Jahr), es lohnt sich!\r\nDie Hefe kann man auch aus einer Westmalle Triple Flasche strippen.\r\nMit belgischem Fl\u00fcssigkandis sicherlich noch steigerbar!"
+}

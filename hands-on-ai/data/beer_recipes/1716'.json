@@ -1,0 +1,63 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Helles",
+    "Datum": "14.09.2022",
+    "Sorte": "Helles",
+    "Autor": "Timber91",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.5,
+    "Bittere": 17,
+    "Farbe": 7,
+    "Alkohol": 4.9,
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 3.36,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 360,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.5,
+    "Einmaischtemperatur": 53,
+    "Rasten": [
+        {
+            "Temperatur": 53,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 11.399999999999999,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition ",
+            "Menge": 18,
+            "Alpha": 5.7,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 11,
+            "Alpha": 4.2,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale US-05",
+    "Gaertemperatur": "18-20"
+}

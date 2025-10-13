@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Urhell",
+    "Datum": "31.03.2011",
+    "Sorte": "Pale Ale",
+    "Autor": "tauroplu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 30,
+    "Farbe": 13,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Sch\u00f6n herb und vollmundig und mit feiner Hopfennote",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carahell\u00ae",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.4,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 32,
+            "Alpha": 3.7,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 16,
+            "Alpha": 3.7,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 30,
+            "Alpha": 3.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 5.3,
+    "Anmerkung_Autor": "Trotz des rel. hohen Caraanteils wunderbar herb und gar nicht so malzig wie es scheint.\r\nDie IBU Werte wurden mit Earls Hopfenrechner f\u00fcr Profis ermittelt. Ich verwende Pelltes. - Nachisomerisierungszeit: 15 Min. -"
+}

@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Franz Josef",
+    "Datum": "14.09.2024",
+    "Sorte": "Altbier",
+    "Autor": "Ludgerus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.7,
+    "Bittere": 45,
+    "Farbe": 25,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Klassisches Altbier, eher malzbetont. Gut gehopft, aber nicht so heftig wie einige D&uuml;sseldorfer Kandidaten.\r\nL&auml;sst sich sehr gut trinken.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.53,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchener Malz II",
+            "Menge": 740,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 740,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caramunich III",
+            "Menge": 580,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.736842105263158,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 12.105263157894736,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 17,
+            "Alpha": 17.2,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 23,
+            "Alpha": 9.7,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Gozdawa OGA 9",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 69,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Leider ist mir die Hefe (mal wieder) kurz vor den 70% abgeschmiert. Daher war dieses Alt noch sehr vollmundig. Ich habe es auch schon einmal mit der S-04 gebraut, da war der sEVG h&ouml;her und das Bier auch trockener und etwas hopfenbetonter.\r\nBeide Versionen haben etwas, sie sind unterschiedlich, aber keine ist schlechter."
+}

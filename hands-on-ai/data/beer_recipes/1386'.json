@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Wiess",
+    "Datum": "26.11.2020",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "tauroplu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.3,
+    "Bittere": 30,
+    "Farbe": 8,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Mild-fruchtiges Bier nach K\u00f6lscher Art, dass durch die verwendete Hefe die typischen K\u00f6lscharomen gut zur Geltung bringt.",
+    "Malze": [
+        {
+            "Name": "Bio Pilsner",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Bio Wiener",
+            "Menge": 1.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Bio Weizen, hell",
+            "Menge": 670,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.333333333333332,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        }
+    ],
+    "Abmaischtemperatur": 73,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 23,
+            "Alpha": 5.7,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 7,
+            "Alpha": 9.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 16,
+            "Alpha": 3.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Colonia F (Malzwerkstatt)",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5.2,
+    "Anmerkung_Autor": "Die Nachisomerisierungszeit betrug 20 Minuten."
+}

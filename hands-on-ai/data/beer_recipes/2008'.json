@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Borms Erdbeerweizen",
+    "Datum": "10.07.2024",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "bormolino",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 12,
+    "Farbe": 26,
+    "Alkohol": 6.4,
+    "Kurzbeschreibung": "Ein s&uuml;ffiges Weizen gestopft mit Erdbeeren aus dem heimischen Garten.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.57,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2.86,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 710,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenflocken",
+            "Menge": 290,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 32.857142857142854,
+    "Einmaischtemperatur": 40,
+    "Rasten": [
+        {
+            "Temperatur": 44,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 50,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 65,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 1.4285714285714284,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 36,
+            "Alpha": 2.8,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "gefrorene Erdbeeren",
+            "Menge": 1286,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Wyeast #3068 Weihenstephan",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "Ich nutze Harzer Wasser ohne Anpassung. BIAB-Verfahren mit einem Liter Nachguss um den Rest W&uuml;rze aus dem Treber zu sp&uuml;len.\r\n\r\nHier habe ich eine offene Verg&auml;rung durchgef&uuml;hrt. Auf dem Kr&auml;usen werden an Tag zwei Harze und andere Stoffe hochgeschwemmt, die man nicht im Bier m&ouml;chte (Stichwort Bitterkeit). Diese habe ich vorsichtig entfernt, sodass der Kr&auml;usen intakt bleibt.\r\n\r\nNach der Hauptg&auml;rung habe ich nochmal in einen frischen G&auml;rtank geschlaucht.\r\n\r\nDann habe ich die gefrorenen Erdbeeren hinzugef&uuml;gt. Manchmal wird dann eine erneute G&auml;rung angesto&szlig;en. Dann etwas abwarten, bis der restliche Zucker aus den Erdbeeren verarbeitet wurde. Danach habe ich einen Cold Crash durchgef&uuml;hrt.\r\n\r\nDanach in Flaschen abgef&uuml;llt. Diese habe ich 3 Wochen reifen lassen. Dann nochmal zwei Wochen kalt im K&uuml;hlschrank, dann war das Bier perfekt.\r\n\r\n"
+}

@@ -1,0 +1,95 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Citra Weizen",
+    "Datum": "21.01.2013",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Horstibus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 23,
+    "Farbe": 10,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "S\u00fcffiges, leckeres, leicht w\u00fcrziges Weizen mit ordentlichen Citra-Aromen und einem kleinen Kick Rauch.\r\nUnbedingt stopfen!!!!!!",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.64,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 1.18,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 640,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 91,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 0,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 12,
+            "Alpha": 6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 9,
+            "Alpha": 11,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 9,
+            "Alpha": 11,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 9,
+            "Alpha": 6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 55
+        }
+    ],
+    "Hefe": "Danstar Munich",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "Vom Rauchmalz habe ich aus Versehen rund 200g ungeschrotet reingehauen.\r\nDie ungestopfte Version war mir f\u00fcr ein Weizen anfangs zu herb.\r\nMan k\u00f6nnte mit einer anderen Weizenhefe brauen.\r\nDie gestopfte Version ist jedoch wirklich hammergeil, eines meiner besten Biere.\r\nDie Stopfung macht das Bier milder, runder und nat\u00fcrlich aromatischer.\r\nDas Rauchmalz schmeckt man leicht raus, gibt dem ganzen einen gewissen Kick, man kann es jedoch auch getrost weglassen."
+}

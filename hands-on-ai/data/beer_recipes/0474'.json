@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Cascade Amber Ale",
+    "Datum": "03.06.2015",
+    "Sorte": "Pale Ale",
+    "Autor": "Alt-Phex",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 36,
+    "Farbe": 23,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "S\u00fcffiges Ale mit Mais und Cascade",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 4.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Polenta \/ Maisgrie\u00df",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 100,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stmalz",
+            "Menge": 25,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 7,
+            "Alpha": 7,
+            "Zeit": 75,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 30,
+            "Alpha": 8.5,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 7,
+            "Alpha": 7,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5
+}

@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Tap F\u00fcnferle",
+    "Datum": "01.01.2012",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Boludo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 25,
+    "Farbe": 12,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Eine Schmalspurversion der Schneider Hopfen Weisse Tap5",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.64,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 360,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.454545454545455,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 43,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 53,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.909090909090908,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saphir Dolden",
+            "Menge": 18,
+            "Alpha": 4.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 11,
+            "Alpha": 10,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir Dolden",
+            "Menge": 9,
+            "Alpha": 4.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Saphir Dolden",
+            "Menge": 82
+        }
+    ],
+    "Hefe": "Schneider Hefestarter",
+    "Gaertemperatur": "22",
+    "Anmerkung_Autor": "Restalkalit\u00e4t 0\u00b0 mit Kalkmilch und Milchs\u00e4ure eingestellt.\r\nAuf 6g CO2\/Liter aufspeisen.\r\nMuss eventuell mit abgekochten Wasser auf 12,5\u00b0P verd\u00fcnnt werden (ich habe erst nach Abklingen der Hauptg\u00e4rung verd\u00fcnnt um mehr Platz f\u00fcr die gewaltigen Kr\u00e4usen im Fa\u00df zuhaben). Hefe l\u00e4sst sich sehr einfach aus 4 Flaschen Schneider Original Bodens\u00e4tzen strippen.\r\nDie Saphir Dolden beim Stopfen schwimmen an der Oberfl\u00e4che und m\u00fcssen im Hopfens\u00e4ckchen mit Gewicht versenkt werden, besser Pellets einsetzen!"
+}

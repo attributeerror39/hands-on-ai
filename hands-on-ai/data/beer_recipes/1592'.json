@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mandarina Bavaria BM50+ LOB",
+    "Datum": "09.12.2021",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Bamber",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.3,
+    "Bittere": 13,
+    "Farbe": 8,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Aufbauend auf dem schon existierenden Mandarina hier bei MMUM. Zitrus\/Mandarina kommt sch\u00f6n durch aber \u00fcberlagert nicht, das eher spritzig karbonisiert ergibt ein sehr frisches Wei\u00dfbier. Andere Hefe (Lallemand Munich Wheat) eher k\u00fchl vergoren ist der gr\u00f6\u00dfte Unterschied, gebraut im BM50+ mit LOB, Rezept berechnet aus Brewfather. ",
+    "Malze": [
+        {
+            "Name": "Weizenmalz ",
+            "Menge": 2.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 1.28,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 1.28,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 24,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 4,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum ",
+            "Menge": 4,
+            "Alpha": 12,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina",
+            "Menge": 14,
+            "Alpha": 8.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina",
+            "Menge": 19,
+            "Alpha": 8.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Lallemand Munich Wheat",
+    "Gaertemperatur": "17-19",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Wasser wurde nicht behandelt, ist durchaus \u201ehart\u201c, hat nicht geschadet "
+}

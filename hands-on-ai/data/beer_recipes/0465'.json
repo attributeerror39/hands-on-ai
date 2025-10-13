@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Yperns wei\u00dfe Blume",
+    "Datum": "07.05.2015",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "jemo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 19,
+    "Farbe": 5,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Leckeres Witbier, ein erfrischender Durstl\u00f6scher f\u00fcr den Sommer.",
+    "Malze": [
+        {
+            "Name": "Weichweizengrie\u00df",
+            "Menge": 1.79,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.61,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken, kernig",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 21,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.142857142857142,
+    "Einmaischtemperatur": 51,
+    "Rasten": [
+        {
+            "Temperatur": 51,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.142857142857142,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 18,
+            "Alpha": 7.7,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Pomeranzen (Bitterorangen) schalen",
+            "Menge": 18,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Koriander",
+            "Menge": 11,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Wyeast 3463 Forbidden Fruit",
+    "Gaertemperatur": "19",
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Den Weichweizengrie\u00df und die kernigen Haferflocken gibt es im Aldi. Der Koriander wird zersto\u00dfen, am besten in einem M\u00f6rser oder in einem T\u00fctchen mit einem Hammer. Das Bier ist relativ schnell trinkreif, zwei Wochen Lagerung reichen v\u00f6llig.\r\nZur Kochzeit f\u00fcr die Gew\u00fcrze kommt noch die Dauer des Hopfenseihens, insgesamt sind das dann sicher gute zehn Minuten."
+}

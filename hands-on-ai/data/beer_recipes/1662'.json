@@ -1,0 +1,68 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Brennerstra\u00dfe Smoked Mild",
+    "Datum": "15.04.2022",
+    "Sorte": "Mild Ale",
+    "Autor": "BigMoz",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 10,
+    "Bittere": 25,
+    "Farbe": 74,
+    "Alkohol": 3.9,
+    "Kurzbeschreibung": "Leichtes aber geschmackvolles englisches Ale mit Twist. Nachgebrautes Rezept aus dem Brau!Magazin Schwerpunkt Rauchbiere",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 2.35,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 1.18,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram\u00fcnch Typ II",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial II",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 26.82352941176471,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Glacier",
+            "Menge": 23,
+            "Alpha": 6.7,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 18,
+            "Alpha": 5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis S-04",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 69,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Quelle: https:\/\/braumagazin.de\/article\/rauchbier\/ Originalrezept aber eine Ray Daniels + Weyermann Zusammenarbeit.\r\n\r\nVollmundiges Englisches Bier, leichte Toffee Noten, unterst\u00fctzende Hopfung, sch\u00f6n s\u00fcffig. R\u00f6st und Rauch passen wunderbar zusammen, man fragt sich ob man beim Guinness nicht eigentlich schon immer Rauch rausgeschmeckt hat. Das einzige Manko war der mangelhafte Schaum.\r\nIch hab das Rezept leicht angepasst um gerade Mengen zu bekommen. Dadurch steigt der Rauchmalzanteil ein bisschen. Am Anfang war der Geschmack sehr pr\u00e4sent. Nach 2 Monaten ist das Rauchige aber gut eingebunden und wenn man es nicht w\u00fcsste, dann k\u00f6nnte man es wahrscheinlich nicht zuordnen (ist mehreren Personen passiert). Hopfensorten im Originalrezept (Willamette\/Liberty) sind nur Beispielsorten. Glacier hatte ich noch auf Lager und EKG ist einfach klassisch.\r\n\r\nWasserwerte: Kalzium 79ppm, Magnesium 22ppm, Natrium 58ppm, Sulfat 171ppm, Chlorid 66ppm, Bicarbonat 160ppm\r\nNur Vorderw\u00fcrzebier deshalb kein Nachguss\r\nNachisomerisierung 2 Minuten"
+}

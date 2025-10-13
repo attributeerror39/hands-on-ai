@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Niester Riese - Karamell Eiche",
+    "Datum": "28.04.2024",
+    "Sorte": "Belgisches Blonde Ale",
+    "Autor": "Tante Tilly",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.3,
+    "Bittere": 24,
+    "Farbe": 19,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Im Erscheinungsbild umh&uuml;llt sich dieses orange-braun farbige Ale mit einer stabilen Schaumkrone. \r\n\r\nBei der Geschmacksentwicklung ist eine leichte S&uuml;&szlig;e und moderate Bitterkeit zu erkennen. Der Geruch wird von einem fruchtig w&uuml;rzigen Karmell Aroma begleitet. Au&szlig;erdem kann ein Hauch von Apfel, Birne oder Muskat wahrgenommen werden.\r\n\r\nDer Gesamteindruck ist ein trockenes Ale, dass durch die sanfte Hefenote an ein belgisches Blonde Ale erinnert.\r\n\r\nEinfach zu brauen. Es sollte deswegen f&uuml;r Anf&auml;nger geeignet sein.",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2.77,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.36,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "IREKS Karamell Eiche",
+            "Menge": 390,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 45
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.304347826086955,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 22,
+            "Alpha": 7.3,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 4,
+            "Alpha": 12.4,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 17,
+            "Alpha": 4.6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "LalBrew Nottingham&trade;",
+    "Gaertemperatur": "14,5",
+    "Endvergaerungsgrad": 77.7,
+    "Karbonisierung": 5
+}

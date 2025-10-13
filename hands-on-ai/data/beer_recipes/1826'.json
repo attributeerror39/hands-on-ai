@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Therwiler 99er Helles",
+    "Datum": "14.07.2023",
+    "Sorte": "Pale Ale",
+    "Autor": "Bergbock",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 22,
+    "Farbe": 8,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Leichtes, erfrischendes Sommerbier als Alternative zu einem klassischen \"M\u00fcnchner Hell\", wenn die M\u00f6glichkeiten zum Kaltverg\u00e4ren nicht gegeben sind. Die Kveik Lutra sorgt zumindest f\u00fcr einen Lager-\u00e4hnlichen Geschmack.",
+    "Malze": [
+        {
+            "Name": "Pilsnermalz",
+            "Menge": 1.78,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wienermalz",
+            "Menge": 1.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Maisgriess",
+            "Menge": 890,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.222222222222223,
+    "Einmaischtemperatur": 53,
+    "Rasten": [
+        {
+            "Temperatur": 53,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 80,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 80,
+    "Nachguss": 11.11111111111111,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 9,
+            "Alpha": 8,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Ariana",
+            "Menge": 8,
+            "Alpha": 11.1,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 4,
+            "Alpha": 3.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "OYL-071 Kveik Lutra",
+    "Gaertemperatur": "25-30",
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Zur Verarbeitung des Maisgriesses wurden 5 ml Ceremix Flex zum Hauptguss gegeben und dann auf 53 \u00b0C erhitzt. Dieses Enzym sorgt f\u00fcr eine Verzuckerung des Mais OHNE Vorkochen. Die Rast bei 80\u00b0C wird vom Enzymhersteller empfohlen und erh\u00f6ht die Ausbeute.\r\nAlternativ kann der Maisgriess nat\u00fcrlich ganz klassisch vorverkleistert werden.\r\nDie 80\u00b0C Rast w\u00fcrde dann auch entfallen."
+}

@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Americano Stout",
+    "Datum": "01.10.2016",
+    "Sorte": "Stout",
+    "Autor": "Luke",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 48,
+    "Farbe": 140,
+    "Alkohol": 6.4,
+    "Kurzbeschreibung": "R\u00f6stnoten von Schoko und Kaffee, dazu US-Hopfennoten *by braumischung.de",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.27,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Amber Malt",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Black Malt",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa\u00ae II",
+            "Menge": 120,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.363636363636363,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.09090909090909,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook",
+            "Menge": 18,
+            "Alpha": 10.8,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 18,
+            "Alpha": 8.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 27,
+            "Alpha": 8.8,
+            "Zeit": 1,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Craft Series M44 US West Coast",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "American Stout, hoch vergoren und trocken, mit ausgepr\u00e4gter R\u00f6staromatik und typisch amerikanischen Hopfen-Noten. \r\nDer Hauptguss kann direkt auf 71-73 \u00b0C vorgew\u00e4rmt werden. Dann einmaischen, und die Kombirast bei 66 \u00b0C halten.\r\nDie Hopfenaromen sind so ganz ausgewogen. Es kann aber auch variiert werden. z.B. etwas Chinook zum Kochende gegeben werden.\r\nEine Karbonisierung mit 5g CO2\/L passt sehr gut zu diesem starken, facettenreichen Stout. Reifen sollte es schon 5-6 Wochen.\r\n\r\nAngepasst am 09.11.16 f\u00fcr noch komplexeres Kaffeearoma: Der Anteil an Black Malt wurde von ca. 8 % auf 5 % gesenkt. Dazu kommt stattdessen 3% Carafa II. "
+}

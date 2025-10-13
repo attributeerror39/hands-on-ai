@@ -1,0 +1,104 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Zweitausend31",
+    "Datum": "06.04.2015",
+    "Sorte": "Barley Wine",
+    "Autor": "muldengold",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 22.6,
+    "Bittere": 45,
+    "Farbe": 50,
+    "Alkohol": 10.1,
+    "Kurzbeschreibung": "Kr\u00e4ftiger Barley Wine voller Rosinen und anderen Trockenfr\u00fcchten.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 1.85,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram\u00fcnch II",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carabelge",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cornflakes",
+            "Menge": 230,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.25,
+    "Einmaischtemperatur": 62,
+    "Rasten": [
+        {
+            "Temperatur": 59,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 65,
+            "Zeit": 65
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 11.25,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 5,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 40,
+            "Alpha": 4.06,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Mittelfr\u00fch",
+            "Menge": 71,
+            "Alpha": 4.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings ",
+            "Menge": 30,
+            "Alpha": 4.06,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Hefenahrung (Wyeast)",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "WLP002 (English Ale)",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Das Zweitausend31 habe ich vor rund 2 Jahren zur Geburt unseres J\u00fcngsten gebraut - einige Flaschen davon sollen bis zu seinem 18. Geburtstag (2031) die Zeit und meine pers\u00f6nliche Schw\u00e4che f\u00fcr dieses Bier \u00fcberdauern (ich darf mir nur noch alle 3 Jahre eine Flasche g\u00f6nnen, damit zum 18. noch 5 Flaschen \u00fcbrig sind!). Nach 5-6 Monaten sehr gut trinkbar, ver\u00e4ndert sich aber danach weiterhin nachhaltig zum Besseren. Die Hopfenbittere wird deutlich milder und das komplexe Aroma aus Malz und Trockenfr\u00fcchten ist ein wahrer Angriff auf die Geschmacksnerven. \r\n\r\nCornflakes aus 100% Mais aus dem Bioladen in die Maische zu Beginn reinbr\u00f6seln oder einfach mitschroten. \r\n\r\nEin ordentlicher Starter, z.B. 2-3 Liter mit 9\u00b0P auf einem Magnetr\u00fcher, ist zwingend, um genug vitale Hefe f\u00fcr dieses Monster zu haben! Starterhefe am Ende absetzen lassen und \u00dcberstand so gut es geht dekantieren. Wem das alles zu aufw\u00e4ndig ist oder sich unsicher f\u00fchlt k\u00f6nnte auch eine Trockenhefe, z.B. die gut attenuierende Nottingham, verwenden (mindestens 3 P\u00e4ckchen um eine gute Anstellmenge sicher zu stellen - vorher gut rehydrieren). Zeit und eine saubere G\u00e4rung sind zentraler Bestandteil f\u00fcr ein gutes Gelingen! \r\n\r\nNach rund zwei Wochen in der Hauptg\u00e4rung f\u00fcr weitere drei Wochen in die Nachg\u00e4rung\/Kl\u00e4rung. Mit Traubenzucker aufspeisen. Die Karbonisierung kann lange Zeit in Anspruch nehmen, ggf. mehrere Monate. \r\n\r\nBei geplanter Langzeitlagerung w\u00fcrde ich euch nahelegen zu versuchen so wenig wie m\u00f6glich Hefe in die Flaschen zu ziehen, die Flaschen nahezu randvoll zu f\u00fcllen, ggf. zus\u00e4tzlich mit Wachs zu verschlie\u00dfen und die Flaschen dunkel und konstant kalt (K\u00fchlschrank) zu lagern. "
+}

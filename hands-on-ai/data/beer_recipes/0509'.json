@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Copperbottom",
+    "Datum": "28.08.2015",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "grindoctor",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.8,
+    "Bittere": 12,
+    "Farbe": 17,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Kupferfarbenes kr\u00e4ftiges Weissbier, frisch und doch vollmundig-malzig im Geschmack.Stilrichtig mild gehopft, doch mit leichter Citrusnote.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz, hell",
+            "Menge": 3.18,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 2.27,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 450,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.363636363636363,
+    "Einmaischtemperatur": 61,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.09090909090909,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 11,
+            "Alpha": 6.7,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mittelfrueh",
+            "Menge": 9,
+            "Alpha": 4.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 5,
+            "Alpha": 15,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis WB-06",
+    "Gaertemperatur": "17-19",
+    "Karbonisierung": 11,
+    "Anmerkung_Autor": "Zum Abschluss der Proteinrast bei 55\u00b0C wurden 6 Liter kochendes Wasser hinzugegeben um die n\u00e4chste Rast bei 68\u00b0C zu erreichen. Falls man Temperaturen durch Kochplatte erreicht, sollte man den Hauptguss mit 24 Liter beginnen um auf das erw\u00fcnschte Schlussvolumen zu kommen.\r\nDas L\u00e6utern ging zu schnell (war da noch recht unerfahren), was die schlechte Ausbeute erkl\u00e6rt. \r\nPS: Mit der Karbonierung ist im Rezept oben Zucker per Liter gemeint!"
+}

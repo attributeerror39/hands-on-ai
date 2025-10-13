@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Single Hop Madness",
+    "Datum": "31.12.2018",
+    "Sorte": "Pale Ale",
+    "Autor": "NorthernBrewer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 37,
+    "Farbe": 11,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "Klassisches Pale Ale. Der Grund f\u00fcr die Ver\u00f6ffentlichung - die Sch\u00fcttung ist einfach richtig gut und eignet sich perfekt um verschiedene Hopfen kennen zu lernen! Das Rezept hier ist mit Citra, ich habe es aber auch als Single Hop mit diversen anderen Hopfen gebraut und das Ergebnis war immer super.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 1.03,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Hell",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Pils",
+            "Menge": 360,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.130434782608695,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8.695652173913043,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 12,
+            "Alpha": 13.2,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 8,
+            "Alpha": 13.2,
+            "Zeit": 25,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 15,
+            "Alpha": 13.2,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 51
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Inspiriert durch die SHIPA Serie von Kehrwieder wollte ich meine eigene Pale Ale Serie brauen, um die einzelnen Hopfen besser kennen zu lernen. Dieses Rezept eignet sich perfekt daf\u00fcr, die Biere sind ohne Ausnahme richtig gut geworden. \r\n\r\nEin paar Details:\r\n- Nachisomerisierung 5min\r\n- Karbonisierung mit Haushaltszucker in Flaschen.\r\n- Hopfenstopfen nach Ende der Hauptg\u00e4rung f\u00fcr drei Tage.\r\n- Die Verg\u00e4rung mache ich m\u00f6glichst kalt. Anstellen\/Ang\u00e4ren bei 16\u00b0C, dann auf max. 18\u00b0C kommen lassen.\r\n- Die Reifedauer h\u00e4ngt von der Hefe ab. Bei Trockenhefe erster F\u00fchrung braucht es schon vier bis sechs Wochen bis es richtig gut ist. Bei Erntehefe war es schon nach wenigen Tagen Kaltreifung lecker, aber auch hier tut die Reifezeit von einigen Wochen dem Bier gut.\r\n- Bei anderem Hopfen mit abweichender Alphas\u00e4ure habe ich die 25min\/5min\/Stopfen Gaben konstant gehalten und lediglich die VWH Gabe entsprechend angepasst. Bei sehr niedriger Alphas\u00e4ure (z.B. Callista) kann auch ein Bitterhopfen f\u00fcr 70min Kochzeit hinzugezogen werden.\r\n\r\nZuletzt noch das Wasserprofil (mg\/l):\r\nCalcium 120\r\nMagnesium 7\r\nNatrium 20\r\nChlorid 33\r\nSulfat 150\r\nRestalkalit\u00e4t 0,9"
+}

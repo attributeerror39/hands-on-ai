@@ -1,0 +1,59 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Radlergold",
+    "Datum": "17.03.2025",
+    "Sorte": "Belgisches Blonde Ale",
+    "Autor": "G00srider",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.9,
+    "Bittere": 22,
+    "Farbe": 10,
+    "Alkohol": 6.9,
+    "Kurzbeschreibung": "Anf&auml;ngerfreundliches simples Rezept mit bombastischem Geschmack! \r\nAufgrund der hohen Stammw&uuml;rze (15.9) fast schon als Bockbier zu betiteln, &uuml;berzeugt dieses Helle durch ein tolles fruchtiges und nicht aufdringliches Hopfenaroma und ist trotz 6.9% Alkohol sehr ausgewogen und s&uuml;ffig.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz 3-5 EBC",
+            "Menge": 5.29,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caramalz &quot;Carapilz&quot; 3-5 EBC",
+            "Menge": 590,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 23.529411764705884,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 17.647058823529413,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascada",
+            "Menge": 20,
+            "Alpha": 7.2,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascada",
+            "Menge": 31,
+            "Alpha": 7.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Danstar Nottingham Ale",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 80.5,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Bier wurde als &quot; Geburtstagsbier&quot; f&uuml;r meinen Vater gebraut, geplant waren eigentlich 13&deg;P Stammw&uuml;rze, aber wir haben uns spontan dazu entschieden nicht auf den urspr&uuml;nglich geplanten Zielwert zu verd&uuml;nnen und das Ergebnis ist der Hammer. Geruch ist fruchtig und angenehm hopfig, Geschmack ist trotz der 6.9% sehr angenehm s&uuml;ffig, absolut gef&auml;hrlich. Abgef&uuml;llt wurde in Flaschen (Siehe Foto). Eine Flasche wurde zur Analyse ins Labor geschickt, f&uuml;r die Werte kann ich also garantieren. "
+}

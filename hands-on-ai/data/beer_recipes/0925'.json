@@ -1,0 +1,66 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Cellarius",
+    "Datum": "07.07.2018",
+    "Sorte": "Kellerbier",
+    "Autor": "ankue",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 34,
+    "Farbe": 25,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "S\u00fcffiges Hellbraun\/Kupfer farbiges Kellerbier",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 1.24,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 1.38,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 720,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen dunkel",
+            "Menge": 290,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.285714285714286,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.428571428571427,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 27,
+            "Alpha": 9,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Nottingham",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Angangs viel zu fruchtig f\u00fcr ein Kellerbier. Typisches Kellerbier Feeling kam erst nach 4+ Monaten Reifung auf"
+}

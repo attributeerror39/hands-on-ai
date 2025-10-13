@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Buddy IPA",
+    "Datum": "04.01.2015",
+    "Sorte": "India Pale Ale",
+    "Autor": "Mobilix",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.7,
+    "Bittere": 63,
+    "Farbe": 27,
+    "Alkohol": 7.3,
+    "Kurzbeschreibung": "Fruchtig frisches IPA mit Simcoe und Cascade",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "RedX",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.8,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.200000000000001,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 12,
+            "Alpha": 3.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 8,
+            "Alpha": 14.3,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 9,
+            "Alpha": 14.9,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 16,
+            "Alpha": 3.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 8,
+            "Alpha": 14.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 79.3,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Gebraut im April 2014, nach 2-3 Wochen schon super trinkbar, auch nach 10 Monaten noch immer lecker, der Hopfen baut ein klein wenig ab.\r\nAlle Berechnungen wurden anhand Earls Refrakto_SP 2.8 durchgef\u00fchrt.\r\nAuf dem Bild ist das Bier ca. 6 Wochen alt, wird mit zunehmender Lagerung klarer, da die Notti sehr gut sedimentiert.\r\nWer kein RedX zu Hause hat kann Ersatzweise M\u00fcnchner Malz und Melanoidin Malz verwenden."
+}

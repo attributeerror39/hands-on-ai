@@ -1,0 +1,86 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Fruitpunch IPA",
+    "Datum": "18.10.2014",
+    "Sorte": "India Pale Ale",
+    "Autor": "Rage",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.2,
+    "Bittere": 80,
+    "Farbe": 11,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "IPA mit tollen Fruchtaromen.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.48,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 1.49,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.333333333333336,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.11111111111111,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook",
+            "Menge": 15,
+            "Alpha": 12.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 15,
+            "Alpha": 12.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe ",
+            "Menge": 15,
+            "Alpha": 12.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 15,
+            "Alpha": 12.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 15,
+            "Alpha": 12.2,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe ",
+            "Menge": 15,
+            "Alpha": 12.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale US-05",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "H\u00e4tte eigentlich ein Punk IPA Klon werden sollen, da ich aber keinen Ahtanum Hopfen im Haus hatte, wurde es ohne gebraut. Geschmacklich kommt es aber trotzdem sehr nahe. "
+}

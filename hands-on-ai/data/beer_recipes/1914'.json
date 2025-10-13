@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Baumsch",
+    "Datum": "26.01.2024",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "Innuendo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 18,
+    "Farbe": 7,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Ein s&uuml;ffiges K&ouml;lsch mild gehopft mit passendem Malzaroma und einem Hauch Citrus. Das Baumsch ist der perfekte Grillwurst-Begleiter.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.44,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 420,
+            "Einheit": "g"
+        },
+        {
+            "Name": "WeizenHell",
+            "Menge": 340,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.4,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hall. Perle (20%)",
+            "Menge": 4,
+            "Alpha": 7,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger (40%)",
+            "Menge": 11,
+            "Alpha": 5,
+            "Zeit": 65,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger (40%)",
+            "Menge": 20,
+            "Alpha": 5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hall. Cascade (0%)",
+            "Menge": 20,
+            "Alpha": 6.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Wyeast 2565 K&ouml;lsch",
+    "Gaertemperatur": "12",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Die Bitterung mit dem Allrounder Hallertauer Perle und Tettnanger zu Kochbeginn ist mild. Den Hopfengeschmack und Geruch bildet die zweite Gabe. Die Nachisomerisierung betr&auml;gt 10 Minuten. Die letzte Hopfengabe Hall. Cascade bei 75&deg;C im Whirlpool. Ein Hauch von Citrus bei 0,5gr je Liter Ausschlagw&uuml;rze. Tettnanger und Wiener Malz geben dem K&ouml;lsch Geschmack und einen angenehmen Geruch. EBC 7 ist berechnet, es wird eher ein goldgelb. Die Wyeast 2565 bei 12-14&deg;C kalt verg&auml;ren lassen. Die Hefe braucht (sehr viel) Zeit zum Sedimentieren. Auch ein Fr&uuml;h(es) K&ouml;lsch und noch etwas hefetr&uuml;b ist sehr lecker. Je blanker das K&ouml;lsch wird, desto geringer wird der Cascade Geschmack."
+}

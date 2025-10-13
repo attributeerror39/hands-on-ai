@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hier kommt Alex",
+    "Datum": "14.03.2023",
+    "Sorte": "Altbier",
+    "Autor": "Vogge",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.9,
+    "Bittere": 31,
+    "Farbe": 42,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "2.Platz in der Kategorie Altbier beim BJCP Wettbewerb der HBCon 2023.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.15,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 2.62,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Malz",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial II",
+            "Menge": 62,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.384615384615385,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 13.076923076923077,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Herkules",
+            "Menge": 12,
+            "Alpha": 17.7,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 12,
+            "Alpha": 11,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "OGA9",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 4.7,
+    "Karbonisierung": 4.8,
+    "Anmerkung_Autor": "Karbonisiert mit Zucker ohne 4,5% Alkohol"
+}

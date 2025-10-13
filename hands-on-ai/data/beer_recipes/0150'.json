@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Black Stuff",
+    "Datum": "26.09.2011",
+    "Sorte": "Schwarzbier",
+    "Autor": "jamesdererste",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 21,
+    "Farbe": 66,
+    "Alkohol": 4.2,
+    "Kurzbeschreibung": "Mein erster Versuch mit Cararoma...",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 3.41,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 240,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cararoma",
+            "Menge": 390,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial II",
+            "Menge": 24,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 11.707317073170731,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 100,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15.609756097560975,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Herkules",
+            "Menge": 11,
+            "Alpha": 16,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 3,
+            "Alpha": 4.4,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Styrian Goldings",
+            "Menge": 3,
+            "Alpha": 3.2,
+            "Zeit": 1,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale S-04",
+    "Gaertemperatur": "22",
+    "Anmerkung_Autor": "Gemaischt nach dem Kochmaischverfahren von Earl Scheid, wobei ich Malz und Wasser 50:50 aufgeteilt habe."
+}

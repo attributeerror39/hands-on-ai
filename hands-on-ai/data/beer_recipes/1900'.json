@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Amber Amber PSTR",
+    "Datum": "24.12.2023",
+    "Sorte": "Amber Ale",
+    "Autor": "Pesche",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 22,
+    "Farbe": 26,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Satte Bernsteinfarbe mit solidem Schaum, moderat bitter,\r\nmalziger Nachtrunk, begleitet von dezenter R&ouml;stnote,\r\nleichtes Hopfenbouquet.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz, 3 EBC",
+            "Menge": 1.51,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wienermalz, 7 EBC",
+            "Menge": 1.86,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchnermalz 1, 15 EBC",
+            "Menge": 760,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraAromaMalz 350 EBC",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz, 5 EBC",
+            "Menge": 47,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 11.162790697674419,
+    "Einmaischtemperatur": 54,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 17.674418604651162,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 18,
+            "Alpha": 8.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 16,
+            "Alpha": 4.3,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 1007 German Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5
+}

@@ -1,0 +1,99 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Waldmeister-Weizen",
+    "Datum": "26.09.2020",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Bergbrauerbierbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 15,
+    "Farbe": 11,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Klassisches Hefeweizen welches mit 25% getrocknetem und ger\u00f6stetem KRAFTMA-Brot wesentlich mehr K\u00f6rper erh\u00e4lt.\r\nDer Waldmeister gibt ihm eine besondere Note.\r\n",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2.29,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 570,
+            "Einheit": "g"
+        },
+        {
+            "Name": "KRAFTMA-Brot",
+            "Menge": 570,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.857142857142858,
+    "Einmaischtemperatur": 48,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.714285714285715,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Vielfalt",
+            "Menge": 9,
+            "Alpha": 10,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 6,
+            "Alpha": 3.5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 6,
+            "Alpha": 3.9,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Waldmeister",
+            "Menge": 51,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "Hefe": "Lallemand Munich Classic White Beer Yeast",
+    "Gaertemperatur": "15",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "1)\tph-Wert Wasser  5,5\r\n2)\tdas Brot gew\u00fcrfelt und im Herd leicht anger\u00f6stet erst zur 2. Rast hinzugeben\r\n3)\t Der verwendete Hopfen ist eigener Erntehopfen aus der Hallertau. Daher die nicht markt\u00fcbliche Bezeichnung. Die % \uf061-S\u00e4ure Werte sind gesch\u00e4tzt aber realit\u00e4tsnah.\r\n4)\tDen Waldmeister einen Tag antrocknen, damit er sein Aroma entfalten kann. Dann ein Str\u00e4u\u00dfchen binden, und mit den St\u00e4ngeln nach oben f\u00fcr die 10 min Nachisomierung in den Sud h\u00e4ngen.\r\n5)\tNG nach den eingeplanten 19 L war die rechnerische Stammw\u00fcrze so hoch, dass ich noch weitere 5 L NG durchlaufen lie\u00df, und zumischte.\r\n"
+}

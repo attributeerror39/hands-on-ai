@@ -1,0 +1,68 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "tropical SMasH",
+    "Datum": "09.08.2021",
+    "Sorte": "Pale Ale",
+    "Autor": "Aeser_Nordmann",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 35,
+    "Farbe": 12,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Moderat bitteres Pale Ale mit tropischen Fruchtnoten. Gebraut als Gegenpol zu meinen bisherigen zitrus Pale Ales.",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 4.75,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.333333333333332,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.833333333333332,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 5,
+            "Alpha": 18.6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 7,
+            "Alpha": 18.6,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 12,
+            "Alpha": 18.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 40,
+            "Alpha": 18.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "LalBrew Voss Kveik",
+    "Gaertemperatur": "32",
+    "Endvergaerungsgrad": 82,
+    "Karbonisierung": 5.3,
+    "Anmerkung_Autor": "Nachg\u00fcsse sind gesch\u00e4tzt, ich gebe immer so viel, dass ich vor dem Kochen eine errechnete Stammw\u00fcrze erreiche, um nach dem Kochen die Zielstammw\u00fcrze zu treffen.\r\n\r\nIch heize zum Abmaischen nicht auf, sondern das Nachgusswasser wird lediglich auf 78\u00b0C erhitzt.\r\n\r\nNach dem Kochen wurde auf 80\u00b0C gek\u00fchlt, dann kam der Whirlpoolhopfen dazu, ich habe dann 15 min gewartet, bis ich weiter gek\u00fchlt habe.\r\n\r\nDie G\u00e4rung war eigentlich nach zwei Tagen schon durch.\r\nFr. angestellt, So. das erste Mal gemessen, Mi. nochmal den gleichen Wert wie So. gemessen, abgef\u00fcllt wurde dann am Do.\r\n\r\nTrotz relativ langer Lagerzeit bleibt das Bier sehr tr\u00fcb, das wurde aber im Hobbybrauerforum in Verbindung mit der Voss Kveik schon diskutiert."
+}

@@ -1,0 +1,69 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Single Hop Simcoe",
+    "Datum": "18.04.2017",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Einfachnutzer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 27,
+    "Farbe": 9,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Anf\u00e4ngerfreundliches einfach zu brauendes Sommerbier (\"Grillbier\") mit dem w\u00fcrzigen Charakter des Simcoe. Vergleichbar mit einem herben Pils \/ K\u00f6lsch \/ Alt.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.88,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 380,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.5,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 65
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.5,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 13,
+            "Alpha": 5.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 10,
+            "Alpha": 13.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 7,
+            "Alpha": 13.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "S-33",
+    "Gaertemperatur": "18",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Ein wirklich einfach zu brauendes Bier mit einem klaren Charakter. Es ist halt einfach ein gutes Trinkbier f\u00fcr den Sommer, vergleichbar mit einem eher herben (norddeutschen)Pils bzw. einem gut gehopfen K\u00f6lsch \/ Alt, dank des Simcoe aber mit einem deutlich (!!!) besseren Aromaprofil.\r\n\r\nIch habe auf das Stopfen verzichtet, wer mag kann es gerne tun, es sollte dem Bier nicht schaden. Als alternative Hefen m\u00fcssten auch andere neutral verg\u00e4rende funktionieren wie Nottingham, S-04 etc."
+}

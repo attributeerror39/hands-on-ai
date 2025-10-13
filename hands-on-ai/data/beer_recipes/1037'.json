@@ -1,0 +1,65 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "J\u00fcrgen\u00b4s Kellerbier",
+    "Datum": "18.02.2019",
+    "Sorte": "Kellerbier",
+    "Autor": "Storm-Brau",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 34,
+    "Farbe": 25,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Einfaches Rezept mit wenig Zutaten, Anf\u00e4ngertauglich.\r\nSpritziges, gut gehopftes, dunkles Bier. Super stabiler Schaum",
+    "Malze": [
+        {
+            "Name": "Wiener",
+            "Menge": 2.26,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 1.93,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.705882352941178,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8.235294117647058,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select ",
+            "Menge": 47,
+            "Alpha": 5.3,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 7,
+            "Alpha": 5.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "15-22",
+    "Anmerkung_Autor": "Karbonisierung mit Speise: ca. 10% vor Zugabe der Hefe abf\u00fcllen. Speise vor der Flaschenabf\u00fcllung in den G\u00e4rbeh\u00e4lter sch\u00fctten und leicht unterr\u00fchren. Flascheng\u00e4rung f\u00fcr ca. eine Woche. Nach 3-4 Wochen Lagerung, ein super leckeres Bier"
+}

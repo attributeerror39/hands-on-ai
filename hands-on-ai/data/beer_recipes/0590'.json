@@ -1,0 +1,109 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Dat Ches\u00f6ff",
+    "Datum": "12.05.2016",
+    "Sorte": "Belgisches Dubbel",
+    "Autor": "DrFedi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.7,
+    "Bittere": 35,
+    "Farbe": 21,
+    "Alkohol": 6.7,
+    "Kurzbeschreibung": "Blumig \u2013 w\u00fcrzig \u2013 hopfig \u2013 cremig \u2013 vollmundig. Ist es ein Saison? Ist es ein Dubbel? Tja...",
+    "Malze": [
+        {
+            "Name": "Pilsnermalz",
+            "Menge": 3.79,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 350,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carabelge",
+            "Menge": 210,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.736842105263158,
+    "Einmaischtemperatur": 44,
+    "Rasten": [
+        {
+            "Temperatur": 40,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.631578947368421,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 16,
+            "Alpha": 7.6,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Lubelski",
+            "Menge": 16,
+            "Alpha": 3.4,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Mittelfr\u00fch",
+            "Menge": 68,
+            "Alpha": 1.9,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Mittelfr\u00fch",
+            "Menge": 37,
+            "Alpha": 1.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Karamellsirup aus g. Zucker",
+            "Menge": 526,
+            "Einheit": "g",
+            "Kochzeit": 30
+        },
+        {
+            "Name": "Koriander",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Protafloc",
+            "Menge": " &frac12;",
+            "Einheit": "St\u00fcck",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "Fermentis T-58",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 4.6,
+    "Anmerkung_Autor": "Wie es zu diesem Bier kam: \r\nMir war kurz zuvor eine Flascheng\u00e4rung sanft entschlafen. Was tun, damit Hopfen und Malz nicht ganz verloren ist? Neue Hefe, neuer Zucker und rein in die Flaschen! Nebenbei bemerkt funktionierte das. Diese Operation hinterliess mir allerdings 9 Gramm Hefe, die ich dann eventuell f\u00fcr ein belgisches Blondes benutzen wollte; das auserw\u00e4hlte Rezept kam mir aber nach mehrmaligem durchdenken und -lesen eher spanisch als belgisch vor. Kurzerhand habe ich auf dieser Seite meine Hopfen eingegeben, und Maischemalzundmehr zeigte mir dann Belga Belga 6 an. Daf\u00fcr fehlten mir dann allerdings einige andere Zutaten, ich gebe aber zu, dass ich hier stark inspiriert wurde f\u00fcr das, was mein bislang bestes Bier ist, das sehr viele komplexe und ausgewogene Geschmackseindr\u00fccke hinterl\u00e4sst (Kaugummi, Ananas, Gr\u00fcner Veltliner...). Ich geniesse es. Man sollte allerdings eines erw\u00e4hnen (heutzutage...): es schmeckt nicht nach Citrone...\r\n\r\nAlso: Ausser Malz, Hefe, Hopfen und Wasser braucht man reinheitsgebotfremde Dinge wie Karamellsirup. Den macht man in einer grossen Pfanne, am Besten unter Vermeidung von Aussagen wie \u201dEy, was machst du da mit meiner Pfanne?\u201d Immer ruhig bleiben! Klebt zwar, geht mit Wasser aber ganz leicht wieder ab.  Rezept kann man googeln. \r\nMan braucht ausserdem ger\u00f6stete Haferflocken. Kann man selbst im Ofen machen (z.B. Bei 175 Grad bis sie so dunkelblond sind). Koriander ist auch drin, erscheint mir aber nicht unbedingt n\u00f6tig. Man k\u00f6nnte auch andere Gew\u00fcrze \u00fcberlegen. Einer der \"Probierer\" meinte, dass man ein paar Kamillenbluten f\u00fcr ein paar Minuten mitkochen k\u00f6nnte. Der Gedanke ist nicht abwegig.   \r\n\r\nLubelski Hopfen entspricht in etwa Saazer. \r\n\r\nBei mir ist das Wasser knallehart, Schaumstabilit\u00e4t ist bei mir daher immer ein Thema, ist f\u00fcr meine Verh\u00e4ltnisse aber recht gelungen (nein, ich behandele mein Wasser nicht, Ich braue einfach damit). \r\nMan sollte beim Lagern mehr Geduld haben als ich, ist aber schon nach zwei Wochen lecker. \r\n\r\nMan k\u00f6nnte das Rezept vermutlich auch unter belgischem Dubbel einstellen, aber bei Bier sind die Grenzen ja sowieso eher flie\u00dfend. "
+}

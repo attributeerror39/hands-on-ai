@@ -1,0 +1,112 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Flying Hop Kick",
+    "Datum": "25.12.2018",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "Hottepunz",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.1,
+    "Bittere": 50,
+    "Farbe": 11,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Spritziges mildes, dennoch leicht herbes, sehr hopfenbetontes NEIPA mit sch\u00f6nen Fruchtaromen.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.14,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.14,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 480,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 480,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 710,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.42857142857143,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15.238095238095237,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook",
+            "Menge": 26,
+            "Alpha": 11.1,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 14,
+            "Alpha": 13.9,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 14,
+            "Alpha": 12.1,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 5
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 5
+        },
+        {
+            "Sorte": "Yellow Sub\/ Amarillo",
+            "Menge": 5
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Simcoe",
+            "Menge": 100,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Mosaic",
+            "Menge": 76,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Yellow Sub\/ Amarillo",
+            "Menge": 95,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "S04 \/ London Ale III",
+    "Gaertemperatur": "20-25",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Ich habe das Wasser (Kerpen 38 Liter mit 30 Liter Osmosewasser) zum Einmaischen wie folgt behandelt (26,17 gr. Calcium Chlorid, 22,68 gr. Natron, 8,72 Braugips), um m\u00f6glichst nah an das Wasser in Boston zu kommen (New England etc.). M\u00fcsstet ihr dann auf euer Wasser anpassen. Ihr solltet auf jeden Fall darauf achten, dass die ihr f\u00fcr das Malzaroma eine vern\u00fcnftige Sulfat-Chlorid-Ratio habt (Bei mir war es 0,5). Dazu noch 10,9 ml 80% Milchs\u00e4ure. War ein ziemliches herumprobieren. Beim Stopfen habe ich w\u00e4hrend der Hauptg\u00e4rung nur sehr dezent gehopft, wie man erkennen kann nur je 10 Gramm je Gabe. Daf\u00fcr aber nach der Hauptg\u00e4rung Gas gegeben. Ich habe den Sud zu Anfangs aufgeteilt und dann die eine H\u00e4lfte mit der S04 und die andere mit der London Ale III angestellt. Mir hat die London Ale besser gefallen. Bei der S04 war der Geschmack etwas seifig (zumindest am Anfang). \u00dcber R\u00fcckmeldungen w\u00fcrde ich mich freuen."
+}

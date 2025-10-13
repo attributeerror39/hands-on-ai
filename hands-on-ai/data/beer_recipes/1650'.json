@@ -1,0 +1,94 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Red Hot Chili Porter",
+    "Datum": "22.03.2022",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "Kesselbrauer Stuttgart e.V.",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.6,
+    "Bittere": 29,
+    "Farbe": 85,
+    "Alkohol": 7.4,
+    "Kurzbeschreibung": "2.Platz beim Kesselbrauer Bierwettbewerb 2022 in der offenen Kategorie *Kesselbrauer Stuttgart e.V.*Rezept von Flo W.* Porter mit Himbeeren und Chipotle Chilis",
+    "Malze": [
+        {
+            "Name": "Maris Otter Pale Ale Malz",
+            "Menge": 3.81,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 710,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial II ",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Eichenrauchweizenmalz",
+            "Menge": 190,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 8.571428571428571,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Willamette",
+            "Menge": 33,
+            "Alpha": 5.4,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 33,
+            "Alpha": 5.4,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Chipotle Chilis",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Himbeeren",
+            "Menge": 3810,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Gozdawa Porter & Kvass",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 81,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Wasser: CA2+: 61ppm, Mg2+: 14ppm, Na+: 6ppm, Cl-: 13ppm, SO42-: 74ppm, HCO3-: 153ppm\r\n\r\nDie Stammw\u00fcrze oben ist ohne die Himbeeren. Diese brachten ca. 1\u00b0P dazu, Alkoholgehalt und EVG oben sind mit 16,6\u00b0P Stammw\u00fcrze berechnet.\r\n\r\nDie Chilis schroten oder zersto\u00dfen.\r\n\r\nDie Beeren nach bzw. am Ende der Hauptg\u00e4rung dazugeben und die erneute G\u00e4rung abwarten. Dann erst abf\u00fcllen. "
+}

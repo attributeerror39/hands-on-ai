@@ -1,0 +1,102 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Canadian Imperial Stout",
+    "Datum": "11.03.2025",
+    "Sorte": "Imperial Stout",
+    "Autor": "DerHopfengaertner",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 22,
+    "Bittere": 46,
+    "Farbe": 136,
+    "Alkohol": 7.8,
+    "Kurzbeschreibung": "Unser Beitrag zu den Bundesheimbrauspielen der HB-Con 2025. Mit Stickstoff\/ Nitro gezapft. Ein Zusammenspiel aus Frucht, S&uuml;&szlig;e und R&ouml;stnoten. Super cremiger Schaum.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 5.04,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchner Malz",
+            "Menge": 2.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken (50%) &amp; Gerstenflocken",
+            "Menge": 1.12,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Chocolate Malz",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Aroma (50%) &amp; Cara Dunkel (50%)",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 40,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R&ouml;stgerste",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 4,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Summit",
+            "Menge": 24,
+            "Alpha": 16.4,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggle",
+            "Menge": 20,
+            "Alpha": 4.4,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Ahornsirup",
+            "Menge": 400,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Cranberryp&uuml;ree",
+            "Menge": 800,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "22g Mangrove Jack M15 Empire Ale + 11g Mangrove Jack M42 New World Str",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 4.1,
+    "Anmerkung_Autor": "Gebraut wurde mit einem Speidel Braumeister 50 Plus. Das Malz wurde in einem Doppelmaischeverfahren gemaischt, da der Braumeister nicht das gesamte Malz auf einmal fassen kann. \r\nDa nicht genug Felder f&uuml;r das Malz zur Verf&uuml;gung stehen, habe ich die  Caramalze, sowie die Rohfrucht zusammengefasst. 50% bezieht sich dabei auf die dahinterstehende Gesamtmenge. Also bei 2KG, sind 50% dann entsprechend 1KG Caramalz Dunkel bzw. Aroma oder Gersten\/ Haferflocken.\r\n\r\nDas P&uuml;ree wurde nach ca. 14 Tagen dazu gegeben. Wir haben das P&uuml;ree von Pointher verwendet. \r\n\r\nDas Wasser haben wir nicht aufbereitet. Unser Stadtwasser hat folgende \r\nZusammensetzung: \r\n\r\nHCO3--Kon&not;zentration: 2.31 mmol\/l\r\nKalzium: 77mg\/l\r\nMagnesium: 5,9mg\/l\r\nSulfat: 88mg\/l\r\nChlorid: 46mg\/l\r\nNatrium: 27mg\/l \r\n\r\nVergoren wurde in einem Edelstahldrucktank. Das P&uuml;ree wurde &uuml;ber den Hopdropper sauerstoffarm hinzugegeben. Gespundet auf 1,5 Bar bei ca. 20 &deg;C. Dann min 2 Monate bei 2-5&deg;C reifen lassen. Das Bier wurde dann in NC-Kegs geschlaucht, die vorher mit Wasser leergedr&uuml;ckt wurden, um den Sauerstoff zu verdr&auml;ngen. Auf der HB-Con wurde dann mit 100% Stickstoff und 3 Bar sowie einem Stoutzapfhahn das Bier ausgeschenkt. "
+}

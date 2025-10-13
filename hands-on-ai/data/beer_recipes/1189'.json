@@ -1,0 +1,96 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mandarina IPA",
+    "Datum": "25.12.2019",
+    "Sorte": "India Pale Ale",
+    "Autor": "Hanzwurzt",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 42,
+    "Farbe": 20,
+    "Alkohol": 6.4,
+    "Kurzbeschreibung": "Wollte mich mal mit dem Mandarina Bavaria auseinandersetzen. Ist mein erstes Rezept, was ich hier poste. Ich hoffe, es kommt einigerma\u00dfen gut an.",
+    "Malze": [
+        {
+            "Name": "Pilsener ",
+            "Menge": 4.55,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 910,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 180,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22.72727272727273,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.09090909090909,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina ",
+            "Menge": 23,
+            "Alpha": 8.1,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 10,
+            "Alpha": 11,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina",
+            "Menge": 23,
+            "Alpha": 8.1,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mandarina",
+            "Menge": 45,
+            "Alpha": 8.1,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mandarina",
+            "Menge": 73
+        }
+    ],
+    "Hefe": "Mangrove Jacks Empire Ale Yeast M15",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 73,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Die zweite Hopfengabe beim Whirlpool ist bei knapp unter 80 Grad erfolgt. Also keine Bitterkeit, sondern nur eine Aromagabe f\u00fcr 15 Minuten.\r\n\r\nIn meiner Nachbarschaft kam es sehr gut an und wurde ruckzuck dezimiert."
+}

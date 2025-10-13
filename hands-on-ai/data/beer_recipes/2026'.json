@@ -1,0 +1,119 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "DC Oat White IPA",
+    "Datum": "19.09.2024",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "DerDallmann",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.5,
+    "Bittere": 45,
+    "Farbe": 8,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Urspr&uuml;nglich als Klonrezept des genialen Ratsherrn Matrosenschluck Weizen IPAs (mittlerweile Ratsherrn Oat White IPA) entstanden. Zigfach gebraut und weiter entwickelt. K&uuml;rzlich konnte ich damit den 3. Platz beim Hobbybrauer Wettbewerb der Maisel and Friends Brauerei erzielen.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz, hell",
+            "Menge": 2.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz, hell",
+            "Menge": 2.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Hafermalz",
+            "Menge": 1.15,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Eichenrauch Weizenmalz",
+            "Menge": 75,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 4,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Taurus",
+            "Menge": 14,
+            "Alpha": 15,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade, US",
+            "Menge": 15,
+            "Alpha": 6,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade, US",
+            "Menge": 15,
+            "Alpha": 6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade, US",
+            "Menge": 13,
+            "Alpha": 6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 13,
+            "Alpha": 13,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 13,
+            "Alpha": 14,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Hefenahrung",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Sabro, Cryo",
+            "Menge": 13
+        },
+        {
+            "Sorte": "Cascade, US",
+            "Menge": 25
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 25
+        }
+    ],
+    "Hefe": "Maisel, gestrippt",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Dies ist die 5. oder 6. Version des Oat White IPA.\r\nDie Grunddaten, sowie die Sch&uuml;ttung sind ann&auml;hernd gleich geblieben, Rasten, Hopfen und Hefe haben gewechselt.\r\n\r\nAlternative Hefen:\r\nSchneider, gestrippt\r\nGozdawa BW 11\r\nWyeast 3068\r\n\r\nGebraut per BIAB, bitte auf eure Anlage umrechnen.\r\n\r\nDie Entstehung des Rezepts ist hier dokumentiert.\r\nhttps:\/\/hobbybrauer.de\/forum\/viewtopic.php?t=8232\r\n\r\nDie Originalversion ist bei Braumischung als Fertigmischung erh&auml;ltlich:\r\nhttps:\/\/braumischung.de\/brauzutaten\/braumischungen\/maischemalzundmehr-de\/x06-oat-white-ipa\/"
+}

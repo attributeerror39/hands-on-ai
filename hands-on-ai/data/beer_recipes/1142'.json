@@ -1,0 +1,80 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Roggenbier",
+    "Datum": "10.09.2019",
+    "Sorte": "Roggenbier",
+    "Autor": "Blackluster",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 18,
+    "Farbe": 19,
+    "Alkohol": 5.9,
+    "Kurzbeschreibung": "Ein sehr fruchtiges, malziges Roggenbier mit sch\u00f6nem samtigen Abgang ",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.22,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Roggenmalz",
+            "Menge": 2.22,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen-Caramelmalz CARAWHEAT\u00ae",
+            "Menge": 220,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 24.444444444444446,
+    "Einmaischtemperatur": 35,
+    "Rasten": [
+        {
+            "Temperatur": 40,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 40
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 6.666666666666666,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Ariana",
+            "Menge": 11,
+            "Alpha": 9.9,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Ariana",
+            "Menge": 11,
+            "Alpha": 9.9,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "gestrippte Schneider",
+    "Gaertemperatur": "22",
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Die erste Rast wird alleine mit dem Roggenmalz gemacht, erst danach wird der Rest eingemaischt."
+}

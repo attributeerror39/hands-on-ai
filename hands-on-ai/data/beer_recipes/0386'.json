@@ -1,0 +1,69 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Schn\u00e4mber (schnelles Amber)",
+    "Datum": "03.04.2014",
+    "Sorte": "Brown Ale",
+    "Autor": "Horstibus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.7,
+    "Bittere": 28,
+    "Farbe": 32,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Amber Ale mit 100% Willamette VWH. Feiner Hopfengeschmack gepaart mit englischen Hefenoten und nussiger Malzigkeit.",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 2.59,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 740,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caradunkel",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Roggen",
+            "Menge": 22,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 520,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.51851851851852,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 74,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.11111111111111,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Willamette",
+            "Menge": 44,
+            "Alpha": 6.2,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Hefe": " Fermentis Safale S-04",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "Urspr\u00fcnglich nur so dahingebraut um neuen Brauhelfern zu zeigen wie es geht. Geht sehr schnell von der Hand(4h), sehr schnell reif, saulecker und gut gekl\u00e4rt (ca 2 Wochen).\r\nKein Whirlpool gemacht, die Vorderw\u00fcrzehopfung ist echt astrein, es schmeckt sch\u00f6n aromatisch, feinherb und sehr harmonisch. Andere Biere mit Whirlpool wurden bei mir kratziger und hatten mehr \\\\\\\\\\\\\\\"Widerstand\\\\\\\\\\\\\\\" beim Trinken.\r\nS-04 frisch geerntet und aufgezogen, also von einem Beh\u00e4lter zusammen mit frischer W\u00fcrze in den anderen mehrmals hin- und hergesch\u00fcttet."
+}

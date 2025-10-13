@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Turtlehop-IPA",
+    "Datum": "19.02.2016",
+    "Sorte": "India Pale Ale",
+    "Autor": "IPA-Lady",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.8,
+    "Bittere": 24,
+    "Farbe": 27,
+    "Alkohol": 6.4,
+    "Kurzbeschreibung": "Sehr fruchtiges bernsteinfarbenes IPA mit kr\u00e4ftigem K\u00f6rper. ",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 4.89,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 140,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22.22222222222222,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 13.333333333333332,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 67,
+            "Alpha": 5.7,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 17,
+            "Alpha": 8.9,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 28,
+            "Alpha": 13.5,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra Dolden",
+            "Menge": 39
+        }
+    ],
+    "Hefe": "Safale S-04",
+    "Gaertemperatur": "21",
+    "Anmerkung_Autor": "Sehr vollmundiges, frisches und sehr fruchtiges IPA mit ausgepr\u00e4gtem Hopfencharakter. Sogar Profi-Brauer best\u00e4tigten den perfekten K\u00f6rper, die kr\u00e4ftige Bittere und das tolle Aroma. "
+}

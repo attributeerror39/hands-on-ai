@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "ASS IPA",
+    "Datum": "11.07.2022",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "marsabba",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.5,
+    "Bittere": 45,
+    "Farbe": 15,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Ein IPA mit ordentlich Malzk\u00f6rper... vielleicht ist es ja auch schon ein Amber Ale.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 1.87,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Viking Pale Caramel (8 EBC)",
+            "Menge": 470,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Fawcett Pale Crystal (60 EBC)",
+            "Menge": 240,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.666666666666668,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 73,
+    "Nachguss": 10.666666666666666,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 27,
+            "Alpha": 13.3,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 40,
+            "Alpha": 13.3,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Solero",
+            "Menge": 53,
+            "Alpha": 10,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Azacca Cryo-Hopfen",
+            "Menge": 33,
+            "Alpha": 20,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Azacca Cryo",
+            "Menge": 33
+        }
+    ],
+    "Hefe": "US 05",
+    "Gaertemperatur": "15-18",
+    "Endvergaerungsgrad": 81,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Whirlpoolhopfen bei 80 Grad zugeben und ca 30 min ziehen lassen.\r\n\r\nDas Bier schmeckt auch prima ohne Stopfhopfen."
+}

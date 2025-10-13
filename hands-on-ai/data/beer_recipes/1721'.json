@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Die Farbe aus dem All",
+    "Datum": "21.09.2022",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "Kesselbrauer Stuttgart e.V.",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.6,
+    "Bittere": 51,
+    "Farbe": 11,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "Ein fruchtiges und schnelles IPA passend um bald anstehende Partys mit Bier zu beliefern! Sk\u00e5l!\r\n*Kesselbrauer Stuttgart e.V.*Rezept von Hagen*",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.78,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 870,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 700,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Thomas Fawcett Oats, Malted",
+            "Menge": 700,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.695652173913043,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 11.304347826086955,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 43,
+            "Alpha": 9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 43,
+            "Alpha": 16.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 8
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 14
+        }
+    ],
+    "Hefe": "Lallemand Voss Kveik",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Stopfen = 7 Tage\r\n\r\nDieses Bier ist perfekt um in k\u00fcrzester Zeit ein stabiles Bier zu zaubern. Dank Galaxy Hopfen ist f\u00fcr ausreichende fruchtige Aromen, die an Maracuja und andere tropische Fr\u00fcchte erinnern, gesorgt. Kleiner Tipp: Das besser schnell trinken statt lange zu lagern. Gerade die Hopfennoten verfliegen gerne nach einiger Zeit. "
+}

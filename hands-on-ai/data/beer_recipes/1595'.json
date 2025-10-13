@@ -1,0 +1,86 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Helles",
+    "Datum": "26.12.2021",
+    "Sorte": "Dinkel-, Emmer- oder Mehrkornbier",
+    "Autor": "Gletscher Br\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 26,
+    "Farbe": 12,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Helles vier-Korn-Bier",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.07,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 360,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 710,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Dinkel Malz",
+            "Menge": 710,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Roggen Malz",
+            "Menge": 710,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 11.428571428571427,
+    "Einmaischtemperatur": 35,
+    "Rasten": [
+        {
+            "Temperatur": 40,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.285714285714286,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 11,
+            "Alpha": 8,
+            "Zeit": 75,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauermittelfr\u00fch",
+            "Menge": 11,
+            "Alpha": 8,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "S04",
+    "Gaertemperatur": "15-20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Einmischen nur Roggen Malz nach der ersten Rast Zugabe des restlichen Malzes."
+}

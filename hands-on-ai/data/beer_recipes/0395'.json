@@ -1,0 +1,102 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Roggenweisse",
+    "Datum": "14.06.2014",
+    "Sorte": "Roggenbier",
+    "Autor": "Bieromane",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.9,
+    "Bittere": 18,
+    "Farbe": 40,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Roggenweissbier mit dem Geschmack von frischem Schwarzbrot",
+    "Malze": [
+        {
+            "Name": "Roggen, fermentiert",
+            "Menge": 490,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Roggen, hell",
+            "Menge": 490,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen, hell",
+            "Menge": 1.18,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 1.18,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 470,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara M\u00fcnch",
+            "Menge": 120,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.799999999999999,
+    "Einmaischtemperatur": 40,
+    "Rasten": [
+        {
+            "Temperatur": 38,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 52,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 17,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 6,
+            "Alpha": 15,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 5,
+            "Alpha": 9.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 5,
+            "Alpha": 9.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Kuchlbauer, gestrippt",
+    "Gaertemperatur": "17-18",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Die Roggenmalze sehr grob schroten und allein einmaischen. Nach 10 min Eiwei\u00dfrast die restlichen Malze zugeben und pH-Wert mit Kalkmilch korrigieren. 10 min nach Kochbeginn den Schmodder absch\u00f6pfen und mit der Hopfung beginnen. Hauptg\u00e4rung nicht zu warm ca. 5 Tage. Aufspeisen, abf\u00fcllen und in die Nachg\u00e4rung bei ebenfalls ca. 17\u00b0C.\r\nNach 10 Tagen Nachg\u00e4rung verkostet. Ein vollmundig, s\u00e4miges aber dennoch spritziges Bier mit dem Geschmack nach frischem Schwarzbrot. Eine lange Lagerung ist wohl nicht n\u00f6tig."
+}

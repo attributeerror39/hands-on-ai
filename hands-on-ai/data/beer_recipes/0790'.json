@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Citra Wei\u00dfbier",
+    "Datum": "06.10.2017",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Hopfentropfenbrauer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 14,
+    "Farbe": 10,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "Spritziges Weizenbier mit wunderbarem Citra Aroma. Gute Schaumstabilit\u00e4t.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz, hell",
+            "Menge": 2.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz I",
+            "Menge": 330,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CARAHELL",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 140,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 37,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 5,
+            "Alpha": 12.4,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 6,
+            "Alpha": 12.4,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 28
+        }
+    ],
+    "Hefe": "Danstar Munich Wheat",
+    "Gaertemperatur": "18-22",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Das Sauermalz erst bei der Maltoserast zugeben.Verg\u00e4rung im offenen Beh\u00e4lter. Die Hefe verg\u00e4rt sehr schnell und nach 4 Tagen kann der Stopfhopfen zugegeben werden. Nach weiteren 2-3 Tagen wird abgef\u00fcllt. Das Bier kann man nach 4 Wochen schon genie\u00dfen, aber nach 6 Wochen ist es nochmal besser. Durch das wunderbare Citra Aroma kam es bei Weizenbierliebhabern sehr gut an."
+}

@@ -1,0 +1,104 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Braumees Witbier",
+    "Datum": "29.12.2018",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "Braumees",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 17,
+    "Farbe": 13,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Witbier mit gutem Zitrusaroma, sehr s\u00fcffig. ",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.14,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2.01,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenflocken ",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken ",
+            "Menge": 440,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 26.666666666666664,
+    "Einmaischtemperatur": 53,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 8.571428571428571,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 20,
+            "Alpha": 7,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Bitterorangenschalen ",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Zitronenschalen ",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Orangenschalen ",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Indischer Koriander ",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Wyeast 3463 Forbidden Fruit",
+    "Gaertemperatur": "18-22",
+    "Endvergaerungsgrad": 83,
+    "Karbonisierung": 6.8,
+    "Anmerkung_Autor": "Indischen Koriander erst kurz vorm Mitkochen in einem M\u00f6rser zersto\u00dfen.\r\n\r\n1 Woche bei Raumtemperatur lagern. 3 Wochen bei 5\u00b0C lagern."
+}

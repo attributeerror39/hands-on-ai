@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Corny\u00b4s German Ale",
+    "Datum": "09.12.2015",
+    "Sorte": "Pale Ale",
+    "Autor": "mcorny76",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 46,
+    "Farbe": 7,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "Standard Ale auf Pilsener Malz Basis ",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17,
+    "Einmaischtemperatur": 62,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mittelfr\u00fch",
+            "Menge": 50,
+            "Alpha": 4.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mittelfr\u00fch",
+            "Menge": 25,
+            "Alpha": 4.5,
+            "Zeit": 40,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mittelfr\u00fch",
+            "Menge": 25,
+            "Alpha": 4.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Safale S04",
+    "Gaertemperatur": "22",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Zielsetzung war, ein sehr helles und m\u00f6glichst klares Ale zu brauen, welches optisch und in der Hopfenbittere an ein Pilsner erinnert. HG: 7 Tage \/ NG in Flaschen: 14 Tage \/ anschl. Kaltlagerung: mind. 14 Tage bei <5 Grad Celsius."
+}

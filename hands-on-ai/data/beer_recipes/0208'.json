@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Coffee Stout",
+    "Datum": "25.07.2012",
+    "Sorte": "Stout",
+    "Autor": "Siedlerbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.5,
+    "Bittere": 40,
+    "Farbe": 88,
+    "Alkohol": 5.9,
+    "Kurzbeschreibung": "Sehr r\u00f6stiges Stout mit 2 verschiedenen Hopfensorten (getrennt) gestopft !",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.84,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 1.26,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 160,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 950,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 26.315789473684212,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 65
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 3.6842105263157894,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 41,
+            "Alpha": 9,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade oder Fuggles",
+            "Menge": 26
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "18",
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Ich habe nach der Hauptg\u00e4rung das Jungbier aufgeteilt und eine H\u00e4lfte mit 50 g Cascade und die andere H\u00e4lfte mit 50g Fuggles gestopft !\r\nDer Hauptgu\u00df und Nachgu\u00df beziehen sich auf den Speidel Braumeister 50L.\r\n\r\nIch habe die Zeiten korrigiert. Danke f\u00fcr den Hinweis !\r\n\r\nDas Kaffeearoma kommt vom Chocolate Malt. Ich habe es als Kaffeearoma empfunden. Daher auch die Namensgebung. \r\nBeim Braumeister ben\u00f6tigt man leider schon min. 50l Hauptgu\u00df und in das Malzroh passen max. 10 kg Malz. F\u00fcr h\u00f6here Stammw\u00fcrze kann man dann nur den Nachgu\u00df reduzieren. Einer der wenigen Nachteile des Speidel Braumeisters !"
+}

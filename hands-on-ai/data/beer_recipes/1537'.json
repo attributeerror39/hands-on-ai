@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Klosterbier",
+    "Datum": "25.07.2021",
+    "Sorte": "Kellerbier",
+    "Autor": "Starenbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 27,
+    "Farbe": 24,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Habe als ersten 20 l  Sud ein Klosterbier von gastro-brennecke gebraut. \r\nJetzt, da ich eigenes Malz und eine Malzm\u00fchle besitze, versucht, selber so ein leckeres Bier zu brauen. Hier die Daten und es ist wirklich gut geworden. Eigentlich noch 2 Wochen Lagerzeit -  aber ein Versucht war es wert -  f\u00fcr mich 5 Sterne ((-:  Kupferfarben, noch leicht tr\u00fcb, malzig s\u00fc\u00df mit einer dezenten Hopfennote. So muss ein Klosterbier sein. ",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchener Malz I",
+            "Menge": 1.79,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz I",
+            "Menge": 1.87,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "R\u00f6stmalz CARAFA",
+            "Menge": 34,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.306382978723406,
+    "Einmaischtemperatur": 38,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.604255319148937,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 21,
+            "Alpha": 5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 13,
+            "Alpha": 5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moos",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "gastro-brennecke oberg\u00e4rig",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wieder gebraut ( 7.11.21) und etwas angepa\u00dft, wollte ca. 5 % Alk erreichen. Hauptgu\u00df aufgeteilt, so dass ich bis 63 \u00b0C mit Infusion gearbeitet habe, dann normal erhitzt im Einkochtopf.\r\nDas Bier ist f\u00fcr die Sylvesterfeier gebraut worden und sehr gut angekommen. Selbst ein Weintrinker hat auf das Bier umgeschwenkt... war ja genug da. Nach 8 Wochen ein klares sehr leckeres Bier, das wird ein Standardbier f\u00fcr uns.\r\n\r\n\r\nGebraut am 27.06.2021 - heute  - 25.07.2021 zweite Flasche ge\u00f6ffnet und verkostet -  ein echt leckeres Bier -  das sehr gef\u00e4hrlich ist. Man will immer ein zweites \u00f6ffnen. Das wird nicht zum letzten Mal gebraut....\r\nN\u00e4chste Woche sind die 4 Wochen Reife um, dann werde ich das n\u00e4chste Bier kosten und berichten."
+}

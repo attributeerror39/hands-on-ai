@@ -1,0 +1,65 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bernsteinweizen",
+    "Datum": "01.08.2017",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Tudo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 14,
+    "Farbe": 27,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Ein vollmundiges bernsteinfarbenes Weizen mit vollen Bananenaromen",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2.04,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz Typ II",
+            "Menge": 1.83,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Dunkel",
+            "Menge": 210,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.037037037037038,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.11111111111111,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tradition",
+            "Menge": 12,
+            "Alpha": 6.6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tradition",
+            "Menge": 7,
+            "Alpha": 6.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "gestripte Maisels Wei\u00dfbierhefe",
+    "Gaertemperatur": "22"
+}

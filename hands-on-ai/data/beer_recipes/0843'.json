@@ -1,0 +1,92 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Gestopftes Wie\u00df",
+    "Datum": "14.01.2018",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "brauwastlkoeln",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 30,
+    "Farbe": 7,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Schlankes und trockenes Wie\u00df mit einer sch\u00f6nen tropischen Fruchtnote vom Stopfhopfen. Sehr angenehm zu trinken, k\u00f6nnen schnell auch mal ein paar mehr werden.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.49,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 420,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner Malz I",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.347826086956523,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.086956521739129,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger (2016)",
+            "Menge": 27,
+            "Alpha": 3.6,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger (2016)",
+            "Menge": 23,
+            "Alpha": 3.6,
+            "Zeit": 40,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger (2016)",
+            "Menge": 7,
+            "Alpha": 3.6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Riwaka (2016)",
+            "Menge": 10,
+            "Alpha": 5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Riwaka (2016)",
+            "Menge": 29
+        }
+    ],
+    "Hefe": "Wyeast #2565 K\u00f6lsch",
+    "Gaertemperatur": "19-20",
+    "Endvergaerungsgrad": 82.8,
+    "Karbonisierung": 5.2,
+    "Anmerkung_Autor": "Gebraut mit Einkocher. Letzte Hopfengabe bei Flame Out. Nachisomerisierung ca. 15-20 Minuten. \r\n\r\nNach diversen Versuchen ist die Wyeast K\u00f6lsch Hefe (gibt Quellen die sagen, dass die von P\u00e4ffgen K\u00f6lsch ist - wei\u00df ich aber nicht) f\u00fcr mich die beste Hefe f\u00fcr ein Wie\u00df. Also meine ganz klare Empfehlung beim Nachbrauen diese zu verwenden.\r\n\r\nDen Riwaka Hopfen (NZ) habe ich im Fr\u00fchjahr f\u00fcr ein IPA verwendet, welches ich auch hier online gestellt habe. Denn Rest habe ich dann f\u00fcr das Wie\u00df verwendet. Bei den deutschen Versendern findet man den leider nicht, aber UK ist ja noch in der EU und man kann per Internet dort recht einfach bestellen.\r\n\r\nMit diesem Bier konnte ich bei dem vereinsinternen Hobbybrauerwettbewerb der K\u00f6lner Bierhistoriker im Dezember 2017 in der Kategorie \"Gestopftes Wie\u00df\" den ersten Platz belegen :-)"
+}

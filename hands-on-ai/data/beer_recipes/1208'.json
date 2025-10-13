@@ -1,0 +1,55 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Sahti",
+    "Datum": "10.02.2020",
+    "Sorte": "Sahti",
+    "Autor": "haefner",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 23,
+    "Bittere": 1,
+    "Farbe": 42,
+    "Alkohol": 9.5,
+    "Kurzbeschreibung": "Geschmack nach Bananenbrot, leicht sauer, kein Schaum und dickfl\u00fcssig. Echter finnischer Sahti eben.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 6.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 2.16,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraM\u00fcnch II",
+            "Menge": 540,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.6,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 60,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 83,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 83,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": null,
+    "Hefe": "Backhefe",
+    "Gaertemperatur": "18\u00b0C Siehe Text",
+    "Anmerkung_Autor": "Das \"Bier\" lebt von der Backhefe. Am besten ist nat\u00fcrlich eine echte finnische Backhefe, habe mit unserer deutschen aber auch schon sehr gute und authentische Ergebnisse gehabt. Traditionellerweise kommt hier Wacholder zum Einsatz. Die besten Sahtis die ich kenne und auch bei den vorderen Pl\u00e4tzen der Sahtimeisterschaften (sic!)hatten allerdings keinen Wacholder drin, daher habe ich auf diesen verzichtet. \r\n\r\nWichtig #1: Es wird gegen Mitte\/Ende der Verg\u00e4rung schon k\u00fchl gestellt, also die G\u00e4rung verlangsamt. Man kann (und tut das in Finnland) hier schon gut was davon trinken. Sahti sollte frisch getrunken werden, also nicht unbedingt ewig lagern.\r\n\r\nWichtig #2: Am besten in einem Gef\u00e4\u00df (\u00dcblicherweise Kanister) verg\u00e4ren lassen, das entbehrlich ist. Backhefe enth\u00e4lt Lactos und ihr k\u00f6nnt euch unter Umst\u00e4nden etwas damit kontaminieren.\r\n\r\n\r\nSahti ist wohl eines der \u00e4ltesten alkoholischen Getr\u00e4nke und eine echte finnische Spezialit\u00e4t, ein Ur-Bier. Auch in Finnland nur noch selten zu finden, vorallem traditionell und handgemacht. In Finnland wird es oft zur Sommersonnenwende gereicht und wird hier gern in der Sauna getrunken. \r\n\r\nSahti schmeckt leicht sauer (Lactos der Backhefe), sehr bananig und brotig. Da man gegen Ende der G\u00e4rung schon trinkt mit einer sehr minimalen Karbonisation. Sahti ist dickfl\u00fcssig und extrem stark im Geschmack. Ich bin ein gro\u00dfer Fan davon - ist aber nicht jedermanns Sache.\r\n\r\nDas Rezept basiert gr\u00f6\u00dftenteils auf das von dieser Seite. Hier hat es auch einige Informationen mehr: https:\/\/www.brewingnordic.com\/farmhouse-ales\/\r\n"
+}

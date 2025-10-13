@@ -1,0 +1,63 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Monsterbier",
+    "Datum": "01.08.2021",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Watomba",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 21,
+    "Farbe": 8,
+    "Alkohol": 4.3,
+    "Kurzbeschreibung": "Ein einfach zu brauendes goldfarbenes Sommerbier mit dezenter Hopfennote, das nach mehr schmeckt.",
+    "Malze": [
+        {
+            "Name": "Pilsenermalz",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wienermalz",
+            "Menge": 1.5,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 7.5,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 20,
+            "Alpha": 6,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 20,
+            "Alpha": 6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Gozdawa OGA9",
+    "Gaertemperatur": "16-20",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Dieses bek\u00f6mmliche Bier habe ich mir, nach Inspiration aus dem Netz, selbst zusammen gebraut. Es geht runter wie \u00d6l und schmeckt nach mehr. Perfekt zum Grillen geeignet. Der Hopfen kann auch gegen Hallerteuer Tradition ausgetauscht werden.\r\nDer Name des Bieres kommt von der Hilfe die hatte. Eine Bekannte fragte mich ob man Bier in einer K\u00fcchenmaschine(z.B. Thermomix) machen kann. Ihre K\u00fcchenmaschine nennt Sie liebevoll \"Monster\". Ich muss feststellen. Ja, kann man. Wenn ihr die Mengen durch 10 teilt, passt alles in einen \"Thermomix\". Ich habe die Gro\u00dfe Menge in einem Mundschenk gebraut. W\u00e4hrend des Brauvorgang habe ich alle 15 Minuten mal umger\u00fchrt. Ergebnis: Am Ende musste ich noch Wasser zugeben um auf die Stammw\u00fcrze von 12,5\u00b0 Plato zukommen.\r\nViel Spa\u00df beim nachbrauen.\r\nPS: Habe ein paar \u00c4nderungen vornehmen m\u00fcssen.\r\nDas ist kein \"Altbier\"\r\nWer das Bier in einer K\u00fcchenmaschine nachbrauen m\u00f6chte, dann ist es nicht tragisch wenn man die erste Rast auf 60\u00b0C und die zweite Rast auf 70\u00b0 f\u00e4hrt. Wird schon gelingen, da ich das selbst getestet habe."
+}

@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Strawberry Thyme Acid",
+    "Datum": "04.09.2018",
+    "Sorte": "Sauerbier",
+    "Autor": "BEERSERKER",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.8,
+    "Bittere": 15,
+    "Farbe": 8,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Sour Ale mit cremiger Textur, den Aromen von Thymian und der Kalthopfung mit Huell Melon",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 2.27,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale ",
+            "Menge": 910,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 820,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 550,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenrohfrucht",
+            "Menge": 180,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.363636363636363,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.909090909090908,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 11,
+            "Alpha": 10.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Thymian (frisch)",
+            "Menge": 18,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Milchs\u00e4ure",
+            "Menge": 45,
+            "Einheit": "ml",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Laktose",
+            "Menge": 455,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Huell Melon",
+            "Menge": 73
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "17",
+    "Anmerkung_Autor": "S\u00fc\u00dfe und S\u00e4ure sind nach der Reifung sehr harmonisch mit der Hopfenbittere. Das Aroma des Thymians passt wie geplant sehr gut zu dem leichten Erbeeraroma des Huell Melon ist nur etwas zu stark vorherrschend. F\u00fcr den n\u00e4chsten Sud werde ich auf 10g Thymian reduzieren.\r\n\r\nErg\u00e4nzung: nach weiteren vier Wochen Reifezeit wird das Thymianaroma sehr viel gef\u00e4lliger. Das Rezept bleibt wie es ist, wird lediglich f\u00fcr n\u00e4chsten Sommer beizeiten gebraut um es mindestens 8-10 Wochen reifen lassen zu k\u00f6nnen."
+}

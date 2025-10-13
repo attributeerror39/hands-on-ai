@@ -1,0 +1,64 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Single Hop Nelson Sauvin Red IPA",
+    "Datum": "11.01.2018",
+    "Sorte": "India Pale Ale",
+    "Autor": "BrewFox",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 54,
+    "Farbe": 40,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Farbe: Robinrot bis Dunkelrot\r\nAromen: Trauben, Stachelbeere, Grapefruit\r\nBitterkeit: herb",
+    "Malze": [
+        {
+            "Name": "BEST Red X",
+            "Menge": 4.6,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 20,
+            "Alpha": 12.2,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 20,
+            "Alpha": 12.2,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 40
+        }
+    ],
+    "Hefe": "WYEAST #1618 London Ale III",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 63.1,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "- 2. HG Nelson Sauvin 10 min vor Ende ( 10 min waren nicht m\u00f6glich einzutragen)\r\n- gebraut in einem Braumeister 50+"
+}

@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Solero IPA",
+    "Datum": "04.05.2021",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "Malzknecht",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.6,
+    "Bittere": 55,
+    "Farbe": 23,
+    "Alkohol": 7.4,
+    "Kurzbeschreibung": "Fruchtiges Mango Aroma trifft auf ein weiches Mundgef\u00fchl mit guter Bittere!",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 5.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caramalz hell",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma (400 EBC)",
+            "Menge": 110,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.090909090909093,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.363636363636365,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Solero",
+            "Menge": 15,
+            "Alpha": 9.6,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Herkules",
+            "Menge": 8,
+            "Alpha": 17.9,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Solero",
+            "Menge": 50,
+            "Alpha": 9.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Solero (5 Tage kalt ~10\u00b0C)",
+            "Menge": 80
+        }
+    ],
+    "Hefe": "Mangrove Jack's M44, Wyeast 1764 aber auch US-05",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Den Solero Hopfen kennenlernen! \r\n\r\nDaf\u00fcr habe ich dieses Rezept geschrieben. Solero ist ein ganz neuer deutscher Hopfen, der erst mit der gr\u00f6\u00dferen Ernte in 2021 unter Hobbybrauern so richtig Fahrt aufnehmen kann \/ wird.\r\n\r\nNach der Verkostung bin ich davon \u00fcberzeugt, dass dieser Hopfen in Zukunft seinen Platz in unseren Rezepten finden wird. Das Aroma kommt dem Cascade sehr nahe. \r\n\r\nDas Wasser habe ich so eingestellt: Ca 93ppm Mg 3ppm Cl 91ppm SO4 112ppm\r\n\r\nAm Ende eine Woche reifen und dann eine Woche lagern. Dann ist das Solero IPA fertig!\r\n\r\nAuf meinem Blog gibt's eine ausf\u00fchrliche Dokumentation inklusiver bebilderter Braudoku.\r\n\r\nhttps:\/\/malzknecht.de\/rezepte\/rezeptentwicklung\/solero-hopfen-und-ipa-rezept-neu-aus-de\/"
+}

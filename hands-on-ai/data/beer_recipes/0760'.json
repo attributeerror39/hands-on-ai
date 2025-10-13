@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hermann the German",
+    "Datum": "30.07.2017",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Schokotorte",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 17,
+    "Farbe": 8,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Hellgelbes Weizen mit einem kr\u00e4ftigen Bananenaroma. Relativ kompliziertes Maischverfahren.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.25,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.25,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 19,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saphir",
+            "Menge": 18,
+            "Alpha": 4.3,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 10,
+            "Alpha": 4.3,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 9,
+            "Alpha": 4.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Wyeast 3068 oder 3638",
+    "Gaertemperatur": "20-22",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 7,
+    "Anmerkung_Autor": "Gemaischt wurde nach dem Hermann-Verfahren, dadurch kommen die merkw\u00fcrdigen Rasten zustande. Man geht hierbei folgenderma\u00dfen vor:\r\nZuerst wird die H\u00e4lfte des Malzes mit der H\u00e4lfte des Hauptgusses eingemaischt und gefahren. Nach der 3. Rast (72\u00b0) wird die zweite H\u00e4lfte Hauptguss hinzugegeben, um die Maische auf 45\u00b0 zu k\u00fchlen (bei 1:1 Verh\u00e4ltnis wie hier muss das Wasser ca. 17\u00b0 haben). Dann wird die zweite H\u00e4lfte Malz eingemaischt und das Programm zu Ende gefahren. \r\nDurch dieses Verfahren wird die Bildung der Bananenaromen gef\u00f6rdert. Die Wyeast 3068 produziert hierbei quasi Bananensaftbier, was fast schon zu viel ist. Die Wyeast 3638 ist auch sehr bananig aber insgesamt etwas runder unserer Meinung nach. Nach einer Woche Reifung im K\u00fchlschrank ist das Bier schon sehr gut und trinkfertig.\r\n\r\nWhirlpoolgabe bedeutet bei mir bei 80\u00b0 hinzugeben.\r\n\r\nDas Bier ist auch super geeignet als Grundlage f\u00fcr ein Himbeerweizen. Hierf\u00fcr einfach noch mit 50-75 g\/l Tiefk\u00fchlhimbeeren stopfen.\r\n\r\nAlle drei Varianten sind sehr s\u00fcffig, leicht s\u00fc\u00df und schmeckten bisher allen Testern sehr gut."
+}

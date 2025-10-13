@@ -1,0 +1,72 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mangolorian",
+    "Datum": "10.03.2020",
+    "Sorte": "Saison",
+    "Autor": "Junior_Gong",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 20,
+    "Farbe": 12,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Farmhouse Ale mit Mango und Koriandersamen",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.47,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 1.48,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 980,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.94736842105263,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 7.894736842105264,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Smaragd Dolden",
+            "Menge": 58,
+            "Alpha": 3.2,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Mango TK",
+            "Menge": 2105,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Koriandersamen",
+            "Menge": 21,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "TYB Wallonian Farmhouse | YB Saison Blend I",
+    "Gaertemperatur": "20-24",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 6
+}

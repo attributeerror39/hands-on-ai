@@ -1,0 +1,71 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ich wollte, es w\u00e4re Nacht...",
+    "Datum": "04.09.2015",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "jemo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 25,
+    "Farbe": 18,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Preu\u00dfisches Kartoffelbier. Darf s\u00fcdlich des Mains nicht gebraut werden! ;-)",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.31,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 770,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Kartoffeln",
+            "Menge": 3.08,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 10.615384615384615,
+    "Einmaischtemperatur": 40,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.076923076923077,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 27,
+            "Alpha": 3.5,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 27,
+            "Alpha": 3.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 1007 German Ale",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die Kartoffeln waschen, Fehlstellen entfernen und mit Schale fein reiben. Nicht auspressen, sondern mit dem Kartoffelsaft einmaischen. Da Kartoffeln zu ca. 80% aus Wasser bestehen, mu\u00df der Hauptguss entsprechend angepasst werden. Im Rezept ist das bereits ber\u00fccksichtigt, d.h. 13,8 Liter Wasser + geriebene Kartoffeln ergibt Pi-mal-Daumen 17 Liter Hauptguss.\r\nDas L\u00e4utern klappt problemlos. \r\nMehlige Kartoffeln enthalten mehr St\u00e4ke als festkochende Kartoffeln, die Ausbeute d\u00fcrfte damit etwas h\u00f6her sein."
+}

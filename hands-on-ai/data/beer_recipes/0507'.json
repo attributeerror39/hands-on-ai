@@ -1,0 +1,80 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Boatswain",
+    "Datum": "19.08.2015",
+    "Sorte": "Pale Ale",
+    "Autor": "grindoctor",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 32,
+    "Farbe": 16,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "Tiefgoldenes frisches Pale Ale mit deutlicher Malzbasis und Noten von tropischen Fruechten und Zitrus! Ausgezeichnetes Sommerbier! Bin stolz auf die guten Bewertungen bei Untappd!",
+    "Malze": [
+        {
+            "Name": "Pale Malz",
+            "Menge": 4.62,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 380,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.692307692307693,
+    "Einmaischtemperatur": 74,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8.461538461538462,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 19,
+            "Alpha": 6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 15,
+            "Alpha": 6,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 12,
+            "Alpha": 12,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 9
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 18
+        }
+    ],
+    "Hefe": "Fermentis US-05",
+    "Gaertemperatur": "19",
+    "Karbonisierung": 7.5,
+    "Anmerkung_Autor": "Stopfhopfung 7 Tage, nach einer Woche G\u00e4rung zu gegeben. \r\nOG 1.056, FG 1.012\r\n\r\nPS: Mit der Karbonierung ist im Rezept oben Zucker per Liter gemeint!"
+}

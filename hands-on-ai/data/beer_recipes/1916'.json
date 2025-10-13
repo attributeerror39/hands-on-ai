@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Baltic Double Brown Stout",
+    "Datum": "01.02.2024",
+    "Sorte": "Baltic Porter",
+    "Autor": "The British Pint",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.5,
+    "Bittere": 40,
+    "Farbe": 100,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Dunkelbraunes oberg&auml;riges Lagerbier mit Aromen von Kakao und einem Geschmack von milder Zartbitterschokolade. Wird das Bier w&auml;rmer, kommt noch Amarettolik&ouml;r hinzu.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.53,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Chevallier",
+            "Menge": 1.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Amber Malt",
+            "Menge": 580,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Brown Malt",
+            "Menge": 580,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Black Malt",
+            "Menge": 58,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Invert No 3 (90 EBC)",
+            "Menge": 550,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Invert No 4 (400 EBC)",
+            "Menge": 290,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 120,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding (alt)",
+            "Menge": 25,
+            "Alpha": 5.5,
+            "Zeit": 120,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding (alt)",
+            "Menge": 25,
+            "Alpha": 5.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding (frische Dol",
+            "Menge": 25,
+            "Alpha": 5.9,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 1469 West Yorkshire Ale",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 3.5,
+    "Anmerkung_Autor": "Mein Beitrag f&uuml;r den BJCP-Wettbewerb der HBCon 2024. Die BJCP-Vorgabe von nur 60 EBC (weniger als Schwarzbier) war f&uuml;r mich nicht zu halten, sonst h&auml;tte mir das Bier nicht geschmeckt. Bei den restlichen Kriterien habe ich mich aber immerhin bem&uuml;ht, sie einzuhalten ;-)\r\n\r\nMeine Inspiration war der historische Urahn des Baltic Porter, das Double Brown Stout, das aus London in den baltischen Raum exportiert wurde. Nach 1880 wurden hier gerne dunkle Brauzucker verwendet, um das Bier klarer zu machen und der Hefe viele Einfachzucker zug&auml;nglich zu machen. Der Nebeneffekt ist, dass ich bei dem Bier kaum Black Malt brauchte und so den typisch-dezenten R&ouml;stcharakter bewahren konnte, ganz ohne entspelzte R&ouml;stmalze oder gar sp&auml;tes Einmaischen der R&ouml;stanteile der Sch&uuml;ttung.\r\n\r\nDas Chevallier-Malz bringt reichlich Eiwei&szlig;e in die W&uuml;rze, wodurch das Bier trotz der Zucker sehr voll schmeckt. Das Amber Malt macht eine gewisse S&uuml;&szlig;e, das Brown Malt einen brotigen und kakaoartigen Eindruck. Alle drei Malze sind historisch typisch.\r\n\r\nBei den Hopfen habe ich einen East Kent Golding genommen, der in Pellets ohne Vakuum &uuml;ber ein Jahr im Keller lag und dadurch sichtbar blasser geworden war. Ich habe mal mit 4%aa anstatt der urspr&uuml;nglichen 5,5%aa gerechnet. Wer das nachbrauen m&ouml;chte, nimmt einfach frischen EKG mit 4%aa oder rechnet entsprechend um. Alter Hopfen ist wieder etwas, was historisch typisch war, und ich wollte es mal ausprobieren. Einen besonderen Einfluss konnte ich allerdings nicht feststellen. Die lange Kochzeit ist nur, um entsprechend eine hohe Verdunstung zu erreichen.\r\n\r\nMein Wasser wurde etwas mit CaSO4 und CaCl aufgesalzen, um die Vollmundigkeit zu betonen. Berechneter Maische-pH war 5,5 und das Wasserprofil folgendes:\r\nCa: 165mg\/l\r\nMg: 21mg\/l\r\nNa: 44mg\/l\r\nCl: 190mg\/l\r\nSO4: 180mg\/l\r\nHCO3: 180mg\/l\r\n\r\nDa ich aber mal mit extra viel Chlorid brauen wollte, habe ich am Ende des Kochens noch 4g Kaliumchlorid (Di&auml;tsalz, entspricht 3g Natriumchlorid) hinzugef&uuml;gt und den Chloridwert so auf 275mg\/l gebracht. Den Chloridgehalt habe ich extra erst sp&auml;t erh&ouml;ht, damit meine Edelstahlt&ouml;pfe beim Kochen nicht angegriffen werden. \r\n\r\nBei der Hefe war ich nicht unbedingt authentisch. Baltic Porter wird in Polen unterg&auml;rig vergoren, in Russland oberg&auml;rig und kalt, nur in Schweden wohl oberg&auml;rig und warm. Ich habe mich f&uuml;r die Wyeast 1469 entschieden, weil sie meiner Meinung nach bei 16&deg;C schon sehr neutral ist. K&auml;lter wurde es in meinem Keller am Brautag nicht."
+}

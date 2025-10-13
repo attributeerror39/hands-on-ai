@@ -1,0 +1,96 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bell's Two Hearted Ale",
+    "Datum": "11.02.2018",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "NorthernBrewer",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Bell's Two Hearted Ale",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.6,
+    "Bittere": 52,
+    "Farbe": 12,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Ein frisches und fruchtiges Single Hop American IPA mit den typischen Centennial Noten. Das Bier ist sehr nah am Original der Bell's Brewery aus Michigan.",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 1.31,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.69,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 1.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caramel Pils",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caramel Hell",
+            "Menge": 220,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 23.5,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 5,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 25,
+            "Alpha": 8.1,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 25,
+            "Alpha": 8.1,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 25,
+            "Alpha": 8.1,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 25,
+            "Alpha": 8.1,
+            "Zeit": 2,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 55
+        }
+    ],
+    "Hefe": "Danstar BRY-97",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 5.4,
+    "Anmerkung_Autor": "Das Rezept entstand zun\u00e4chst aus dem Studium diverser Klonrezepte in englischsprachigen Foren und dem anschlie\u00dfenden Brauen mehrerer Vergleichsude. Ich meine, dieses Rezept kommt dem Original extrem nah - mindestens aber ist es ein wunderbar s\u00fcffiges IPA das bislang jedem geschmeckt hat.\r\n\r\nNoch einige Daten und Hinweise.\r\n-Ich rechne bei mir mit 5 Min Nachisomerisierungszeit.\r\n-Die Hefe wurde bei 18\u00b0C angestellt und ist nicht die schnellste. HG war immer um die 14 Tage bei mir.\r\n-Ich habe mit 7,5g\/L Haushaltszucker aufkarbonisiert.\r\n-Kalthopfung nach Ende der HG f\u00fcr vier Tage\r\n-Als Wasser habe ich Lidl Wasser aus der L\u00f6ningen Quelle verwendet und mit 2,5g Braugips und 1g Kochsalz behandelt. Die Restalkalit\u00e4t war damit bei etwa -0,8. Der Grund f\u00fcr das Lidl Wasser war, dass ich gleich bleibende Wasserqualit\u00e4t f\u00fcr eine bessere Vergleichbarkeit der Testsude haben wollte und die Werte aus dem Wasserhahn stark schwanken, je nachdem von welchem Pumpwerk wir gerade bedient werden. Das Bier wird aber sicher auch mit Leitungswasser ordentlich werden, so lange die Restalkalit\u00e4t und der PH-Wert halbwegs passen.  "
+}

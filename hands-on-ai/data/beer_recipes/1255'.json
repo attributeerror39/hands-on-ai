@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Witti's K\u00f6lsch",
+    "Datum": "08.04.2020",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "Wittes70",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 29,
+    "Farbe": 11,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Einfaches und leckeres K\u00f6lsch das \u00fcberall gut ankommt!",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.86,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.19,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 710,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 26.19047619047619,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 1
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 2.8571428571428568,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 38,
+            "Alpha": 5.3,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 15,
+            "Alpha": 5.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham Ale",
+    "Gaertemperatur": "16",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Gebraut mit dem Braumeister 50. Nach 6 Wochen Reifung s\u00fcffig, klar und mit stabiler Schaumkrone. Irish Moss (15g) 5 Minuten vor Kochende zur Kl\u00e4rung der W\u00fcrze. Mein Freundeskreis war total begeistert."
+}

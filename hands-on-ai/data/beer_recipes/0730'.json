@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Wei\u00dfbier",
+    "Datum": "30.05.2017",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "LionCosta",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 14,
+    "Farbe": 14,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Bernsteinfarbenes Weizen mit ausgewogenem Nelken- und Bananenaroma.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 800,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.880000000000003,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 25
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.399999999999999,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 8,
+            "Alpha": 4.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 5,
+            "Alpha": 13,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 3,
+            "Alpha": 4.5,
+            "Zeit": 75,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Gutmann Strip",
+    "Gaertemperatur": "22-25",
+    "Endvergaerungsgrad": 71,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Ausschlagw\u00fcrze hatte 13,5\u00b0P und wurde nach der Hauptg\u00e4rung auf 12\u00b0P verd\u00fcnnt.\r\nGebraut wurde mit unbehandeltem Wiener Wasser (ca. 5\u00b0dH)\r\nDas Bier ist sehr schnell sehr gut trinkbar, quasi direkt nach der Flascheng\u00e4rung. Alle die es bis jetzt probieren konnten (und Wei\u00dfbier m\u00f6gen) waren begeistert :)"
+}

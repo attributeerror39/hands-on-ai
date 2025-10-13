@@ -1,0 +1,99 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mai Weizen",
+    "Datum": "28.05.2017",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Kaso",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.4,
+    "Bittere": 15,
+    "Farbe": 8,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Fruchtig, leichtes Fr\u00fchlingsweizen",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2.91,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 91,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 45,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.727272727272727,
+    "Einmaischtemperatur": 49,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8.181818181818182,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 9,
+            "Alpha": 8.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 6,
+            "Alpha": 6.5,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 14,
+            "Alpha": 12,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 18,
+            "Alpha": 8.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Gozdawa Bavarian Wheat 11",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Letzte Hopfengabe im Whirlpool bei 80\u00b0\r\nLeckeres, leichtes Fr\u00fchlingszweizen, auch f\u00fcr den Sommer geeignet, mit leichtem Bananen Aroma.\r\n"
+}

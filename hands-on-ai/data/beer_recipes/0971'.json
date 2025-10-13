@@ -1,0 +1,64 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Kveik Ale",
+    "Datum": "10.10.2018",
+    "Sorte": "Kveik",
+    "Autor": "alt-phex",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.4,
+    "Bittere": 28,
+    "Farbe": 18,
+    "Alkohol": 6.7,
+    "Kurzbeschreibung": "Fruchtig malziges Bier mit norwegischer Kveik Hefe bei sehr hoher Temperatur vergoren. Ungew\u00f6hnlich aber sehr lecker.",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner II",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 100,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 74,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 68,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Phoenix",
+            "Menge": 20,
+            "Alpha": 10.9,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Mittelfr\u00fch ",
+            "Menge": 22,
+            "Alpha": 3.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Kveik ",
+    "Gaertemperatur": "28-30",
+    "Endvergaerungsgrad": 85,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "W\u00e4hrend der Hitzewelle 2018 hatte sich mein Keller dann auch soweit aufgew\u00e4rmt, das nicht mal mehr Weizen- oder Withefen ohne K\u00fchlung einsetzbar waren. Von einem Stammtisch Kollegen habe ich dann diese Kveikhefe bekommen, die auch bei h\u00f6heren Temperaturen noch trinkbares Bier erzeugen soll. Das wollte ich mal ausprobieren und wurde nicht entt\u00e4uscht.\r\n\r\nSie hat zwar stark geestert und ein sehr fruchtiges Bier produziert, von phenolischen Noten oder Fuselalkoholen ist aber nichts zu schmecken. Das Bier braucht aber mind. seine 3-4 Wochen Kaltreifung bis es schmeckt. "
+}

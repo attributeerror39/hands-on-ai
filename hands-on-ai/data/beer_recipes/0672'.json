@@ -1,0 +1,96 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Blitzeblanc",
+    "Datum": "13.01.2017",
+    "Sorte": "Pale Ale",
+    "Autor": "DrFedi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 35,
+    "Farbe": 11,
+    "Alkohol": 4.1,
+    "Kurzbeschreibung": "Es wird dies Jahr auch wieder Sommer. Daher stelle ich mein Sommerbier aus 2016 hier ein. Fruchtig, frech und vollmundig ohne all zu viel Alkohol. Leckeres, hopfiges Sommerbier halt. ",
+    "Malze": [
+        {
+            "Name": "Pilsenermalz",
+            "Menge": 2.43,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Spitzmalz",
+            "Menge": 710,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carabelge",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Crystal Rye",
+            "Menge": 140,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Alemalz",
+            "Menge": 710,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.428571428571427,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.857142857142858,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Topaz",
+            "Menge": 11,
+            "Alpha": 10,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Blanc",
+            "Menge": 7,
+            "Alpha": 7.6,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sybilla",
+            "Menge": 7,
+            "Alpha": 6,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Blanc",
+            "Menge": 29,
+            "Alpha": 7.6,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Hallertau Blanc",
+            "Menge": 50
+        }
+    ],
+    "Hefe": "Safale S04",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "Karbonisiert mit Haushaltszucker, 5,5 g pro Liter. Nachguss messe ich nie. Menge ist gesch\u00e4tzt."
+}

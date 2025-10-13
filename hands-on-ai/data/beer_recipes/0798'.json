@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "East Kent Golding Einzelhopfen",
+    "Datum": "31.10.2017",
+    "Sorte": "Pale Ale",
+    "Autor": "Brauwerk 76",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 70,
+    "Farbe": 10,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Ein helles sehr hopfiges Ale mit ausgewogenem w\u00fcrzigen Aroma.",
+    "Malze": [
+        {
+            "Name": "Pale Malt",
+            "Menge": 4.09,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 10.695652173913043,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16.52173913043478,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 43,
+            "Alpha": 5.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 21,
+            "Alpha": 5.5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 21,
+            "Alpha": 5.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 65,
+            "Alpha": 5.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 26
+        }
+    ],
+    "Hefe": "Wyeast 1056 American Ale oder Danstar Nottingham Ale",
+    "Gaertemperatur": "18-22",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Wenn ein hopfigeres Aroma gew\u00fcnscht wird kann man mit 30g East Kent Golding 5 Tage lang nach der Hauptg\u00e4rung Stopfen. "
+}

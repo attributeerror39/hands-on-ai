@@ -1,0 +1,96 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "DC Grapefruit BPA ",
+    "Datum": "05.08.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "DerDallmann",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 37,
+    "Farbe": 8,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Crossover aus einem belgischen Blonde und einem US Pale Ale, zus\u00e4tzlich mit Grapefruitschale im Whirlpool und gestopft. Hohe drinkability, sch\u00f6n fruchtig, sp\u00fcrbar herb, genau richtig f\u00fcr den Sommer.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz (Golden Promise)",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz (Avangard)",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 66,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Taurus",
+            "Menge": 13,
+            "Alpha": 15.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade US",
+            "Menge": 5,
+            "Alpha": 8,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade US",
+            "Menge": 15,
+            "Alpha": 8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade US",
+            "Menge": 40,
+            "Alpha": 8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Grapefruitschale",
+            "Menge": 30,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "US Cascade",
+            "Menge": 70
+        },
+        {
+            "Sorte": "Gapefruitschale",
+            "Menge": 10
+        }
+    ],
+    "Hefe": "Mangrove Jack M47",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 4.2,
+    "Anmerkung_Autor": "Ich bin mit dem Bier sehr zufrieden, genau so hatte ich mir das vorgestellt. Hell mit wenig Malzk\u00f6rper, die fruchtigen Komponenten aus der Grapefruit und dem Stopfhopfen harmonieren super mit den Estern aus der belgischen Hefe. Die sp\u00fcrbare Bittere balanciert das Ganze aus, so dass es nicht zu einem \"s\u00fcffigen Sch\u00fcttbier\" (ich hasse beide Begriffe) wird, wie sowas gern genannt wird. Der Schaum bleibt bis zum Ende.\r\n\r\nDie Menge der Grapefruitschale ist gesch\u00e4tzt. Es war Schale von 3 gro\u00dfen Grapefruits kurz vor Flameout und die Schale einer gro\u00dfen Grapefruit gestopft.\r\n\r\nIch habe dem Bier ausreichend Zeit gegeben, klar zu werden und habe erst nach ca. 3 Wochen (4 Tage CC) abgef\u00fcllt. Karbonisiert wurde mit Traubenzucker auf ca. 4,2 g\/l Co2. Das Wasser wurde nur mit Michs\u00e4ue auf RA0 eingestellt.\r\n\r\nGebraut wurde per BIAB. Nachg\u00fcsse im klassischen Sinne gab es also nicht. Bitte das Rezept nicht 1:1 \u00fcbernehmen, sondern an eure Anlage anpassen."
+}

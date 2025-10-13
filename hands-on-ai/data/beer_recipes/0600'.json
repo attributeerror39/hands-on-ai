@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Zum Uerige Alt",
+    "Datum": "21.06.2016",
+    "Sorte": "Altbier",
+    "Autor": "Kurt",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Zum Uerige Alt",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.9,
+    "Bittere": 50,
+    "Farbe": 30,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Quelle: http:\/\/barclayperkins.blogspot.de\/2014\/11\/lets-brew-wednesday-zum-uerige-alt.html\r\n\r\nhttp:\/\/bambergbeerguide.com\/images\/136-3675_IMG.jpg",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.64,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CARAM&Uuml;NCH II",
+            "Menge": 91,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CARAFA Spezial II",
+            "Menge": 50,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.636363636363635,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 10.909090909090908,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 18,
+            "Alpha": 7,
+            "Zeit": 65,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr&uuml;h",
+            "Menge": 27,
+            "Alpha": 5,
+            "Zeit": 65,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalt Spalter",
+            "Menge": 45,
+            "Alpha": 5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WYeast1010 oder WYeast1007",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Edit 2023: Online finden sich einige Quellen die von Mittelfr&uuml;h und Perle als Bittergabe (jeweils ca. 15 IBU) und Spalter als Aromagabe (25 IBU) berichten. Ich habe das Rezept entsprechend angepasst (Kochzeit von Spalter und Mittelfr&uuml;h getauscht).\r\n\r\nWasserprofil gem&auml;&szlig; D&uuml;sseldorf (Ca 86, Mg 12, Na 41, Cl 75, SO4 58), RA angepasst auf 0-2&deg;dH mit Milchs&auml;ure.\r\nNach der Hauptg&auml;rung Abk&uuml;hlen auf 10&deg;C, Lagern nahe 0&deg;C f&uuml;r 14 Tage.\r\n\r\nDie WYeast 1007 sedimentiert nur m&auml;&szlig;ig, erzeugt aber wirklich ein schnell trinkbares Bier. 2 Wochen nach Abf&uuml;llen schon wahnsinnig gut!"
+}

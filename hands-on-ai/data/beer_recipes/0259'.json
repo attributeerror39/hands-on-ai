@@ -1,0 +1,99 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Black Pearl",
+    "Datum": "29.11.2012",
+    "Sorte": "Brown Ale",
+    "Autor": "Gambrinus zu Borbetomagus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.5,
+    "Bittere": 31,
+    "Farbe": 36,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "Eine Mischung aus Porter und Stout mit deutliche R\u00f6staromen und einem sch\u00f6nen Malzk\u00f6rper. Die R\u00f6stnote geht Richtung Kaffee. Massentauglich und zum Massenverzehr geeignet.",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 1.05,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 1.05,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener ",
+            "Menge": 2.11,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 530,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 110,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraFa spez. 2 ",
+            "Menge": 42,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara dunkel",
+            "Menge": 260,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.789473684210527,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 21.052631578947366,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 26,
+            "Alpha": 7,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding ",
+            "Menge": 13,
+            "Alpha": 5.9,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings Wirlpool",
+            "Menge": 13,
+            "Alpha": 5.9,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "20-22",
+    "Endvergaerungsgrad": 4,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Durch die Malzsch\u00fcttung sage ich mal ist das was f\u00fcr den Fortgeschrittenen Brauer. Nachg\u00fcsse bis 10-15% unter Zielstammw\u00fcrze. CaraFa erst bei aufheizen von 72-78 Grad zugeben. Auch dieses Bier wurde von einer gro\u00dfen Jury verkostet und als gutes Dunkles bezeichnet, malzig und nicht zu mastig, deutliche R\u00f6staromen, sanfte Bittere. Es wurde zu meinem erstaunen 20 Liter getrunken obwohl noch 40 l helles zur Auswahl stand. Normal wird immer recht wenig dunkles verzehrt."
+}

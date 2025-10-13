@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Cascade Weizen",
+    "Datum": "16.09.2012",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Horstibus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 20,
+    "Farbe": 15,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Leicht r\u00f6tliches,erfrischendes Weizen, mit frischen Zitrusaromen, die vom Cascade stammen.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.74,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 1.91,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 480,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.782608695652172,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 50,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 48
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.173913043478262,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 13,
+            "Alpha": 6,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Casade",
+            "Menge": 4,
+            "Alpha": 5,
+            "Zeit": 35,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Casade",
+            "Menge": 9,
+            "Alpha": 5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Woinemer Brauereihefe Weizen",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "Erst 21 Liter mit ca 14,5\u00b0 danach verd\u00fcnnt auf 12,5\u00b0.\r\n\r\n"
+}

@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "After Eight Stout",
+    "Datum": "18.06.2019",
+    "Sorte": "Stout",
+    "Autor": "Neubierig",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.3,
+    "Bittere": 33,
+    "Farbe": 142,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Schokoladiges Stout mit Pfefferminz - wie mit der S\u00fc\u00dfigkeiten muss man nicht unbedingt bis 20:00 warten!",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malt",
+            "Menge": 2.59,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Brown Malt",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Low Colour Chocolate Malt",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Hafeflocken",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch III",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Roasted Barley",
+            "Menge": 90,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 69,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Fuggles",
+            "Menge": 47,
+            "Alpha": 6.24,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Pfefferminztee",
+            "Menge": 20,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "WLP004 Irish ALe",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 3,
+    "Anmerkung_Autor": "Brown Malt ist anscheinend besonders gut daf\u00fcr, das Bier einen schockoladige Geschmack zu geben. Das ist mein erstes Bier damit, und es scheint ziemlich gut zu gehen.\r\n\r\nDer Pfefferminztee wurde als Teebeutel ins Bier fast beim G\u00e4rende eingeworfen - Papieretikette abschneiden!  Ich wollte die sterilisieren, wollte aber nicht kochen (wegen Aroma- bzw Geschmack-verlust).  Die gingen also in einem Vakuumbeutel mit etwa Wasser, vakuumiert (der Caso V100 kann das), und dann ab in den Einkocher bei 80\u00b0C f\u00fcr 30-60 Min. Dann ins G\u00e4reimer f\u00fcr eine Woche.\r\n\r\nDer Pfefferminz Aroma und Geschmack ist ziemlich stark als das Bier jung ist.  Mit Zeit baut es ein bissl ab, wird aber auch runder und mehr integriert.  Langzeittests bzgl Aromaabbau finden noch statt, der Verlust scheint aber eingeschr\u00e4nkt zu sein."
+}

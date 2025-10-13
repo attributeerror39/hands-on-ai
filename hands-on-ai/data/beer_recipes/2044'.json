@@ -1,0 +1,94 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Oooo-rona",
+    "Datum": "02.12.2024",
+    "Sorte": "American Lager",
+    "Autor": "Sauppi",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Corona Extra",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.2,
+    "Bittere": 19,
+    "Farbe": 6,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Mein aktueller Stand beim Versuch, ein International Pale Lager nach dem Stil von Corona Extra nachzubrauen. Das Ergebnis ist ein strohgelbes, leicht zu trinkendes Bier mit kaum wahrnehmbaren Ecken und Kanten. Durch die Zugabe von Maisflocken entsteht ein geringer Eindruck von S&uuml;&szlig;e und Vollmundigkeit, obwohl das Bier ansonsten recht trocken wird. Mind. sechs Wochen Lagerung zur Kl&auml;rung empfohlen!",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.82,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Reisflocken",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Maisflocken",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Glucoamylase",
+            "Menge": 5,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.363636363636363,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.181818181818182,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tradition (DE)",
+            "Menge": 18,
+            "Alpha": 5.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tradition (DE)",
+            "Menge": 18,
+            "Alpha": 5.8,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 5,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Hefen&auml;hrsalz",
+            "Menge": 5,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "Lallemand Diamond Lager",
+    "Gaertemperatur": "11",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Unbedingt ausreichend Hefe verwenden; also eher drei Packungen oder frische Erntehefe. Das Bier soll sehr sauber verg&auml;ren."
+}

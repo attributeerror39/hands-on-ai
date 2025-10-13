@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Tropicali 777",
+    "Datum": "12.07.2019",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "\u201eHopd\u201cBrewing",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 35,
+    "Farbe": 20,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Ein aus der Not entstandenes, sehr s\u00fcffiges Ale von kr\u00e4ftig goldener F\u00e4rbung, gewaltiger Aromadichte von tropischen Fr\u00fcchten - verpackt in einem s\u00fc\u00dflichem, volumin\u00f6sen K\u00f6rper, der abgerundet wird von einer Schaumkrone, die sogar so manches Wei\u00dfbier vor Neid noch blasser werden l\u00e4sst.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner I",
+            "Menge": 1.36,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 90,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 24,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 4,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 14,
+            "Alpha": 11.7,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 14,
+            "Alpha": 11.7,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 14,
+            "Alpha": 11.7,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 36
+        },
+        {
+            "Sorte": "Enigma",
+            "Menge": 10
+        }
+    ],
+    "Hefe": "S-04",
+    "Gaertemperatur": "18-22",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Gebraut mit BM10.\r\n\r\nNach dem L\u00e4utern dauerte es 40 min bis Kochtemperatur erreicht war.\r\n\r\nWichtig: Gebt dem Bier Zeit zum reifen! ( eine Woche mehr und es war ein g\u00e4nzlich anderes Bier )\r\nK\u00f6stlich & trinkbereit nach einem Monat ab Brautag!"
+}

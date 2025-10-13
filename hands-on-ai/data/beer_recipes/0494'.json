@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "helles Weizen",
+    "Datum": "09.07.2015",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "floflue",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 18,
+    "Farbe": 11,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "helles, spritziges Weizenbier mit Bananenaroma",
+    "Malze": [
+        {
+            "Name": "Weizen hell",
+            "Menge": 2.55,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 1.53,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 510,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 510,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.487179487179485,
+    "Einmaischtemperatur": 47,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.35897435897436,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 12,
+            "Alpha": 4.6,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 18,
+            "Alpha": 4.6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "GOZDAWA Bavarian Wheat11",
+    "Gaertemperatur": "24-26",
+    "Anmerkung_Autor": "Die Gozdawa BW11 soll ab 26\u00b0C Bananenaroma produzieren. Hefe wurde bei 26\u00b0C angestellt und die Temperatur ist w\u00e4hrend der G\u00e4rung dann auf 24\u00b0C gefallen."
+}

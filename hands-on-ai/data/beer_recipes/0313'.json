@@ -1,0 +1,97 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "L\u00e4rcherlschas",
+    "Datum": "12.06.2013",
+    "Sorte": "Helles Bockbier",
+    "Autor": "sweet",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 18,
+    "Bittere": 58,
+    "Farbe": 20,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "R\u00f6tliches,oberg\u00e4riges Bockbier mit L\u00e4rchenaroma.\r\nSiegerbier der \u00f6sterr. Staatsmeisterschaft 2013, Kategorie \"Kreativbiere\"",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4.09,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 910,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 450,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.454545454545453,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 56,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 0
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 17.272727272727273,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 35,
+            "Alpha": 12.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 6,
+            "Alpha": 6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 10,
+            "Alpha": 6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Waldhonig",
+            "Menge": 455,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 20
+        }
+    ],
+    "Hefe": "Danstar Nottingham Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 83,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "neben den 22g Cascade auch mit einigen jungen Asterln der L\u00e4rche \"stopfen\". Die Nadeln m\u00fcssen noch ganz hellgr\u00fcn sein."
+}

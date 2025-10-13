@@ -1,0 +1,110 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Brotbier II - Dunkel",
+    "Datum": "06.07.2022",
+    "Sorte": "Brown Ale",
+    "Autor": "Gio98@Capitano",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 28,
+    "Farbe": 32,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Ein s\u00fcffiges Dunkles mit moderater Bittere, bei dem ein Teil des Malzes durch altes Brot ersetzt wurde. Dezente R\u00f6staromen, sch\u00f6ner Schaum.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 750,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 730,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 880,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin",
+            "Menge": 880,
+            "Einheit": "g"
+        },
+        {
+            "Name": "altes (trockenes) Brot",
+            "Menge": 550,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa II",
+            "Menge": 64,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.571428571428573,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 19,
+            "Alpha": 6.3,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 14,
+            "Alpha": 6,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 14,
+            "Alpha": 6,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 11,
+            "Alpha": 6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "20-22",
+    "Endvergaerungsgrad": 57,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Das alte Brot schon vor dem Einmaischen zugeben.\r\nDas Pilsener Malz und das Carafa II R\u00f6stmalz erst zu Beginn der zweiten dritten Rast zugeben. Durch die sp\u00e4tere Zugabe des R\u00f6stmalzes sind die R\u00f6staromen nicht so ausgepr\u00e4gt.\r\nLeider war eine Packung Danstar Nottingham wohl zu wenig. Nach 5 Tagen und keiner G\u00e4raktivit\u00e4t betrug die gemessene Stammw\u00fcrze noch 7. Deshalb wurde noch als Ersatzhefe die Munich Classic La Brew Lallemand German Wheat-style ale yeast hinzugegeben. Bei der Menge an Ausschlagw\u00fcrze und der Stammw\u00fcrze lieber 2 Packungen der Danstar Nottingham verwenden."
+}

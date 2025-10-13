@@ -1,0 +1,69 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Codename Aventina",
+    "Datum": "28.01.2019",
+    "Sorte": "Weizenbock",
+    "Autor": "alt-phex",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.5,
+    "Bittere": 25,
+    "Farbe": 54,
+    "Alkohol": 7.8,
+    "Kurzbeschreibung": "Dunkler Weizenbock in Anlehnung an das Aventinus von Schneider. Malzig und S\u00fcffig mit sch\u00f6ner Hopfennote. ",
+    "Malze": [
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcchner II (Dunkel)",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Dunkel",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Phoenix",
+            "Menge": 20,
+            "Alpha": 10.9,
+            "Zeit": 75,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Mittelfr\u00fch",
+            "Menge": 20,
+            "Alpha": 3.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Gestrippte Gutmann Hefe",
+    "Gaertemperatur": "20-25",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Meine Frau mag gerne dunkle, malzige Biere und die am besten als Starkbiere. Ich habe mich da erstmal an Boludos Rezept orientiert und das entsprechend angepasst. Das Ergebnis ist ein leckerer Weizenbock der seinen hohen Alkoholgehalt gut verstecken kann.\r\n\r\nPhoenix als Bitterhopfen ist nicht wichtig, der war halt noch da. Es geht auch jeder andere Bitterhopfen."
+}

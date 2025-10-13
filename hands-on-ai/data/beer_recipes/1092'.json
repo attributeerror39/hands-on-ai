@@ -1,0 +1,62 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Gohrer Kellerbier hell",
+    "Datum": "09.05.2019",
+    "Sorte": "Kellerbier",
+    "Autor": "locke74",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 26,
+    "Farbe": 12,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Goldgelbes oberg\u00e4riges Kellerbier. Moderate Bittere. Sch\u00f6nes Hopfearoma vom Saazer Hopfen.",
+    "Malze": [
+        {
+            "Name": "B\u00f6hmisches Tennenmalz",
+            "Menge": 4.1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CARAM\u00dcNCH II",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.7,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16.5,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 25,
+            "Alpha": 7,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 25,
+            "Alpha": 4.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WYEAST 1007 German Ale",
+    "Gaertemperatur": "15",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5
+}

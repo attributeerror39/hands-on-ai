@@ -1,0 +1,113 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Quezale",
+    "Datum": "16.08.2021",
+    "Sorte": "Pale Ale",
+    "Autor": "kaso",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 33,
+    "Farbe": 8,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Ein sommerliches Erfrischungsbier mit Fr\u00fcchten vergoren - sau Gut.\r\nEin Bier das durch Pfirsich und Aprikose in der Hauptg\u00e4rung sehr s\u00e4uerlich daher kommt und somit perfekt zu sommerlichen Temperaturen passt. ",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.64,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken ",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Maisflocken",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 91,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.090909090909093,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 77,
+            "Zeit": 0
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 10.909090909090908,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Jarrylo",
+            "Menge": 9,
+            "Alpha": 14.4,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Jarrylo",
+            "Menge": 7,
+            "Alpha": 14.4,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Jarrylo",
+            "Menge": 23,
+            "Alpha": 14.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 23,
+            "Alpha": 12.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 5,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Jarrylo",
+            "Menge": 47
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Pfirsich",
+            "Menge": 873,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Aprikose",
+            "Menge": 436,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "US-05 2. F\u00fchrung",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Bier wurde ein Volltreffer.\r\nEigentlich wollte ich mit Fr\u00fcchten Experimentieren ohne mir das \r\nganze zu kompliziert zu machen. Deshalb habe ich Dosenfr\u00fcchte verwendet. \r\nDa diese meist leicht gezuckert sind, wurden diese mit Wasser abgewaschen,\r\nklein geschnippelt und portionsweise Tiefgefroren. Die tiefgefrorenen St\u00fccke wurden nach der HG zusammen mit dem Stopfhopfen 4 Tage zugegeben.   Danach wurde bei 2\u00b0C ein Coldcrash gemacht. \r\nDa die Fr\u00fcchte noch einen gewissen Zucker (ca 140g) in die W\u00fcrze bringen, habe ich den theoretischen Alkoholgehalt angehoben.\r\n\r\nKarbonisiert wurde mit Haushaltszucker - Dosierhilfe.\r\n\r\nDas Wasser wurde mit einem Mischbettvollentsalzer vorbehandelt und im Verh\u00e4ltnis 3:1 mit Rohwasser verschnitten. \r\n\r\nWasser Sollwerte nach der Tabelle von Schlupf. \r\n\r\nWasserwerte aufbereitet [mg\/l]\t\r\nKationen:\t\r\nCalcium\t98,59\r\nMagnesium\t6,69\r\nNatrium\t5,38\r\nAnionen:\t\r\nHydrogencarbonat 84,47\r\nChlorid 6,38\r\nSulfat 142,63\r\n\r\nRestalkalit\u00e4t\t-0,29\r\n\r\nDie Hefe war eine US-05 in 2.  F\u00fchrung und brachte eine EVG von 80% bei 19-20\u00b0C G\u00e4rtemperatur (Kellervorraum).\r\n\r\nDas Bier ist trotz der Zugabe von Hafer und Maisflocken sehr klar geworden, einzig der Schaum ist recht kurzlebig und nur gering ausgepr\u00e4gt. \r\n\r\n\r\n"
+}

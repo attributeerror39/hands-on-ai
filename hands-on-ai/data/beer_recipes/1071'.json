@@ -1,0 +1,101 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hopfen Klopfer",
+    "Datum": "25.03.2019",
+    "Sorte": "Brown Ale",
+    "Autor": "Shab1309",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.3,
+    "Bittere": 87,
+    "Farbe": 27,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Mittel Dunkels Ale mit einer leicht fruchtigen, feinen Hopfennote im Antrunk. Sehr bitter im Abgang. Cremiger und stabiler Schaum. ",
+    "Malze": [
+        {
+            "Name": "Pale Ale ",
+            "Menge": 3.08,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 1.22,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 880,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch II",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 26.666666666666664,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 7.5,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Pacific Gem",
+            "Menge": 33,
+            "Alpha": 14,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "First Gold ",
+            "Menge": 22,
+            "Alpha": 7,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria ",
+            "Menge": 27,
+            "Alpha": 8.7,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 60,
+            "Alpha": 7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mandarina 3 Tage absichtlich zur Hauptg\u00e4rung",
+            "Menge": 28
+        },
+        {
+            "Sorte": "First Gold 3 Tage absichtlich zur Hauptg\u00e4rung",
+            "Menge": 22
+        }
+    ],
+    "Hefe": "US 05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Nach\u00adisomerisie\u00adrungszeit ~ 15 min.\r\n\r\nIch verwende unbehandeltes D\u00fcsseldorfer Leitungswasser und Hopfenpellets.\r\n\r\nDie Haupt- und Nachgussmenge ist gesch\u00e4tzt, einfach an SHA und Stammw\u00fcrze anpassen.\r\n\r\n"
+}

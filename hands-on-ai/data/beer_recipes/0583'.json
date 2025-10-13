@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Simcoe <sup>4<\/sup>",
+    "Datum": "10.04.2016",
+    "Sorte": "Pale Ale",
+    "Autor": "herbie01",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 19,
+    "Farbe": 10,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "fruchtiges Ale mit vierfacher Hopfengabe",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 210,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.814814814814813,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 7.5
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.62962962962963,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 1,
+            "Alpha": 12.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 10,
+            "Alpha": 12.9,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 22,
+            "Alpha": 12.9,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 40
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5.5
+}

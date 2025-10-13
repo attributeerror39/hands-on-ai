@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Saisonfaction (i can't get no)",
+    "Datum": "09.04.2022",
+    "Sorte": "Saison",
+    "Autor": "marsabba",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 25,
+    "Farbe": 13,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Und schon wieder ein Saison, gut ausgewogen zwischen Hefe, Hopfen und Malz.  Das Besondere ist die Verwendung von zweier Hefen zur Verg\u00e4rung.",
+    "Malze": [
+        {
+            "Name": "Wiener",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 900,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen, roh",
+            "Menge": 700,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 73,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hersbrucker Sp\u00e4t",
+            "Menge": 32,
+            "Alpha": 3.9,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 25,
+            "Alpha": 4.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hersbrucker Sp\u00e4t",
+            "Menge": 20,
+            "Alpha": 3.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Panela Zucker",
+            "Menge": 250,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Haushaltszucker",
+            "Menge": 200,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Kveik Voss + Belle Saison",
+    "Gaertemperatur": "25",
+    "Endvergaerungsgrad": 92,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Man beachte das hier zwei Hefen zugegeben wurden (Mischung so ca 50\/50). Die Idee war, das die Belle Saison nicht zu dominant r\u00fcberkommt, sondern durch die Voss ged\u00e4mpft wird... hat ganz gut funktioniert.\r\nEinen Monat Lagerung sollte man dem Bier aber dennoch geben , bis es rund wird."
+}

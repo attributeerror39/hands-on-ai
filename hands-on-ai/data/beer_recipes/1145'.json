@@ -1,0 +1,95 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Blanche de Langen",
+    "Datum": "16.09.2019",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "Neubierig",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 20,
+    "Farbe": 6,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Sehr helles, naturtr\u00fcbes Bier, nach Belgischer Witbier Art.  Sch\u00f6ner Zitrusgeschmack, Koriander nicht zu dominant, super erfrischend f\u00fcr die heisse Sommertage!",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Rohfrucht",
+            "Menge": 1.7,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 420,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17,
+    "Einmaischtemperatur": 42,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 22,
+            "Alpha": 7.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Dried Bitter Orange Peel",
+            "Menge": 16,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Koriander",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Kreuzk\u00fcmmel",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Getrocknete Kamillebl\u00fcten",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Wyeast 3944 Wit",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die Gew\u00fcrze (Koriander und Kreuzk\u00fcmmel) wurden als ganze Samen leicht angebraten (trocken, in einem Wok) und dann mittels St\u00f6\u00dfel und M\u00f6rser zerkleinert.  Ich sehe gerade, dass die Mengen hier aufgerundet werden, was ich f\u00fcr fatal halte - die eigentliche Mengen sind:\r\n\r\nOrange Peel: 16g\r\nKoriander: 9,6g\r\nKreuzk\u00fcmmel: 0,64g\r\nKamillebl\u00fcten: 1,6g\r\n\r\nDie Kamillebl\u00fcten sind eine Idee von Randy Mosher's Radical Brewing.\r\n\r\nKarbonisierung k\u00f6nnte h\u00f6her sein - ca 7g\/l?\r\n\r\nDie Hefe ist entscheidend, aber wenn Ihr eine eigene Lieblings Witbierhefe hat, dann nat\u00fcrlich gerne ...\r\n\r\nEin Wort zum Wasser: Ich benutzte 100% Osmosewasser, so aufgesalzen:\r\n\r\nCa 55 ppm\r\nMg 12 ppm\r\nCl 97 ppm\r\nSO4 52 ppm\r\n\r\nMeine Meinung zu den Haupt- und Nachgussmengen: Die Werte hier im Rezept sind die, die der KBH mir ausspuckte. Ich achte nie darauf.  Jedermann sollte Haupt und Nachguss nach seine\/ihre eigene Anlage und Erfahrung berechnen."
+}

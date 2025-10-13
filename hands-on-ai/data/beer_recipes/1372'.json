@@ -1,0 +1,71 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Fresh Impact",
+    "Datum": "05.11.2020",
+    "Sorte": "Pale Ale",
+    "Autor": "Boludo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 60,
+    "Farbe": 25,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Comet Frischopfenbier Ernte 2020 aus meinem Garten",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 5.26,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara M\u00fcnch II",
+            "Menge": 260,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.789473684210527,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 74,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 15.789473684210527,
+    "Kochzeit_Wuerze": 120,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Comet fresh Hop",
+            "Menge": 263,
+            "Alpha": 2,
+            "Zeit": 120,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Comet fresh Hop",
+            "Menge": 395,
+            "Alpha": 2,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 5.3,
+    "Anmerkung_Autor": "Der Alphas\u00e4uregehalt ist nur grob gesch\u00e4tzt. Die Dolden waren eine Woche lang nach der Ernte tiefgefroren. Nachgu\u00dfmenge ist nur gesch\u00e4tzt. Die lange Kochdauer ist wegen zu geringer Stammw\u00fcrze zustande gekommen. Den Whirlpoolhopfen hab ich noch kochend zugegeben und dann sofort in ein paar Minuten auf 80\u00b0C gek\u00fchlt. Die gewaltige Hopfenmenge muss man nach dem Hopfenseihen noch ausquetschen, um Verluste zu minimieren. \r\nBrauwasser ist 100% Osmosewasser mit 200mg CaCl2x2H2O pro Liter. Carbonisiert wurde mit Traubenzucker (8g Glukose\/Liter).\r\nEs ist absoluit erstaunlich, wie intensiv der Comet mit seinen Blaubeeraromen durchkommt, obwohl nicht gestopft wurde.\r\nDie Bittere ist deutlich, aber sehr angenehm und wie viel IBU das wirklich sind kann ich nicht sagen. Comet und Cara M\u00fcnch II passen einfach nur genial zusammen, ich hab noch mal die selbe Menge Hopfen \u00fcbrig und n\u00e4chstes Mal kommt da noch ein halbes Kilo Muscovado mit rein.\r\n\r\nUm ehrlich zu sein bin ich total begeistert, eines meinerbesten Biere seit langem!"
+}

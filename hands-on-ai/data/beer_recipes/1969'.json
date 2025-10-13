@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Af White IPA",
+    "Datum": "16.03.2024",
+    "Sorte": "Alkoholfreies\/-armes",
+    "Autor": "Der verr\u00fcckte Hutmacher",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 6.5,
+    "Bittere": 23,
+    "Farbe": 7,
+    "Alkohol": 0.5,
+    "Kurzbeschreibung": "Erfrischendes , leichtes Af-Weizen-IPA mit ausgepr&auml;gtem Hopfenaroma bei gering bis moderater Bittere. Ein leckeres Bier f&uuml;r jede Gelegenheit. Es wurde im Bekanntenkreis von Testtrinkern, die nicht so tief in der Materie sind, anfangs nicht als Alkoholfreies erkannt.",
+    "Malze": [
+        {
+            "Name": "Weizen",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener",
+            "Menge": 530,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M&uuml;nchner",
+            "Menge": 530,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 12,
+            "Alpha": 8,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Celeia",
+            "Menge": 7,
+            "Alpha": 2.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Pomeranzenschale",
+            "Menge": 7,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 18
+        },
+        {
+            "Sorte": "Ekuanot (oder Amarillo)",
+            "Menge": 18
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 18
+        }
+    ],
+    "Hefe": "Fermentis LA-01",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 15,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Der pH-Wert sollte nach dem Kochen mit Milchs&auml;ure auf 5 oder darunter angepasst werden. Nicht unter 4,6 gehen, da das Bier sonst s&auml;uerlich schmecken k&ouml;nnte. Die Stammw&uuml;rze (6,5-9) bzw. der Restextrakt und damit der Alkoholgehalt kann je nach Geschmack auch nach der Hauptg&auml;rung durch Verd&uuml;nnung eingestellt werden. Wenn sauber gearbeitet wird, ist das im Winter oder Fr&uuml;hjahr gebraute Bier im Keg bis in den Sommer haltbar. Am besten das Keg vor dem Anstich frisch mit je 18g des jeweiligen Hopfen stopfen. So haben Fremdhefen, in dem Fall, dass sie durch das Stopfen eingeschlepptet wurden, weniger Zeit sich zu vermehren und eine erneute G&auml;rung auszul&ouml;sen."
+}

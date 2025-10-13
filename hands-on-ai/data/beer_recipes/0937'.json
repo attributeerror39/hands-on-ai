@@ -1,0 +1,96 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Schw\u00e4bische Karibik",
+    "Datum": "07.08.2018",
+    "Sorte": "Pale Ale",
+    "Autor": "haefner",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 34,
+    "Farbe": 11,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Dunkelgelbes Wheat Pale Ale mit starken Fruchtnoten von karibischen Fr\u00fcchten, ohne dabei zu wenig nach einem klassischen Bier zu schmecken. Cremiger Schaum und ebenso cremiges Mundgef\u00fchl.",
+    "Malze": [
+        {
+            "Name": "Weizen Hell",
+            "Menge": 2.08,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 1.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 410,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.714285714285714,
+    "Einmaischtemperatur": 62,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Jarrylo",
+            "Menge": 14,
+            "Alpha": 12,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Jarrylo",
+            "Menge": 7,
+            "Alpha": 12,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 7,
+            "Alpha": 7.3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 7,
+            "Alpha": 8.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Jarrylo",
+            "Menge": 43
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 40
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Nachisomersationszeit: 10 Minuten. Das Brauwasser wurde auf 5\u00b0dH eingestellt. Hopfenstopfen f\u00fcr 5 Tage.\r\n\r\nDie Idee war sehr fruchtiges und s\u00fcffiges Sommerbier, was mir mit dem Rezept auch gelang. Der Schaum ist sehr cremig, feinporig und best\u00e4ndig. So f\u00fchlt sich auch das Bier im Mund an. Es l\u00e4uft weich aber sahnecremig durch den Mund, wirklich super und angenehm. Der erste Geruchstest geht sehr stark auf Orange Mango, hier sticht wohl der Jarrylo deutlich raus. Das Bier ist aber relativ schlank und starke Fruchtaromen von Mango, Pfirsich, Orange stehen in einem super Verh\u00e4ltnis zur Bittere. "
+}

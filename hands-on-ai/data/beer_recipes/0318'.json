@@ -1,0 +1,80 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Amarillo Weizenbock, das Original",
+    "Datum": "09.07.2013",
+    "Sorte": "Weizenbock",
+    "Autor": "berndh",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.5,
+    "Bittere": 15,
+    "Farbe": 22,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "gelb-orange farbenes leckeres Weizenbock gepr&auml;gt vom Aroma des Amarillohopfens. S&uuml;ffig aromatisch und mit guter Schaumstabilit&auml;t.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2.61,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wienermalz",
+            "Menge": 1.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchnermalz",
+            "Menge": 870,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pilsenermalz",
+            "Menge": 870,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.347826086956522,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.347826086956522,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 9,
+            "Alpha": 9.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 7,
+            "Alpha": 9.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 3638 Bavarian Wheat",
+    "Gaertemperatur": "23",
+    "Karbonisierung": 7,
+    "Anmerkung_Autor": "Direkt nach der G&auml;rung eine Aroma-Fruchtbombe. Keine Nelke, keine Banane, daf&uuml;r ein riesiger exotischer Fruchtcocktail. Nach 3 Wochen Lagerung hat sich der riesen Fruchtkorb normalisiert und ist mit dem Aroma des Amarillohopfens zu einem ausgewogenen Gesamtergebnis verschmolzen. Ein Bierchen das von vielen Verkostern, egal ob Frau oder Mann, als ausgesprochen lecker empfunden wurde. Das braue ich garantiert nochmal.\r\nWichtig: Nutzt man statt der WYeast 3638 eine andere Hefe, erh&auml;lt man ein Bier mit einem v&ouml;llig(!) anderen Aromaprofil. Daher bitte nach M&ouml;glichkeit die 3638 benutzen."
+}

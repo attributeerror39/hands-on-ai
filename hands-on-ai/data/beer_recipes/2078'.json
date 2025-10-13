@@ -1,0 +1,122 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Lahma Rot-Wei&szlig; 2025",
+    "Datum": "06.03.2025",
+    "Sorte": "Dunkles Hefeweizen",
+    "Autor": "jj.triessl",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.4,
+    "Bittere": 23,
+    "Farbe": 32,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Unser Beitrag zur HB-CON 2025 in Romrod: \r\nDie Fr&auml;nkische Rote Wei&szlig;e von Lahma Br&auml;u!",
+    "Malze": [
+        {
+            "Name": "Best Red X",
+            "Menge": 1.81,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 1.41,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Dunkel",
+            "Menge": 970,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoedinmalz",
+            "Menge": 340,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamellmalz Rot",
+            "Menge": 64,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.799999999999997,
+    "Einmaischtemperatur": 36,
+    "Rasten": [
+        {
+            "Temperatur": 35,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 45,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 3,
+            "Alpha": 20.6,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Monroe",
+            "Menge": 4,
+            "Alpha": 3.5,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Herkules",
+            "Menge": 2,
+            "Alpha": 20.6,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Monroe",
+            "Menge": 6,
+            "Alpha": 3.5,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Monroe",
+            "Menge": 6,
+            "Alpha": 3.5,
+            "Zeit": 100,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Monroe",
+            "Menge": 6,
+            "Alpha": 3.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "Gozdawa Bavarian Wheat 11",
+    "Gaertemperatur": "23",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Wir haben den Sud geteilt und die H&auml;lfte mit Jack&#039;s Belgian Wit M21 vergoren. F&uuml;r uns ist die Wit-Hefe deutlich interessanter: frucktig-trockener und feineres Mundgef&uuml;hl als die Weizenhefe."
+}

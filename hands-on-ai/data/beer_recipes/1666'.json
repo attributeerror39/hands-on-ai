@@ -1,0 +1,63 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mommy Sour",
+    "Datum": "28.04.2022",
+    "Sorte": "Sauerbier",
+    "Autor": "jmooren",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 10.5,
+    "Bittere": 9,
+    "Farbe": 8,
+    "Alkohol": 4.2,
+    "Kurzbeschreibung": "Mommy Sour ist ein Fruited Sour welches mit der Philly Sour und Blaubeeren vergoren wird.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.84,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 1.37,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 470,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 26.315789473684212,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 45
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Kochzeit_Wuerze": 30,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 13,
+            "Alpha": 8,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Blaubeerp\u00fcree",
+            "Menge": 2368,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Lallemand Wildbrew Philly Sour",
+    "Gaertemperatur": "23",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Urspr\u00fcnglich sollte es ein Kettle Sour werden, da ich aber zeitlich mit dem Nachwuchs mehr als besch\u00e4ftigt bin habe ich mich deshalb f\u00fcr die Philly Sour Hefe entschieden. Die S\u00e4ure der Philly ist wirklich angenehm und diese bringt erstaunlicherweise sogar leichte Tart Nuancen mit ins Spiel.\r\n\r\nGebraut wurde im BIAB-Verfahren. Deswegen findet Ihr im Rezept auch keine Angabe zum Nachguss.\r\n\r\nWasserprofil - Hier habe ich mich stark an einer Berlinen Weisse orientiert: \r\nCa 50mg\r\nMg 9mg \r\nNa 29mg\r\nCl 44mg\r\nSulfat 34mg\r\n\r\nNach meiner Recherche im Internet und einem\r\nWebinar (Youtube) von Lallemand habe ich mich an folgende Empfehlungen f\u00fcr die Philly Sour gehalten:\r\n- Warm anstellen -> 30 Grad \r\n- G\u00e4rtemperatur von 23 Grad \r\n- Pitchrate von 1.5g\/l \r\n- Am Tag 4-5 der G\u00e4rung erfolgt die Fruchtzugabe da hier das Optimum an S\u00e4ure\/Alkohol entsteht\r\n\r\nWas bei dieser Hefe sehr spannend war zu beobachten, dass die ersten 2-3 Tage keine Aktivit\u00e4t im G\u00e4rspund h\u00f6rbar war. Das liegt daran, dass in der Anfangszeit ges\u00e4uert wird und erst dann die eigentlich \u201ebekannte\u201c Hauptg\u00e4rung beginnt.\r\n\r\nAm 4\/5 Tag wurde dann 140g\/l  p\u00fcrierte TK-Blaubeeren in den Fermenter gegeben und das ganze nach einer Woche Ruhezeit + 2 Tage Cold Crash mit Hilfe eines Floating Dip Tubes in das Serving Keg gedr\u00fcckt.\r\n\r\nPH vor der Fruchtgabe: 3.6\r\nPH nach der Fruchtgabe: 3.2\r\n\r\nKarbonisiert wurde auf 5.5g\/l\r\n\r\nFazit: Es ist ein super leckeres Bier geworden was aber keines Fall zu sauer oder zu lasch ist. Ich pers\u00f6nlich finde die S\u00e4ure sehr ausgewogen und die Blaubeeren kommen zur Geltung. Ich werde das Bier auf jeden Fall nochmal brauen: ein klasse Durstl\u00f6scher f\u00fcr den Sommer. Hier w\u00fcrde ich die Fruchtgabe aber sogar erh\u00f6hen damit die Blaubeeren noch st\u00e4rker rauskommen.\r\n\r\nDownload Etikett:\r\n<a href=\"https:\/\/ibb.co\/tYXWv0W\"><img src=\"https:\/\/i.ibb.co\/tYXWv0W\/4a6e0678-cab0-4789-8e89-809feea7773d.jpg\" alt=\"4a6e0678-cab0-4789-8e89-809feea7773d\" border=\"0\" \/><\/a>"
+}

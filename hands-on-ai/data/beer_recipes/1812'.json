@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "BoHo IPA",
+    "Datum": "10.05.2023",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "heizdecke",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 50,
+    "Farbe": 20,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "Malzig, herbes, hopfenlastiges IPA. ",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.73,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.27,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Helles Karamalz",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rotes Karamalz",
+            "Menge": 180,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.545454545454547,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.909090909090908,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 10,
+            "Alpha": 12.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 10,
+            "Alpha": 12.8,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 10,
+            "Alpha": 12.8,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe bei < 80 Grad",
+            "Menge": 20,
+            "Alpha": 12.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "12g Fermentis safale US-05",
+    "Gaertemperatur": "17-20",
+    "Karbonisierung": 5.5
+}

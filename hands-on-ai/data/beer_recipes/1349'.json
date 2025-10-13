@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "DeSch\u00e4ngs dunkle Offenbarung",
+    "Datum": "09.09.2020",
+    "Sorte": "Dunkles Hefeweizen",
+    "Autor": "dirk1989",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 18,
+    "Farbe": 35,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Dies ist ein schmackhafte dunkle Offenbarung. Ein Note von Karamell warten auf dich. Wird immer gern zu Feierlichkeiten gebraut und kommt immer super an. ",
+    "Malze": [
+        {
+            "Name": "Weizenmalz Dunkel ",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz",
+            "Menge": 1.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen Caramel Malz",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 40,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perl Hopfen ",
+            "Menge": 8,
+            "Alpha": 8.1,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Saphir Hopfen",
+            "Menge": 11,
+            "Alpha": 5.6,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir Hopfen ",
+            "Menge": 8,
+            "Alpha": 5.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 3068",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "Alternativ statt den Saphir Hopfen kann man auch den Cascade Hopfen verwenden. "
+}

@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "4-Korn Weisse",
+    "Datum": "10.11.2017",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Tomtiburon",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 22,
+    "Farbe": 12,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "4-Korn Weisse , spritzig frisch mit komplexen Aromen :)",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.07,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 1.85,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Dinkelmalz",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Roggenmalz",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 280,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 56,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 38,
+    "Rasten": [
+        {
+            "Temperatur": 39,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 56,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 13,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 21,
+            "Alpha": 5.3,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 26,
+            "Alpha": 4.5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Safbrew WB-06",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "1. Rast nur Roggenmalz einmaischen! \r\nAb der 2. Rast das restliche Malz einmaischen."
+}

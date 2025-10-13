@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mandarina Hopfawoiza ",
+    "Datum": "30.04.2022",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "saxgaard",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.6,
+    "Bittere": 40,
+    "Farbe": 11,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Wei\u00dfbier mit vielseitigen Fruchtaromen. Farbe jenachdem wieviel Hefe man dazu sch\u00fcttet von Kristallweizen bis NEIPA.\r\nDer Einschenkende hat es also in der Hand.\r\nDer feinporige Schaum riecht und schmeckt nach Banane. Das Hefeweizen ist trotz der 40 IBU nicht bitter sondern hat einen zitrusfruchtigen Geschmack. Sowohl die Zitrone vom Citra, als auch die Mandarine vom Mandarina Bavaria Hopfen kommen sehr gut zur Geltung.\r\nVorsicht. Es bleibt selten bei drei Wei\u00dfbier, da sehr s\u00fcffig. ",
+    "Malze": [
+        {
+            "Name": "Weizen",
+            "Menge": 2.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener",
+            "Menge": 1.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 1.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 240,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20.5,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 7.5,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 25,
+            "Alpha": 11.1,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 10,
+            "Alpha": 4.3,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 8,
+            "Alpha": 8.7,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 25,
+            "Alpha": 13.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Wyeast 3068",
+    "Gaertemperatur": "19-21",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Brauverfahren BIAB mit Nachg\u00fcssen\r\n\r\nWhirlpoolhopfung bei 80 Grad f\u00fcr 10 Minuten\r\n\r\nAnstelltemp 19 Grad und langsam auf 21 Grad kommen lassen f\u00fcr 2 Tage.\r\nDie 21 Grad halten f\u00fcr 10 weitere Tage.\r\nWer noch mehr Banane mag, haut noch 2 Grad drauf.\r\n\r\nNachg\u00e4rung bei 20 Grad f\u00fcr 2 Wochen.\r\nAb ca. 1,5bar Flaschendruck tritt massiver Schwund ein. Mir sind fast zwei K\u00e4sten auf umin\u00f6se Art und Weise abhanden gekommen, obwohl die Nachg\u00e4rung noch nicht komplett abgeschlossen war.\r\n\r\nDas Brauwasser ist ein Verschnitt aus Purania und meinem Leitungswasser und kleine Zugaben von Salzen. Das f\u00fchrt letztendlich zu folgenden Werten (ungef\u00e4hr)\r\n\r\nCa67\r\nMg13\r\nNa8\r\nCl18\r\nSO4 47\r\nHCO3 165\r\n\r\nAuf dem Foto kann man gut erkennen, wie sich die Hefe nach unten absetzt und die Kristallweizen Charakteristik (farblich) in Richtung NEIPA verschiebt.\r\n\r\n"
+}

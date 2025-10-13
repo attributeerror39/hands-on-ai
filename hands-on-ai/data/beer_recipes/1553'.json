@@ -1,0 +1,73 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "America Red Rudolph",
+    "Datum": "01.09.2021",
+    "Sorte": "Pale Ale",
+    "Autor": "Brauwerk 76",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 35,
+    "Farbe": 22,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "Der oberg&auml;rige Bierstil Red Ale ist urspr&uuml;nglich eine irische Interpretation des englischen Bitters. Der Zusatz American sind besonders hopfige Auspr&auml;gungen des Stils mit typisch amerikanischen Aromahopfensorten gemeint. Dies ist ein klassischer Vertreter des Stils mit den Hopfensorten Cascade und Centennial. Frisch Fruchtig mit einer ausgewogenen Bittere kombiniert und mit einen trocken Abgang.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.74,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Amber",
+            "Menge": 390,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin Malz",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.434782608695652,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 10,
+            "Alpha": 9.1,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade US",
+            "Menge": 35,
+            "Alpha": 5.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 52
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 22
+        }
+    ],
+    "Hefe": "Fermentis Safale US-05",
+    "Gaertemperatur": "17-19",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Den Stopfhopfen nach der Hauptg&auml;rung f&uuml;r 2-3 Tage zugeben.Die Reifezeit betr&auml;gt 3-4 Wochen.Eine l&auml;ngere Lagerung(2-4&deg;C)kommen die feinen Aromen des Hopfens erst so richtig durch.Das Brauwasser wurde nicht behandelt."
+}

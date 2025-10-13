@@ -1,0 +1,71 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bruder Sp\u00fclwasser",
+    "Datum": "22.12.2011",
+    "Sorte": "Belgisches Blonde Ale",
+    "Autor": "flying",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.4,
+    "Bittere": 29,
+    "Farbe": 13,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Belgisches Blondes a la Trappist. Der Haustrunk der M\u00f6nche.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.92,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 690,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Grafschafter Karamellsirup",
+            "Menge": 770,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.384615384615385,
+    "Einmaischtemperatur": 74,
+    "Rasten": [
+        {
+            "Temperatur": 69,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 70,
+    "Nachguss": 15.384615384615385,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 18,
+            "Alpha": 8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 32,
+            "Alpha": 3.1,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Frischgeschroteter Koriander",
+            "Menge": 9,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Wyeast 3787 Trappist High Gravity ",
+    "Gaertemperatur": "24",
+    "Endvergaerungsgrad": 80,
+    "Anmerkung_Autor": "Absteigende Infusion. Eingemaischt im L\u00e4uterbottich bei 74\u00b0- ergab 69\u00b0. 90 min stehen lassen = 61\u00b0. Abmaischen und einmal Batchsparging mit 10 L a 80\u00b0.\r\n"
+}

@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Caffrey`s - Klon",
+    "Datum": "08.03.2021",
+    "Sorte": "Irish Ale",
+    "Autor": "Chouffe",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Caffrey`s",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.6,
+    "Bittere": 27,
+    "Farbe": 45,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Ein sehr mildes, aber auch sehr s\u00fcffiges Irish Ale mit dezenter Karbonisierung wie es in Irland und Grossbrittanien \u00fcblich ist. \r\nHellbraune Farbe. Sicherlich auch was f\u00fcr die Altbier Fans unter uns.",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 3.19,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Crystal Malz ( L60 )",
+            "Menge": 150,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamel Malz hell",
+            "Menge": 150,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenflocken ",
+            "Menge": 100,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malz",
+            "Menge": 10,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.074074074074074,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 59,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.37037037037037,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 20,
+            "Alpha": 8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 7,
+            "Alpha": 6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast London Ale 1028",
+    "Gaertemperatur": "15-20",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Hopfenangabe in Pellets. G\u00e4rung 7 -10 Tage. Geniessbar bereits nach 14 Tagen des Abf\u00fclldatums.\r\nUm einen cremigen Schaum zu erreichen empfehle ich die Karbonisierung mit Chocolate Malz Extrakt auf 9 Gramm pro Liter.\r\nEmpfehlenswert auch beim einschenken aus der Flasche, die Flasche m\u00f6glichst mit einem mal schnell ins Glas entleeren. Das ergibt die cremige Schaumbildung. Um die Sache noch cremiger zu gestalten, kann man mit einer 20 ml Spritze noch eine zus\u00e4tliche Luft Injektion ins Bier verabreichen. Ich w\u00fcnsche gutes gelingen :-) "
+}

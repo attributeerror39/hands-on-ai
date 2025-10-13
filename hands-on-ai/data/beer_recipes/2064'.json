@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Olde Burton",
+    "Datum": "25.01.2025",
+    "Sorte": "Strong Ale",
+    "Autor": "The British Pint",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 40,
+    "Farbe": 50,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "Dunkle Aromabombe mit viel Karamell, s&uuml;&szlig;-bitterem Fundament und einem deutlichen Hefecharakter mit Kirsche und Banane. Dieses Burton Ale ist ein klassischer Winter Warmer, wie es ihn fr&uuml;her in jedem Pub gab.",
+    "Malze": [
+        {
+            "Name": "Pale malt",
+            "Menge": 3.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Crystal 240",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Crystal 150",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Grafschafter Heller Sirup",
+            "Menge": 900,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 10,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 60,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 66,
+    "Nachguss": 16,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Ariana",
+            "Menge": 20,
+            "Alpha": 11,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 20,
+            "Alpha": 6,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Brewer&#039;s Caramel 3000 EBC",
+            "Menge": 63,
+            "Einheit": "ml",
+            "Kochzeit": 30
+        }
+    ],
+    "Hefe": "Weihenstephan W-100",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 2.5,
+    "Anmerkung_Autor": "In den 70er-Jahren war Burton Ale im Winter noch ein klassisches Pub Ale, heutzutage kennt kaum einer noch den Stil. Typisch war die Verwendung von Zuckersirup mit hohem Dextringehalt um das Mundgef&uuml;hl zu verst&auml;rken. Der Grafschafter Heller Sirup erf&uuml;llt genau den Zweck. Es ist NICHT der Goldsaft, sondern ein klarer Zuckersirup.\r\n\r\nDer Brewer&#039;s Caramel als Zugabe beim Kochen erh&ouml;ht die EBC von 40 auf 50 und erh&ouml;ht auch den Restextrakt und das Mundgef&uuml;hl leicht. Im Zweifelsfall kann er weggelassen werden. Es handelt sich um den k&auml;uflich erwerbbaren &quot;Gebrannten Zucker&quot; von Natuurlijk.\r\n\r\nF&uuml;r die Hefe habe ich einen 2L-Starter (also 1\/10) gemacht, dekantiert und den Bodensatz hinzugegeben. Die W-100 sedimentiert sehr stark und scheint vom Aroma so zu sein wie die Hefe von Theakston, bei der auch Kirsche und Banane angegeben werden. Angestellt habe ich bei 18&deg;C und auf 21&deg;C kommen lassen. Die Hefe h&auml;lt sich am Ende sehr lange als dichte Schaumdecke, die sich lange Zeit l&auml;sst, bis sie absinkt. Das Bier wird sehr klar.\r\n\r\nWasserprofil (mg\/l):\r\nCa: 160\r\nMg: 20\r\nNa: 60\r\nCl: 240\r\nSO4: 100\r\nHCO3: 5"
+}

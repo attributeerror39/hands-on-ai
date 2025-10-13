@@ -1,0 +1,92 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Winterbier",
+    "Datum": "09.02.2013",
+    "Sorte": "Altbier",
+    "Autor": "horstibus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 30,
+    "Farbe": 27,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "W\u00fcrziges, etwas st\u00e4rkeres, leicht karamelliges Winterbier.",
+    "Malze": [
+        {
+            "Name": "B\u00f6hmisches Pilsener Malz",
+            "Menge": 2.61,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner II",
+            "Menge": 1.74,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carawheat",
+            "Menge": 350,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 87,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 610,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 350,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sechskonrmischung",
+            "Menge": 87,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.173913043478262,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Aramis",
+            "Menge": 13,
+            "Alpha": 8,
+            "Zeit": 75,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Aramis",
+            "Menge": 4,
+            "Alpha": 8,
+            "Zeit": 35,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Aramis",
+            "Menge": 35,
+            "Alpha": 8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale S-04",
+    "Gaertemperatur": "20"
+}

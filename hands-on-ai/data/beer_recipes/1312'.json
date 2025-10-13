@@ -1,0 +1,118 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hanf Bier",
+    "Datum": "23.06.2020",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "rudis",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.2,
+    "Bittere": 20,
+    "Farbe": 27,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Kr\u00e4uterbier,der anderen Art,im Antrunk ein leichtes Anspiel an Cola,im Abgang mit einer Spur Minze und einem Hauch von Orange.",
+    "Malze": [
+        {
+            "Name": "best RedX",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 630,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 130,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Hanfsamen",
+            "Menge": 130,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rohrzucker",
+            "Menge": 810,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.5,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Wildhopfen eigener",
+            "Menge": 31,
+            "Alpha": 5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Wildhopfen eigener",
+            "Menge": 31,
+            "Alpha": 5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Rohrzucker braun",
+            "Menge": 813,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Orangenschale",
+            "Menge": 13,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Koriander",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Hanfkraut",
+            "Menge": 25,
+            "Einheit": "g",
+            "Kochzeit": 0
+        },
+        {
+            "Name": "Minze frische",
+            "Menge": 6,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "Hefe": "Mangrove Jack\u00b4s M47 belg. Abby",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "der Wildhopfen (Dolden) stammt aus meinem Garten. \r\nDen Hanfsamen habe ich in der Pfanne anger\u00f6stet und geschrotet!\r\nDen Koriander in der Kaffemaschine gemahlen!\r\nDen braunen Rohrzucker mitkochen bzw. zur Karbonisierung. abgef\u00fcllt auf Flaschen 0,33L nach 8 Tagen, weitere 10 Tage bei Raumtemperatur zu Nachreifung. Dann in Gew\u00f6lbekeller bei ca. 10\u00b0 (k\u00e4lter wirds nicht) \r\nErste Kostprobe nach 4 Wochen. Anmerkung: mit dem Schaum gibt es Probleme, das ist dem Hanfsamen geschuldet."
+}

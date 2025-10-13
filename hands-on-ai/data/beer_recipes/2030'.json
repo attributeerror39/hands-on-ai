@@ -1,0 +1,103 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hoelsche Alt",
+    "Datum": "17.10.2024",
+    "Sorte": "Altbier",
+    "Autor": "Urwaldjunk",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.9,
+    "Bittere": 36,
+    "Farbe": 25,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Altbier anders gedacht. Ohne R&ouml;stmalz m&ouml;glich und mit malzigem, vollmundigem Geschmack.",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.83,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Abbey (Kloster) Malz",
+            "Menge": 1.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 830,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M&uuml;nchner Malz Typ I",
+            "Menge": 780,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial II (optional)",
+            "Menge": 26,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.652173913043478,
+    "Einmaischtemperatur": 62,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 75,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.304347826086955,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 22,
+            "Alpha": 6.2,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 8,
+            "Alpha": 11,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 8,
+            "Alpha": 11,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 8,
+            "Alpha": 6.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 22,
+            "Alpha": 11,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Gozdawa OGA 9",
+    "Gaertemperatur": "20-22",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Wasseraufbereitung: Keine, da ich hier in Krefeld H&uuml;ls optimales Brauwasser f&uuml;r ein Altbier besitze. pH-Wert Maischewasser 5,51 - Berechnet durch den Brewfather Wasserrechner.\r\n\r\nW&uuml;rzeherstellung:\r\nIn einem weiteren Sud musste ich die Verzuckerungsrast (3. Rast) auf 45min verl&auml;ngern um auf Jodnormal zu kommen.\r\nGel&auml;utert klassisch durch Fly Sparge.\r\n\r\nWer es dunkler haben m&ouml;chte, oder die typischen R&ouml;staromen eines Altbiers haben m&ouml;chte, kann nach der etwas Carafa Spezial II hinzuf&uuml;gen. Ich pers&ouml;nlich f&uuml;ge es nach der Maltoserast hinzu (2. Rast), um den R&ouml;stgeschmack &quot;zu vermeiden&quot;.\r\n\r\nMein Mandarina Bavaria war sehr s&auml;urehaltig. Die letzte Hopfengabe erfolgte als Whirpoolhopfung bei ~80 Grad mit sofortiger K&uuml;hlung durch eine K&uuml;hlspirale (ca. 5min bis 60 Grad). Bei geringerem S&auml;ureanteil alternativ bei Flamme aus beif&uuml;gen. Macht aber generell nicht viel mehr bitter, einzig f&uuml;rs Aroma.\r\n\r\nG&auml;rung:\r\nAngestellt bei 22 Grad Raumtemperatur und G&auml;rung anschlie&szlig;end bei 19 Grad Raumtemperatur gestartet (G&auml;rtemp. war ca. bei 22 Grad). Nach ca. 5 Tagen eine - f&uuml;r die OGA 9 h&auml;ufige- G&auml;rpause von fast 7 Tagen eingelegt (bei EVG ~64%). Als Versuch Temperatur angehoben. Verg&auml;rung startete erneut und erreichte nach weiteren 7 Tagen einen EVG von 77%. Dosierung: 12,5g auf 20 Liter (entgegen nach Hersteller 10-20l p. pck.)\r\n\r\nNachg&auml;rung:\r\nCold Crash nach HG auf 1 Grad f&uuml;r 2 Tage. Dann abgef&uuml;llt mit Haushaltszucker.\r\nWeitere 10 Tage bei 20 Grad in der Flasche karbonisiert.\r\n\r\nReifung:\r\nWeitere 21 Tage bei ~ 5 Grad gereift.\r\n\r\n*Kombirast*\r\nBei einem weiteren Brauversuch habe ich eine Kombirast versucht: 66 Grad f&uuml;r 60min. Jodnormal erfolgreich, weniger malzig im Geschmack."
+}

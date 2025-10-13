@@ -1,0 +1,115 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Strandsand",
+    "Datum": "29.03.2017",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "Kobi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 21,
+    "Farbe": 6,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "erfrischendes Wit mit genialer Kardamomnote",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 1.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.666666666666666,
+    "Einmaischtemperatur": 42,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.666666666666666,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Strisselspalt",
+            "Menge": 10,
+            "Alpha": 3.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 13,
+            "Alpha": 8.2,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Strisselspalt",
+            "Menge": 10,
+            "Alpha": 3.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 7,
+            "Alpha": 8.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Bitterorangenschale",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Koriander",
+            "Menge": 8,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Kardamom",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "gestrippter Bodensatz je einer Flasche Hoegaarden und St. Bernardus",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 85,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Ein extrem leckeres Witbier mit cremigem Schaum, aber deutlich w\u00fcrzlastiger als die belgischen Originale - geht etwas in Richtung K\u00fchn Kunz Rosen Oriental Wit, nur um L\u00e4ngen besser! Kam \u00fcberall gut an, auch bei Frauen. Kalt gut als erfrischendes Sommerbier, gerne auch schon nach kurzer Reifung von 4 Wochen trinken.\r\nDie Verzuckerung des Rohweizens und der Haferflocken war kein Problem. Zum Schroten des Weizens haben wir den zweimal durch unsere coronaartige Malzm\u00fchle gejagt, erst etwas gr\u00f6ber, dann in der gew\u00fcnschten Schrotgr\u00f6\u00dfe, sonst kommt man kaum gegen die harten K\u00f6rner an. Eine Alternative w\u00e4ren Flocken.\r\nSauermalzgaben nach Wasserh\u00e4rte anpassen. Wir haben rund 10\u00b0 Restalkalit\u00e4t.\r\nKarbonisierung mit Haushaltszucker, den ich jetzt in der Ursprungsstammw\u00fcrze vernachl\u00e4ssigt habe, im Alkoholgehalt allerdings nicht, daher die hoch scheinende Verg\u00e4rung, eigentlich war sie im \u00fcblichen Bereich."
+}

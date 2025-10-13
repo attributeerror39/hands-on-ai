@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Flanderns Gold",
+    "Datum": "15.05.2017",
+    "Sorte": "Belgisches Blonde Ale",
+    "Autor": "jemo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 30,
+    "Farbe": 6,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "Klassisches Belgisches Blonde mit den typischen Aromen einer Abteihefe. Ein leckeres Bierchen f\u00fcr die n\u00e4chste Grillparty.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malt",
+            "Menge": 1.57,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 1.57,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 390,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Grafschafter Heller Sirup",
+            "Menge": 390,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.857142857142858,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.857142857142858,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 24,
+            "Alpha": 6.5,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 10,
+            "Alpha": 6.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 7,
+            "Alpha": 6.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WLP530 Abbey Ale",
+    "Gaertemperatur": "20-26",
+    "Endvergaerungsgrad": 82,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Der Sirup wird kurz vor Ende des Hopfenkochens hinzu gegeben. Die G\u00e4rung bei 20\u00b0C starten und alle zwei Tage um ein Grad erh\u00f6hen, bei 26\u00b0C ausg\u00e4ren lassen. F\u00fcr die Bittere sind 15min. Nachisomerisierung eingerechnet."
+}

@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "De M\u00f6nsterl\u00e4nner Weitbuck",
+    "Datum": "13.03.2019",
+    "Sorte": "Weizenbock",
+    "Autor": "Malzknecht",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.5,
+    "Bittere": 23,
+    "Farbe": 20,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Fruchtiger Weizenbock mit Aroma von Banane und getrockneter Aprikose. 3. Platz im BJCP-Brauwettbewerb auf der HeimBrau Convention 2019 in Romrod.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.07,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 910,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Ch\u00e2teau Biscuit Malz",
+            "Menge": 380,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.090909090909093,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 45,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 100,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.636363636363635,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 22,
+            "Alpha": 9.6,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WLP300 \/ Wyeast #3068",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 7,
+    "Anmerkung_Autor": "Maischplan: Herrmann und Dekoktion!\r\nDaher nur 50% HG und 50% Malz einmaischen.\r\n\r\nHier noch einmal der Ablauf:\r\n- Nur 50% des Malzes und 50% des HG Wassers bei 67\u00b0C einmaischen. => Ergibt 62\u00b0C.\r\n\r\n- Nach 30min sch\u00fcttest du die anderen 50% Malz und HG dazu. => Ergibt 45\u00b0C. Falls nicht, einfach mit kaltem Wasser nachhelfen.\r\n\r\n- Nach 20min deine Dickmaische entnehmen und nur diese auf 70\u00b0C erhitzen. Ich habe 8 Liter Dickmaische verwendet\r\n\r\n- Nach 10min die Dickmaische zum Kochen bringen\r\n\r\n- Nach 20min die Dickmaische zur\u00fcck zum Rest (zur D\u00fcnnmaische) sch\u00fctten. => Ergibt 62\u00b0C. Falls nicht, einfach mit kaltem Wasser nachhelfen. Jetzt ist alles wie beim \u00fcblichen Infusionsverfahren.\r\n\r\n- Nach 30min auf 72\u00b0C\r\n\r\n- Nach 20min Abmaischen\r\n\r\n(Tipp: Anstatt die Dickmaische zu ziehen, k\u00f6nnt ihr auch einfach die D\u00fcnnmaische im Thermoport bunkern und sp\u00e4ter wieder zur\u00fcck geben.)\r\n\r\nNachiso: 1 Minute\r\nIch hatte noch etwas Hefenahrung dazugegeben und vorher einen Starter gemacht. Ziel: 5 Mio Zellen\/ml. Hefe bei 18\u00b0C anstellen und auf 20\u00b0C kommen lassen. Wir haben die WLP300 verwendet.\r\n\r\n8 Wochen reifen lassen. Herrmann sorgt f\u00fcr ein stabiles, aber dezentes Bananenaroma.\r\n\r\nWeitere Infos zum Hintergrund, unserer \u00dcberlegungen und der Bewertung der Jury gibt es hier:\r\n\r\nhttps:\/\/malzknecht.de\/rezeptentwicklung\/de-moensterlaenner-weitbuck-3-platz-weizenbock-hbcon-2019\/\r\n\r\nNach 6 Monaten: Das Bier ist immer noch richtig lecker. Das Aroma von Banane und getrockneter Aprikose hat sich kaum ver\u00e4ndert. W\u00fcrde fast behaupten, dass es gleich ist.\r\n\r\n\r\n\r\n"
+}

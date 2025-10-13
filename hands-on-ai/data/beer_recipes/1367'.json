@@ -1,0 +1,122 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "R-IPA",
+    "Datum": "25.10.2020",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "Bergbrauerbierbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.5,
+    "Bittere": 72,
+    "Farbe": 24,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Dunkleres IPA. Fruchtig, malzk\u00e4ftig ,  hopfenaromatisch \u2013 und verry strong! ",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melaniodinmalz",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate",
+            "Menge": 56,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.6,
+    "Einmaischtemperatur": 52,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 100,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.8,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook",
+            "Menge": 22,
+            "Alpha": 11.7,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Vielfalt ",
+            "Menge": 18,
+            "Alpha": 11,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 16,
+            "Alpha": 11.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cluster",
+            "Menge": 16,
+            "Alpha": 7.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": " Hersbrucker",
+            "Menge": 16
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 10
+        },
+        {
+            "Sorte": "Cluster",
+            "Menge": 8
+        }
+    ],
+    "Hefe": "GOZDAWA Original British Ale Yeast 04 ",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 86,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "1)\tph-Wert Wasser  5,5\r\n2)\teingemaischt nach eigenem  Zweimaischverfahren. 11 l der Dickmaische nach 3. Rast  abgezogen, 2 l Wasser dazugeben, um ein Anbrennen der Maische zu verhindern. Malz 30 Minuten gekocht. Die auf 25 \u00b0C abgek\u00fchlt Maische wieder zugef\u00fchrt, ergibt 63\u00b0C. Chocolatemalz erst nach dem Kochen zugeben.\r\n3)\tZugabe des Stopfhopfens nach 5 Tagen. \r\n4)\tDie Reife sollte 4 Wochen dauern.\r\nDie Verkostung nach 5 Wochen Reife offenbart ein einzigartiges Geschmackserlebnis. Der kr\u00e4ftige aromatische Malzgeschmack mit dezenter S\u00fc\u00dfe harmoniert fantastisch mit den kr\u00e4ftig aromatischen, aber nicht bitteren Hopfenaromen. Welche im Nachtrunk noch lange auf den Papillen prickeln. Feinperlig und kristallklar. Ich meine, ein Geschmackserlebnis, das seinesgleichen sucht!\r\n\r\n\r\n"
+}

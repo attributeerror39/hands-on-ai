@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Holzapfel East Coast IPA",
+    "Datum": "01.07.2018",
+    "Sorte": "India Pale Ale",
+    "Autor": "WeezerBurns",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 65,
+    "Farbe": 35,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Ein kupferfarbenes, leicht malziges East Coast IPA mit, f\u00fcr ein IPA, angenehmer bittere und fruchtiger Note.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 950,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraRed",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 290,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20.952380952380953,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.476190476190476,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Summit",
+            "Menge": 19,
+            "Alpha": 14.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Summit",
+            "Menge": 16,
+            "Alpha": 14.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Summit",
+            "Menge": 24,
+            "Alpha": 14.2,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 48
+        },
+        {
+            "Sorte": "Summit",
+            "Menge": 19
+        }
+    ],
+    "Hefe": "Safale S-04",
+    "Gaertemperatur": "21",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Bierchen reift bei mir im Erdkeller bei 17\u00b0C. Ist mein zweites IPA, aber falls ihr Verbesserungsvorschl\u00e4ge habt, nur raus damit, ich braue noch nicht so lange. Cheers!"
+}

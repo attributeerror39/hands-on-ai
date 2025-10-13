@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "L.A. Wheat",
+    "Datum": "24.09.2013",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "marsabba",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 22,
+    "Farbe": 12,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Amerikanisches Weizen, Fruchtig orangig, das ideale Frauenbier",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsnermalz",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 320,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.2,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 12.8,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 8,
+            "Alpha": 8.9,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 8,
+            "Alpha": 6.9,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 16,
+            "Alpha": 8.9,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 16,
+            "Alpha": 6.9,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Brauwerkstatt Colonia",
+    "Gaertemperatur": "19",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "10min Nachisomerisierungszeit; \r\nDas Bier eignet sich perfekt als Basis f\u00fcr Fruchtexperimente, (Frucht zermantscht nach Hauptg\u00e4rung zugeben), zB\r\n5l Bier und 250g schwarze Johannisbeeren -> leichte Cassisnote\r\n5l Bier und 500g Sauerkirschen -> leichte Kirschnote und suuper Farbe"
+}

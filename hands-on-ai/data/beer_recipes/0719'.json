@@ -1,0 +1,99 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Saison Blue",
+    "Datum": "17.05.2017",
+    "Sorte": "Saison",
+    "Autor": "realholgi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 32,
+    "Farbe": 9,
+    "Alkohol": 6.3,
+    "Kurzbeschreibung": "klassisches Saison",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz ",
+            "Menge": 3.85,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz ",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Roggenmalz",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saphir",
+            "Menge": 20,
+            "Alpha": 3.8,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 20,
+            "Alpha": 6,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 20,
+            "Alpha": 3.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 20,
+            "Alpha": 6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 20,
+            "Alpha": 3.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Wyeast #3711 French Saison",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die 20g Saphir im Whirlpool f\u00fcr 20min. \r\n\r\nWasser: RA 0, 2g NaCl + 3.5g MgSO4\r\n\r\nGebraut: 06.11.2016 \r\n\r\nSchmeckt auch schon jung, aber nach 6 Monaten ist es erst so richtig gut!"
+}

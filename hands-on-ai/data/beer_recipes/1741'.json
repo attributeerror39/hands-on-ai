@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "G-Br\u00e4u - Altbier",
+    "Datum": "03.11.2022",
+    "Sorte": "Altbier",
+    "Autor": "Tommys G-Br\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 44,
+    "Farbe": 38,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Mein Beitrag zur BestBrewChallenge 2022. Sehr ausgewogenes Bier, dessen Bitternes sehr harmonisch mit Vollmundigkeit und der leichten Rests\u00fc\u00dfe harmoniert.  ",
+    "Malze": [
+        {
+            "Name": "BEST M\u00fcnchner Typ II",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "BEST Wiener Malz",
+            "Menge": 1.36,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "BEST Pilsener Malz",
+            "Menge": 560,
+            "Einheit": "g"
+        },
+        {
+            "Name": "BEST Chocolat Malz",
+            "Menge": 80,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.8,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 12.4,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertau Merkur",
+            "Menge": 16,
+            "Alpha": 13.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 29,
+            "Alpha": 3.8,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 8,
+            "Alpha": 3.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "OGA9",
+    "Gaertemperatur": "13",
+    "Endvergaerungsgrad": 68,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Altbier wird k\u00fchl angestellt und vergoren (13\u00b0C). Nach etwa 8 Tagen langsam \u00fcber drei Tage auf 16\u00b0C erh\u00f6ht, hier drei Tage gehalten, dann auf 17\u00b0C und wieder drei Tage gehalten. Nachgusswasser ist nur gesch\u00e4tzt, ich gebe solange Nachguss, bis der Pfannevollextraktgehalt erreicht ist. \r\n\r\nGebraut nur mit Malzen von BESTMALZ. Habe es im Rahmen der BestBrewChallange 2022 eingereicht."
+}

@@ -1,0 +1,102 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Neuengland",
+    "Datum": "29.06.2017",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "Luke",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 38,
+    "Farbe": 12,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "IPA im New England-Stil. Mit samtig-weichem Mundgef\u00fchl und \u00fcberraschendem Tropenfrucht- Hopfencocktail.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.05,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Maris Otter Pale Ale Malz",
+            "Menge": 2.05,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 490,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamellmalz Hell (ca. 20 EBC)",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.454545454545453,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Columbus",
+            "Menge": 21,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 36,
+            "Alpha": 8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 36,
+            "Alpha": 12,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 18,
+            "Alpha": 13,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 58
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 58
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 29
+        }
+    ],
+    "Hefe": "The Yeast Bay - Vermont Ale  ",
+    "Gaertemperatur": "17-21",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wichtig ausserdem:\r\n- Whirlpoolhopfung unbedingt bei 80 \u00b0C!\r\n- Doppeltes Hopfenstopfen, also die angegebene Menge teilen\r\n- Erste Gabe 1 Tag nach dem Ankommen der G\u00e4rung\r\n- Zweite Gabe 3-4 Tage sp\u00e4ter f\u00fcr 3 Tage, dann am besten umschlauchen bzw. den Hopfen entnehmen\r\n- das Bier ist typisch tr\u00fcb, auf Sedimentation der Hefe muss nicht \u00fcberm\u00e4\u00dfig lange gewartet werden\r\n- Kontakt mit Sauerstoff (Oxidation) sollte man so gut es geht vermeiden, sobald das Bier in der G\u00e4rung ist!\r\n\r\nViel Spass. Die M\u00fche lohnt sich! :-)\r\nWir haben das Bier schon mehrmals so, und mit kleinen Abwandlungen gebraut.\r\n\r\n...\r\nAlternative Zutaten:\r\nDie Sch\u00fcttung ginge auch ohne Maris Otter Pale Ale Malz, und funktioniert auch gut mit Pilsener Malz statt Pale Ale Malz.\r\nDie Hopfensorten k\u00f6nnen auch variiert werden. Um die reine Fruchtigkeit zu betonen bieten sich zu den genannten auch die Sorten Galaxy und El Dorado an. Auch - aber eher als zweite Wahl \u2013 eigenen sich die etwas w\u00fcrzigeren Columbus, Simcoe, Centennial, Equinox, Azacca, \u2026\r\n\r\nMit Trockenhefe wird es mit der Craft Series M36 Liberty Bell Ale auch sehr lecker."
+}

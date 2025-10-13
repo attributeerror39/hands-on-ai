@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Roter Abt",
+    "Datum": "29.07.2019",
+    "Sorte": "Belgisches Blonde Ale",
+    "Autor": "Bergbock",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 24,
+    "Farbe": 10,
+    "Alkohol": 7.4,
+    "Kurzbeschreibung": "Sehr gehaltvolles Ale, das erst nach etwa 8 Wochen seinen vollen Geschmack entwickelt hatte. Der Name \"Roter Abt\" kommt von der Farbe, diese wird durch Zugabe von (geschmacksneutralem) Rote-Beete-Pulver erreicht.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 260,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 170,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Maismehl (Polenta)",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Zucker",
+            "Menge": 430,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.043478260869566,
+    "Einmaischtemperatur": 53,
+    "Rasten": [
+        {
+            "Temperatur": 53,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 13.043478260869566,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Herkules",
+            "Menge": 9,
+            "Alpha": 15.8,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 13,
+            "Alpha": 5.8,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Rote-Beete Pulver",
+            "Menge": 17,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "WLP 530 Abbey Ale",
+    "Gaertemperatur": "22-24",
+    "Anmerkung_Autor": "Urspr\u00fcnglich war das Rezept der Versuch eines Leffe-Clones (daher der Mais).\r\nGeschmacklich kam es aber komplett anders raus, hat jedoch vielen Leuten dermassen gut geschmeckt, dass es seither immer wieder gebraut wurde.\r\nDie Zugabe von Rote-Beete-Pulver ist nur eine Spielerei, mir gef\u00e4llt die Farbe, aber das kann nat\u00fcrlich komplett entfallen.\r\n(Die EBC Angabe ist OHNE Rote-Beete zu verstehen)"
+}

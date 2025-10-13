@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mr. Bolten`s evil twin",
+    "Datum": "05.09.2019",
+    "Sorte": "Pale Ale",
+    "Autor": "gargarmel",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 28,
+    "Farbe": 10,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "(American) Pale Ale gebraut mit Bolten Altbier Hefe. Goldgelb, angenehme Rests\u00fc\u00dfe, sehr angenehm und leicht zu trinken - dabei aber intensive Frucht und Zitrusaromen. Gute Schaumstabilit\u00e4t.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.19,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.06,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caramalz dunkel",
+            "Menge": 130,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.319999999999999,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 40
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.879999999999999,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Cascade",
+            "Menge": 13,
+            "Alpha": 5.6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Cascade",
+            "Menge": 51,
+            "Alpha": 5.6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 48,
+            "Alpha": 10.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Hallertauer Amarillo",
+            "Menge": 62,
+            "Alpha": 6.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Bolten Altbierhefe",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Brauwasser habe ich auf 3,1\u00b0dH mittels Milchs\u00e4ure eingestellt. Elementar wichtig ist eine K\u00fchlspirale zum kontrollierten K\u00fchlen der W\u00fcrze. Erste Hopfengabe nach 30 Minuten Kochen, dann die zweite bei Flame-Out. 15 Minuten abk\u00fchlen lassen dann sollten 80\u00b0 erreicht sein, eventuell etwas k\u00fchlen um den Punkt zu treffen.\r\nBei 80\u00b0 dann Mosaic und Amarillo dazu geben. Bei mir dauert es dann noch ca. 45 Minuten bis die Temperatur unter 30\u00b0 liegt, dann \u00fcber Monofilament-Filter ins G\u00e4rgef\u00e4\u00df ablassen.\r\nDas Timing bei der Wirlpool-Hopfung ist extrem wichtig, sowohl Temperaturen als auch Zeiten m\u00fcssen stimmen. Die Hopfen-Aromen sind daf\u00fcr fast so ausgepr\u00e4gt wie beim Stopfen.\r\n\r\nZur Hefe: Ich habe gestrippte Hefe aus einer 1L-Flasche Bolten Uralt verwendet. Bei 18 Grad G\u00e4rtemperatur (im Fass, nicht Raumtemperatur) macht diese auch einen tadellosen Job als Ale-Hefe und bildet die Basis f\u00fcr den Namen. \r\nDie Hefe ist extrem schnell - ich kann meist nach 1 Woche in Flaschen f\u00fcllen. Nach weiteren zwei Wochen ist das Bier trinkbar - g\u00f6nnt man ihm dann noch 2-3 Tage Kaltreifung ist es perfekt.  "
+}

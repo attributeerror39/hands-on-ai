@@ -1,0 +1,60 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Baschdl - Woiza",
+    "Datum": "25.07.2015",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Kuttenbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 18,
+    "Farbe": 14,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "fruchtiges, halbdunkles Weizen - Rezept f\u00fcr BM 20l",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 1.79,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 840,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen hell",
+            "Menge": 2.11,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 24.210526315789473,
+    "Einmaischtemperatur": 38,
+    "Rasten": [
+        {
+            "Temperatur": 38,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 65,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 3.1578947368421053,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 23,
+            "Alpha": 5,
+            "Zeit": 80,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Gozdawa Bavarian Wheat 11",
+    "Gaertemperatur": "24",
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Resteverwertung. Herausgekommen ist ein wohlschmeckendes, halbdunkles Weizen mit starken Fruchtaromen."
+}

@@ -1,0 +1,74 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Deutscher Porter",
+    "Datum": "24.11.2016",
+    "Sorte": "Baltic Porter",
+    "Autor": "Schwalbe",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 40,
+    "Farbe": 87,
+    "Alkohol": 6.6,
+    "Kurzbeschreibung": "Historisches Rezept: Malzaromatisch, mit gut eingebundenen R\u00f6staromen, der Alkohol ist kaum zu bemerken. Sehr ausgewogen\r\n",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 3.25,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.62,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraM\u00fcnch II",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial II",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.5,
+    "Einmaischtemperatur": 38,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 13,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 44,
+            "Alpha": 8.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Hefe": "Fermentis  SAFALE S-04",
+    "Gaertemperatur": "18-21",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Der \"Deutsche Porter\" ist nach 6 Wochen gut trinkbar. Eine l\u00e4ngere Lagerung\/Reifung von 10 Wochen und mehr gibt dem Bier noch mehr Ausdruck und ist sehr zu empfehlen. \r\nIch habe  Pellets verwendet - Nachisomerisierungszeit: 30 Minuten"
+}

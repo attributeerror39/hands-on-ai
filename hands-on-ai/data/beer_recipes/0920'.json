@@ -1,0 +1,67 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "It's a girl!",
+    "Datum": "24.06.2018",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "London Rain",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 12,
+    "Farbe": 16,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "M\u00e4dchenbier mit Weizen und Himbeeren. Tolle Farbe und ein herrlicher Durstl\u00f6scher f\u00fcr den Sommer.",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 2.19,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2.19,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.19047619047619,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.904761904761905,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Challenger",
+            "Menge": 14,
+            "Alpha": 6,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moos",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "TK-Himbeeren",
+            "Menge": 2381,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Fermentis SAFALE K-97",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 73.2,
+    "Karbonisierung": 7.5,
+    "Anmerkung_Autor": "Nach anderthalb Jahren mein bisher gelungenster Sud. Ich hatte nach einem Himbeerweizen oder American Wheat mit Himbeeren gesucht, aber wollte dass die Frucht und nicht Hefe- oder Hopfenaromen im Vordergrund stehen. Dabei bin ich auf die Empfehlung f\u00fcr die K-97 gesto\u00dfen und die passte fantastisch. Fermentis empfiehlt daf\u00fcr etwas k\u00fchlere G\u00e4rtemperaturen (15-20\u00b0C). Bei mir stand es, bei relativ k\u00fchlen Tagen f\u00fcr die Jahreszeit, bei etwa 18\u00b0C an der offenen Balkont\u00fcr.\r\n\r\nDer Zucker der Fr\u00fcchte verg\u00e4rt ja vollst\u00e4ndig und so k\u00f6nnte man bef\u00fcrchten, dass es relativ sauer wird. Das ist aber nicht der Fall. Es ist weder s\u00fc\u00df und himbeersirupig, noch ein saures Bier, sondern sch\u00f6n ausgewogen und eine feine sommerliche Erfrischung.\r\n\r\nDie Restalkalit\u00e4t war bei 3,6\u00b0dH. Ich w\u00fcrde sie n\u00e4chstes mal per Milchs\u00e4ure auf 0\u00b0dH anpassen, um die Fruchtigkeit noch ein wenig durch die S\u00e4ure zu unterst\u00fctzen.\r\n\r\nDer Hopfen ist eigentlich sekund\u00e4r. Challenger hatte ich noch da.\r\n\r\nDie Himbeeren kommen tiefgek\u00fchlt nach der Hauptg\u00e4rung in den G\u00e4reimer, so wie man auch hopfenstopfen w\u00fcrde (120 g\/l). Die G\u00e4rung springt dann noch mal f\u00fcr einige Tage an, aber da nicht viel Zucker hinzukommt passiert da nicht mehr viel im G\u00e4rspund. Ich habe sie f\u00fcr 7 Tage drin gelassen, dann umgeschlaucht, Cold Crash, abgef\u00fcllt.\r\n\r\nDer Alkoholgehalt des Bieres m\u00fcsste durch die Himbeeren, so \u00fcber den Daumen gepeilt, von 4,9% auf 5,3% ansteigen. Dazu kommt ggf. noch der Alkoholgehalt aus der Karbonisierung per Zucker.\r\n\r\nDie h\u00f6here Karbonisierung passt prima. Wir haben es bei Familienfeiern anstatt von Sekt aus Sektfl\u00f6ten genossen. Beim Karbonisieren mit der Zuckerdosierhilfe passte genau die n\u00e4chstgr\u00f6\u00dfere Gr\u00f6\u00dfe.\r\n\r\nDer angegebene Farbwert ist nat\u00fcrlich der berechnete aus dem Malz und ohne die Zuf\u00e4rbung durch die Himbeeren.\r\n\r\nWenn es jemand nachbraut, w\u00fcrde ich mich \u00fcber Feedback freuen! Jetzt (im Juli) ist genau die passende Zeit. Meins ist jetzt fast ein Jahr alt und immer noch echt lecker - und inzwischen kristallklar. Erstmals probiert hab ich es etwa vier Wochen nach Braudatum, inkl. der Nachg\u00e4rung. Da war es schon lecker!"
+}

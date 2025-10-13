@@ -1,0 +1,66 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Herkules Stachelbeere",
+    "Datum": "09.10.2020",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "Malzknecht",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Nelson Sauvin von BrewDog",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.6,
+    "Bittere": 75,
+    "Farbe": 23,
+    "Alkohol": 7.4,
+    "Kurzbeschreibung": "Super fruchtiges, nach Wei\u00dfwein duftendes IPA, mit weichem Mundgef\u00fchl und einer ordentlichen Bittere. Meine Variante des ver\u00f6ffentlichten BrewDog Rezepts",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 4.97,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caramalz hell",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 100,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.476190476190474,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Herkules",
+            "Menge": 32,
+            "Alpha": 17.9,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 48,
+            "Alpha": 10.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Mangrove Jack's M44, Wyeast 1764 aber auch US-05",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Dieses Rezept ist f\u00fcr jeden Hobbybrauer, der mal den Nelson Sauvin Hopfen kennenlernen m\u00f6chte. Das Rezept ist super easy und schnell. Es kann frisch (nach 2-3 Wochen Reifung) getrunken werden. \r\n\r\nDas Aroma ist total fruchtig, nach Wei\u00dfwein und Stachelbeere. Im Mund kommt das Bier sehr weich daher und die Bittere ist sp\u00fcrbar hoch.\r\n\r\nGrundlage war das von BrewDog ver\u00f6ffentlichte Rezept des Nelson Sauvin Biers. Einige Infos waren mir aber unklar, au\u00dferdem habe ich ein paar Dinge ver\u00e4ndert. Mehr Infos dazu dann auf meinem Blog.\r\n\r\nIch habe das Bier mit dem Rogue Pacman Stamm (M44) vergoren, aber die US-05 sollte auch gehen.\r\n\r\nWasserwerte:\r\n[Ca=78ppm]  [Mg=10ppm]  [Na=0ppm]  [Cl=87ppm]  [SO4=112ppm]  [RA~-3,5]\r\n\r\nLink zum Blog:\r\n\r\nhttps:\/\/malzknecht.de\/rezeptentwicklung\/ipa-nelson-sauvin-rezept-brewdog-herkules-stachelbeere\/\r\n\r\nDann viel Spa\u00df und gut Sud!\r\n\r\n\r\n"
+}

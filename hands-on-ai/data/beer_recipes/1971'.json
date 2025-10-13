@@ -1,0 +1,101 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Af IPA",
+    "Datum": "16.03.2024",
+    "Sorte": "Alkoholfreies\/-armes",
+    "Autor": "Der verr\u00fcckte Hutmacher",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 8,
+    "Bittere": 40,
+    "Farbe": 9,
+    "Alkohol": 0.7,
+    "Kurzbeschreibung": "Vollmundiges, herbes alkoholfrei-IPA mit kr&auml;ftigem Hopfenaroma.",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 1.44,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 960,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M&uuml;nchner",
+            "Menge": 360,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.6,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook",
+            "Menge": 10,
+            "Alpha": 12.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 12,
+            "Alpha": 12.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 12,
+            "Alpha": 8.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Ekuanot",
+            "Menge": 12,
+            "Alpha": 14,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Ekuanot",
+            "Menge": 18
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 18
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 18
+        }
+    ],
+    "Hefe": "Fermentis LA-01",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 15,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Tats&auml;chlich erfolgt hier die erste Hopfengabe kurz vor Kochende. Wer es bitterer m&ouml;chte, kocht den Hopfen &uuml;ber die gesamte Kochdauer mit. Der pH-Wert sollte nach dem Kochen mit Milchs&auml;ure auf 5 oder darunter angepasst werden. Nicht unter 4,6 gehen, da das Bier sonst s&auml;uerlich schmecken k&ouml;nnte. Wenn sauber gearbeitet wird, ist das im Winter oder Fr&uuml;hjahr gebraute Bier im Keg bis in den Sommer haltbar. Am besten das Keg vor dem Anstich frisch mit je 22g des jeweiligen Hopfen stopfen. So haben Fremdhefen, in dem Fall, dass sie durch das Stopfen eingeschlepptet wurden, weniger Zeit sich zu vermehren und eine erneute G&auml;rung auszul&ouml;sen."
+}

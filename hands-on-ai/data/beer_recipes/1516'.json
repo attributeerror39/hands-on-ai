@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Regenbogen",
+    "Datum": "13.06.2021",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Watomba",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.5,
+    "Bittere": 32,
+    "Farbe": 3,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Sehr helles \"Bier\" mit einer leicht herben Note.",
+    "Malze": [
+        {
+            "Name": "Pilsenermalz extra Hell",
+            "Menge": 3.23,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Reisflocken",
+            "Menge": 1.43,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 100,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 53,
+    "Rasten": [
+        {
+            "Temperatur": 53,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 40
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 10,
+            "Alpha": 6.2,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 10,
+            "Alpha": 9.3,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 10,
+            "Alpha": 5.6,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Notty",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Erstmal recht herzlichen Dank an Bergbock, f\u00fcr das einstellen des \"Blauer Engel\". Es hat mich inspiriert, auch ein farbiges Bier zu brauen. Da ich aber keine Lust hatte mir die Enzyme zu besorgen, hab ich mich an einen Kommentar im \"Blauer Engel\" gehalten. Nach mehreren Versuchen habe ich mich f\u00fcr obiges Rezept entschieden. Ich werde aber bei dem n\u00e4chsten Sud die Carapils Menge etwas erh\u00f6hen. Zum Rezeptnamen: Nach der Hauptg\u00e4rung kann man diese Bier mit Lebensmittelfarbe wunderbar einf\u00e4rben. So richtig sch\u00f6n Bunt wie einen Regenbogen. Nat\u00fcrlich immer nur pro Flasche eine Farbe. Nebenbei Bemerkt ist das L\u00e4utern sehr Zeitaufwendig."
+}

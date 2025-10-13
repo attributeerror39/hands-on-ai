@@ -1,0 +1,106 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "From TOVO Wit Lavender",
+    "Datum": "07.10.2019",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "Tomtiburon",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.2,
+    "Bittere": 15,
+    "Farbe": 8,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Ein Witbier mit leckerem Lavendel gebraut",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.96,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 1.21,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenflocken",
+            "Menge": 750,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 190,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 190,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.22641509433962,
+    "Einmaischtemperatur": 54,
+    "Rasten": [
+        {
+            "Temperatur": 56,
+            "Zeit": 12
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 42
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 22
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 12.830188679245282,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Smaragd",
+            "Menge": 22,
+            "Alpha": 3.2,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Crystal",
+            "Menge": 31,
+            "Alpha": 4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Koriandersamen zersto\u00dfen",
+            "Menge": 13,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Lavendel",
+            "Menge": 6,
+            "Einheit": "g",
+            "Kochzeit": 3
+        },
+        {
+            "Name": "Lavendel",
+            "Menge": 6,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "Hefe": "Mangrove Jack's M21 - Belgian Wit",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 62,
+    "Karbonisierung": 6.5
+}

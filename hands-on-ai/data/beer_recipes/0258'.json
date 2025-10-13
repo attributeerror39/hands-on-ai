@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Benzenickel",
+    "Datum": "29.11.2012",
+    "Sorte": "Mild Ale",
+    "Autor": "Gambrinus zu Borbetomagus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 28,
+    "Farbe": 13,
+    "Alkohol": 5.9,
+    "Kurzbeschreibung": "Eher f\u00fcr Fortgeschrittene, da die Sch\u00fcttung etwas an Spezialmalze enth\u00e4lt.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz ",
+            "Menge": 2.35,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.85,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 45
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 20,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 28,
+            "Alpha": 7,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 15,
+            "Alpha": 4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer Wirlpool",
+            "Menge": 8,
+            "Alpha": 4,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "20-22",
+    "Endvergaerungsgrad": 4.5,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wichtig, f\u00fcr den Anf\u00e4nger, die ihre Anlage noch nicht so gut kennen: Nachg\u00fcsse solange geben bis Zielw\u00fcrze ca. 10-15 Prozent unter der angegeben Stamnmw\u00fcrze liegen. Also 13,5-ca.13 Plato. \r\n\r\nDie Vangionen-Brauerei hat hier wieder ein sch\u00f6nesw, sehr s\u00fcffiges Ale gebraut. Meine G\u00e4ste sind sehr kritische Biertrinker und \u00fcberzeugte Markenbiertrinker. Einige wussten gar nicht, dass es sich um ein Selbstgebrautes handelt, da es direkt aus den F\u00e4ssern kam. Sie glaubten an ein gutes naturtr\u00fcbes Bier aus einer Privatbrauerei. Sie staunten nicht schlecht als sie darauf aufmerksam wurden, dass es sich um ein Homebrew handelt. \r\n\r\nSchnell trinkbar, nach dem brauen ca. 2-3 Wochen."
+}

@@ -1,0 +1,92 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "[G].br&auml;u - Meister Eder",
+    "Datum": "07.03.2024",
+    "Sorte": "Dunkles Hefeweizen",
+    "Autor": "Kaptn_tom",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.6,
+    "Bittere": 16,
+    "Farbe": 38,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Sch&ouml;n cremiges dunkles Weizen mit einer guten Balance aus Malzaromatik, leichter Fruchtigkeit und pr&auml;gnanten Hefenaromen.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz dunkel",
+            "Menge": 1.85,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 420,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M&uuml;nchner Malz Typ II",
+            "Menge": 1.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Roggenmalz",
+            "Menge": 420,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CARAM&Uuml;NCH II",
+            "Menge": 160,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CARA AROMA",
+            "Menge": 82,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Reisspelze",
+            "Menge": 140,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.272727272727272,
+    "Einmaischtemperatur": 56,
+    "Rasten": [
+        {
+            "Temperatur": 54,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 35
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 13.272727272727272,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 7,
+            "Alpha": 11.9,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 15,
+            "Alpha": 11.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "gestrippte Gutmann Hefe",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 70.6,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Das Wei&szlig;bier wurde f&uuml;r die monatliche Brauchallenge des Freibrauer Home Brew Clubs gebraut, der sich ein Mal im Monat im Braukollektiv in Freiburg trifft. Dort konnte es mit einem Wimperschlag Vorsprung den ersten Platz belegen.\r\n\r\nEs ist ein sch&ouml;nes cremiges und kerniges Wei&szlig;bier geworden. Ordentliche Malzaromatik, die ein gutes Gegenspiel zur dominanten Gutmann Hefe liefert. Mandarina Bavaria bring noch ganz leichte Fruchtnoten hinein, die gut dazu passen.\r\n\r\nEigentlich war nur dunkles Weizenmalz geplant. Der Anteil helles Weizenmalz war Resteverwertung.\r\nDie Reisspelze habe ich gegen Ende der Maltoserast als L&auml;uterhilfe hinzu gegeben, da der Weizen- und Roggenmalzanteil doch sehr hoch ist.\r\nDas Brauwasser war mit 10&deg; Restalkalit&auml;t recht hart. Bei Maische pH 5,7 wurde auf Nachs&auml;uern verzichtet.\r\nAngestellt wurde mit gestrippter Gutmann Hefe. 3 Bodens&auml;tze mit hellem Malzextrakt bei 10&deg;P in 3 Schritten auf 1,5 Liter propagiert. Die G&auml;rung war nach 4 Tagen durch. Die Gutmann Hefe liefert ordentlich Banane."
+}

@@ -1,0 +1,72 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Saphir Weizen mit Karamellmalz",
+    "Datum": "02.06.2023",
+    "Sorte": "Dunkles Hefeweizen",
+    "Autor": "AlBe",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 15,
+    "Farbe": 20,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Weizenbier mit Saphir Hopfen und Karamellmalz",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2.19,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.31,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 880,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamell Malz",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.666666666666668,
+    "Einmaischtemperatur": 56,
+    "Rasten": [
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.666666666666666,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saphir",
+            "Menge": 9,
+            "Alpha": 3.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 18,
+            "Alpha": 3.9,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Lallemand Munich Classic 22g ",
+    "Gaertemperatur": "22",
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Experiment mit Karamellmalz. \r\nDas Bier wird Ende Juni \/ Anfangs Juli zum ersten mal anhand dieses Rezeptes gebraut, dann geben wir euch gerne ein Update ob das Experiment gegl\u00fcckt ist.\r\n\r\nAls Grundlage haben wir das Rezept \"Anf\u00e4ngerweizen\" genommen.\r\nDazu haben wir 300 g Karamellmalz hinzugef\u00fcgt (Bei einer Ausschlagw\u00fcrze von 30 Liter) und die anderen Malze Prozentual zu ihrer Verteilung reduziert.\r\n\r\nMaischeplan \/ W\u00fcrzekochen und die G\u00e4rung haben wir so belassen.\r\n\r\nWir freuen uns auf eure Kommentare, bitte gerne Tipps geben falls wir etwas vergessen haben zu beachten."
+}

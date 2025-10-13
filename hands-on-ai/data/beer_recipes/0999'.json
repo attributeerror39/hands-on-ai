@@ -1,0 +1,85 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Entdeckung",
+    "Datum": "12.12.2018",
+    "Sorte": "Pale Ale",
+    "Autor": "Neubierig",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 9,
+    "Bittere": 22,
+    "Farbe": 13,
+    "Alkohol": 3.1,
+    "Kurzbeschreibung": "Goldenes Sommerbier, angelehnt an Fuller's Discovery, ein echter Durstl\u00f6scher! Hatte beim vierten Hobbybrauerwettbewerb der Mainzer Craftbeermesse den ersten Platz gewonnen.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.28,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 440,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Birke",
+            "Menge": 240,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 9,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 70
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 6,
+            "Alpha": 15,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 6,
+            "Alpha": 13.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 9,
+            "Alpha": 9.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 30
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 30
+        }
+    ],
+    "Hefe": "WLP002 (Fuller's)",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 67,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Rezept entspricht dem Wettbewerbsbier. Das urspr\u00fcngliche Rezept wird anders gehopft, mit Saaz und EKG (10 Minuten vor Kochende) und mit EKG gestopft.\r\n\r\nDie Menge Stopfhopfen sind nur pi mal Daum - kann nat\u00fcrlich nach Geschmack angepasst werden.  Sollte meiner Meinung nach nicht \u00fcbertrieben werden, da es ein leichtes Bier ist.\r\n\r\nCara Birke habe ich bei IREKS in Kulmbach gekauft, Carahell w\u00fcrde aber auch gehen.\r\n\r\nObwohl ich normalerweise mit Zucker karbonisiere, empfehle ich f\u00fcr solche Leichtbiere Speise zu nehmen, um den Alkoholgehalt nicht zu erh\u00f6hen.  Beim eingereichten Wettbewerbsbier wurde allerdings Zucker verwendet, funktioniert grunds\u00e4tzlich auch (Entsprechend hatte das Wettbewerbsbier ca. 3,5% alc, anstatt 3,1%).\r\n\r\nDanke an Dr Edelherb, wer mein Denglisch in Deutsch \u00fcbersetzte! ;-)"
+}

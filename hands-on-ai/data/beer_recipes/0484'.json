@@ -1,0 +1,97 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "R.-H. G. Sommerbier",
+    "Datum": "23.06.2015",
+    "Sorte": "Pale Ale",
+    "Autor": "P-Br\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 23,
+    "Farbe": 22,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Bernsteinfarbenes Pale Ale mit erfrischendem Zitrusaroma, leichter Bittere und angenehmen Hopfenaroma",
+    "Malze": [
+        {
+            "Name": "Pale Ale malz",
+            "Menge": 3.72,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Typ II",
+            "Menge": 390,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.5,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 12
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 3,
+            "Alpha": 9.1,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 3,
+            "Alpha": 5.3,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 3,
+            "Alpha": 13.8,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 7,
+            "Alpha": 9.1,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 7,
+            "Alpha": 5.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 7,
+            "Alpha": 13.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 7,
+            "Alpha": 10,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Gozdawa US West Coast",
+    "Gaertemperatur": "20-21",
+    "Endvergaerungsgrad": 79.5,
+    "Karbonisierung": 4.8
+}

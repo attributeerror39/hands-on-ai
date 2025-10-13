@@ -1,0 +1,124 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Juice",
+    "Datum": "17.10.2018",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "ZEkE-",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.2,
+    "Bittere": 35,
+    "Farbe": 8,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Mein erstes New England IPA. Farbe geht ins gelblich\/orange, Tr\u00fcbung ist ebenso vorhanden. Geschmacklich ist das ganze sch\u00f6n fruchtig mit einem sp\u00fcrbaren Citrus- und Steinobstaroma.\r\n\r\nTextur ist sch\u00f6n s\u00e4mig, Hopfenbittere ist nur sehr leicht vorhanden. Alles in allem sehr mild und fruchtig frisch.\r\n\r\nAngelehnt ist das Bier an das \"Tasty Juice\" von der Lervig Aktiebryggeri. ",
+    "Malze": [
+        {
+            "Name": "Golden Promise",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Helles Weizenmalz",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Kernige Haferflocken",
+            "Menge": 800,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.6,
+    "Einmaischtemperatur": 35,
+    "Rasten": [
+        {
+            "Temperatur": 35,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Equinox",
+            "Menge": 2,
+            "Alpha": 13.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 2,
+            "Alpha": 13,
+            "Zeit": 65,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosacic",
+            "Menge": 2,
+            "Alpha": 12.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Equinox",
+            "Menge": 24,
+            "Alpha": 13.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 24,
+            "Alpha": 13,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosacic",
+            "Menge": 24,
+            "Alpha": 12,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic\/Equinox\/Citra",
+            "Menge": 60,
+            "Alpha": 12.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Equinox",
+            "Menge": 40
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 40
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 40
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Amarillo",
+            "Menge": 40,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Fermentis S-04",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Vor einiger Zeit im BrewDog-Pub in Berlin konnte ich das Tasty Juice von Lervig probieren. Die Fruchtigkeit und die knackige Bittere im Nachgang hat mich echt umgehauen.\r\nVon daher war klar, dass muss ich versuchen nach zu Brauen. Leider sind mir bei der 2. Hopfengabe und dem Whirlpool zwei Missgeschicke passiert, weswegen in meinem Versuch\r\ndie Hopfenbittere im Nachgang nicht ganz so ausgepr\u00e4gt ist wie beim Orginal. Aus diesem Grund habe ich es auch nicht als Clon eingestellt.\r\n \r\nDa man nicht alle Hopfengaben beim Erstellen des Rezepts abbilden kann, f\u00fchre ich das Ganze hier nochmal im Detail auf:\r\n \r\nKochen:\r\n5g Equinox f\u00fcr 60 Mintuen kochen\r\n5g Citra f\u00fcr 60 Minuten kochen\r\n5g Mosaic f\u00fcr 60 Minuten kochen\r\n\r\n60g Equinox f\u00fcr 5 Minuten kochen\r\n60g Citra f\u00fcr 5 Minuten kochen\r\n60g Mosaic f\u00fcr 5 Minteun kochen\r\n\r\nWhirlpool:\r\n50g Equinox in Whirlpool bei 80\u00b0 - 10-15 Minuten ziehen lassen\r\n50g Citra in Whirlpool bei 80\u00b0 - 10-15 Minuten ziehen lassen\r\n50g Mosaic in Whirlpool bei 80\u00b0 - 10-15 Minuten ziehen lassen\r\n\r\nHopfenstopfen:\r\n\r\n1. Dryhop direkt in die Kr\u00e4usen an Tag zwei der G\u00e4rung\r\n8g Equinox\r\n8g Citra\r\n8g Mosaic\r\n\r\n2. Dryhop mit Hopetube f\u00fcr 2-3 Tage\r\n100g Equinox\r\n100g Citra\r\n100g Mosaic\r\n\r\n3. Dryhop mit Hopetube f\u00fcr 2-3 Tage\r\n80g Equinox\r\n80g Citra\r\n80g Mosaic\r\n100g Amarillo\r\n\r\nZusammengerechnet befinden sich 1kg Hopfen in dem Sud (300g Equinox, 300g Citra, 300g Mosaic, 100g Amarillo).\r\n\r\nWasser:\r\nDa ich meine genauen Wasserwerte nicht kenne, habe ich keinerlei Aufbereitung oder \u00c4hnliches vorgenommen. Das Wasser kommt hier laut Webseite mit 0,55 mmol \/ l Calciumcarbonat (CaCO\u00b3) aus der Leitung. Habe beim Amt schon nachgefragt, bisher aber keine Anwort bekommen....\r\n\r\nProbleme:\r\nWie oben schon erw\u00e4hnt hatte ich beim Hopfenkochen ein paar Probleme. Um m\u00f6glichst viel W\u00fcrze ins G\u00e4rfass zu bekommen, habe ich mit einem Hopspider gearbeitet. Auf Grund der gro\u00dfen Hopfenmenge hat sich dieser leider zugesetzt und war nur noch schwer zu handeln. Aus diesem Grund habe ich dann die 80\u00b0 des Whirlpools verpasst, weil ich mit dem Hopspider zu \r\nk\u00e4mpfen hatte. Beim n\u00e4chsten mal werde ich einen zweiten Hopspider verwenden um den Hopfen besser aufteilen zu k\u00f6nnen. Ich hoffe das ich damit die gew\u00fcnschte Hopfenbittere im Nachgang ins Bier bekommt.\r\n\r\nColdcrash\/Abf\u00fcllen:\r\nVon Tag 9 auf Tag 10 hatte ich noch einen Coldcrash gemacht und das Bier auf 0,5er Falschen gef\u00fcllt und mit Zucker karbonisiert. Es sind jetzt ca. 2 Wochen um, Oxidation oder \u00c4hnliches in den Falschen konnte ich bisher zum Gl\u00fcck noch nicht feststellen (Das Bild im Glas ist bei schlechten Licht, deswegen sieht es dunkler aus). Sollte es doch noch zu einer Oxidation kommen, werde ich hier berichten."
+}

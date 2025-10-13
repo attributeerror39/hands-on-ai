@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Nelson Sauvin Pale Ale",
+    "Datum": "09.01.2014",
+    "Sorte": "Pale Ale",
+    "Autor": "MF",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.1,
+    "Bittere": 38,
+    "Farbe": 4,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Angelehnt an das Thornbridge Kipling",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 3.83,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 210,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.94736842105263,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 14.736842105263158,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 17,
+            "Alpha": 12,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 17,
+            "Alpha": 12,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 47,
+            "Alpha": 12,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 47
+        }
+    ],
+    "Hefe": "White Labs WLP007 Dry English Ale",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Rezept war als Klonrezept f\u00fcr das Thornbridge Kipling gedacht. Die WLP 007 war bei mir das zweite mal im Einsatz. Ist mittlerweile meine Lieblingshefe weil ein recht neutrales und rundes Bier rauskommt. Das Jungbier wurde nach der G\u00e4rung f\u00fcr eine Woche mit Nelson Sauvin gestopft. W\u00fcrde ich beim n\u00e4chsten mal etwas k\u00fcrzer machen, da das Bier schon leicht grasig wurde. Ansonsten nach 3 Wochen Lagern super lecker."
+}

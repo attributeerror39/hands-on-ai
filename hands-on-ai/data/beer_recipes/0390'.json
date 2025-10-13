@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Summer Ice Pale Ale",
+    "Datum": "26.04.2014",
+    "Sorte": "Pale Ale",
+    "Autor": "yeasty",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 45,
+    "Farbe": 18,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Erfrischendes Pale Ale, english style mit Amarillo-Citruskick - Farbe, Geruch und Geschmack erinnern an selbstgemachten Lemon Ice Tea",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.55,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 1.24,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 73,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara red",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.545454545454547,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.18181818181818,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Magnum",
+            "Menge": 22,
+            "Alpha": 13.5,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggle",
+            "Menge": 25,
+            "Alpha": 4.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Styrian Golding Celeia",
+            "Menge": 36
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 18
+        }
+    ],
+    "Hefe": "WLP002 English Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Hopfengabe in Typ90-Pellets;\r\nStopfen am 2.Tag der Hauptg\u00e4rung f\u00fcr eine Woche"
+}

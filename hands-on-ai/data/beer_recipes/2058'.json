@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Gose O",
+    "Datum": "04.01.2025",
+    "Sorte": "Sauerbier",
+    "Autor": "Rhoener",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 9.9,
+    "Bittere": 12,
+    "Farbe": 5,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Gose im Rahmen des HBCon-Jurywettbewerbs 2025 (BJCP 23G). Nicht zu sauer, durch durch den Einsatz einer weiteren Hefe. Leichte Orangennote durch Zugabe von Orangenschalenauszug. Ein erfrischendes, leichtes Sommerbier.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.35,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 610,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 60,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 71,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.5,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertau Tradition",
+            "Menge": 11,
+            "Alpha": 6.8,
+            "Zeit": 55,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Tradition",
+            "Menge": 6,
+            "Alpha": 6.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Meersalz",
+            "Menge": 15,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Koriandersaat",
+            "Menge": 15,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Orangenschalen Auszug",
+            "Menge": 20,
+            "Einheit": "ml"
+        }
+    ],
+    "Hefe": "Philly Sour, Mangrove Jack&#039;s M29 - French Saison",
+    "Gaertemperatur": "22-24",
+    "Endvergaerungsgrad": 81,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Koriandersaat vor der Zugabe grob zerm&ouml;rsert und kurz anger&ouml;stet.\r\nNach dem Haupt PH Sturz (von 5,45 auf 4,45 innerhalb ca. 3 Tage)  durch die Philly Sour wurde noch die Saison Hefe hinzugef&uuml;gt um die S&auml;ure nicht zu stark ansteigen zulassen. (End PH Wert 3,8)\r\nOrangenschalen Auszug (ca. 1 ml\/L) zur Reifung im KEG vorgelegt"
+}

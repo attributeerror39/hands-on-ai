@@ -1,0 +1,137 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Tropical Fruit Storm Hopper",
+    "Datum": "03.04.2025",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "Marc881",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 33,
+    "Farbe": 16,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Ein intensives New England IPA, das dich in eine Welt tropischer Fr&uuml;chte entf&uuml;hrt. Mit Noten von Mango, Papaya, Pfirsich und Kokosnuss bietet es ein saftiges, fruchtiges Aroma ohne &uuml;berw&auml;ltigende Bitterkeit. Die cremige Textur durch Haferflocken und Weizenmalz sorgt f&uuml;r ein weiches Mundgef&uuml;hl, w&auml;hrend die Hopfenaromen eine Geschmacksexplosion ausl&ouml;sen. Perfekt f&uuml;r alle, die ein frisches und erfrischendes Bier mit exotischem Charakter suchen.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.69,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 150,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M&uuml;nchner",
+            "Menge": 1.02,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 510,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "dekoktion",
+    "Einmaisch_Zubruehwasser_gesamt": 12.7,
+    "Dekoktionen": [
+        {
+            "Volumen": 12.7,
+            "Temperatur_ist": 58,
+            "Temperatur_resultierend": 55,
+            "Rastzeit": 30
+        },
+        {
+            "Volumen": 7.7,
+            "Form": "Dickmaische",
+            "Teilmaische_Rastzeit": 15,
+            "Teilmaische_Temperatur": 72,
+            "Teilmaische_Kochzeit": 10,
+            "Temperatur_resultierend": 65,
+            "Rastzeit": 30
+        },
+        {
+            "Volumen": 7.7,
+            "Form": "Dickmaische",
+            "Teilmaische_Rastzeit": 25,
+            "Teilmaische_Temperatur": 72,
+            "Teilmaische_Kochzeit": 15,
+            "Temperatur_resultierend": 78,
+            "Rastzeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15.384615384615385,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 14,
+            "Alpha": 7,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 6,
+            "Alpha": 12,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Azacca",
+            "Menge": 6,
+            "Alpha": 15,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 6,
+            "Alpha": 9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 15
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 15
+        },
+        {
+            "Sorte": "Azacca",
+            "Menge": 15
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Amarillo",
+            "Menge": 15,
+            "Einheit": "g"
+        },
+        {
+            "Name": "HBC 1019",
+            "Menge": 15,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Gozdawa Bierhefe Ale Yeast Notty ",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 82,
+    "Karbonisierung": 5
+}

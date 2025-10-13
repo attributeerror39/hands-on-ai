@@ -1,0 +1,72 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Maibock21",
+    "Datum": "24.05.2021",
+    "Sorte": "Maibock",
+    "Autor": "DerBrauh\u00e4nger",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 25,
+    "Farbe": 22,
+    "Alkohol": 6.8,
+    "Kurzbeschreibung": "Malzig s\u00fc\u00dfer K\u00f6rper, w\u00e4rmend im Abgang mit leichten fruchtigen Hopfennoten",
+    "Malze": [
+        {
+            "Name": "Wiener Malz ",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.25,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 420,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20.833333333333336,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 3.333333333333333,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum ",
+            "Menge": 6,
+            "Alpha": 12.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade ",
+            "Menge": 21,
+            "Alpha": 6.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Voss Kveik",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 78.1,
+    "Karbonisierung": 4.3,
+    "Anmerkung_Autor": "Habe beim Abl\u00e4utern etwas zu fr\u00fch die Heizung im Kochkessel eingeschaltet(Heizst\u00e4be waren noch nicht bedeckt) daher leichte karamellisierung am Heizstab.Vor dem Abf\u00fcllen in KEG F\u00e4sser bzw. Flaschen wurde f\u00fcr 3 Tage ein \u201eColdcrush\u201c bei 1\u00b0C gemacht."
+}

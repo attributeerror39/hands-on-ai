@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "\u00c4ffle und Pferdle",
+    "Datum": "16.03.2021",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Juergen",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 18,
+    "Farbe": 11,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Haferweizen mit samtig weichem Mundgef\u00fchl, aka Hafer und Bananenblues",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.05,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken fein",
+            "Menge": 930,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 470,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 270,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "dekoktion",
+    "Einmaisch_Zubruehwasser_gesamt": 15,
+    "Dekoktionen": [
+        {
+            "Volumen": 15,
+            "Temperatur_ist": 76,
+            "Temperatur_resultierend": 69,
+            "Rastzeit": 30
+        },
+        {
+            "Volumen": 3.7,
+            "Form": "Dickmaische",
+            "Teilmaische_Kochzeit": 10,
+            "Temperatur_resultierend": 74,
+            "Rastzeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 74,
+    "Nachguss": 15.833333333333332,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle 2019 ",
+            "Menge": 5,
+            "Alpha": 8.9,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle 2019",
+            "Menge": 17,
+            "Alpha": 8.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Schneider",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Der Temperatursprung beim Einmaischen ist bei mir Anlagenbedingt, hier muss man seine Anlage kennen, um bei 69\u00b0 herauszukommen.\r\n\r\nDas L\u00e4utern klappt bei mir trotz der 20% Feinblatt-Haferflocken \u00fcberraschend gut, eigentlich hab ich mich hier auf einen Haferblues eingestellt. Der blieb allerdings aus.\r\nGel\u00e4utert wird mit L\u00e4uterhexenfreund im 12l Thermobeh\u00e4lter.\r\n\r\nAls Hefe kommt eine gestrippte Schneider-Hefe zum einsatz, wer mehr Banane will, der sollte eine Gutmann-Hefe oder eine entsprechende Fl\u00fcssighefe nehmen.\r\n\r\nTrinkbar ist es direkt nach der Karbonisierung, ich hab es noch eine Woche bei 4\u00b0 reifen lassen.\r\n\r\nIm fertigen Bier ist ein Hauch von Bananenaroma gepaart mit Hafer.\r\n"
+}

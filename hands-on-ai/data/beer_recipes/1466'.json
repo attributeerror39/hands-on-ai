@@ -1,0 +1,117 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Remember Good George IPA",
+    "Datum": "14.04.2021",
+    "Sorte": "India Pale Ale",
+    "Autor": "Waikoloa",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.9,
+    "Bittere": 42,
+    "Farbe": 8,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Ich hatte das Good George IPA w\u00e4hrend unseres Neuseeland Urlaubs genossen.\r\nDa ich nirgendwo ein Klonerezept fand hab ich es mir mal selbst zusammengebastelt. \r\nGebraut wurde mit dem 30l Mundschenk.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 270,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22.72727272727273,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 7.272727272727273,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Galaxy",
+            "Menge": 9,
+            "Alpha": 13.6,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 5,
+            "Alpha": 11.4,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 10,
+            "Alpha": 9.4,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 5,
+            "Alpha": 9.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 5,
+            "Alpha": 11.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 9,
+            "Alpha": 9.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 9,
+            "Alpha": 11.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 41
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 25
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 14
+        }
+    ],
+    "Hefe": "Fermentis US05",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Ein Wirlpoolhopfen fehlte noch, die Fenster reichten leider nicht. \r\nGalaxy 10 Gramm. Der Wirlpoolhopfen wurde bei 70\u00b0c zugegeben. \r\nDanach habe ich den Sud 15 Min. stehen lassen. Dann wurde weiter gek\u00fchlt. Nach 14 Tagen wurde der Stopfhopfen f\u00fcr 4 Tage zugegeben. Die Karbonisierung erfolgte mit\r\nder Dosierhilfe und Zucker. \r\nDas Bier ist sehr Lecker und fruchtig mit Maracuja, Zitrus und Guave Aromen. "
+}

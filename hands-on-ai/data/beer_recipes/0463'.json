@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Tiger Tank",
+    "Datum": "06.05.2015",
+    "Sorte": "Pale Ale",
+    "Autor": "jemo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 35,
+    "Farbe": 16,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Deutsches Pale Ale",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.26,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 53,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.830188679245282,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.830188679245282,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 19,
+            "Alpha": 10,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 19,
+            "Alpha": 7.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 38,
+            "Alpha": 7.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "W177 (Weihenstephan)",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die Hefe verg\u00e4rt relativ neutral, was das fruchtige Aroma des Hopfens sch\u00f6n zur Geltung bringt. Chlorid- und Sulfationen habe ich auf 100\/100 eingestellt. "
+}

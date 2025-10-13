@@ -1,0 +1,97 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Scotland Art",
+    "Datum": "17.02.2022",
+    "Sorte": "Scottish Ale",
+    "Autor": "bigred",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.2,
+    "Bittere": 25,
+    "Farbe": 42,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Ein wunderbar s&uuml;ffiges und malziges, dunkles Ale mit einem Hauch Torf, Aromen von Erdbeere und dunklen Fr&uuml;chten.",
+    "Malze": [
+        {
+            "Name": "Maris Otter Pale Ale",
+            "Menge": 2.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchner Malz",
+            "Menge": 1.06,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Whisky Malz leicht getorft",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin Malz",
+            "Menge": 130,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara M&uuml;nch II",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R&ouml;stgerste",
+            "Menge": 51,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.636363636363635,
+    "Einmaischtemperatur": 64,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.131313131313131,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 9,
+            "Alpha": 5,
+            "Zeit": 75,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Nothern Brewer",
+            "Menge": 10,
+            "Alpha": 9.2,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Brewers Gold",
+            "Menge": 4,
+            "Alpha": 5.7,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 10,
+            "Alpha": 5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "GOZDAWA RSAY11",
+    "Gaertemperatur": "15-17",
+    "Endvergaerungsgrad": 71,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Erster Versuch und direkt ein Treffer. W&uuml;rde an dem Rezept nichts mehr &auml;ndern wollen, au&szlig;er vllt das n&auml;chste mal mit Eichenholzchips zu stopfen.\r\n\r\nDas Brauwasser habe ich mit 3,5g Calciumsulfat aufgeteilt in Haupt- und Nachguss angepasst. \r\nResultat: 0.8&deg;dH\r\nKalzium:\r\n51,4 mg\/l\r\nMagne&shy;sium:\r\n9.9 mg\/l\r\nSulfat:\r\n94,7 mg\/l\r\nChlorid:\r\n18.4 mg\/l\r\nNatrium:\r\n6.6 mg\/l\r\n\r\nEingemaischt habe ich bei 68&deg; ergibt dann 64&deg; f&uuml;r gut 10 Minuten, die geschrotete R&ouml;stgerste gleich mit.\r\nNachgu&szlig; k&ouml;nnte auch etwas mehr gewesen sein.\r\n\r\nG&auml;rung bei 15-16&deg; Raumtemperatur gestartet dann nach einer Woche auf 17-18&deg; f&uuml;r paar Tage dann abgef&uuml;llt.\r\nKarbonisiert mit Zucker.\r\n\r\nReifezeit circa 5 Wochen wobei es auch fr&uuml;her schon schmeckt.\r\nAnfangs dominieren definitiv die Fruchtnoten und je l&auml;nger die Lagerung desto mehr kommt das Malz und Torf zur Geltung.\r\n\r\nDas Whisky Malz war scheinbar schon &auml;lter, beim Zerkauen des Malzes schmeckte man fast nichts vom Torf.\r\n"
+}

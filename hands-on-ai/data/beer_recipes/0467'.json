@@ -1,0 +1,105 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Pale Ale",
+    "Datum": "16.05.2015",
+    "Sorte": "Pale Ale",
+    "Autor": "headbrewer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 35,
+    "Farbe": 25,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "bernsteinfarbenes Ale - Aromen von Grapefruit und Pinie auf malzigem Hintergund",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.96,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Malz",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 260,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 11,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 72.5,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 2
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.8,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 2,
+            "Alpha": 11.9,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 2,
+            "Alpha": 11.9,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 2,
+            "Alpha": 12.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade ",
+            "Menge": 10,
+            "Alpha": 6.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 10,
+            "Alpha": 12.4,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 10,
+            "Alpha": 9.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "pH Wert 5.4 \/ 60 Minuten Kochzeit; nach Beendigung direktes Andrehen des Whirpools und 5 Minuten vor Ende die letzte Hopfengabe (Citra, Amarillo, Cascade) \/ Nachisomerisierungszeit 15 Minuten"
+}

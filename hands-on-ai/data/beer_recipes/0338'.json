@@ -1,0 +1,58 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ein schnelles Helles  AGUA-Bier ",
+    "Datum": "13.10.2013",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "manny15",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 28,
+    "Farbe": 7,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Ein Schnelles Helles nach K\u00f6lscher Art.\r\nS\u00fcffig und Leicht f\u00fcr die Frau.\r\nIdeal f\u00fcr den Einkocher.\r\n",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 3.64,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.727272727272727,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.636363636363635,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade Dolden",
+            "Menge": 18,
+            "Alpha": 6.5,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade Dolden",
+            "Menge": 9,
+            "Alpha": 6.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 2565 K\u00f6lsch",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Reifung mind.3 Wochen im K\u00fchlschrank.\r\nAuf dem Planeten AGUA wird auch Bier Gebraut.\r\n\r\nhttp:\/\/harald-kaup.de\/\r\n\r\n"
+}

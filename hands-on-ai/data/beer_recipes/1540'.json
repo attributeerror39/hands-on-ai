@@ -1,0 +1,108 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Finne Pale Ale Clone",
+    "Datum": "29.07.2021",
+    "Sorte": "Pale Ale",
+    "Autor": "MichelA",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Finne Pale Ale",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.5,
+    "Bittere": 72,
+    "Farbe": 16,
+    "Alkohol": 6.1,
+    "Kurzbeschreibung": "Fruchtiges und dennoch leicht kr\u00e4uteriges Pale Ale mit hoher Drinkability. Nicht zu aufdringlich, kommt dem Original sehr Nahe.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraAmber",
+            "Menge": 270,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.432432432432432,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.513513513513512,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Pacific Gem",
+            "Menge": 11,
+            "Alpha": 13,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Pacific Gem",
+            "Menge": 7,
+            "Alpha": 13,
+            "Zeit": 25,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "First Gold",
+            "Menge": 27,
+            "Alpha": 7.6,
+            "Zeit": 25,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 32,
+            "Alpha": 8.1,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Motueka",
+            "Menge": 32,
+            "Alpha": 5.6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 5,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "BRY-97",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wasseraufbereitung (wir haben hier um M\u00fcnster recht hartes Wasser und haben mit destilliertem Wasser, Milchs\u00e4ure und Braugips nachgeholfen) auf 0\u00b0dH und Sulfat-Chlorid Verh\u00e4ltnis von 4:1.\r\nDas Maischen wurde im High-Gravity Verfahren durchgef\u00fchrt, um mehr Ausschlagw\u00fcrze zu bekommen. Durch einen Split der W\u00fcrze haben wir sowohl die BRY-97, als auch die WYEAST 1056 getestet. Nach einigen Wochen war kein Unterschied zu schmecken, sodass die BRY-97 aufgrund des Preis-Leistungs-Verh\u00e4ltnis zu empfehlen ist.\r\nDas Bier sollte minimum 3 Wochen reifen. Der Alkoholgehalt ist inkl. Nachg\u00e4rung mit Haushaltszucker. \r\n"
+}

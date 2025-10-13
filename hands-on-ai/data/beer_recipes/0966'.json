@@ -1,0 +1,103 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "White Walker - White Stout",
+    "Datum": "03.10.2018",
+    "Sorte": "Stout",
+    "Autor": "oddberg",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.9,
+    "Bittere": 29,
+    "Farbe": 10,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Interpretation eines Stouts ohne R\u00f6stgerste mit ausschlie\u00dflich hellen Malzen. Goldgelb, mit Fokus auf zartschmelzender, weisser Schokolade, leichter Vanilles\u00fc\u00dfe, samtiges, vollmundiges Mundgef\u00fchl mit komplexen Kaffeearomen im Nachklang.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.04,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Pils",
+            "Menge": 390,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 130,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Hafermalz",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.782608695652172,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.434782608695652,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 30,
+            "Alpha": 6.3,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 9,
+            "Alpha": 6.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Milchzucker",
+            "Menge": 217,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Vanilleschoten",
+            "Menge": "2 &frac12;",
+            "Einheit": "St\u00fcck"
+        },
+        {
+            "Name": "Kakaobruch",
+            "Menge": 87,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Kaffeebohnen",
+            "Menge": 130,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Wyeast 1318 London Ale III",
+    "Gaertemperatur": "19,5",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Die Vanilleschoten, frisch ger\u00f6stete Kaffeebohnen und Kakaobruch habe ich f\u00fcr vier Tage nach der Hauptg\u00e4rung in den G\u00e4rbeh\u00e4lter gegeben.\r\nAnsonsten ist bei der Verg\u00e4rungsgradberechnung darauf zu achten,dass sich durch die Zugabe von Milchzucker die Stammw\u00fcrze um ca. 1\u00b0 Plato erh\u00f6ht. \r\nFarbe ist gesch\u00e4tzt."
+}

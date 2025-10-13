@@ -1,0 +1,96 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Roggenweizen",
+    "Datum": "31.12.2017",
+    "Sorte": "Roggenbier",
+    "Autor": "krampus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.5,
+    "Bittere": 19,
+    "Farbe": 38,
+    "Alkohol": 6.8,
+    "Kurzbeschreibung": "Roggenweizen mit einer sehr leichten bitteren Note.\r\n\r\n",
+    "Malze": [
+        {
+            "Name": "Roggenmalz",
+            "Menge": 2.39,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.08,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen hell",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CARAAROMA",
+            "Menge": 260,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.492957746478872,
+    "Einmaischtemperatur": 40,
+    "Rasten": [
+        {
+            "Temperatur": 38,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 57,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.08450704225352,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 13,
+            "Alpha": 9.6,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 7,
+            "Alpha": 5.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Spalter",
+            "Menge": 7,
+            "Alpha": 5.4,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Zymoferm Z033",
+    "Gaertemperatur": "22",
+    "Karbonisierung": 8,
+    "Anmerkung_Autor": "F\u00fcr das L\u00e4utern mehr Zeit einplanen, da ist Geduld gefragt.\r\n"
+}

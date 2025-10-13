@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Orange Summer",
+    "Datum": "08.07.2019",
+    "Sorte": "Pale Ale",
+    "Autor": "lautrer bier",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.6,
+    "Bittere": 20,
+    "Farbe": 14,
+    "Alkohol": 6.2,
+    "Kurzbeschreibung": "Goldgelbes Pale Ale, leicht gehopft mit einer angenehmen und nicht aufdringlichen Orangennote. Ideal f\u00fcr den Sommer.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz\t",
+            "Menge": 2.05,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.05,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caramalz hell, CARAHELL\u00ae",
+            "Menge": 230,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.5,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saazer",
+            "Menge": 30,
+            "Alpha": 3.1,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 7,
+            "Alpha": 13.1,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Orangenschalen",
+            "Menge": 135,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 40
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 40
+        }
+    ],
+    "Hefe": "GOZDAWA U.S. West Coast (USWC)",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Mit diesem Pale Ale wollte ich einerseits Hopfenrestbest\u00e4nde aufbrauchen, andererseits aber auch einmal eine Aromatisierung ausprobieren, die nicht dem Reinheitsgebot entspricht. Herausgekommen ist ein Sommerbier, das aufgrund einer anders als \u00fcblich eingestellten Malzm\u00fchle wesentlich mehr Alkohol enth\u00e4lt, als urspr\u00fcnglich geplant.\r\n\r\nDie Orangenschalen wurden aus 2kg Orangen gewonnen, die ich vorsichtig mit der Reibe abgerieben und eingefroren hatte.\r\n\r\nZum ersten Mal hatte ich die GOZDAWA U.S. West Coast (USWC) verwendet, ich war angenehm \u00fcberrascht! Bereits nach wenigen Stunden war die G\u00e4rung voll im Gange, nach 6 Tagen hatte sie 13,5\u00b0 Plato auf 4\u00b0 Plato geschafft. Geschmacklich ist sie f\u00fcr meine Verh\u00e4ltnisse recht neutral und harmoniert richtig gut mit dem Hopfen und den Orangenschalen."
+}

@@ -1,0 +1,67 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Gabri - Ale",
+    "Datum": "06.06.2016",
+    "Sorte": "Pale Ale",
+    "Autor": "inem",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 28,
+    "Farbe": 34,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Einfaches Singlehop Ale - gebraut im Kloster St. Gabriel",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 1.85,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 1.69,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Kara Dunkel (IREKS)",
+            "Menge": 460,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.846153846153847,
+    "Einmaischtemperatur": 64,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 45
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.846153846153847,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 18,
+            "Alpha": 8.2,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 43,
+            "Alpha": 8.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Nottingham Ale",
+    "Gaertemperatur": "19",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Einfaches Single Hop Ale f\u00fcr Einsteiger. Kann durch Stopfen interessanter gemacht werden"
+}

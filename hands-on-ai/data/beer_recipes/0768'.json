@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Dinkel Saphir Weizen",
+    "Datum": "28.08.2017",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "alt-phex",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 17,
+    "Farbe": 20,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Bernsteinfarbener Durstl\u00f6scher mit erfrischender Hopfennote vom Saphir.",
+    "Malze": [
+        {
+            "Name": "Wienermalz",
+            "Menge": 1.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Dinkel (Rohfrucht)",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Wheat",
+            "Menge": 92,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Norther Brewer",
+            "Menge": 16,
+            "Alpha": 8.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Saphier",
+            "Menge": 40,
+            "Alpha": 3.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Gutmann Erntehefe",
+    "Gaertemperatur": "20-22",
+    "Endvergaerungsgrad": 83,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Die leichten frucht- und Zitrusaromen des Saphir passen sehr gut zu den bananigen Estern der Gutmann Hefe. Dinkel und Cara Wheat geben eine gute Textur und einen robusten K\u00f6rper f\u00fcr das Bier. Schmeckt frisch aus der Nachg\u00e4rung schon sehr lecker, weitere 2 Wochen kalte Reifung machen eine runde Sache draus.\r\n\r\nEin solider Durstl\u00f6scher, etwas Abseits der Stiltreue, aber ich mag halt auch Hopfen im Weizenbier. \u00dcberfordert \"Normalbiertrinker\" nicht und ist schnell Trinkreif. Also auch das richtige wenn es mal schnell gehen muss f\u00fcr die Party in X Wochen ;-)\r\n\r\nWie immer bei meinen Rezepten: Hopfengabe im Whirlpool heisst Zugabe bei knapp unter 80\u00b0C und 15min ziehen lassen.\r\n\r\n\r\n"
+}

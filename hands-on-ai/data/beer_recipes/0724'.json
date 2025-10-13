@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ein M\u00e4nnlein steht im Walde..",
+    "Datum": "22.05.2017",
+    "Sorte": "Sauerbier",
+    "Autor": "flying",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 25,
+    "Farbe": 20,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Eine \"geschummelte\" Gose mit Hagebuttentee, Koriander, Salz, Hopfen und Milchs\u00e4ure",
+    "Malze": [
+        {
+            "Name": "Pilsnermalz",
+            "Menge": 4,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 16,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Taurus",
+            "Menge": 12,
+            "Alpha": 18,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "25 Teebeutel Hagebuttentee mit Hibiskus",
+            "Menge": 60,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Indischer Koriander frisch gem\u00f6rsert",
+            "Menge": 12,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Salz",
+            "Menge": 12,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "80%- ige Milchs\u00e4ure",
+            "Menge": 40,
+            "Einheit": "ml",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "K- 97",
+    "Gaertemperatur": "15",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Frisch- fruchtiges Sommergetr\u00e4nk. Sehr einfach herzustellen. Man braucht sich nicht sklavisch an das Maischverfahren zu halten. Kombirast geht auch. Nachguss anlagenbezogen. Hopfen geht auch alles. Das Bier ist leicht s\u00e4uerlich, in etwa so wie Radler. Wer es saurer mag kann die Milchs\u00e4ure erh\u00f6hen."
+}

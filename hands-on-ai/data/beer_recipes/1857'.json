@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mandarina Coronia",
+    "Datum": "23.10.2023",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "BrewBen",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 28,
+    "Farbe": 11,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Goldoranges Bier mit sch\u00f6nem Malzk\u00f6rper mit ausgepr\u00e4gter Grapefruit und Zitrusnote. Leichter Anflug von Banane bei ausgewogener Bitterkeit.\r\nAngenehmes Trinkbier",
+    "Malze": [
+        {
+            "Name": "Wiener",
+            "Menge": 2.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 1.4,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 62,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch ",
+            "Menge": 20,
+            "Alpha": 4.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch ",
+            "Menge": 12,
+            "Alpha": 4.4,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria ",
+            "Menge": 8,
+            "Alpha": 8,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria ",
+            "Menge": 8,
+            "Alpha": 8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 60
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "18-20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Unser erstes selbst entwickeltes Rezept, dieses ist aus einem Smash mit Wiener Malz und Hallertauer Mittelfr\u00fch hervorgegangen.\r\nDie Hauptg\u00e4rung erfolgte im Fass, die Hefe wurde vorher mit abgekochtem Wasser und etwas W\u00fcrze rehydriert. Im Fass erfolgte nach der HG (5 Tage) eine kurze Nachg\u00e4rung mit Stopfhopfen (4 Tage). Anschlie\u00dfend ging es mit je 2 Karbonisierungsdrops in 0,5L B\u00fcgelflaschen. Diese standen 1 Woche bei 20grad, danach nochmals 4 Tage bei 2grad zur Einbindung der Kohlens\u00e4ure.\r\nEs kann ruhig noch etwas l\u00e4nger stehen, ist aber nach dieser Zeit schon gut trinkbar.\r\nZu lange w\u00fcrde ich es aber nicht stehen lassen, da der Stopfhopfen irgendwann an Intensit\u00e4t nachl\u00e4sst.\r\n"
+}

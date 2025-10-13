@@ -1,0 +1,80 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Callisto - Space Series No.2",
+    "Datum": "25.05.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "Straxel_",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 25,
+    "Farbe": 13,
+    "Alkohol": 3.6,
+    "Kurzbeschreibung": "Sehr tropisch fruchtiges Pale Ale, welches trotzdem s\u00fcffig und leicht r\u00fcberkommt, und keinen hohen Alkoholgehalt besitzt - perfekt f\u00fcr Grillabende",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.48,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraM\u00fcnch II",
+            "Menge": 120,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 1
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 12,
+            "Alpha": 13,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 12,
+            "Alpha": 3.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 12,
+            "Alpha": 3.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 20
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 40
+        }
+    ],
+    "Hefe": "Mangrove Jack's M36 Liberty Bell",
+    "Gaertemperatur": "19-21",
+    "Endvergaerungsgrad": 51.8,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Da mein Haus-Ale, das Rocinante bei Familie und Freunden so gut angekommen ist habe ich mich dazu entschieden eine kleine \"Weltraumserie\" zu brauen, da wir sehr auf The Expanse stehen :D\r\nDies ist die No.2\r\n\r\nDen Stopfhopfen nach der Hauptg\u00e4rung hinzugeben und nach weiteren 3-4 Tagen kann in Flaschen abgef\u00fcllt werden.\r\n\r\nFlaschenreifung ca. 2 Wochen, danach schmeckt es schon echt klasse.\r\n\r\nHappy Brewing!"
+}

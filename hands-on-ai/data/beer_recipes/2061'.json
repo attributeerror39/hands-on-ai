@@ -1,0 +1,99 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "American Pale Ale RMH 2024",
+    "Datum": "17.01.2025",
+    "Sorte": "Pale Ale",
+    "Autor": "Werle Brewery",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.5,
+    "Bittere": 35,
+    "Farbe": 15,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Meine Einreichung zur Ruhrpottmeisterschaft der Hobbybrauer mit einer Top 10 Plazierung.\r\n\r\nRundes Pale Ale mit malziger Note, gepaart mit Citrus und Mandarine. Durch die Kalthopfung kommt der Citra- und Solerohopfen sehr gut zur Geltung. Geschmacklich sehr gut. Wer ein Pale Ale bitter mag, der kann an der Menge der Hopfengabe noch variieren.\r\n\r\nBitte bewerten ich w&uuml;rde mich freuen :)\r\n\r\nEuer Team der Hopfenschn&uuml;ffler",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.17,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.74,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchner Malz",
+            "Menge": 610,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 300,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 43,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.956521739130437,
+    "Einmaischtemperatur": 63,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.565217391304348,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 17,
+            "Alpha": 13.3,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 11,
+            "Alpha": 13.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Solero",
+            "Menge": 11,
+            "Alpha": 8.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 43
+        },
+        {
+            "Sorte": "Solero",
+            "Menge": 43
+        }
+    ],
+    "Hefe": "Fermentis US-05",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Maischwasser und auch Kochwasser bitte auf folgende Werte einstellen (Brauwasser):\r\nMaischwasser:\r\nCalcium 19 (ppm)\r\nMagnesium 9 (ppm)\r\nSodium 5 (ppm)\r\nSulfate 7 (ppm)\r\nChloride 4 (ppm)\r\nBicarbonate 116 (ppm)\r\n\r\nKochwasser:\r\nCalcium 138 (ppm)\r\nMagnesium 19 (ppm)\r\nSodium 21 (ppm)\r\nSulfate 297 (ppm)\r\nChloride 54 (ppm)\r\nBicarbonate 53 (ppm)\r\n\r\nP.s.die Menge der Stopfhopfen bezieht sich auf 13,3% Citra und 8,3% Solero.\r\nKaltgehopft f&uuml;r 72 Stunden 1 Tag vor Ende der Hauptg&auml;rung!\r\n\r\nViel Spa&szlig; beim Brauen!\r\nEuer Team der Hopfenschn&uuml;ffler"
+}

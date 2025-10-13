@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Simons Spezial",
+    "Datum": "21.03.2020",
+    "Sorte": "Pale Ale",
+    "Autor": "brzzz1",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.4,
+    "Bittere": 24,
+    "Farbe": 11,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Spritzig-s\u00fcffiges Blond Ale mit fruchtiger Note",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2.17,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.08,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafoam\/Carapils",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.666666666666668,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "First Gold",
+            "Menge": 15,
+            "Alpha": 7.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 11,
+            "Alpha": 12.3,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis SafAle S-33",
+    "Gaertemperatur": "21",
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Nachisomerisierungszeit 20min. Nach 3 bis 4 Wochen schmeckt es mir am besten.\r\n\r\n"
+}

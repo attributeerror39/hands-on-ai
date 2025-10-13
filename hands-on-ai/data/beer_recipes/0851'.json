@@ -1,0 +1,147 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Tripel Bruder",
+    "Datum": "04.02.2018",
+    "Sorte": "Belgisches Tripel",
+    "Autor": "Kobi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 19.9,
+    "Bittere": 37,
+    "Farbe": 8,
+    "Alkohol": 9.3,
+    "Kurzbeschreibung": "Ein kr\u00e4ftiges Tripel, das die getreidige Vielfalt des Tripel Karmeliet mit der kr\u00e4ftigen Hopfung, der Zitrusnote und der Geschmacksf\u00fclle des Chimay Blanche kombiniert.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.19,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "helles Weizenmalz",
+            "Menge": 770,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rohweizen",
+            "Menge": 770,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Hafermalz",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 190,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.846153846153847,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 52,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.538461538461537,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Celeia",
+            "Menge": 19,
+            "Alpha": 4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 8,
+            "Alpha": 12.4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 8,
+            "Alpha": 12.4,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Celeia",
+            "Menge": 19,
+            "Alpha": 4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 8,
+            "Alpha": 12.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Koriander",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Pomeranzenschale",
+            "Menge": 19,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Orangenschale",
+            "Menge": 6,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "wei\u00dfer Haushaltszucker",
+            "Menge": 769,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "gestrippte Chimay",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 86,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Das Sauermalz war bei uns erforderlich, um wegen unserer hohen RA von 9,6 den Ph-Wert auf noch akzeptable 5,8 zu senken; nach den eigenen Wasserwerten anpassen und ggf. durch Pilsner Malz ersetzen.\r\nDen Hauptguss haben wir nicht am St\u00fcck zugegeben, sondern zun\u00e4chst den geschroteten Rohweizen und die Haferflocken mit kochendem Wasser angeteigt, dann mit kaltem Wasser auf 45\u00b0 gek\u00fchlt, dann mit weiterem Hauptgusswasser Weizenmalz, Hafermalz und 1 kg Pilsner Malz eingemaischt und eine Gummirast bei knapp unter 45\u00b0 f\u00fcr 20 min gemacht, um das L\u00e4utern zu erleichtern und das Bier nicht zu s\u00e4mig werden zu lassen, dann bei 52\u00b0 das restliche Malz mit dem restlichen Hauptgusswasser eingemaischt und mit der Eiwei\u00dfrast wie beschrieben weitergemacht.\r\nDer Nachguss ist gesch\u00e4tzt, weil wir bei 4\u00b0 aufgeh\u00f6rt haben zu l\u00e4utern, als die restliche W\u00fcrze begann, sehr intensiv getreidig zu riechen. Stattdessen haben wir nach dem Kochen die Stw. auf 16,1\u00b0 P mit 9 Litern Wasser eingestellt.\r\nDer Zucker wird aufgeteilt: Rund 1550 g in zwei Portionen in Wasser gel\u00f6st nach der st\u00fcrmischen G\u00e4rung, der Rest (450 g) in die Flascheng\u00e4rung. Der Zucker macht insgesamt 3,8\u00b0 der Stammw\u00fcrze aus.\r\nDer Chinook ist f\u00fcr ein Tripel nicht unbedingt sortentypisch, passt aber wegen seiner Grapefruit- und Zitrusnote sehr gut, wie ich finde.\r\nAbgef\u00fcllt nach 4 Wochen, Nachg\u00e4rung und Reifung mindestens 6 Wochen. Das Bier weist aufgrund der Sch\u00fcttung eine leichte Eiwei\u00dftr\u00fcbung auf.\r\nDas Ergebnis finde ich sensationell, wie geplant eine Kombination der leckeren getreidigen Vielfalt des Tripel Karmeliet, das ich aber unterhopft finde, mit der Herbheit, der Zitrusnote und der gro\u00dfartigen Geschmacksf\u00fclle des Chimay Blanche - und noch etwas Eigenem, nicht zuletzt, weil es auch st\u00e4rker ist als die beiden."
+}

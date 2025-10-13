@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Griselda",
+    "Datum": "11.10.2021",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "marsabba",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 30,
+    "Farbe": 10,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Helles, sehr s\u00fcffiges Sommerbier mit einem Hauch Zitrone. Irgendwo im Bermudadreieck zwischen Kveik, Saison und Pale Ale.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.59,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner II",
+            "Menge": 390,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen, Roh",
+            "Menge": 390,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.11764705882353,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 10.588235294117647,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 26,
+            "Alpha": 6.9,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 12,
+            "Alpha": 13.3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 24,
+            "Alpha": 9.1,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Invertzucker Hell",
+            "Menge": 588,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Kveik Lida",
+    "Gaertemperatur": "25",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Beim Wasser auf niedrige Restalkalit\u00e4t achten."
+}

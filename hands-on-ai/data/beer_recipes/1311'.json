@@ -1,0 +1,94 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Fr\u00e4nkisches Rotbier",
+    "Datum": "23.06.2020",
+    "Sorte": "Kellerbier",
+    "Autor": "MCNAIL",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 25,
+    "Farbe": 25,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "R\u00f6tliches (dunkel)Bier mit toller Schaumkrone, ausgesprochen s\u00fcffiges Bier mit geringer Bittere.",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 4.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 620,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Red",
+            "Menge": 470,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 220,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.666666666666664,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8.333333333333334,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saazer",
+            "Menge": 13,
+            "Alpha": 4.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 16,
+            "Alpha": 14.1,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 13,
+            "Alpha": 4.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 7,
+            "Alpha": 4.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Nottingham Ale",
+    "Gaertemperatur": "15",
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Wasser = normales Leitungswasser aus 23858 Reinfeld"
+}

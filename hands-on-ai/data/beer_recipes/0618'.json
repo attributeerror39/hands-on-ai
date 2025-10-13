@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Draussdahoizer Urtrunk",
+    "Datum": "26.08.2016",
+    "Sorte": "Dinkel-, Emmer- oder Mehrkornbier",
+    "Autor": "Spasskrapfen1",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.1,
+    "Bittere": 21,
+    "Farbe": 15,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Bernsteinfarbenes Spezialbier f\u00fcr laue Sommertage",
+    "Malze": [
+        {
+            "Name": "Emmermalz",
+            "Menge": 2.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.2,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.100000000000001,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Magnum",
+            "Menge": 10,
+            "Alpha": 13.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 10,
+            "Alpha": 3.5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 10,
+            "Alpha": 3.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Nottingham",
+    "Gaertemperatur": "19-21",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das M\u00fcnchner Malz und das CaraHell hab ich erst zur Maltoserast hinzugegeben"
+}

@@ -1,0 +1,64 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Galaxy Pale Ale",
+    "Datum": "14.07.2019",
+    "Sorte": "Pale Ale",
+    "Autor": "alt-phex",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 28,
+    "Farbe": 12,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Goldgelbes, s\u00fcffiges Bierchen mit dem tollen Aroma des Galaxy. ",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Dunkles Weizenmalz",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caraamber",
+            "Menge": 100,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nugget",
+            "Menge": 20,
+            "Alpha": 11.6,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 50,
+            "Alpha": 15.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "OGA9",
+    "Gaertemperatur": "15-16",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Einfaches Rezept das auch Anf\u00e4ngern gut gelingen wird. Wer kein dunkles Weizenmalz zur Verf\u00fcgung hat der nimmt halt helles, das wird keinen gro\u00dfen Unterschied machen. Der Bitterhopfen kann nat\u00fcrlich auch beliebig ersetzt werden.\r\n\r\nWie immer bei meinen Rezepten heisst Whirlpool = Hopfenzugabe bei unter 80\u00b0C !\r\n\r\nIm Forum gibt es auch eine bebilderte Braudoku zu dem Bier.\r\nhttps:\/\/hobbybrauer.de\/forum\/viewtopic.php?t=19755\r\n\r\nViel Spa\u00df beim nachbrauen."
+}

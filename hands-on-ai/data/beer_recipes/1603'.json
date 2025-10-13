@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Sch\u00fcttgut",
+    "Datum": "06.01.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "Stodl",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 22,
+    "Farbe": 10,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Eine Mischung aus Pale Ale und Weizen. Durch die verwendete Hefe nach ca. 4-6 Wochen Kaltreifung wahrlich Sch\u00fctt-tauglich!",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen ",
+            "Menge": 1,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 10,
+            "Alpha": 6.9,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 25,
+            "Alpha": 6.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 25,
+            "Alpha": 6.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Safale S-33",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Eine Mischung aus Pale Ale und Weizen, dank der verwendeten Hefe eine sch\u00f6ne Fruchtkombination. Durch die S-33 bleibt das Bier jedoch sehr lange tr\u00fcb, da diese kaum sedimentiert. \r\n\r\nMit anhaltender Kaltlagerung (4-8 Wochen) im K\u00fchlschrank bei ca. 4\u00b0C wird das Bier immer besser. Die Cascade-Noten kommen dann voll zur Geltung, kann jedoch auch schon jung relativ gut getrunken werden.\r\n\r\nVorsicht: Extrem sch\u00fctttauglich\/high drinkability. F\u00fcr den freizeitorientierten Mann!"
+}

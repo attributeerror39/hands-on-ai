@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Tripel Gold",
+    "Datum": "09.10.2014",
+    "Sorte": "Belgisches Tripel",
+    "Autor": "Nachtflug",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20,
+    "Bittere": 40,
+    "Farbe": 15,
+    "Alkohol": 9,
+    "Kurzbeschreibung": "Typisch belgisches Tripel; malzig, cremig und mit tollen Orangenaromen!",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 2.73,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 1.64,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 1.09,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "dekoktion",
+    "Einmaisch_Zubruehwasser_gesamt": 16.4,
+    "Dekoktionen": [
+        {
+            "Volumen": 10.9,
+            "Temperatur_ist": 76,
+            "Temperatur_resultierend": 69,
+            "Rastzeit": 120
+        },
+        {
+            "Volumen": 5.5,
+            "Form": "Kochendes Wasser",
+            "Teilmaische_Kochzeit": 0,
+            "Temperatur_resultierend": 72,
+            "Rastzeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 13.636363636363635,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 73,
+            "Alpha": 4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 18,
+            "Alpha": 4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "brauner Teezucker",
+            "Menge": 727,
+            "Einheit": "g",
+            "Kochzeit": 85
+        }
+    ],
+    "Hefe": "SAFBREW Abbaye Trockenhefe",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Die erste Rast sollte bei 63 \u00b0C durch die Infusion beendet werden. Mein Kessel ist gut isolier und es dauert ca. 120 min. Die zweite Rast bei 72 \u00b0C ist gleichzeitig die L\u00e4uterruhe. Die 2 x 7.5 L Nachg\u00fcsse sind bei mir 78 \u00b0C hei\u00df. Nachgussl\u00e4uterruhe 10 min.\r\n\r\nNach G\u00e4rende 9 g braunen Teezucker pro Liter Jungbier in der gleichen Menge warmem Wasser aufl\u00f6sen. Das Jungbier vom Bodensatz abziehen und in die Zuckerl\u00f6sung schlauchen. Ich f\u00fclle in 0,33 L Flaschen ab und verkorke sie mit Kronen.\r\nDas Bier sollte jetzt noch bei 10 - 12 \u00b0C f\u00fcr mindestens 8 Wochen reifen, l\u00e4nger ist allerdings auch besser. Die Trinktemperatur ist gleich der Lagertemperatur und der Hefesatz sollte beim Einschenken in der Flasche verbleiben."
+}

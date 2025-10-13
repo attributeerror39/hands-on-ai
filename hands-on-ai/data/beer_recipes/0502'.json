@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Katharinen - Sud",
+    "Datum": "25.07.2015",
+    "Sorte": "Helles",
+    "Autor": "Kuttenbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 27,
+    "Farbe": 7,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Erfrischend - fruchtiges Sommerbier. Rezept f\u00fcr BM 20l",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 1.08,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 320,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 24.864864864864863,
+    "Einmaischtemperatur": 38,
+    "Rasten": [
+        {
+            "Temperatur": 38,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 52,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 45
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 3.2432432432432434,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger Aroma",
+            "Menge": 16,
+            "Alpha": 4.3,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Challenger",
+            "Menge": 14,
+            "Alpha": 8.1,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 9,
+            "Alpha": 6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Safbrew WB-06",
+    "Gaertemperatur": "23",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Der Name r\u00fchrt von der Dame her die mir beim Brauen assistiert hat."
+}

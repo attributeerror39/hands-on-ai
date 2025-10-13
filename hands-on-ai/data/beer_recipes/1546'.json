@@ -1,0 +1,68 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ei, der Daus! Brown Ale II",
+    "Datum": "10.08.2021",
+    "Sorte": "Brown Ale",
+    "Autor": "Kristoffer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 13,
+    "Farbe": 55,
+    "Alkohol": 3,
+    "Kurzbeschreibung": "Mein bisher malzigstes Brown Ale. Unglaublich vielschichtig und s\u00fcffig. Und das bei gerade mal 3% Alkohol. Perfekt f\u00fcr den Sommer aber auch f\u00fcr den Winter. Intensive Karamellaromen vereint mit einer leichten brotigen R\u00f6stnote des Brown Malt.",
+    "Malze": [
+        {
+            "Name": "Warminster Maris Otter Pale Ale",
+            "Menge": 2.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Warminster Crystal Cara",
+            "Menge": 1.03,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Warminster Crystal 150",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Warminster Brown",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 27,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 70,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 70,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 19,
+            "Alpha": 5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 20,
+            "Alpha": 5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Fermentis S04 (Whithbread Strain)",
+    "Gaertemperatur": "15-17",
+    "Endvergaerungsgrad": 50,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Hier ging es darum noch mehr Malzaromen hervor zu locken als bei meinen anderen viel dunkleren Brown Ale Rezepzen. Das ist gelungen den die s\u00fcffigen Karamellaromen schlagen trotz der geringen Stammw\u00fcrze voll durch. Das Brown Malt veleiht einen perfekten Gegenpol aus Brotigen und Bisquitaromen. Einfach ein s\u00fcffiger Malztraum der runter geht wie \u00d6l. Der Whirlpoolhopfen wird bei 65 Grad gegeben und dann 15 min ohne weitere K\u00fchlung in ruhe gelassen. Dann wird weiter auf Anstelltemperatur gek\u00fchlt!"
+}

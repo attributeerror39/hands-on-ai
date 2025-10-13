@@ -1,0 +1,73 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Focal Banger",
+    "Datum": "21.03.2016",
+    "Sorte": "India Pale Ale",
+    "Autor": "Kurt",
+    "Klonbier": "ja",
+    "Klonbier_Original": "The Alchemist ",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.7,
+    "Bittere": 90,
+    "Farbe": 10,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "\"Nordost\" IPA mit Citra und Mosaic Hopfen.",
+    "Malze": [
+        {
+            "Name": "Thomas Fawcett Pearl",
+            "Menge": 5,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 66,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Apollo",
+            "Menge": 20,
+            "Alpha": 17,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 30,
+            "Alpha": 12,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 30,
+            "Alpha": 12,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 40
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 40
+        }
+    ],
+    "Hefe": "\"Conan\" z.B. Vermont Ale",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wer das Pearl Malz nicht bekommt kann auch ein anderes helles Basismalz nehmen. Ich verwende eine 1:1 Mischung aus PiMa und Maris Otter. Die Conan Hefe zeichnet sich durch ihre Pfirsicharomen aus. Alternativ kann auch die YWeast 1318 oder die US-05 verwendet werden. Wie Immer bei hopfenintensiven Bieren ist strikt darauf zu achten, das kein Sauerstoff an das Bier kommt. Vor Allem beim Abf\u00fcllen darauf achten! (CO2 in das Abf\u00fcllgef\u00e4\u00df vorlegen). Stopfdauer 4 Tage bei 18\u00b0C."
+}

@@ -1,0 +1,99 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ambitious Amber Ale",
+    "Datum": "18.03.2019",
+    "Sorte": "M\u00e4rzen\/Oktoberfest",
+    "Autor": "Brewer007",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 30,
+    "Farbe": 30,
+    "Alkohol": 4,
+    "Kurzbeschreibung": "Ein Hybrid aus dem deutschen M\u00e4rzen und dem englischen Amber Ale. Beide sind bekannt als malzbetonte Biere. In diesem Bier wurde zus\u00e4tzlich ein dezentes Hopfenaroma mit ausgewogener Bittere hinzugef\u00fcgt. Zudem f\u00fcgt das verwendete Earlsche Kochmaischverfahren ein besondere Vollmundigkeit hinzu. Der geringe Alkoholgehalt sorgt daf\u00fcr, dass man von diesem sehr s\u00fcffigen Bier 1-2 mehr trinken kann am Abend.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.57,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "RED X",
+            "Menge": 1.76,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 78,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.043478260869563,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 35
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.26086956521739,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 15,
+            "Alpha": 8.4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 4,
+            "Alpha": 3.4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 14,
+            "Alpha": 8.2,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 4,
+            "Alpha": 3.4,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moos",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "Danstar Nottigham",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 60,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Earlsches Kochmaischverfahren:\r\n9,25 L (50 % Hauptguss) Wasser mit 2,4 Kg Malz (50 % Gesamtsch\u00fcttung) einmaischen\r\nRasten abfahren\r\nKochen 20 min bei 100 \u00b0C (WICHTIG: R\u00dcHREN!)\r\n9,25 L Wasser zu (Entweder \u00fcber Mischkreuz Wassertemperatur ausrechnen oder kaltes Wasser hinzu und mit Kocher nachheizen bis Einmaischtemperatur (60\u00b0C) erreicht ist)\r\n2,4 Kg Malz einmaischen\r\nRasten abfahren\r\nL\u00e4utern\r\n\r\nDurch das Earlsche Kochmaischverfahren wird der Zucker zus\u00e4tzlich karamellisiert und au\u00dferdem die St\u00e4rkezellen physikalisch aufgeschlossen, sodass eine bessere Sudhausausbeute erreicht wird. Wer die M\u00f6glichkeit hat, kann das Bier unterg\u00e4rig verg\u00e4ren lassen. Die Nottingham verg\u00e4rt zwar relativ neutral, aber dezente Esternoten sind nicht zu vermeiden. Ich hatte nicht die M\u00f6glichkeit die Temperaturen f\u00fcr unterg\u00e4rige Hefen zu gew\u00e4hrleisten.\r\n\r\nNach 4 Wochen Reifezeit war das Bier sch\u00f6n ausgewogen rund und kam beim Hobbybrauerstammtisch sehr gut an. Vor allem durch den eher geringen Alkoholgehalt kann man davon auch mal eins mehr trinken."
+}

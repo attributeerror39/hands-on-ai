@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Nackhausener Weizen",
+    "Datum": "21.04.2012",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "djmoehre",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 14,
+    "Farbe": 20,
+    "Alkohol": 4.7,
+    "Kurzbeschreibung": "mitteldunkles Wei\u00dfbier mit deutlichem Malzk\u00f6rper",
+    "Malze": [
+        {
+            "Name": "Weizen dunkel",
+            "Menge": 1.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen hell",
+            "Menge": 1.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener ",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 900,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 240,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch",
+            "Menge": 240,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 54,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 74,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 79,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 5,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 16,
+            "Alpha": 6.5,
+            "Zeit": 85,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Brauwerkstatt K\u00f6nig Ludwig",
+    "Gaertemperatur": "20-22",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Schmeckt schon super nach 2 Wochen Kaltlagerung. Der Hefegeschmack nimmt nach l\u00e4ngerer Lagerung deutlich ab. \r\nWeizenmalz dunkel kann durch hell ersetzt werden. Auch das Pilsener k\u00f6nnte bestimmt durch M\u00fcnchner ersetzt werden um das Rezept zu vereinfachen.\r\nIch mache extra keine Weienrast (45\u00b0C bzw. 48\u00b0C), da ich Nelkengeschmack nicht so gerne mag."
+}

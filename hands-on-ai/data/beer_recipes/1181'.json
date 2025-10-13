@@ -1,0 +1,114 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Backbone Splitter IPA",
+    "Datum": "06.12.2019",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "realholgi",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Hanscraft Backbone Splitter IPA",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 50,
+    "Farbe": 15,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "WestCoast IPA mit fruchtigem Geruch nach Mango und Pfirsich. Geschmacklich stehen fruchtig-tropische Aromen in den Vordergrund: Pfirsich, Litschi und Mango. Trocken im Abgang aber rund ausbalanciert. Meine Version ist etwas alkoholreduziert, denn das Original hat 6,6 %alc.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.26,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 530,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 390,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 28,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 10,
+            "Alpha": 13.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 10,
+            "Alpha": 6.2,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 10,
+            "Alpha": 9.4,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 10,
+            "Alpha": 12.4,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 10,
+            "Alpha": 6.2,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 10,
+            "Alpha": 9.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 10,
+            "Alpha": 12.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 40
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 40
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 40
+        }
+    ],
+    "Hefe": "Gozdawa US West Coast",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Kein Nachguss, da Brew-In-A-Bag.\r\n\r\nNachisomerisierung 5 min.\r\n\r\nBei mir die sechste Iteration dieses Biers; inzwischen nur noch mit der Chico Hefe und nicht mehr mit der Hefe-Kombi Winsor\/Chico. \r\n\r\nIm Bild rechts ist das Original.\r\n\r\nG\u00e4rung bei 18\u00b0C. Kaltgehopft direkt mit Pellets nach 3 Tagen f\u00fcr 3-4 Tage (Abf\u00fcllung)."
+}

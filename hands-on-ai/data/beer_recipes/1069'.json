@@ -1,0 +1,70 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Klosterbier a.d.Ruhr",
+    "Datum": "23.03.2019",
+    "Sorte": "Kellerbier",
+    "Autor": "cafehuesch",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 26,
+    "Farbe": 100,
+    "Alkohol": 4.3,
+    "Kurzbeschreibung": "einfach lecker",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malt II",
+            "Menge": 1.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen R\u00f6stmalz",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.5,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 48,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.5,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 15,
+            "Alpha": 11.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 8,
+            "Alpha": 6.3,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale S-04",
+    "Gaertemperatur": "18-24",
+    "Anmerkung_Autor": "ist Klosterbier eigentlich eine eigenst\u00e4ndige Kategorie?"
+}

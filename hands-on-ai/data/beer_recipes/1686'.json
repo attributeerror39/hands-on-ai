@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "4-Korn IPA",
+    "Datum": "10.06.2022",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "Alt-Phex",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 20,
+    "Farbe": 10,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Zitrisch-Grapefruitiges, nicht zu bitteres \"Session\" IPA mit getreidiger Note.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.48,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "4-Korn Flocken",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Spitzmalz",
+            "Menge": 87,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.043478260869566,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 12.173913043478262,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Galaxy",
+            "Menge": 11,
+            "Alpha": 15.5,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 43,
+            "Alpha": 11.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Athanum",
+            "Menge": 43,
+            "Alpha": 4.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Angel CS31",
+    "Gaertemperatur": "16-18",
+    "Endvergaerungsgrad": 87,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die CS31 h\u00e4lt was sie verspricht. Eine sehr fruchtige, esterige Hefe. Passt daher sehr gut zu so hopfenlastigen Bieren. Der angegebene, extrem hohe Verg\u00e4rungsgrad stimmt auch. Die 87% sind kein Zahlendreher, die haut echt ordentlich was weg. \r\n\r\nDas Bier ist aber nicht so trocken, wie man deswegen vermuten w\u00fcrde. Durch das Caramalz und die Flocken hat das Bier einen soliden K\u00f6rper und eine angenehme Textur. Es bleibt aber dennoch schlank und s\u00fcffig. \r\n\r\nEin sch\u00f6ner Durstl\u00f6scher an hei\u00dfen Tagen. \r\n\r\n"
+}

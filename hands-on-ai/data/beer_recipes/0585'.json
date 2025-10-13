@@ -1,0 +1,94 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Sandra und Tom",
+    "Datum": "13.04.2016",
+    "Sorte": "Pale Ale",
+    "Autor": "juried",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.2,
+    "Bittere": 30,
+    "Farbe": 30,
+    "Alkohol": 7.2,
+    "Kurzbeschreibung": "Gelbes Ale",
+    "Malze": [
+        {
+            "Name": "Wiener",
+            "Menge": 1.56,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 1.38,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 940,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara dunkel",
+            "Menge": 190,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 630,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.875,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 75,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 7.5,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Saphir",
+            "Menge": 48,
+            "Alpha": 5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 19,
+            "Alpha": 5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 19,
+            "Alpha": 5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 19
+        }
+    ],
+    "Hefe": "Nottingham Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 2.15,
+    "Karbonisierung": 4.5
+}

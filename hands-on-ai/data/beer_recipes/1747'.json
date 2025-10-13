@@ -1,0 +1,99 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "German Hops",
+    "Datum": "21.11.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "mariarita",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.5,
+    "Bittere": 38,
+    "Farbe": 12,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "w\u00fcrzig s\u00fcffiges goldgelbes Pale Ale mit deutschen Aromahopfen",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.92,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 390,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.6078431372549,
+    "Einmaischtemperatur": 63,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 6.2745098039215685,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Columbus",
+            "Menge": 8,
+            "Alpha": 16.5,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Columbus",
+            "Menge": 4,
+            "Alpha": 16.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger Aurum",
+            "Menge": 10,
+            "Alpha": 7.3,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger Aurum",
+            "Menge": 10,
+            "Alpha": 7.3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger Aurum",
+            "Menge": 20,
+            "Alpha": 7.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Tettnanger Aurum",
+            "Menge": 59
+        }
+    ],
+    "Hefe": "Mangrove 44",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "-mit Braumeister 50 gebraut\r\n-karbonisiert mit Zucker\r\n-eine Variante gebraut mit Nectar Hallertauer Cascade:\r\nWhirlpool 30 g und Stopfhopfen 75 g (jew. statt TT Aurum)\r\nund alternative Hefe: M 66"
+}

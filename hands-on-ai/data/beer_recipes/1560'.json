@@ -1,0 +1,102 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "WEIPA! WEIPA! You're juicy and I like ya",
+    "Datum": "15.09.2021",
+    "Sorte": "Weizenbock",
+    "Autor": "dadr",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.5,
+    "Bittere": 30,
+    "Farbe": 13,
+    "Alkohol": 7.4,
+    "Kurzbeschreibung": "Hopfenwei\u00dfe. Weizenbock im NEIPA-Style. Tropenfruchtiger Hopfen trifft auf m\u00e4chtige Bananenhefe.  3. Platz bei der Deutschen Meisterschaft der Hobbybrauer 2021 (St\u00f6rtebeker, Stralsund)",
+    "Malze": [
+        {
+            "Name": "Weizenmalz (hell)",
+            "Menge": 3.22,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 2.38,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 580,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Ireks Mahagoni",
+            "Menge": 260,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 56,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 14.285714285714286,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tomahawk",
+            "Menge": 16,
+            "Alpha": 15.8,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Tomahawk",
+            "Menge": 67,
+            "Alpha": 15.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 67,
+            "Alpha": 9.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 74
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 60
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 68
+        }
+    ],
+    "Hefe": "Imperial Yeast Stefon",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Alternative Hefe: Wyeast 3068\r\nAlternative zum Tomahawk: Columbus\r\n\r\nKeine Wasseraufbereitung\r\nMeine Wasserwerte: \r\nHCO3: 2,57 mmol\r\nKalzium: 50mg\r\nMagnesium: 8,5mg\r\nSulfat: 34mg\r\nChlorid: 7,9mg\r\nNatrium: 5,7mg\r\n\r\nEtwas underpitchen und W\u00fcrze nicht bel\u00fcften!\r\n\r\nAngestellt habe ich bei 18\u00b0C. Die Umgebungstemperatur lag bei 21\u00b0C (G\u00e4rtemperatur entsprechend h\u00f6her).\r\n\r\n1. Stopfhopfen nach 24h (Amarillo 13g, Mosaic 13g, Citra 9g)\r\n2. Stopfhopfen nach 3 Tagen (gegen Ende der Hauptg\u00e4rung restlicher Hopfen)\r\n\r\nBei der ersten Nase wird man vom Hopfenaroma fast erschlagen.\r\nDann kommt immer mehr das Hefearoma reifer Bananen durch.\r\nNach dem zweiten, dritten Schluck sind die Aromen in perfekter Harmonie.\r\n\r\nWie beim NEIPA gilt: Lange Lagerzeit lohnt nicht.\r\n\r\n"
+}

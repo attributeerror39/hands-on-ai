@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Victoria Secret",
+    "Datum": "31.05.2022",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Straxel_",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 18,
+    "Farbe": 15,
+    "Alkohol": 4.3,
+    "Kurzbeschreibung": "Etwas st\u00e4rkeres und volumin\u00f6seres Weizen mit sch\u00f6nen Fruchtnoten des Vic Secret Hopfens, der ansonsten fast nur in (India) Pale Ales genutzt wird.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 2.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraRed",
+            "Menge": 600,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 44,
+    "Rasten": [
+        {
+            "Temperatur": 44,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 4,
+            "Alpha": 18.2,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 4,
+            "Alpha": 18.2,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 12,
+            "Alpha": 18.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 32
+        }
+    ],
+    "Hefe": "Mangrove Jack's M20 Bavarian Wheat",
+    "Gaertemperatur": "19-21",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Da ich mir einen eigenen Biersortenstamm aufbauen m\u00f6chte habe ich mich entschlossen auch mal ein Weizen auszuprobieren, das gar nicht schlecht geworden ist.\r\n\r\nSehr fruchtig durch das vorhandene, dennoch nicht allzu starke Hopfenstopfen, Whirlpoolgaben bei ~80\u00b0C.\r\n\r\nNach einer Woche Flascheng\u00e4rung durchaus genie\u00dfbar, nach 2 Wochen perfekt.\r\n\r\nHappy Brewing!\r\n\r\n"
+}

@@ -1,0 +1,74 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Cascade Garden",
+    "Datum": "31.12.2012",
+    "Sorte": "Mild Ale",
+    "Autor": "Thomator",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.6,
+    "Bittere": 26,
+    "Farbe": 15,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "Mildes Pale Ale mit Cascade aus eigener Ernte",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 3.86,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 430,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "dekoktion",
+    "Einmaisch_Zubruehwasser_gesamt": 16.1,
+    "Dekoktionen": [
+        {
+            "Volumen": 16.1,
+            "Temperatur_ist": 70,
+            "Temperatur_resultierend": 68,
+            "Rastzeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 68,
+    "Nachguss": 12.714285714285715,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 4,
+            "Alpha": 14.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 4,
+            "Alpha": 10,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 9,
+            "Alpha": 6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 16,
+            "Alpha": 6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale US-05",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 82,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Der Alpha Wert f\u00fcr den Cascade ist gesch\u00e4tzt. Da der Hopfen aus eigener Ernte stammte kannte ich den genauen Wert nicht. \r\nDas Bier wurde sehr harmonisch und s\u00fcffig. Ein Ale das auch Ale-Einsteiger gerne trinken.\r\nViel Spa\u00df beim Nachbrauen!"
+}

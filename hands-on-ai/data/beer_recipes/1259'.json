@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Milk Stout",
+    "Datum": "11.04.2020",
+    "Sorte": "Milk Stout",
+    "Autor": "nettermann90",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 30,
+    "Farbe": 110,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Schwarzes Stout, deutliche Kaffee und Schokonoten ohne extreme R\u00f6stbittere",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.75,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 330,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malz",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Unverm\u00e4lzte R\u00f6stgerste",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.333333333333332,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 32,
+            "Alpha": 7,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 4,
+            "Alpha": 9.6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 4,
+            "Alpha": 9.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Lactose",
+            "Menge": 167,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "Hefe": "S-04",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Die zweite Perlehopfung erfolgte bei <80\u00b0C in den Whirlpool. M\u00f6glichst Kalt bei 17\u00b0C oder weniger anstellen und Verg\u00e4ren. \r\n\r\nDie geringe Menge an Lactose kompensiert nur etwas die Bittere des R\u00f6stmalzes ohne in irgend einer Form S\u00fc\u00df zu sein. Das war mir wichtig."
+}

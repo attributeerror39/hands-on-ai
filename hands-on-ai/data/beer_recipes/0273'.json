@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Oppidum Ubiorum",
+    "Datum": "07.01.2013",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "braugnom",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.5,
+    "Bittere": 30,
+    "Farbe": 8,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "ein klassisches, s\u00fcffiges - allerdings tr\u00fcbes - Bier nach K\u00f6lner Art. ",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.32,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz, hell",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.090909090909092,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 17,
+            "Alpha": 4.2,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 33,
+            "Alpha": 4.2,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 6,
+            "Alpha": 4.2,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Malzwerkstatt - Colonia F",
+    "Gaertemperatur": "15-18",
+    "Endvergaerungsgrad": 71,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Oppidum Ubiorum war die Vorg\u00e4ngersiedlung der heutigen Stadt K\u00f6ln."
+}

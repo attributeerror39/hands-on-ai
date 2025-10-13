@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "The ghost and the darkness",
+    "Datum": "11.02.2013",
+    "Sorte": "Dunkles Bockbier",
+    "Autor": "Thomator",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.5,
+    "Bittere": 38,
+    "Farbe": 47,
+    "Alkohol": 7.2,
+    "Kurzbeschreibung": "aromatischer Bock mit 4 Hopfensorten als Gegenpol zum Malzk\u00f6rper. S\u00fcffig und nicht zu s\u00fc\u00df",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 4.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 900,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch II",
+            "Menge": 480,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial",
+            "Menge": 45,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.5,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 10,
+            "Alpha": 6.4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 10,
+            "Alpha": 14.4,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 12,
+            "Alpha": 10,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 8,
+            "Alpha": 4.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 79.6,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Nach inzwischen drei Monaten kann ich sagen, der Bock ist herrlich hopfenaromatisch geworden. Ich mag keine zu s\u00fcssen B\u00f6cke, daher die 38 IBU um dagegen zu halten. Das macht den Bock sehr s\u00fcffig, er klebt nicht am Gaumen fest. Durch den relativ hohen Anteil Weizenmalz ergibt sich ein f\u00fcr einen Bock sch\u00f6ner und haltbarer Schaum, allerdings auch eine Tr\u00fcbung die auch mit l\u00e4ngerer Lagerung nicht weggeht. Mich st\u00f6rt's nicht. \r\n\r\nViel Spa\u00df beim Nachbrauen\r\nTom"
+}

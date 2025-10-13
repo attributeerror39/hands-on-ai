@@ -1,0 +1,137 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "WOPA",
+    "Datum": "21.03.2020",
+    "Sorte": "Pale Ale",
+    "Autor": "Fresh",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 40,
+    "Farbe": 10,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Leichtes hazy Pale Ale. \r\nGut hopfig, moderat bitter, volles Mundgef\u00fchl.\r\nTolles Grapefruit-Citrus Aroma.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.43,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 1000,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Hafermalz",
+            "Menge": 710,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 710,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 210,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.857142857142858,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 54,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8.571428571428571,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 14,
+            "Alpha": 5.8,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 11,
+            "Alpha": 12.4,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade Whirlpool 80\u00b0C",
+            "Menge": 7,
+            "Alpha": 5.8,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe Whirlpool 80\u00b0C",
+            "Menge": 7,
+            "Alpha": 12.4,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria Whirlpool 80",
+            "Menge": 14,
+            "Alpha": 8.1,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade Whirlpool 20\u00b0C",
+            "Menge": 7,
+            "Alpha": 5.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe Whirlpool 20\u00b0C",
+            "Menge": 7,
+            "Alpha": 12.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria Whirlpool 20",
+            "Menge": 7,
+            "Alpha": 8.1,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade min. 3 Tage stopfen",
+            "Menge": 103,
+            "Alpha": 5.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade min. 3 Tage stopfen",
+            "Menge": 103
+        }
+    ],
+    "Hefe": "Craft Series M36 Liberty Bell Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Ich habe mich nicht ums Wasser gek\u00fcmmert.\r\nDie Menge des Stopfhopfens kann auch erh\u00f6ht werden"
+}

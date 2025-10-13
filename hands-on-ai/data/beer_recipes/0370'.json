@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Doppelnelson",
+    "Datum": "29.01.2014",
+    "Sorte": "Saison",
+    "Autor": "Bierwisch",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.5,
+    "Bittere": 30,
+    "Farbe": 10,
+    "Alkohol": 6.9,
+    "Kurzbeschreibung": "extrem fruchtiges Saison mit Nelson Sauvin",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 470,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 20,
+            "Alpha": 11.3,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 13,
+            "Alpha": 11.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 33
+        }
+    ],
+    "Hefe": "Wyeast 3724 Belgian Saison",
+    "Gaertemperatur": "27",
+    "Endvergaerungsgrad": 81,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Mein Wasser ist recht weich (5\u00b0dH) und ich verwende es ohne weitere Zus\u00e4tze.\r\n\r\nZur Whirlpoolgabe: ich k\u00fchle nach flame out mit K\u00fchlakkus z\u00fcgig auf 90\u00b0C und gebe dann den Hopfen dazu, drehe den WP an, nach ca. 10 Minuten wird umgeschlaucht - dieses Vorgehen ergibt sehr stabile Aromen.\r\n \r\nDie Hefe ist zumindest in erster F\u00fchrung ziemlich anspruchsvoll und fing erst an zu arbeiten, als \r\nich mit einen Aquarienheizstab die W\u00fcrzetemperatur auf \u00fcber 25\u00b0C anhob, sobald sie die Arbeit einstellte, habe ich die Temperatur erh\u00f6ht. Zum Schluss hatte ich 30\u00b0C. F\u00fcr die Flascheng\u00e4rung empfiehlt es sich eine zweite Hefe (Notti) zu verwenden...\r\n\r\nAlternativ k\u00f6nnte man es auch komplett mit der Belle Saison versuchen, diese erzeugt zwar etwas andere Aromen, jedoch dominiert bei diesem Bier ganz eindeutig der Hopfen."
+}

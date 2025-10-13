@@ -1,0 +1,70 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "RandAle",
+    "Datum": "27.03.2021",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "Tommi123",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.7,
+    "Bittere": 63,
+    "Farbe": 20,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Amarillo Single-Hop IPA.\r\n\r\nBernsteinfarben mit dem fruchtigen Punch des fantastischen Amarillo. Perfekt, wenn man mal Citrus satt hat.\r\n\r\nUnbedingt mit Bisquit Malz brauen, das harmoniert fantastischmit dem Hopfen.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Bisquit Malz",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin Malz",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 25,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 68,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 5,
+            "Alpha": 9.4,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 80,
+            "Alpha": 9.4,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 80,
+            "Alpha": 9.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "18-19",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Fruchtiges Ale, auch ohne StoPfhopfen eine Wucht und klar als IPA erkennbar. Die Bittere durch die 15 min Gabe bindet sich sehr weich ein im Vergleich zu klassischen Bittergaben.\r\n\r\nWP-Hopfung<80 Grad Celsius, um Nachbitterung zu vermeiden."
+}

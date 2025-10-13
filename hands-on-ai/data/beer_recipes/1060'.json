@@ -1,0 +1,66 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Yellow Wild Smoke",
+    "Datum": "17.03.2019",
+    "Sorte": "Sauerbier",
+    "Autor": "Junior_Gong",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 9,
+    "Bittere": 5,
+    "Farbe": 8,
+    "Alkohol": 4,
+    "Kurzbeschreibung": "Hellgelbes Lichtenhainer Kettle-Sour mit 100% Brettanomyces Verg\u00e4rung und Reifung auf Sandornbeeren. \r\n2. Platz beim 4. Mainzer HobbybrauerWettbewerb 2018.",
+    "Malze": [
+        {
+            "Name": "Weizen Eichenholzrauchmalz",
+            "Menge": 2.17,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenflocken",
+            "Menge": 930,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 25,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 0
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum Dolden",
+            "Menge": 5,
+            "Alpha": 12.5,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Sandornbeeren TK-Ware",
+            "Menge": 1579,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "The Yeast Bay - Lochristi Brett Blend",
+    "Gaertemperatur": "20-24",
+    "Endvergaerungsgrad": 85,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Das Bier wurde ohne Nachguss gebraut \"No Sparge Methode\".\r\nKettle Sour mit Lactobacillus Plantarum Probiotics 48h @ 35\u00b0C auf ph 3,4. Vors\u00e4uerung mit 80% Milchs\u00e4ure auf ph 4,5. \r\nCa. 2 Wochen Hauptg\u00e4rung mit Brett Blend. Danach Reifung 8 Wochen auf Sanddornbeeren im Keg.\r\n\r\nSehr gutes Mundgef\u00fchl f\u00fcr ein Leichtbier. Rauchnote trotz hohem Sch\u00fcttungsanteil relativ dezent. Fruchts\u00e4ure der Sanddornbeeren harmoniert sehr gut mit der Milchs\u00e4ure."
+}

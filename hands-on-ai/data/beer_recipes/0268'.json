@@ -1,0 +1,72 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Aventinchen",
+    "Datum": "16.12.2012",
+    "Sorte": "Weizenbock",
+    "Autor": "Boludo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.5,
+    "Bittere": 25,
+    "Farbe": 40,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "F\u00fcr Aventinusfans, die gerne auch mal eins mehr trinken wollen",
+    "Malze": [
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 2.77,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 2.77,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 210,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.74468085106383,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 43,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 11.48936170212766,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Bramling Cross",
+            "Menge": 26,
+            "Alpha": 6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Bramling Cross",
+            "Menge": 17,
+            "Alpha": 6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "gestrippte Schneider Hefe",
+    "Gaertemperatur": "24",
+    "Endvergaerungsgrad": 68,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Restalkalit\u00e4t 3\u00b0dH, mit 16\u00b0P vergoren und mit Traubenzucker carbonisiert, ergibt ca 16,5\u00b0P Stammw\u00fcrze.\r\nEin sehr aromatischer Weizenbock, der niedrige Verg\u00e4rungsgrad ist ein wenig seltsam, passt aber sehr gut zu den 25 IBU.\r\nWichtig: Das Bier lebt von der Schneiderhefe, diese erzeugt aventinusartige D\u00f6rrobstaromen und reife Bananenaromen, welche sich mit einer anderen Weizenhefe kaum erzeugen lassen. Im direkten Vergleich zum Aventinus verbl\u00fcffend \u00e4hnlich, nur nicht so alkohollastig."
+}

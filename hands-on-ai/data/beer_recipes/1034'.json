@@ -1,0 +1,94 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Blueberry Chocolate Milk Stout",
+    "Datum": "09.02.2019",
+    "Sorte": "Stout",
+    "Autor": "ollinator2000",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 30,
+    "Farbe": 82,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Ein sehr vorsichtig gehopftes Milk Stout mit Schoko Aroma . Die Blaubeeren balancieren den Milchzucker perfekt aus. Eine Super Mischung aus Malziger S\u00fc\u00dfe und fruchtiger S\u00e4ure.",
+    "Malze": [
+        {
+            "Name": "Marris Otter Pale Ale",
+            "Menge": 2.86,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caraamber ",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken ",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Warminster Low Chocolate",
+            "Menge": 300,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 72,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.399999999999999,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 80
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.399999999999999,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 17,
+            "Alpha": 13,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 2,
+            "Alpha": 6.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Milchzucker ( Lactose )",
+            "Menge": 400,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Blaubeeren",
+            "Menge": 440,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "S04",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 71,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die Haferflocken werden f\u00fcr ein volleres Mundgef\u00fchl direkt zu Anfang mit eingemaischt. Die Lactose habe ich 15 Minuten vor Kochende hinzugef\u00fcgt.\r\nNachdem die Hauptg\u00e4hrung durch war , habe ich die Blaubeeren in einem grossen Hopfensack gestopft, zerdr\u00fcckt und ins G\u00e4rfass getan. Dort verblieben diese nochmal 7 Tage . \r\nNach Abf\u00fcllung d\u00fcrfte das Bier 2 Wochen warm , anschliessend 6 Wochen kalt reifen. Jetzt nach 10 Wochen ist es ein Knaller. "
+}

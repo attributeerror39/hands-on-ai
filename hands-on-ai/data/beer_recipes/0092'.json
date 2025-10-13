@@ -1,0 +1,72 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Kellergeist",
+    "Datum": "23.03.2011",
+    "Sorte": "Mild Ale",
+    "Autor": "tauroplu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 30,
+    "Farbe": 12,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "S\u00fcffiges helles Oberg\u00e4riges",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2.92,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1000,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell\u00ae",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.666666666666668,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.833333333333332,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 32,
+            "Alpha": 6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 16,
+            "Alpha": 5.3,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "2 Pckg. Brewferm TOP (Ale)",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 69,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die IBU Werte wurden mit Earls Hopfenrechner f\u00fcr Profis ermittelt. Ich verwende Pellets. - Nachisomerisierungszeit: 15 Min. -"
+}

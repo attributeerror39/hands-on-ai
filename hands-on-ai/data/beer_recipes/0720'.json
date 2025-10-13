@@ -1,0 +1,145 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Maries Hoppy Otter",
+    "Datum": "18.05.2017",
+    "Sorte": "Pale Ale",
+    "Autor": "realholgi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 55,
+    "Farbe": 14,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Mein NewEnglandStylePaleAle. Juicy!",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 3.34,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CARAAMBER",
+            "Menge": 150,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 150,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 150,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 91,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.090909090909093,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 73,
+    "Nachguss": 10.454545454545453,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 3,
+            "Alpha": 13.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 3,
+            "Alpha": 14.7,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 6,
+            "Alpha": 13.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 6,
+            "Alpha": 14.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 12,
+            "Alpha": 13.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 12,
+            "Alpha": 14.7,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 9,
+            "Alpha": 13.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 9,
+            "Alpha": 14.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 27,
+            "Alpha": 11.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Honig",
+            "Menge": 182,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 60
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 60
+        }
+    ],
+    "Hefe": "White Labs WLP001 California Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 77.9,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "- Mela & Cara erst beim Vorlaiuf zugeben (war 15min vorher)\r\n- letzte Hopfengaben nach Abk\u00fchlen auf <80\u00b0 zugeben f\u00fcr 30min\r\n- Dryhopping h\u00e4lftig f. 2 *3 Tage \r\n\r\nDer Name ist \u00fcbrigens ein Wortspiel mit MarisOtter und viel Hopfen!"
+}

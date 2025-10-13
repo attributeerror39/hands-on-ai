@@ -1,0 +1,61 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Oatmeal Dry Stout",
+    "Datum": "16.12.2015",
+    "Sorte": "Stout",
+    "Autor": "Kurt",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 10.5,
+    "Bittere": 40,
+    "Farbe": 200,
+    "Alkohol": 4,
+    "Kurzbeschreibung": "Wunderbares Dry-Stout in Anlehnung an das \"Export Stout II\" Rezept von Klaus Kling.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.73,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 910,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 320,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.636363636363635,
+    "Einmaischtemperatur": 40,
+    "Rasten": [
+        {
+            "Temperatur": 38,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 10.909090909090908,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Bramling Cross",
+            "Menge": 45,
+            "Alpha": 6,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 3.5,
+    "Anmerkung_Autor": "Ich habe das Bier schon mehrfach nachgebraut und es ist das beste Dry-Stout Rezept was ich kenne. Der sehr hohe Haferflocken-Anteil (die zarten, nicht vorgekocht) sorgt f\u00fcr ein sahniges Mundgef\u00fchl und einen super feinen Schaum - aber leider auch f\u00fcr L\u00e4uterprobleme und eine schlechtere Ausbeute. Es lohnt sich aber diese in Kauf zu nehmen. Eine Gummirast f\u00fcr 30 Minuten bei 44 Grad hilf da etwas. Der Hopfen ist austauschbar, die Johannisbeeraromen des Bramling passen aber sehr gut. Die Nottingham-Hefe sorgt f\u00fcr einen hohen Verg\u00e4rungsgrad und die n\u00f6tige \"dryness\". Die R\u00f6stgerste muss SEHR fein geschrotet werden (Kaffeem\u00fchle) und kommt nach 60 Minuten zur Maische! Nicht zu viel CO2 in Bier brigen, sonst verschwindet das sahnige Mundgef\u00fchl. Am besten kommt es unter Stickstoffdruck aus dem KEG."
+}

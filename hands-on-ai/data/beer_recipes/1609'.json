@@ -1,0 +1,58 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ei, der Daus Northfarthing Amber",
+    "Datum": "20.01.2022",
+    "Sorte": "Amber Ale",
+    "Autor": "Kristoffer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 32,
+    "Farbe": 26,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Ein urspr\u00fcngliches Amber Ale. Sehr s\u00fcffig mit einer leichten Bittere und dem fruchtigen Aroma des East Kent Golding Hopfens. \r\nDas Ale f\u00fcr jeden Tag und jede Gelegenheit. ",
+    "Malze": [
+        {
+            "Name": "Warminster Maris Otter Pale Ale",
+            "Menge": 4.26,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Warminster Crystal 150",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 27.6,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 67.5,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 66,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Fuggle",
+            "Menge": 42,
+            "Alpha": 4.6,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 49,
+            "Alpha": 5,
+            "Zeit": 3,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Imperial Yeast A09 (Fullers 70s Strain)",
+    "Gaertemperatur": "19,5",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Nachisomerisierungszeit 3 Minuten. Mann kann aber auch den EKG als Aromagabe bei 60 Grad geben und ihn auf 40g, also 2g\/l reduzieren.\r\nDann muss aber der Fuggle angepasst werden.\r\nWeicht eure SHA von meiner ab, nur das Basismalz anpassen, nie die Menge des Spezialmalzes \u00e4ndern. "
+}

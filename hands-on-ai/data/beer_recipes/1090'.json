@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Blue Moon Belgian White 1990",
+    "Datum": "04.05.2019",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "DevilsHole82",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Blue Moon Belgian White",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 13,
+    "Farbe": 8,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Blue Moon Belgian White ist eigentlich kein typisches belgisches Wit, sondern eine amerikanische Interpretation eines Weissbiers. Mehr ein amerikanisches Weissbier (American Wheat) mit belgischem Einfluss.\r\nSamtig, leichtes Mundgef\u00fchl. Fruchtig in der Nase. Ausgesprochen spritzig macht es Lust das Glas in einem Zug zu leeren.\r\nBei diesem Rezept handelt es sich um die Rezeptur von 1990. 2011 wurde diese wohl ge\u00e4ndert.\r\nWer lieber die neue malzigere Variante brauen m\u00f6chte gibt in der Suche \"Blue Moon\" ein und w\u00e4hlt das 2011er Rezept aus.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 1.68,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 420,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 1
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.666666666666668,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 25,
+            "Alpha": 4.3,
+            "Zeit": 75,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Koriander, indisch, ganz",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Irish Moss",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Valencia Orangenschalen",
+            "Menge": 50,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Wyeast Hefenahrung",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "16-17",
+    "Endvergaerungsgrad": 81,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Eigentlich wird im Original Rezept Pale Malz, also Pilsener Malz verwendet. Damit kommt man aber nicht auf 8 EBC. Daher habe ich Pale Ale Malz verwendet.\r\n\r\n- Wasseraufbereitung auf RA=0\u00b0dH\r\n- Maischen: Nach dem Einmaischen sofort langsam (1\u00b0C\/Min.)auf 67\u00b0C heizen.\r\n- gel\u00e4utert wurde mit 5% Reish\u00fclsen\r\n- frische Valencia-Orangen (Citrus sinensis Valencia) sind relativ schwierig zu bekommen, daher verwende ich \"Sinaasappelschil klein\" von Pit&Pit aus Belgien\r\n- Nach der Hauptg\u00e4rung ins KEG abgef\u00fcllt und mit Haushaltszucker aufgespeist zur Nachg\u00e4rung\r\n- das Belgian White \/ American Wheat ist nach insgesamt zwei Wochen sehr gut trinkbar\r\n\r\nAnmerkung: Das neue 2011er Rezept von Blue Moon wird mit Bohemian Malt und der Safale S04 gebraut, um es ein wenig vollmundiger zu bekommen.\r\n\r\nHier gehts zum 2011er Rezept:\r\nhttps:\/\/www.maischemalzundmehr.de\/index.php?id=1422&inhaltmitte=rezept&suche_begriff=Blue%20Moon"
+}

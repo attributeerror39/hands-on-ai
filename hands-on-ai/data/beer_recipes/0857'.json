@@ -1,0 +1,74 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Black Bullet",
+    "Datum": "15.02.2018",
+    "Sorte": "Stout",
+    "Autor": "Brauwerk 76",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 37,
+    "Farbe": 115,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Pechschwarzes Stout mit feinen Malz und R&ouml;staromen und einem feinen stabilen Schaum und einer feinen Bittere.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "R&ouml;stgerste",
+            "Menge": 260,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 240,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Special W",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 240,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.8,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.4,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 52,
+            "Alpha": 5.2,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Safale S-04\/US-05 oder Danstar Nottingham Ale",
+    "Gaertemperatur": "18-20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die R&ouml;stgerste eine halbe Stunde vor dem Abmaischen zugeben!\r\nDen Hopfen nach dem W&uuml;rzebruch zugeben und 70 Minuten Kochen!Man kann die R&ouml;stgerste auch durch Chocolatemalz ersetzen!Optional k&ouml;nnen auch Hafeflocken oder Weizenmalz verwendet werden f&uuml;r einen sch&ouml;nen Schaum,die Sch&uuml;ttungsmenge ist gleich wie im Rezept.\r\n\r\nDas Bier sollte eine lange Lagerung haben,macht es noch besser."
+}

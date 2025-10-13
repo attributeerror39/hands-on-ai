@@ -1,0 +1,67 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "SMaSH Wiener\/Simcoe",
+    "Datum": "10.05.2016",
+    "Sorte": "Pale Ale",
+    "Autor": "Hegenhuber",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.3,
+    "Bittere": 35,
+    "Farbe": 12,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "SingleMalt and Single Hop Bier, volles Hopfenaroma durch Hopbursting",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 4.62,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.692307692307693,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 66,
+    "Nachguss": 10.769230769230768,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 18,
+            "Alpha": 13,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 30,
+            "Alpha": 13,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 80,
+            "Alpha": 13,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 80
+        }
+    ],
+    "Hefe": "Omega DIPA Ale o. Pacman",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Brauwasser auf 100ppm Calcium, 140ppm Sulfat und 75ppm Chlorid eingestellt.\r\nHopbursting bedeutet das alle IBUs nur \u00fcber die Aromagaben eingebracht werden. Dadurch bekommt man das volle Hopfenaroma und vollen Hopfengeschmack.\r\nAls Hefe kommt hier die OMEGA DIPA Ale zum Zuge, die wohl gleich\/verwand mit der Pacman Hefe ist. Beide Hefen bringen ein Pfirsicharoma was sehr gut zum Simcoe passt. Alternativ werden auch die anderen klassischen Westcoasthefen funktionieren.\r\nDas Bier kommt sehr fruchtig daher, das Aroma erinnert an Pfirsich und Litschi, nichts harziges oder Pinienartiges wie es dem Simcoe nachgesagt wird."
+}

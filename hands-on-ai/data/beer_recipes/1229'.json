@@ -1,0 +1,100 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Coconut Sunset - Rum Oak Aged",
+    "Datum": "10.03.2020",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "Junior_Gong",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 25,
+    "Farbe": 15,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Imperial Milkshake DDH NEIPA mit cremigem Mundgef\u00fchl, tr\u00fcber Erscheinung und tropischen Frucht- sowie Kokosnussaromen.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 1.69,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Spitzmalz",
+            "Menge": 570,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Hafeflocken",
+            "Menge": 280,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.319444444444443,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.722222222222221,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 18,
+            "Alpha": 11.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 19,
+            "Alpha": 13.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 59
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 59
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Kokosflocken ger\u00f6stet",
+            "Menge": 694,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Vanillestangen",
+            "Menge": "1 &frac34;",
+            "Einheit": "St\u00fcck"
+        },
+        {
+            "Name": "Amerikanische Oak Chips - Medium Toast",
+            "Menge": 69,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Bootleg Biology NEEPAH Blend",
+    "Gaertemperatur": "20-22",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "VE-Wasser auf Wasserprofil NEIPA von Bru N Water eingestellt"
+}

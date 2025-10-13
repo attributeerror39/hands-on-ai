@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Groundskeeper Willy",
+    "Datum": "13.04.2011",
+    "Sorte": "Scottish Ale",
+    "Autor": "Jodel",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.5,
+    "Bittere": 25,
+    "Farbe": 25,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Nichts f\u00fcr Reinheitsgebotsenthusiasten, da Maisflocken, Haferflocken, Rohrzucker...",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Maisflocken",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.600000000000001,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.399999999999999,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 20,
+            "Alpha": 9.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggles",
+            "Menge": 8,
+            "Alpha": 4.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Rohrzucker",
+            "Menge": 200,
+            "Einheit": "g",
+            "Kochzeit": 30
+        }
+    ],
+    "Hefe": "WYEAST #1728 Scottish Ale",
+    "Gaertemperatur": "18",
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Bei den Maisflocken (\"Cornflakes\") auf 100% Mais achten"
+}

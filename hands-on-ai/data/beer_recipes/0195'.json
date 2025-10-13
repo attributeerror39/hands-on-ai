@@ -1,0 +1,74 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "No. 11",
+    "Datum": "09.05.2012",
+    "Sorte": "Pale Ale",
+    "Autor": "gulp",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.2,
+    "Bittere": 33,
+    "Farbe": 20,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "s\u00fcffiges Brotzeitbier f\u00fcr jeden Tag",
+    "Malze": [
+        {
+            "Name": "Pale Ale oder Wiener Malz",
+            "Menge": 2.14,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz 20 EBC",
+            "Menge": 2.14,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.642857142857142,
+    "Einmaischtemperatur": 63,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 11,
+            "Alpha": 15,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 18,
+            "Alpha": 5.2,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 18,
+            "Alpha": 5.2,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Nottingham Ale",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Das ist ein sehr s\u00fcffiges Bier f\u00fcr jeden Tag. Wenn man eine unterg\u00e4rige Hefe nimmt, etwa die W 34\/70 und auf etwa 5% Alc. zielt, wird das ein fr\u00e4nkisches Lagerbier."
+}

@@ -1,0 +1,112 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "White IPA",
+    "Datum": "17.09.2014",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "Boludo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17,
+    "Bittere": 55,
+    "Farbe": 12,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Strong Wit amerikanisch gehopft",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Rohfrucht",
+            "Menge": 1.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haushaltszucker",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.8,
+    "Einmaischtemperatur": 42,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 10.8,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Columbus",
+            "Menge": 22,
+            "Alpha": 15.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 10,
+            "Alpha": 8.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Bitterorangenschalen",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Irish Moss",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Lemongras getrocknet",
+            "Menge": 20,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Waimea",
+            "Menge": 30
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 30
+        }
+    ],
+    "Hefe": "Forbidden Fruit 3463",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Rohfrucht fein mit Porkert schroten, sonst leidet die Ausbeute.\r\nMan kann sie auch durch Weizenflocken ersetzen.\r\nEinfach alles miteinander einmaischen.\r\nDas Lemongrass riecht w\u00e4hrend der G\u00e4rung sehr intensiv, im fertigen Bier ist nicht mehr viel \u00fcbrig, eventuell Menge erh\u00f6hen.\r\nAngeblich kann man noch mit Salbei stopfen, ich mag aber keinen Salbei.\r\nDie Nachgu\u00dfmenge ist gesch\u00e4tzt.\r\nDer Schaum ist extrem stabil und das Bier wird so klar wie filtriert.\r\nDie Hefe ist toll, macht wunderbare belgische Aromen und sedimentiert extrem gut.\r\nDie Farbe wurde leider etwas dunkler als erw\u00fcnscht.\r\nWird mit Zucker carbonisiert, bekommt man ca 7,5% Alkohol, ohne ca 7%."
+}

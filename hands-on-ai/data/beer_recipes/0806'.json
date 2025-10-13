@@ -1,0 +1,37 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Starterw\u00fcrze",
+    "Datum": "14.11.2017",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "alt-phex",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 9,
+    "Bittere": 1,
+    "Farbe": 5,
+    "Alkohol": 3,
+    "Kurzbeschreibung": "Einfaches Rezept zum herstellen von W\u00fcrze f\u00fcr einen Hefestarter.",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 3,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 20,
+    "Hopfenkochen": null,
+    "Hefe": "Die die ihr aufp\u00e4ppeln wollt.",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "Da das Thema Hefestarter und Hefestrippen andauernd aufkommt und Malzbier oder DME nicht immer optimal oder zur Hand sind, hier meine Vorgehensweise f\u00fcr einen 1l Starterw\u00fcrze.\r\n\r\nDas Pilsener fein schroten oder mahlen, die Spelzen m\u00fcssen hier nicht vollst\u00e4ndig intakt bleiben. Das Schrot in einer Thermoskanne auf Kombirast bei ca. 66-67\u00b0C einmaischen und 60min rasten (Hauptguss: 0,6L). Nach Jodprobe \u00fcber ein feinmaschiges K\u00fcchensieb in einen Kochtopf \"abl\u00e4utern\" und mit einem halben Liter Wasser \u00fcberschw\u00e4nzen. Heisses Wasser aus dem Hahn reicht hier als Nachgu\u00df v\u00f6llig aus. Ausbeute interessiert uns nicht.\r\n\r\nDas ganze jetzt 20min k\u00f6chlen lassen. Das sollte am Ende etwa einen Liter mit 9\u00b0P ergeben. Abk\u00fchlen auf ~20\u00b0C und bel\u00fcften. Ich sch\u00fctte das, zusammen mit der Hefe, ein paar mal zwischen Topf und Erlenmeierkolben hin und her. Kolben verschliessen (z.b. Alufolie) und auf den Magnetr\u00fchrer stellen. \r\n\r\nWer keinen Magnetr\u00fchrer und\/oder Erlenmeierkolben hat, der kann nat\u00fcrlich auch ein anderes Gef\u00e4\u00df benutzen und den Starter mehrmals t\u00e4glich aufsch\u00fctteln.\r\n\r\nEDIT: Nach R\u00fccksprache mit Jan Br\u00fccklmeier kann es nat\u00fcrlich nicht schaden den Starter etwas zu hopfen. Die Hefe interessiert das nicht, schliesst aber einige andere \"G\u00e4ste\" im Vorfeld aus. 20-25 IBU sind die Empfehlung. Paar Resthopfen hat man ja immer rumliegen.\r\n\r\n\r\nAusf\u00fchrlicheres und Grunds\u00e4tzliches zu dem Thema findet sich im Braumagazin: http:\/\/braumagazin.de\/?issue=2015-03"
+}

@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Kupfergold",
+    "Datum": "27.11.2020",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "theodas",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.8,
+    "Bittere": 100,
+    "Farbe": 25,
+    "Alkohol": 7.2,
+    "Kurzbeschreibung": "Kupferfarbenes IPA mit moderate Bittere Citrus Hopfenaroma",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": " Crystal ",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 5,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 50,
+            "Alpha": 12.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 25,
+            "Alpha": 12.8,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 5,
+            "Alpha": 12.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 25,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Kandiszucker braun",
+            "Menge": 500,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Safale American US-05",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Kandiszucker die letzten 5 Min. mit kochen und gut verr\u00fchren !\r\nKarboni\u00adsierung mit co2 im K\u00fchlschrank 4 bis 8 grad 1 bis 2 Wochen\r\noder 6g Zucker per Liter bei 18 grad f\u00fcr 4 Wochen reifen"
+}

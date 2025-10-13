@@ -1,0 +1,80 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "White Wolf Dunkel Weizen",
+    "Datum": "01.07.2018",
+    "Sorte": "Dunkles Hefeweizen",
+    "Autor": "macvirus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.8,
+    "Bittere": 11,
+    "Farbe": 47,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "Dunkelbraunes erfrischendes Weizen mit geringer Bittere und einer angenehmen Mischung aus malzigen und fruchtigen Noten. Sehr stabiler Schaum.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 2.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "BARKE\u00ae Pilsner Malz",
+            "Menge": 1.21,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 1.11,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "R\u00f6stmalz, Farbmalz, CARAFA II\u00ae",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.447368421052634,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 80
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 19.736842105263158,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding ",
+            "Menge": 9,
+            "Alpha": 5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 26,
+            "Alpha": 4.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Cascade",
+            "Menge": 36,
+            "Alpha": 5.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "GOZDAWA Bavarian Wheat11 (BW11)",
+    "Gaertemperatur": "22-26",
+    "Endvergaerungsgrad": 81.5,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Die Hefe funktioniert wirklich seht gut. Die G\u00e4rtemperatur habe ich die ersten drei Tage bei rund 26 \u00b0C gehalten und dann auf 22-24 \u00b0C abgesengt.\r\nDas Bananen Aroma kommt gut durch.\r\nDas Bier ist schon nach einer Woche Reifung gut trinkbar aber ich denke 4 Wochen schaden nicht!"
+}

@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Flens Weizen",
+    "Datum": "03.01.2018",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "flensdorfer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 15,
+    "Farbe": 8,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Ein relativ einfach gehaltenes sehr helles Weizenbier mit sch\u00f6nem Bananenaroma. Schaumstabilit\u00e4t ist sehr gut.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsenermalz",
+            "Menge": 1.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.5,
+    "Einmaischtemperatur": 48,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.6,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tradition",
+            "Menge": 11,
+            "Alpha": 5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 21,
+            "Alpha": 3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 50,
+            "Alpha": 7.7,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Munich Classic",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 73.6,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Die Hefe ging wirklich sehr gut ab, hatte selten so hohe Hochkr\u00e4usen.\r\nMeiner Meinung nach eine gute Alternative zu Wyeast3068\/Wyeast3638 oder gestrippter Gutmann.\r\n\r\nSchon frisch sehr lecker, Lagerung bei 8\u00b0C f\u00fcr 4 Wochen ist nicht verkehrt und schadet dem Bananenaroma nicht."
+}

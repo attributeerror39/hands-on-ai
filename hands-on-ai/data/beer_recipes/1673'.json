@@ -1,0 +1,159 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Brut IPA - Nord Bliss",
+    "Datum": "11.05.2022",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "Weizza",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 25,
+    "Farbe": 6,
+    "Alkohol": 6.9,
+    "Kurzbeschreibung": "Strohgelbes und knochentrockenes IPA durch die Verwendung von Enzymen. Die Hopfenauswahl zielt auf Ananas und Kokos Aromen ab die perfekt zu diesem Bier passen.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Hafermalz",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gozdawa Glucoamylase",
+            "Menge": 3,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22.400000000000002,
+    "Einmaischtemperatur": 64,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 50,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 50,
+    "Nachguss": 4,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Zeus",
+            "Menge": 4,
+            "Alpha": 17,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 6,
+            "Alpha": 12.5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 4,
+            "Alpha": 18,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Bru-1",
+            "Menge": 4,
+            "Alpha": 14,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 24,
+            "Alpha": 12.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 24,
+            "Alpha": 18,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Bru-1",
+            "Menge": 24,
+            "Alpha": 14,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 12,
+            "Alpha": 13,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Sabro",
+            "Menge": 52
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 52
+        },
+        {
+            "Sorte": "Bru-1",
+            "Menge": 52
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Citra",
+            "Menge": 24,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Vitamin C",
+            "Menge": 2,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gozdawa Glucoamylase",
+            "Menge": 3,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Kveik Voss",
+    "Gaertemperatur": "33",
+    "Endvergaerungsgrad": 100,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Zu diesem Bier wurde ich durch das Nord Bliss Kveik Brut IPA vom Brussels Beer Project inspiriert. Es ist kein wirklicher Klon, da ich das Bier nur einmal in Brussel getrunken hatte, sondern eher eine Homage an eines der m.M.n. besten Biere die ich in letzter Zeit trinken durfte.\r\n\r\nKnochentrockener K&ouml;rper, sehr hell und Kernig durch den Einsatz des Hafers, perfekt kombiniert mit Aromen von Ananas, Kokosnuss und gr&uuml;nen Fr&uuml;chten was unterstrichen wird von einer zitronigen Basis des Citras. Die Hopfen halten hier was Sie versprechen. Die warm vergorene Kveik packt das ganze solide und mild ein und knuspert sich bei mir in 3 Tagen auf 100% runter.\r\n\r\n\r\nDie letzte Rast bei 50&deg;C findet nach der 72&deg;C Rast statt. Ich habe hierf&uuml;r mit Eiswasser runtergek&uuml;hlt und dann bei 50&deg;C eine Packung der Glucoamylase gegeben und f&uuml;r 60 min gerastet. Danach kann direkt abgemaischt werden.\r\n\r\nNachgu&szlig; sind nur ca. 5 L da ja vorher schon mit Eiswasser runtergek&uuml;hlt wurde.\r\n\r\nIch habe mein Wasser aufgesalzen und noch 200g Sauermalz hinzugegeben. Das habe ich oben nicht angegeben, da jeder sein Wasser entsprechend selbst einstellen muss.\r\n\r\nIch pers&ouml;nlich arbeite immer mit einer kleine VWH, hier mit Zeus, dies kann aber komplett entfallen oder reduziert werden. Die Trockenheit des Bieres hebt die Hopfenbittere stark hervor. Nach mehreren Iterationen gef&auml;llt mir die Version mit VWH allerdings etwas besser.\r\n\r\nDer Whirlpool wird bei mir bei 80&deg;C f&uuml;r 30 min gehalten und dann weiter gek&uuml;hlt. Nachisomerisierung bei mir ca. 5 min.\r\n\r\nKveik ordentlich rehydriert und bei 35&deg;C gegeben und die Temperatur auf 33-35&deg;C gehalten. In die G&auml;rung habe ich direkt noch ein zweites P&auml;ckchen der Glucoamylase gegeben (VOR dem Stopfhopfen, das l&auml;sst sich nur oben nicht einstellen). Nach 3 Tagen war die Kveik auf 100% sEVG runter und es wurde f&uuml;r 4 Tage gestopft (ich gebe zum Stopfen immer Vitamin C um etwas Oxidation zu reduzieren) und nach anschlie&szlig;endem cold-crash abgef&uuml;llt. Ich karbonisiere mit Zucker in der Flasche, weswegen mein eigentlicher Alkoholgehalt nochmal um ca. 0.3%vol h&ouml;her ist am Ende.\r\n\r\nWasserprofil (aufgesalzenes Bodenseewasser):\r\nHCO3 150mg\/L\r\nCa 85mg\/L\r\nMg 11mg\/L\r\nSO4 140mg\/L\r\nCl 140mg\/L\r\nNa 35mg\/L\r\n\r\nNach einer Woche Nachg&auml;rung (OHNE Kaltlagerung) in der Flasche das erste mal ge&ouml;ffnet und schon extrem &uuml;berzeugt vom Ergebnis, die Aromen kommen genau so r&uuml;ber wie erhofft, schmeckt noch etwas jung aber eigentlich schon trinkbar.\r\n\r\nNach 1 Woche Kaltlagerung (0&deg;C) eigentlich schon trinkbar aber noch etwas kantig. Nach 2 Wochen Lagerung dann perfekt. L&auml;nger als 6 Wochen h&auml;lt bei mir keine Flasche, die Hopfenaromen waren bis zum Ende deutlich da. Die Hopfen &uuml;berzeugen mich sehr und passen unglaublich gut in dieses Bier."
+}

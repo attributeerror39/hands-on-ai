@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "PoR - Ale",
+    "Datum": "08.04.2013",
+    "Sorte": "Pale Ale",
+    "Autor": "kavu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.4,
+    "Bittere": 43,
+    "Farbe": 15,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "derb, erdig, kr\u00e4ftig",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 310,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.461538461538463,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.769230769230768,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Pride of Ringwood",
+            "Menge": 15,
+            "Alpha": 9.8,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Pride of Ringwood",
+            "Menge": 15,
+            "Alpha": 9.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Pride of Ringwood",
+            "Menge": 15,
+            "Alpha": 9.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Pride of Ringwood",
+            "Menge": 15,
+            "Alpha": 9.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Pride of Ringwood",
+            "Menge": 15,
+            "Alpha": 9.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Pride of Ringwood",
+            "Menge": 15
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "7 Tage gestopft"
+}

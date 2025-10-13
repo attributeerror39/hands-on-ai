@@ -1,0 +1,110 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Chinarillo",
+    "Datum": "29.04.2014",
+    "Sorte": "India Pale Ale",
+    "Autor": "Cara",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.9,
+    "Bittere": 66,
+    "Farbe": 35,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Hopfengestopfte kupferfarbene Geschmacksexplosion mit fruchtigem Hopfenaroma",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 1.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Amber",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 12,
+            "Alpha": 9.5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 12,
+            "Alpha": 11.1,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 9,
+            "Alpha": 9.5,
+            "Zeit": 40,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 9,
+            "Alpha": 11.1,
+            "Zeit": 40,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 19,
+            "Alpha": 9.5,
+            "Zeit": 1,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 19,
+            "Alpha": 11.1,
+            "Zeit": 1,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 25
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 35
+        }
+    ],
+    "Hefe": "T-58",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 71,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Hopfengstopft zur G\u00e4rung, 7 Tage. Nach 2 Wochen bei 5\u00b0-Lagerung probiert (ich bin immer neugierig)aber noch zu dominante Hopfenbittere, nach 4 Wochen klasse Aroma und angenehme Bittere, bisher unser bestes IPA.\r\nMein erstes ver\u00f6ffentlichtes Rezept, hoffe es hat sich kein Fehler eingeschlichen."
+}

@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Magic Mist",
+    "Datum": "29.03.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "Straxel_",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Magic Mist - The White Hag",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 28,
+    "Farbe": 10,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Ein Irishes Pale Ale mit Zitrus und Mango Aromen, welches dem Original meiner Meinung nach recht nahe kommt und recht einfach zu brauen ist.",
+    "Malze": [
+        {
+            "Name": "Golden Promise Pale Ale",
+            "Menge": 4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Hell",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 1
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 8,
+            "Alpha": 8.7,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 8,
+            "Alpha": 13,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 16,
+            "Alpha": 13,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 24,
+            "Alpha": 6.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 16
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 16
+        }
+    ],
+    "Hefe": "WLP004 Irish Ale Fl\u00fcssighefe",
+    "Gaertemperatur": "19 - 20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "In Dublin durfte ich das hervorragende Magic Mist von The White Hag in einem Irish Pub probieren. Da es hierzulande nur durch Import zu bekommen ist habe ich versucht es geschmacklich nachzubauen.\r\n\r\nMeiner Meinung nach kommt es dem Original schon recht nahe, auf jeden Fall ist es ein sehr fruchtiges und s\u00fcffiges Bier geworden.\r\n\r\nIch denke eine Nottingham oder Mangrove Jack's M15 kann auch genommen werden, werde ich die n\u00e4chsten Male austesten, und das Rezept immer weiter verfeinern.\r\n\r\nDa es ein Naturtr\u00fcbes Ale ist muss es nicht gro\u00df gefiltert werden.\r\nKarbonisiert wurde mit gew\u00f6hnlichem Haushaltszucker bei der Flaschenabf\u00fcllung.\r\nFlaschenreifung mindestens 3 Wochen."
+}

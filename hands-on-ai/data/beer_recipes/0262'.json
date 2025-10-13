@@ -1,0 +1,71 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ostufer Pale Ale Mandarina Edition",
+    "Datum": "08.12.2012",
+    "Sorte": "India Pale Ale",
+    "Autor": "basmar",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.2,
+    "Bittere": 56,
+    "Farbe": 14,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "single Hop IPA mit Mandarina Bavaria ",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraMalz dunkel",
+            "Menge": 450,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.090909090909093,
+    "Einmaischtemperatur": 62,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 10.909090909090908,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Bavaria Mandarina",
+            "Menge": 30,
+            "Alpha": 9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 9,
+            "Alpha": 9,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 45,
+            "Alpha": 9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Bavaria Mandarina",
+            "Menge": 45
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wir haben das Bier auch High Gravity gebraut. "
+}

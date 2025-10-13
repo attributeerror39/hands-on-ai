@@ -1,0 +1,68 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Berliner Weisse",
+    "Datum": "20.03.2017",
+    "Sorte": "Sauerbier",
+    "Autor": "Kurt",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 8.2,
+    "Bittere": 5,
+    "Farbe": 5,
+    "Alkohol": 3.5,
+    "Kurzbeschreibung": "Ein sch\u00f6ner Einstieg in die Welt der Sauerbiere. Durch die Maisches\u00e4uerung und anschlie\u00dfende Kochung h\u00e4lt man sich den G\u00e4rbeh\u00e4lter \"clean\".",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.74,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 870,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "dekoktion",
+    "Einmaisch_Zubruehwasser_gesamt": 12.2,
+    "Dekoktionen": [
+        {
+            "Volumen": 6.5,
+            "Temperatur_ist": 50,
+            "Temperatur_resultierend": 44,
+            "Rastzeit": 15
+        },
+        {
+            "Volumen": 5.7,
+            "Form": "Kochendes Wasser",
+            "Teilmaische_Kochzeit": 0,
+            "Temperatur_resultierend": 65,
+            "Rastzeit": 40
+        },
+        {
+            "Volumen": 6.1,
+            "Form": "Dickmaische",
+            "Teilmaische_Rastzeit": 20,
+            "Teilmaische_Temperatur": 72,
+            "Teilmaische_Kochzeit": 5,
+            "Temperatur_resultierend": 74,
+            "Rastzeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 10.434782608695652,
+    "Kochzeit_Wuerze": 10,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 4,
+            "Alpha": 14,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "US-05, WY1007",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "- In Anlehnung an das Rezept aus dem Hobbybrauer-Wiki - \r\n\r\nVorgehen:\r\n2-3 Tage vor dem Brauen einen Milchs\u00e4urestarter ansetzen:\r\nCa 200 ml kochendes Wasser in eine Thermoskanne geben, einen Teel\u00f6ffel Zucker hinzugeben und mit grade so viel Mineralwasser (CO2-haltig!) aufgie\u00dfen, das sich eine Temperatur von 45\u00b0C einstellt. Ziel der Aktion ist, den Sauerstoff (und damit die Grundlage f\u00fcr aerobe Keime) aus der Kanne zu verdr\u00e4ngen. Eine kleine Hand voll ungeschrotetem Pilsner Malz hinzugeben und luftdicht verschlie\u00dfen. Jeden Tag einen weiteren Teel\u00f6ffel Zucker hinzugeben. Am Brautag sollte der Starter leicht tr\u00fcb sein, deutlich sauer schmecken und angenehm s\u00e4uerlich getreidig riechen. Bei \u00fcblen Ger\u00fcchen (Erbrochenem, F\u00e4kalien, ...) Starter verwerfen. Alternativ kann eine kommerzielle Milchs\u00e4urekultur verwendet werden.\r\nMaische wie beschrieben zubereiten, L\u00e4utern und die W\u00fcrze kurz (10 Min) aufkochen um zu pasteurisieren. W\u00fcrze in ein geeignetes Gef\u00e4\u00df (Thermoport ist ideal!) zumf\u00fcllen und auf 45\u00b0C abk\u00fchlen lassen. Dann den Milchs\u00e4urestarter hinzugeben und den Kopfraum mit CO2 fluten (aus der Flasche oder mit stark kohlens\u00e4urehaltigem Wasser - alternativ die W\u00fcrzeoberfl\u00e4che mit Frischhaltefolie abdecken). Je nach gew\u00fcnschtem S\u00e4uregrad das Gef\u00e4\u00df gut isoliert 1-2 Tage stehen lassen. Anschlie\u00dfend mit dem Hopfenkochen fortfahren. Vorsicht, starke Schaumentwicklung. Die nun sterile W\u00fcrze kann gefahrlos in den G\u00e4rbeh\u00e4lter \u00fcberf\u00fchrt werden und mit eine OG-Hefe verg\u00e4ren (US-05 und WY1007 sind erprobt, andere gehen sicher auch). Auf 5,5g\/L CO2 aufspeisen (ich verwende daf\u00fcr Traubenzucker). Optional kann man noch Brettanomyces mit in die Flasche geben. Ich verwende daf\u00fcr einen Ansatz aus Orval-Bodensatz. Dadurch ergeben sich sehr g\u00fcnstige Bedingungen f\u00fcr eine lange Lagerung (Jahre!) und Entwicklung von vorz\u00fcglichen Aromen!"
+}

@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Holzklass Bier",
+    "Datum": "07.02.2020",
+    "Sorte": "Pale Ale",
+    "Autor": "Bier39",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 21,
+    "Farbe": 5,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Helles, leichtes Pale Ale mit Eichenfass-Aroma",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.85,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen hell",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 32,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.919354838709678,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.483870967741936,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 33,
+            "Alpha": 4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 8,
+            "Alpha": 6.4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Eichenfasschips Whisky",
+            "Menge": 44
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 68.1,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Das Bier wurde im Mundschenk 50l ohne Malzrohr mit R\u00fchrwerk gebraut.\r\n\r\n-Kochende bis Beginn der K\u00fchlung: 12 Minuten\r\n-Temperatur vor K\u00fchlung: 90\u00b0C\r\n-G\u00e4rbeginn: 1 Tage nach Brautag\r\n-G\u00e4rung: 8 Tage bei 20\u00b0C\r\n-Holzchips: Am 4. Tag der G\u00e4rung dazugegeben f\u00fcr 4 Tage. Vor der Zugabe wurden die Chips f\u00fcr ca. 7 Min. im Backofen gebacken.\r\n\r\nVariante Flascheng\u00e4rung:\r\nVor dem Abf\u00fcllen 1 Liter Wasser kochen, 399g Zucker dazugeben und vorsichtig mit Jungbier vermischen.\r\nBerechnung:\r\nCO2-Gehalt bei 20\u00b0C -> 1.63 g\/l (inkl. agekochtem Wasser)\r\nGew\u00fcnschter CO2-Gehalt -> 5.5 g\/l\r\nDifferenz -> 3.9 g\/l \r\nJungbiermenge 47.9 Liter (inkl. abgekochtem Wasser) x 3.9g\/l = 186.8g CO2\r\n186.8g CO2 \/ 46.8% (Verg\u00e4rungsanteil CO2) = 399g Zucker\r\n\r\nVariante Keg:\r\n-Nach der Hauptg\u00e4rung Bier in Keg umf\u00fcllen \r\n-7 Tage Druck bei 2.5 bar \/ 20\u00b0C\r\n-Nach einer Woche Keg k\u00fchl stellen bei 5\u00b0C\r\n\r\nBrauwasser\r\nKalzium 97.1 mg\/l\r\nMagnesium 14.8 mg\/l\r\nSulfat 19.8 mg\/l\r\nChlorid 17.3 mg\/l\r\nNatrium 10.5 mg\/l\r\nRestakalit\u00e4t -0.63 \u00b0dH\r\nKarbonh\u00e4rte 3.4 \u00b0dH "
+}

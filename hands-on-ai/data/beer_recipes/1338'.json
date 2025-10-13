@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Garran Riask",
+    "Datum": "12.08.2020",
+    "Sorte": "Stout",
+    "Autor": "ManneS",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 33,
+    "Farbe": 80,
+    "Alkohol": 4.1,
+    "Kurzbeschreibung": "Dry Stout",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.78,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 870,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Aroma",
+            "Menge": 170,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 87,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 74,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 9.565217391304348,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 3,
+            "Alpha": 12.4,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 52,
+            "Alpha": 4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis S-33",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 59,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Die R\u00f6stgerste wurde der Maische nach 30 min hinzugef\u00fcgt!\r\n\r\nNach 4 Wochen Reifung sehr speziell: knochentrocken und herrlich bitter mit kr\u00e4ftigen R\u00f6st- und (Getreide-)Kaffeearomen\u2026 Viel Schaum beim Einschenken, der schwuppdiwupp verschwindet, aber -Schaum braucht eh kein Mensch \u2026 :-)  \r\nNach sieben bis acht Wochen Reifung ist es ein nahezu anderes Bier: Rund, vollmundig, malzig und w\u00fcrzig, das Bittere des  Hopfens ist nahezu verschwunden, die R\u00f6st- und Getreidekaffeearomen  sind eher milden Kaffeenoten (Espresso?) gewichen. Spannend! In jeder (Reifungs-) Phase lecker, finde ich.\r\n\r\nDie Fermentis S-33 ist ein Zufall, es war nichts anderes da. EBC ist gesch\u00e4tzt."
+}

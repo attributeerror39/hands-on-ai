@@ -1,0 +1,92 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Latte Nero",
+    "Datum": "26.11.2015",
+    "Sorte": "Milk Stout",
+    "Autor": "Johnny H",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.7,
+    "Bittere": 24,
+    "Farbe": 282,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Cremiges Milk Stout, dem Left Hand Milk Stout nachempfunden",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 3.26,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 350,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 470,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Crystal 120",
+            "Menge": 350,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial II",
+            "Menge": 260,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.871794871794872,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15.897435897435896,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 7,
+            "Alpha": 15.8,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 21,
+            "Alpha": 6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Laktose",
+            "Menge": 462,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Safale US05",
+    "Gaertemperatur": "19-22",
+    "Endvergaerungsgrad": 60,
+    "Karbonisierung": 4.6,
+    "Anmerkung_Autor": "Rezept ist angelehnt an ein amerikanisches Klonrezept des Left Hand Milk Stout von Left Hand Brewing. Im Vergleich zum Original (verkostet in Berlin, Fass) hat dieses aber st\u00e4rkere R\u00f6stnoten und ist nicht ganz so glatt. Wer es etwas weniger r\u00f6stig haben will, kann die R\u00f6stgerste erst etwas sp\u00e4ter einmaischen. Die Haferflocken haben wir vorgebacken (150\u00b0C, 30 Minuten). \r\n\r\nK\u00f6stliches Bier mit wunderbarem cremig-samtenem Mundgef\u00fchl, Schokoladen- und R\u00f6staromen, leichtem Touch von Getreide und dezenter S\u00e4urenote. Die S\u00fc\u00dfe durch die Laktose ist sehr dezent im Hintergrund. Mir dr\u00e4ngt sich die Assoziation herbe Schokoladentorte mit M\u00fcsli auf. Es lohnt sich, dieses Bier nachzubrauen.\r\n\r\nDer EVG ist ein wenig mit Vorsicht zu genie\u00dfen, da ich die Stammw\u00fcrze erst nach Zugabe der Laktose gemessen und die Werte ohne Laktose rechnerisch bestimmt habe (-2,2\u00b0P). Zielstammw\u00fcrze war auf jeden Fall 16,5\u00b0P, und die wurde auch fast genau getroffen. \r\n\r\nZwei Monate Lagerung zur Abrundung haben dem Bier sehr gut getan!\r\n\r\nNachtrag: letzte Woche (4.12.2015) konnte ich nun auch noch das Left Hand Milk Stout Nitro aus der Flasche hier in Berlin verkosten. Dieses ist viel cremiger (fast schon sahnig) und glatter als unser Latte Nero, das insgesamt viel n\u00e4her an einem \"echten\" Stout liegt und st\u00e4rker von R\u00f6staromen dominiert wird. Ein gro\u00dfer Unterschied ist ebenfalls der Schaum: das LHMS hat einen sahnefarbenen und \u00e4u\u00dferst feinporigen (N2!) Schaum, w\u00e4hrend das Latte Nero einen mittelbraunen und gr\u00f6beren Schaum produziert. Das nur zur Information. "
+}

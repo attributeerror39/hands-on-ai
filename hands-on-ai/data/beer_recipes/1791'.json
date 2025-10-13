@@ -1,0 +1,85 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Alt\u00f6l 70er Sud",
+    "Datum": "14.03.2023",
+    "Sorte": "Schwarzbier",
+    "Autor": "Brauwerk 76",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.4,
+    "Bittere": 25,
+    "Farbe": 60,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Ein feines Schwarzbier mit einer Spur von Karamel und feinen R\u00f6staromen.Die Bittere ist fein ausgewogen und nicht zu heftig im Antrunk,sowie nicht Nachh\u00e4ngend im Nachtrunk.Die Schaunkrone ist sehr fein und stabil.Vollmundig im Geschmack und sehr S\u00fcffig.",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "R\u00f6stmalz Carafa II",
+            "Menge": 240,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caramalz Hell",
+            "Menge": 120,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 140,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.8,
+    "Einmaischtemperatur": 63,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 9.6,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saazer",
+            "Menge": 28,
+            "Alpha": 3.4,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 10,
+            "Alpha": 3.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 26,
+            "Alpha": 3.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale- S04 oder Nottingham",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das R\u00f6stmalz erst zur 2.Rast f\u00fcr 25 Minuten zur Maische dazugeben f\u00fcr die dunkle Farbe!\r\nDie Nottiham ist auch eine gute Alternative zur S04 Hefe.Eine lange Kaltreifung bei 3\u00b0C ist sehr Empfehlenswert."
+}

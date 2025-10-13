@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "rez1",
+    "Datum": "13.04.2020",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "lazy_mo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 55,
+    "Farbe": 10,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Fruchtig bitteres Wiener IPA mit guter Schaumstabilit\u00e4t.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 35
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 10,
+            "Alpha": 11.5,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 8,
+            "Alpha": 16.7,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 10,
+            "Alpha": 12.3,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 8,
+            "Alpha": 11.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 10,
+            "Alpha": 16.7,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis SafAle US-05",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "H\u00e4uptg\u00e4rung fand bei Raumtemperatur von ca. 22\u00b0C statt.\r\nDie erste H\u00e4lfte des Sudes hab ich nach der Hauptg\u00e4rung in Flaschen abgef\u00fcllt, die andere H\u00e4lfte mit 5g Cascade f\u00fcr 4 Tage gestopft."
+}

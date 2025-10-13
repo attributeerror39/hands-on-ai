@@ -1,0 +1,57 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Alma Mater - Lichtenhainer",
+    "Datum": "26.03.2018",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Hausenbrauer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 10,
+    "Bittere": 14,
+    "Farbe": 7,
+    "Alkohol": 3.8,
+    "Kurzbeschreibung": "Lichtenhainer Bier mit feinem Raucharoma",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.29,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 1.43,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Eichenrauch Weizenmalz",
+            "Menge": 860,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.142857142857142,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 500
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 24.285714285714285,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saphir",
+            "Menge": 30,
+            "Alpha": 4.5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Gozdawa Altbier",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wie im Hobbybrauerforum gew\u00fcnscht (https:\/\/hobbybrauer.de\/forum\/viewtopic.php?f=13&t=17109#p267879) hier das Rezept f\u00fcr mein Lichtenhainer, mit dem ich beim diesj\u00e4hrigen Wettbewerb der Kesselbrauer angetreten bin.\r\nDie Reifezeit bekommt diesem Leichtbier recht gut und es entwickelt sich auch die gew\u00fcnschte, leicht s\u00e4uerliche Note.\r\n\r\nDie Maischedauer ist kein Schreibfehler, sondern ich habe morgens im Thermoport eingemaischt und den (kurzen) Arbeitstag rasten lassen.\r\nDann abgemaischt, mit 80\u00b0C hei\u00dfem Wasser nochmals nachgef\u00fcllt und wieder abgemaischt.\r\n"
+}

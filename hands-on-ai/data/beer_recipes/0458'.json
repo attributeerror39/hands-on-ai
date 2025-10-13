@@ -1,0 +1,71 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Nordpf\u00e4lzer Oberstg\u00e4rig",
+    "Datum": "24.04.2015",
+    "Sorte": "Pale Ale",
+    "Autor": "heferpower",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 21,
+    "Farbe": 13,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Bernsteinfarbenes oberg\u00e4riges spritziges Bier. Gute Schaumstabilit\u00e4t",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2.53,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz",
+            "Menge": 840,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.68421052631579,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 35
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 7.368421052631579,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 41,
+            "Alpha": 2.7,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 5,
+            "Alpha": 2.8,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 5,
+            "Alpha": 2.7,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Safale S04",
+    "Gaertemperatur": "16 - 20"
+}

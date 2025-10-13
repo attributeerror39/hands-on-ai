@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mojito Sour",
+    "Datum": "08.06.2022",
+    "Sorte": "Sauerbier",
+    "Autor": "Bierrakete",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 9.4,
+    "Bittere": 5,
+    "Farbe": 8,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "\"Quick and dirty\" Philly-Sour-Sauerbier im Mojito Stil - komplett gegen das Reinheitsgebot mit Minze, Limette und Rum aromatisiert. Perfekt f\u00fcr den Sommer.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.63,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 1.63,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.4,
+    "Einmaischtemperatur": 36,
+    "Rasten": [
+        {
+            "Temperatur": 44,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 48,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 17.1,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 5,
+            "Alpha": 6.9,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Limetten",
+            "Menge": "8 ",
+            "Einheit": "St\u00fcck"
+        },
+        {
+            "Name": "Minze",
+            "Menge": " ",
+            "Einheit": ""
+        },
+        {
+            "Name": "Wei\u00dfer Rum (bspw. Havana)",
+            "Menge": 1200,
+            "Einheit": "ml"
+        }
+    ],
+    "Hefe": "Lallemand Philly Sour",
+    "Gaertemperatur": "25",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "F\u00fcr diejenigen, die sie noch nicht kennen: Die Philly Sour wird wie normale Hefe benutzt und erzeugt zu Beginn der G\u00e4rung Milchs\u00e4ure. Es sind also keine Laktos oder \u00e4hnliches n\u00f6tig.\r\n\r\nF\u00fcr den Mojito-Touch wird ein Auszug aus Limettenschale und Minze in wei\u00dfem Rum (ich empfehle Havana Club und rate von Bacardi ab) hergestellt. Dazu am besten schon am Brautag die Schale von 8 Limetten abreiben und in ca. 250ml Rum einlegen.\r\n\r\nBei der Minze hab ich die Erfahrung gemacht, dass sie schnell oxidiert und deshalb erst einige Tage vor Abf\u00fcllung vorbereitet werden sollte. Dazu eine Handvoll leicht zerrissene Minzbl\u00e4tter in so viel Rum einlegen, dass sie vollst\u00e4ndig bedeckt ist und am besten beschweren (m\u00f6glichst kein Luftkontakt!).\r\n\r\nVor dem Abf\u00fcllen dann umschlauchen und mit Limetten- und Minzauszug sowie dem restlichen Rum (ich habe insgesamt ca. 1,2l auf 20l Bier benutzt, aber das kann man variieren wie man m\u00f6chte) abschmecken.\r\n\r\nBei den gesch\u00e4tzten 6% Alkoholgehalt ist der Rum bereits eingerechnet."
+}

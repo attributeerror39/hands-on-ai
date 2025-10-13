@@ -1,0 +1,73 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Fideles Gold (k\u00f6lsche Art) ",
+    "Datum": "13.11.2020",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "dirk1989",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 25,
+    "Farbe": 7,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Sehr s\u00fcffiges vollmundiges K\u00f6lsch. Im Abgang eine Note von Citrus. Selbst f\u00fcr mich als K\u00f6lner eine wahre Wonne. ",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 600,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 32,
+            "Alpha": 5.6,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Cascade",
+            "Menge": 10,
+            "Alpha": 5.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Safala K97 \/ Nottingham",
+    "Gaertemperatur": "20"
+}

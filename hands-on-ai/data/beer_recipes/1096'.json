@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Merchweiler Kelterbr\u00e4u",
+    "Datum": "27.05.2019",
+    "Sorte": "Kellerbier",
+    "Autor": "kawi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.5,
+    "Bittere": 28,
+    "Farbe": 22,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "Oberg\u00e4riges Kellerbier, hellbraun-r\u00f6tlich, mit einer leichten Karamell- und Biscuitnote, sowie ausgewogenem Malzk\u00f6rper, moderater Bittere und dezenten Zitrusnoten.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.38,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 1.9,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.52,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 300,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.799999999999997,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.6,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook",
+            "Menge": 5,
+            "Alpha": 12.8,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 20,
+            "Alpha": 12,
+            "Zeit": 25,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Lemondrop",
+            "Menge": 3,
+            "Alpha": 5.3,
+            "Zeit": 1,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis SafBrew S-33",
+    "Gaertemperatur": "16-19",
+    "Endvergaerungsgrad": 63,
+    "Karbonisierung": 4.8
+}

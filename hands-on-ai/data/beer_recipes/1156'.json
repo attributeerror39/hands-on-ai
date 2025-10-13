@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Callista Weizenbock",
+    "Datum": "13.10.2019",
+    "Sorte": "Weizenbock",
+    "Autor": "mavro",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17,
+    "Bittere": 20,
+    "Farbe": 22,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Ein fruchtiger, etwas st\u00e4rkerer Weizenbock ohne Nelke und ohne Bananen sondern nur mit dem typischen Callista-Geschmack und -Aroma von tropischen Fr\u00fcchten und Zitrus. Der etwas h\u00f6here Alkoholgehalt ist kaum wahrzunehmen und das macht das B\u00f6ckchen \"gef\u00e4hrlich\".",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 1.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 1.5,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 25,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Ariana",
+            "Menge": 20,
+            "Alpha": 10,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 20,
+            "Alpha": 3,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 20,
+            "Alpha": 3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Callista",
+            "Menge": 60
+        }
+    ],
+    "Hefe": "GOZDAWA Bavarian Wheat 11",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Ziel war es, ein goldenes Weizenbier mit viel fruchtigem Geschmack (keine Banane und keine Nelke), stabilem Schaum und etwas mehr Umdrehungen zu erzielen. Daher auch die etwas niedrigere G\u00e4rtemperatur, nur ganz wenig Ariana nach dem Eiwei\u00dfbruch und den Callista beim Ausmachen, Whirlpool um zum Stopfen. Das Wasser wurde nach Schlupfs-Wasserrechner auf weizentypische Werte eingestellt. Ich finde es sehr gelungen."
+}

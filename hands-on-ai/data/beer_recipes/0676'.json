@@ -1,0 +1,115 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Tropic Thunder",
+    "Datum": "25.01.2017",
+    "Sorte": "India Pale Ale",
+    "Autor": "Sura",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.5,
+    "Bittere": 65,
+    "Farbe": 15,
+    "Alkohol": 8.6,
+    "Kurzbeschreibung": "Nicht zu trockenes und fruchtiges IPA ohne C-Hopfen. ",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 4.7,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 930,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 660,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch",
+            "Menge": 330,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "dekoktion",
+    "Einmaisch_Zubruehwasser_gesamt": 18.5,
+    "Dekoktionen": [
+        {
+            "Volumen": 12.1,
+            "Temperatur_ist": 59,
+            "Temperatur_resultierend": 52,
+            "Rastzeit": 10
+        },
+        {
+            "Volumen": 6.4,
+            "Form": "Kochendes Wasser",
+            "Teilmaische_Kochzeit": 0,
+            "Temperatur_resultierend": 65,
+            "Rastzeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 65,
+    "Nachguss": 12.5,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 6,
+            "Alpha": 8.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Herkules",
+            "Menge": 19,
+            "Alpha": 15.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 25,
+            "Alpha": 8.9,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Azacca",
+            "Menge": 25,
+            "Alpha": 11.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Azacca",
+            "Menge": 25,
+            "Alpha": 11.9,
+            "Zeit": 1,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Azacca",
+            "Menge": 38
+        },
+        {
+            "Sorte": "Azacca",
+            "Menge": 38
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Ascorbins\u00e4ure 25mg\/l",
+            "Menge": " ",
+            "Einheit": ""
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "18-19",
+    "Endvergaerungsgrad": 89,
+    "Karbonisierung": 5.2,
+    "Anmerkung_Autor": "Ich mag fruchtige IPAs, aber keinen C-Hopfen. Azacca liefert hier ein wunderbares Aroma: Apfel-Mango-Zitrus und der Amarillo passt gut daran. \r\nGestopft wurde kurz nach Ende der Hochkr\u00e4usen (6,5%mmas), und dann noch einmal nach dem umschlauchen. \r\n\r\nWasser ist aufgesalzenes Osmosewasser; Ca 125; Cl 80; So 188; RA -4. Maische-PH lag bei 5,5. \r\nNach der Hauptg\u00e4rung Coldcrash f\u00fcr 4 Tage, mit Gelatine gekl\u00e4rt. \r\n\r\nTrotz des hohen EVGs ist es nicht zu trocken, die US-05 passt hier perfekt. \r\nKann direkt nach der Nachg\u00e4rung schon getrunken werden. Mein Frau (trinkt kaum Bier) hat es als \"mild\" bezeichnet..... :) "
+}

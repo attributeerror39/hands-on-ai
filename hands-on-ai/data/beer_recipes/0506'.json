@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "3 Musketeers",
+    "Datum": "19.08.2015",
+    "Sorte": "Franz\u00f6sisches Ale",
+    "Autor": "grindoctor",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.2,
+    "Bittere": 29,
+    "Farbe": 14,
+    "Alkohol": 7.1,
+    "Kurzbeschreibung": "Rotgoldenes Bi\u00e9re de Garde, spritzig, sueffig, wuerzig! Ein Kracher auf der Drillingsfeier!",
+    "Malze": [
+        {
+            "Name": "Pale Malz",
+            "Menge": 4.15,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen, hell",
+            "Menge": 850,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 380,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.461538461538463,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 24,
+            "Alpha": 6.7,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Strisselspalt",
+            "Menge": 19,
+            "Alpha": 3.3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Strisselspalt",
+            "Menge": 19,
+            "Alpha": 3.3,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Strisselspalt",
+            "Menge": 12
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 12
+        }
+    ],
+    "Hefe": "Danstar Belle Saison",
+    "Gaertemperatur": "21-22",
+    "Karbonisierung": 8.5,
+    "Anmerkung_Autor": "Nach der ersten Woche der G\u00e6rung, wurden die Stopfhopfen in den G\u00e6rbottich gegeben und fuer eine weitere Woche bei 22*C fertig gegoren. Dann in Flaschen abgefuellt.\r\nOriginal gravity war 1.061, final gravity 1.007\r\nPS: Mit der Karbonierung ist im Rezept oben Zucker per Liter gemeint!"
+}

@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Anton Dreher Bier",
+    "Datum": "02.08.2012",
+    "Sorte": "Pale Ale",
+    "Autor": "tauroplu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 30,
+    "Farbe": 12,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Fruchtig-hopfenaromatischer, ungemein s\u00fcffiger Durstl\u00f6scher",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Bohemian Pilsner",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 800,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.4,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Styrian Goldings",
+            "Menge": 51,
+            "Alpha": 2.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 4,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Styrian Goldings",
+            "Menge": 48,
+            "Alpha": 2.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 5.1,
+    "Anmerkung_Autor": "Trotz des etwas erh\u00f6hten Alkoholgehaltes auch im Sommer \"very drinkable\".\r\nEigentlich wird dieser Bierstil unterg\u00e4rig gebraut. Dies hier ist meine oberg\u00e4rige Interpretation.\r\nHopfengaben wurden mit Earls Hopfenrechner f\u00fcr Profis ermittelt. Ich verwende Pellets. - Nachisomerisierungszeit: 15 Min. -"
+}

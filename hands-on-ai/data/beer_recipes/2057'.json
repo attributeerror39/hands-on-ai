@@ -1,0 +1,99 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "JJ&#039;s Bitter Blues",
+    "Datum": "31.12.2024",
+    "Sorte": "Bitter",
+    "Autor": "jj.triessl",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 10,
+    "Bittere": 28,
+    "Farbe": 24,
+    "Alkohol": 4.1,
+    "Kurzbeschreibung": "Best Bitter im Rahmen des HBCon-Jurywettbewerbs 2025 (BJCP 11B).\r\nKupferfarbenes Ale, mit Honig-, Karamell- und Biscuit-Aromen. Moderate Bittere und wahrnehmbare fruchtige Aromen.",
+    "Malze": [
+        {
+            "Name": "Maris Otter Pale Ale",
+            "Menge": 2.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Best Red X",
+            "Menge": 700,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Crips Cara Gold",
+            "Menge": 120,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Black Swan Biscuit",
+            "Menge": 130,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 58,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 9,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 10,
+            "Alpha": 6.3,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 8,
+            "Alpha": 6.3,
+            "Zeit": 40,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Challenger",
+            "Menge": 10,
+            "Alpha": 7.7,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Challenger",
+            "Menge": 8,
+            "Alpha": 7.7,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "Lallemand WINDSOR",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 68.5,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wasseraufbereitung auf PH-Wert 5,5 mit 80%iger Michs&auml;ure:\r\n8 ml Hauptguss, 4 ml Nachguss."
+}

@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Black surprise",
+    "Datum": "01.01.2015",
+    "Sorte": "Dunkler Doppelbock",
+    "Autor": "john",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 19,
+    "Bittere": 22,
+    "Farbe": 37,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Dunkeles Bier mit einen scharfengeschmack.",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 3.75,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caraamber",
+            "Menge": 1.88,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 1.25,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Chocolate ",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 28.75,
+    "Einmaischtemperatur": 53,
+    "Rasten": [
+        {
+            "Temperatur": 53,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 19,
+            "Alpha": 10,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 25,
+            "Alpha": 6.9,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "K\u00fcmmel",
+            "Menge": 23,
+            "Einheit": "g",
+            "Kochzeit": 90
+        }
+    ],
+    "Hefe": "Danstar Belle Saison",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Hat mindestens 4 Monaten gebraucht auf die Flasche. Schmeckt jetzt sehr zart und gibt einen nachbiss. Nach die Hauptg\u00e4rung in die Flasche und f\u00fcr zwei wochen auf 22 Grad gehalten. "
+}

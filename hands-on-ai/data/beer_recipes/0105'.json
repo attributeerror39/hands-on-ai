@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Michas OG M\u00e4rzen",
+    "Datum": "29.03.2011",
+    "Sorte": "Bitter",
+    "Autor": "tauroplu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 30,
+    "Farbe": 16,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "S\u00fcffiges und ausgewogenes Festbier",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.91,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 870,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell\u00ae",
+            "Menge": 260,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.304347826086955,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 16,
+            "Alpha": 8,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 4,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 23,
+            "Alpha": 5.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 5.1,
+    "Anmerkung_Autor": "Der Rezepttitel ist eigentlich ein Oxymoron, da ein M\u00e4rzen per Definition unterg\u00e4rig gebraut wird. Dies hier ist meine oberg\u00e4rige Interpretation.\r\nDie IBU Werte wurden mit Earls Hopfenrechner f\u00fcr Profis ermittelt. Ich verwende Pellets. - Nachisomerisierungszeit: 15 Min. -"
+}

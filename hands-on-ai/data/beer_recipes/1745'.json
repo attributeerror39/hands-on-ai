@@ -1,0 +1,94 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hols der Teufel",
+    "Datum": "20.11.2022",
+    "Sorte": "Imperial Stout",
+    "Autor": "marsabba",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20,
+    "Bittere": 70,
+    "Farbe": 140,
+    "Alkohol": 10,
+    "Kurzbeschreibung": "Ein Imperial Stout, gut trinkbar, mit leckeren Schokoladen und Kaffeenoten.",
+    "Malze": [
+        {
+            "Name": "Wiener",
+            "Menge": 5.38,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram\u00fcnch I  90 EBC",
+            "Menge": 460,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 380,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Chocolate 525 EBC",
+            "Menge": 310,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Special W 275 EBC",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt 900 EBC",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.538461538461537,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 73,
+    "Nachguss": 10.769230769230768,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Opal",
+            "Menge": 62,
+            "Alpha": 7.6,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Comet",
+            "Menge": 38,
+            "Alpha": 8.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Comet",
+            "Menge": 38,
+            "Alpha": 8.2,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Lyles Treacle",
+            "Menge": 154,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Danstar Windsor",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "So ein Bier braucht viele Monate zur Reifung. Nach einem Jahr ist es genau richtig."
+}

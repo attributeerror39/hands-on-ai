@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "St. Sebastian",
+    "Datum": "08.01.2024",
+    "Sorte": "Belgisches Dubbel",
+    "Autor": "salzerbr&auml;u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 27,
+    "Farbe": 46,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "W&uuml;rziges Dubbel mit feinen R&ouml;stnoten. Die belgische Hefe verleiht dem Bier den typischen Geschmack mit Noten von Banane und Nelken. Koriandersamen sorgen f&uuml;r subtile Zitrusaromen.",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 3.46,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Best Special X Caramalz",
+            "Menge": 380,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.307692307692307,
+    "Einmaischtemperatur": 56,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.615384615384615,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Herkules",
+            "Menge": 7,
+            "Alpha": 18.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 17,
+            "Alpha": 4.1,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Callista",
+            "Menge": 17,
+            "Alpha": 4.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Koriandersamen anger&ouml;stet",
+            "Menge": 19,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Heller Sirup",
+            "Menge": 346,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Hefe": "Mangrove Jack M41",
+    "Gaertemperatur": "24-26",
+    "Endvergaerungsgrad": 81,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Wasser:\r\npH 7,4\r\nAlkalit&auml;t 100mg\/l\r\n\r\nFlascheng&auml;rung mit Zucker 6g\/L"
+}

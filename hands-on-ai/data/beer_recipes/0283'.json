@@ -1,0 +1,86 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Spalter Select SingleHop",
+    "Datum": "30.01.2013",
+    "Sorte": "Mild Ale",
+    "Autor": "kavu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.8,
+    "Bittere": 26,
+    "Farbe": 8,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "ausgewogenes OG Hell",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "WeizenHell",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 330,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.666666666666668,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 17,
+            "Alpha": 6.1,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 17,
+            "Alpha": 6.1,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 17,
+            "Alpha": 6.1,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select (Whirlpool)",
+            "Menge": 17,
+            "Alpha": 6.1,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "16",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Die W\u00fcrze haben wir als Grundlage f\u00fcr ein Kirschbier gebraut. 2\/3 wurden dieses Bier. "
+}

@@ -1,0 +1,67 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "G-Br\u00e4u - Winter Weizen",
+    "Datum": "07.03.2021",
+    "Sorte": "Dunkles Hefeweizen",
+    "Autor": "Tommys G-Br\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 18,
+    "Farbe": 21,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Kraftvolles, vollmundiges Wei\u00dfbier, fast schon dunkel (auf Grund des M\u00fcMa dunkel). Eher etwas f\u00fcr den Winter, oder den kalten Fr\u00fchlings- oder Herbstabend.  ",
+    "Malze": [
+        {
+            "Name": "Weizen Malz",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz dunkel",
+            "Menge": 1,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 56,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 23,
+            "Alpha": 4.8,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 10,
+            "Alpha": 4.8,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 3068",
+    "Gaertemperatur": "20-22",
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Anstatt des M\u00fcnchener dunkel, kann man auch M\u00fcnchener hell nehmen, hatte ich auch schon gemacht. Dann ist es nicht ganz so \"schwer\" und etwas leichter. \r\n\r\nZwei Wochen HG (bei ca. 21\u00b0C Raumtemperatur), zwei Wochen NG, zwei Wochen Reifung im K\u00fchlschrank bei 4\u00b0C. Mit Zucker in der Flasche karbonisiert: mit dem 0,75er Dosierl\u00f6ffel in 0,5er Flaschen abgef\u00fcllt. \r\n\r\nEin sehr leckeres Wei\u00dfbier, was perfekt nach einem kalten Winterspaziergang oder in die Fastenzeit passt!!"
+}

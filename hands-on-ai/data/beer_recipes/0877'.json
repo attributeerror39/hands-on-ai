@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Funky Aprikose",
+    "Datum": "18.03.2018",
+    "Sorte": "Saison",
+    "Autor": "Fexs",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.8,
+    "Bittere": 15,
+    "Farbe": 15,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "fruchtig frisches Saison mit wildem Hefe\/Brett Mix",
+    "Malze": [
+        {
+            "Name": "Pilsner extra hell",
+            "Menge": 3.73,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CARARED",
+            "Menge": 360,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen Rohfrucht",
+            "Menge": 230,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 52,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 77,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Opal",
+            "Menge": 12,
+            "Alpha": 8.3,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Opal",
+            "Menge": 5,
+            "Alpha": 8.3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Aprikosen entsteint (Version 2)",
+            "Menge": 182,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Omega Saisonstein's Monster + TYB Saison Brettanomyces Blend",
+    "Gaertemperatur": "20-24",
+    "Endvergaerungsgrad": 88,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Mein erster Versuch zum Thema Mixed Fermentation, angeregt vom Buch American Sour Beers. Brautag war der 23.03.17\r\n\r\nHauptg\u00e4rung mit Omega Saisonstein's Monster + TYB Saison Brettanomyces Blend f\u00fcr 2 Wochen, danach wurde in 2 Glasballons aufgeteilt.\r\n\r\nTeil 1: 6 Monate in secondary danach mit Zucker auf 6g Co2 in die Flasche. Nach weiteren 6 Wochen war es fertig.\r\n\r\nWas soll ich sagen: clean, crisp, trocken, frisch, sehr gut trinkbar. duftet wunderbar nach Steinfr\u00fcchten.\r\n\r\nTeil 2: TYB Amalgamation zus\u00e4tzlich in den Glasballon und nach 6 Monaten 200g entsteinte Aprikosen dazugegeben. Die Aprikosen durften 3 Monate von den Hefen bearbeitet werden. (Das Ganze sieht w\u00e4hrend der G\u00e4rung nicht immer lecker aus aber der Anblick und das Warten lohnen sich.) Auch hier ging es mit Zucker in die Flaschen. \r\n\r\nVersion 2 ist f\u00fcr mich der absolute Wahnsinn. Die Aprikose kommt leicht durch ist aber nicht aufdringlich. Insgesamt ist das Bier deutlich fruchtiger als V1 und zeigt keine animalischen Ger\u00fcche.\r\nAuch hier: crisp, trocken, frisch, leichte s\u00e4ure, sehr sehr fruchtig und lecker.\r\n"
+}

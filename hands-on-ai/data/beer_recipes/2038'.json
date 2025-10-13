@@ -1,0 +1,115 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "St. Michael Irish Stout",
+    "Datum": "23.11.2024",
+    "Sorte": "Stout",
+    "Autor": "BRAUBERND",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 40,
+    "Farbe": 80,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Ein intensives dunkles und cremiges Stout mit Keks- und Schokoladenaromen. Erinnert an das O&acute;Hara&acute;s Stout",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 2.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Schokomalz",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Biscuitmalz",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R&ouml;stgerste",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.399999999999999,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 60,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.200000000000001,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 20,
+            "Alpha": 4.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 20,
+            "Alpha": 4.6,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 20,
+            "Alpha": 4.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 20,
+            "Alpha": 4.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Hefenahrung",
+            "Menge": 5,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Milchzucker",
+            "Menge": 400,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "London Ale",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Ein wunderbar cremiges abgerundetes Stout mit nur sanften Raucharomen. Daf&uuml;r aber auch ein Hauch von Schokolade und Keksen. Ich habe das Stout auch schon mit Columbus Hopfen gebraut (je 50% bei den letzten beiden Gaben). Etwas anderer Charakter aber nicht wirklich besser. Die Karbonisierung ist an der Obergrenze, eher Richtung 3,5g damit die Kohlens&auml;ure nicht soviel sauren Geschmack liefert. Allerdings soll das Bier auch nicht &quot;schal&quot; schmecken. Hefe liefert m.E. nicht so viel zus&auml;tzlichen Geschmack, kann auch eine andere Ale Hefe sein."
+}

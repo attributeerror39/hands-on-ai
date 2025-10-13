@@ -1,0 +1,74 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Pink Marie",
+    "Datum": "01.04.2023",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "Opa Ganda",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 15,
+    "Farbe": 6,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Himbeerbier auf Basis eines Witbieres mit Vanille und Tonkabohne\r\n1. Platz beim Teilnehmerwettbewerb der HBCon 2023",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz ",
+            "Menge": 1.82,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Dinkelmalz ",
+            "Menge": 1.09,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Dinkelflocken",
+            "Menge": 910,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.545454545454547,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 68,
+    "Nachguss": 12.727272727272727,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saphir",
+            "Menge": 32,
+            "Alpha": 4.3,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Himbeeren",
+            "Menge": 1364,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Vanille",
+            "Menge": 0,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Tonkabohne ",
+            "Menge": 0,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Wyeast #3944",
+    "Gaertemperatur": "16-18",
+    "Endvergaerungsgrad": 81.3,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Die Gew\u00fcrze kommen als Auszug ins Bier, da die sich sonst im G\u00e4rverlauf dank des CO2 Austriebs verfl\u00fcchtigen w\u00fcrden. Hier ist eine Mengenangabe schwierig, da die Dosierung rein nach Geschmack ablief."
+}

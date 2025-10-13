@@ -1,0 +1,108 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Seeb\u00e4r Imperial Stout",
+    "Datum": "19.05.2016",
+    "Sorte": "Stout",
+    "Autor": "Bilbobreu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 18,
+    "Bittere": 51,
+    "Farbe": 130,
+    "Alkohol": 6.7,
+    "Kurzbeschreibung": "m\u00e4chtiger schwarzer Malzk\u00f6rper plus dezente fruchtige Hopfennote",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 3.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Brown Malt",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Gerstenspitzmalzflocken",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraBelge",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Buchweizenmalz",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Chocolate",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 70,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 54,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Pilgrim",
+            "Menge": 25,
+            "Alpha": 9.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cluster",
+            "Menge": 25,
+            "Alpha": 6.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Pilgrim",
+            "Menge": 20,
+            "Alpha": 9.9,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Cluster",
+            "Menge": 30,
+            "Alpha": 6.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cluster",
+            "Menge": 55
+        }
+    ],
+    "Hefe": "Wyeast 1084 Irish Ale",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 66,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Es handelt sich hier um das Originalrezept, mit dem ich beim Hobbybrauerwettbewerb der St\u00f6rtebeker Braumanufaktur im August 2015 gewonnen habe.\r\nAchtung: 100 g von dem Pale Chocolate und die 70 g R\u00f6stgerste erst nach der H\u00e4lfte der 72\u00b0C Rast zugeben.\r\nIch w\u00fcrde bei Wiederholung die 1. Rast 1 bis 2 Grad niedriger machen, um den Verg\u00e4rgrad etwas zu erh\u00f6hen."
+}

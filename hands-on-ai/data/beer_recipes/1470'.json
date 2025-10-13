@@ -1,0 +1,96 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Green Dragon",
+    "Datum": "22.04.2021",
+    "Sorte": "Mild Ale",
+    "Autor": "haertibraeu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 10,
+    "Bittere": 25,
+    "Farbe": 34,
+    "Alkohol": 3.7,
+    "Kurzbeschreibung": "Amber opakes Bier mit nussigen Noten und einem fruchtigen Abgang. Bittere nur im Abgang. Inspiriert von \u00e4lteren englischen Rezepten und dem Bier, welches die Hobbits im Auenland trinken.\r\n",
+    "Malze": [
+        {
+            "Name": "Maris Otter Malz",
+            "Menge": 2.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Dinkel R\u00f6stmalz",
+            "Menge": 140,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Buchweizen Malz",
+            "Menge": 700,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Hafer",
+            "Menge": 2,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.899999999999999,
+    "Einmaischtemperatur": 38,
+    "Rasten": [
+        {
+            "Temperatur": 38,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.5,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 10,
+            "Alpha": 5.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 32,
+            "Alpha": 5.8,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Fuggles",
+            "Menge": 10
+        }
+    ],
+    "Hefe": "SAFALE S-04 Dry Ale",
+    "Gaertemperatur": "12-16",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 4.3,
+    "Anmerkung_Autor": "Sehr hartes Wasser. \r\nDrei Wochen auf Hefe und Stopfhopfen vergoren, dann zwei Wochen unter Druck karbonisiert mit 1kg Haushaltszucker."
+}

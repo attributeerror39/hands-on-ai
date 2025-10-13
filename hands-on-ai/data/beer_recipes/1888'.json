@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Autumn Sun",
+    "Datum": "03.12.2023",
+    "Sorte": "Pale Ale",
+    "Autor": "MarkGo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 10.5,
+    "Bittere": 28,
+    "Farbe": 12,
+    "Alkohol": 4.4,
+    "Kurzbeschreibung": "Vollmundiges Session Pale Ale mit leichter Fruchtnote, tolles Aroma Richtung Aprikose\/Tropische Fr&uuml;chte und mit einer Bitterkeit, die das Ganze perfekt abrundet. Vom Stile eher ein APA aber mit Britischen Zutaten. Sehr more&#039;ish - was bei dem niedrigen Alkoholgehalt aber auch sehr in Ordnung ist :).",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 2.78,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;Ma I",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8.695652173913043,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "EKG",
+            "Menge": 13,
+            "Alpha": 6.3,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "EKG",
+            "Menge": 17,
+            "Alpha": 6.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "EKG",
+            "Menge": 22,
+            "Alpha": 6.3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 26
+        }
+    ],
+    "Hefe": "Brewferm Union Jack",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Da das Ale mein absoluter Favorit der letzten Brauversuche ist und das Rezept selbst zusammengestellt ist, musste ich es einmal verfassen. Das Mundgef&uuml;hl ist extrem &quot;fluffig&quot; und der Malzk&ouml;rper durch die Maris Otter\/M&uuml;Ma Kombo hervorragend, ohne zu malzig zu sein. Werde zuk&uuml;nftig wahrscheinlich h&auml;ufiger mal MO als PA nehmen.\r\nEinzig die Hefe &uuml;berzeugt nicht vollends, der Charakter bleibt auch nach Kaltlagerung die letzten Wochen bestehen. W&uuml;rde eher zu etwas neutralerem raten. Bin &uuml;ber Kommentare etc. erfreut. \r\n\r\n- Maische wurde bei unserem Wasser mit Milchs&auml;ure (6g) auf pH=5.45 gesetzt\r\n- Stopfhopfen im S&auml;ckchen nach HG (ca. 3 Tage nach Ansetzen)\r\n- Abf&uuml;llung in Flaschen mit Zuckergabe (einzeln per L&ouml;ffel)\r\n- Wasser wurde nachgekippt, bis ich mit der SW zufrieden war.\r\n\r\nLG."
+}

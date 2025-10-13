@@ -1,0 +1,122 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "PiCo ( Pineapple Cocos ) NEIPA",
+    "Datum": "19.04.2024",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "ollinator2000",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.4,
+    "Bittere": 35,
+    "Farbe": 12,
+    "Alkohol": 6.1,
+    "Kurzbeschreibung": "Ein herrlich strohgelbes NEIPA mit einem dominanten Kokos Aroma , gekontert mit frischen Zitrus Noten aus der Annanas und dem Aroma Hopfen.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 4.71,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 590,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M&uuml;nchnermalz",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 370,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenflocken",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 27.647058823529413,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 2.3529411764705883,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 12,
+            "Alpha": 12,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 15,
+            "Alpha": 10.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 29,
+            "Alpha": 12,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 29,
+            "Alpha": 10.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "ger&ouml;stete Cocos Chips",
+            "Menge": 294,
+            "Alpha": 0,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 74
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 74
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "ger&ouml;stete Cocos Chips",
+            "Menge": 294,
+            "Einheit": "g"
+        },
+        {
+            "Name": "gefrorene Ananas ",
+            "Menge": 1824,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Verdant IPA",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die Cocoschips habe ich jeweils 30 Minuten vor der Zugabe bei 120 Grad C im Backofen f&uuml;r 10 Minuten ger&ouml;stet. \r\nIm Whirlpool waren die Chips in einem Mashbag f&uuml;r 30 Minuten inklusive des Hopfens. \r\nDen Stopfhopfen habe ich in 2 Gaben geteilt. Die erste Gabe war an Tag 1 nach G&auml;rstart jeweils 50gr. Citra und 50gr. Mosaic. Die Zweite Gabe war an Tag 7 nach G&auml;rstart ( 75 gr. Citra \/ 75 gr. Mosaic ) Da ich in einem Connical Fermenter verg&auml;re konnte ich den Hopfen jeweils nach 3 Tagen wieder abf&uuml;hren. \r\n\r\nAn Tag 10 kam dann die Annanas und die 500gr. ger&ouml;stete Cocos Chips in den Fermenter und blieben f&uuml;r 14 Tage drin . Dann wurde abgef&uuml;llt."
+}

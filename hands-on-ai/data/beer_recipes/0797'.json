@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Gose Dunkel",
+    "Datum": "30.10.2017",
+    "Sorte": "Sauerbier",
+    "Autor": "OnkelBernd",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 15,
+    "Farbe": 23,
+    "Alkohol": 4.3,
+    "Kurzbeschreibung": "Vorbild war die dunkle Goslarer Gose, ein Klonbier ist es aber nicht",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 1.71,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Dunkel",
+            "Menge": 2.17,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram\u00fcnch II",
+            "Menge": 260,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.043478260869566,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.043478260869566,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 9,
+            "Alpha": 12.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 4,
+            "Alpha": 4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Salz",
+            "Menge": 18,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Korriandersamen (zersto\u00dfen)",
+            "Menge": 17,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Milchs\u00e4ure 80%",
+            "Menge": 12,
+            "Einheit": "ml",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "US 05",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Ich mag eigentlich keine Sauerbiere, daher war ich mit S\u00e4ure sehr zur\u00fcckhaltend. Sie ist nicht zu aufdringlich. Der Korriander ist ebenso pr\u00e4sent aber nicht \u00fcberlagernd. Das Salz macht einen sch\u00f6nen und vollen Geschmack. Durch die dunklen Malze kommen etwas R\u00f6st- und Malzaromen hinzu, die sich sehr gut einf\u00fcgen."
+}

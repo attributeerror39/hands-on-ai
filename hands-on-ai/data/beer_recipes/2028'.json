@@ -1,0 +1,68 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Zerpster Bitterbier",
+    "Datum": "28.09.2024",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Geggale-Br\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 40,
+    "Farbe": 16,
+    "Alkohol": 4.4,
+    "Kurzbeschreibung": "Gebraut mit Erlenholz ger&auml;uchertem Malz",
+    "Malze": [
+        {
+            "Name": "Wiener",
+            "Menge": 3.07,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 470,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin",
+            "Menge": 100,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.666666666666666,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 71,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.333333333333332,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saazer",
+            "Menge": 83,
+            "Alpha": 3.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 40,
+            "Alpha": 3.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "OGA 9",
+    "Gaertemperatur": "15",
+    "Endvergaerungsgrad": 68,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Malz ger&auml;uchert 2 x 2,5kg mit R&auml;ucherspirale je ca. 12 Std. \r\nJetzt nach einem Jahr die letzte Flasche genossen, eines meiner besten Biere. 50 Sude.\r\nSchmeckte von Anfang an mild ger&auml;uchert, ganz anders wie mit Buchenholz.\r\nZum Ende hin ist der Rauchgeschmack immer noch fast so wie zu Beginn.\r\nBitter ist das Bier keinesfalls sowie der Name aussagt.\r\nIst halt ein historisches Rezept.\r\n"
+}

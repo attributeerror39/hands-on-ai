@@ -1,0 +1,40 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: image_generation_embeddings/image_generation_embeddings
+  sections: 
+  - file: image_generation_embeddings/image_generation_intro
+  - file: image_generation_embeddings/image_generation_comfyui
+  - file: image_generation_embeddings/image_generation_context
+  - file: image_generation_embeddings/image_generation_scoring
+  - file: image_generation_embeddings/image_generation_prompting
+- file: llm/llm_intro
+  sections: 
+  - file: llm/ollama_start
+  - file: llm/unsloth_dreams
+  - file: llm/ollama_adapter
+  - file: llm/dataset_dreams
+  - file: llm/dataset_beer
+  - file: llm/unsloth_beer
+#     - file: llm/unsloth_manifesto (evtl. raus)
+#     - file: llm/dataset_manifesto (evtl. raus)
+- file: interface/interface_intro
+  sections:
+  - file: interface/ollama_ui_dreams
+- file: imgtotext/intro
+  sections:
+  - file: imgtotext/codesamples
+  - file: imgtotext/visiontext
+- file: video/video_input_artworks
+#     - file: interface/gradio_rag
+# - file: tokens_prompting/intro
+#   sections:
+#     - file: tokens_prompting/1
+#     - file: tokens_prompting/2
+# - file: agents/intro
+#   sections:
+#     - file: agents/llama_index_rag
+#     - file: agents/huggingface_smolagent(?)

@@ -1,0 +1,113 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Delirium Red Clone",
+    "Datum": "13.03.2023",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "bormolino",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Huyghe Delirium Red",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 18,
+    "Bittere": 8,
+    "Farbe": 35,
+    "Alkohol": 6.4,
+    "Kurzbeschreibung": "Klonbierrezept des Huyghe Delirium Red, allerdings ohne Zugabe von S\u00fc\u00dfstoff, daher etwas saurer als das Original.",
+    "Malze": [
+        {
+            "Name": "Belgian Pilsner",
+            "Menge": 5.42,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 1000,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafoam",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraamber",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 36.666666666666664,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 1.6666666666666665,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Styrian Golding",
+            "Menge": 12,
+            "Alpha": 3.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Styrian Golding",
+            "Menge": 23,
+            "Alpha": 3.4,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Styrian Golding",
+            "Menge": 12,
+            "Alpha": 3.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Kandiszucker braun",
+            "Menge": 333,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Holundersaft",
+            "Menge": 333,
+            "Einheit": "ml",
+            "Kochzeit": 5
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Ponthier Sauerkirsch P\u00fcree",
+            "Menge": 3333,
+            "Einheit": "ml"
+        }
+    ],
+    "Hefe": "SafBrew S-33",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 3.2,
+    "Anmerkung_Autor": "Ich nutze Harzer-Wasser ohne Anpassung. BIAB-Verfahren mit einem Liter Nachguss um den Rest W\u00fcrze aus dem Treber zu sp\u00fclen.\r\n\r\nWie auch im Originalrezept wird der Holundersaft f\u00fcr die Farbe genutzt. Bei der Menge ist er im Endprodukt nicht heraus zu schmecken.\r\n\r\nDie Kirschen werden nach der Hauptg\u00e4rung f\u00fcr 1 Woche hinzugegeben. Die G\u00e4rung beginnt durch den Zucker in den Kirschen erneut. Die 6,4%alc sind die Berechung mit dem Refraktometer vor dem Hinzugeben der Kirschen. Somit d\u00fcrfte das Bier am Ende noch ein wenig mehr Alkohol enthalten, ich sch\u00e4tze so ca 7%.\r\n\r\nIm Originalrezept wird S\u00fc\u00dfstoff, welcher nicht von der Hefe vergoren wird eingesetzt. Ich habe mich dagegen entschieden, weil ich das Original ein wenig zu s\u00fc\u00df fand.\r\n\r\nDie Kirschen kommen im Geruch extrem hervor, im Geschmack bleiben sie dezent aber wahrnehmbar. Ein angenehm trinkbares Bier mit einer leicht sauren Note.\r\n\r\nDer Schaum ist leicht r\u00f6tlich und noch nicht ganz stabil. Das liegt an der kurzen Lagerzeit, musste das Bier ein wenig unter Zeitdruck f\u00fcr einen Geburtstag brauen. Zwangskarbonisiert im Keg."
+}

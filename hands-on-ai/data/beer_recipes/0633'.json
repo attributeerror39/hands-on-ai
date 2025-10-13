@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Phex 2016er Weizen ",
+    "Datum": "30.09.2016",
+    "Sorte": "Dunkles Hefeweizen",
+    "Autor": "alt-phex",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 16,
+    "Farbe": 28,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Ein dunkles, malziges Weizenbier mit leicht fruchtig-frischem Nachklang.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 1.78,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner ",
+            "Menge": 1.78,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Dunkel",
+            "Menge": 580,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 89,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.555555555555555,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 13.333333333333332,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Newport ",
+            "Menge": 7,
+            "Alpha": 12.8,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Boadicea",
+            "Menge": 9,
+            "Alpha": 6.9,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 22,
+            "Alpha": 6.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 11,
+            "Alpha": 13.9,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Gutmann \/ Gozdawa BW11",
+    "Gaertemperatur": "25",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Das diesj\u00e4hrige Geburtstags Bier f\u00fcr meine Frau. Sie mag gerne Weizenbier, sie mag gerne dunkle malzige Biere und sie mag fruchtige Hopfen. Das kriegen wir hin :-)\r\n\r\nDen Sud habe ich aufgeteilt und je eine h\u00e4lfte mit gestrippter Gutmann und der Gozdawa Bawarian Wheat 11 angestellt. Der Gutmann Teil kommt deutlich weizentypischer r\u00fcber, w\u00e4hrend die BW11 mehr Platz f\u00fcr die Hopfenaromen l\u00e4sst.\r\n\r\nBeide Varianten kamen bei meinen Testrinkern gut an, schmeckte sogar Leuten die eigentlich gar kein Weizen m\u00f6gen. \r\n\r\nNewport\/Boadicea k\u00f6nnen einfach ersetzt werden, die mussten weg.\r\n\r\n! Whirlpool heisst bei mir unter 80\u00b0C und ~15min ziehen lassen. Dann weiter k\u00fchlen\r\nund anstellen."
+}

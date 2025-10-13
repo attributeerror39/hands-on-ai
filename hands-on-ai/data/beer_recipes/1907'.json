@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Elly-Gator",
+    "Datum": "08.01.2024",
+    "Sorte": "Weizenbock",
+    "Autor": "David P",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20.9,
+    "Bittere": 29,
+    "Farbe": 9,
+    "Alkohol": 8.8,
+    "Kurzbeschreibung": "Wettschulden sind Ehrenschulden. Einsatz war ein Kasten Weizenbock. Vollmundig und extra bananig. Die letzte Flasche spr&uuml;hte nach einem Jahr Kaltlagerung vor aristokratischer Eleganz. Noblesse oblige.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 24,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 45,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 6,
+    "Kochzeit_Wuerze": 120,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mittelfr&uuml;h",
+            "Menge": 10,
+            "Alpha": 5,
+            "Zeit": 120,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Mittelfr&uuml;h",
+            "Menge": 10,
+            "Alpha": 5,
+            "Zeit": 120,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "w68",
+    "Gaertemperatur": "22",
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Split-Sud. Sch&uuml;ttung geteilt. Sud 1 mit 8 Litern. Sud 2 - 4 Liter Wasser mit 4 Litern von Sud 1 verschnitten. Sozusagen &quot;Schummel-Hermann&quot;.\r\nDie restlichen 4 Liter von Sud 1 wurden zum WK hinzu gegeben.\r\nWK ausdehnen bis Ausschlagsmenge\/gew&uuml;nschte Stammw&uuml;rze erreicht ist."
+}

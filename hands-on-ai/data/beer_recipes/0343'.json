@@ -1,0 +1,80 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Sternenglanz",
+    "Datum": "19.10.2013",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "braugnom",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17,
+    "Bittere": 35,
+    "Farbe": 25,
+    "Alkohol": 6.6,
+    "Kurzbeschreibung": "w\u00e4rmendes Weihnachtsbier mit dezenten Orangenaromen ",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2.74,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 2.74,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraPils\/Foam",
+            "Menge": 610,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20.631578947368425,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.736842105263158,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 17,
+            "Alpha": 14.5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Perle",
+            "Menge": 11,
+            "Alpha": 8.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Orangenschale",
+            "Menge": 60,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Malzwerkstatt Nottingham",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "kr\u00e4ftiger Winterw\u00e4rmer mit leichten Orangenaromen.\r\nDas Bier hat seine vorgesehen Lagerzeit noch nicht erreicht und ist bereits gut trinkbar. \r\nDie Orange kommt allerdings dezenter daher als ich es mir gew\u00fcnscht \/ erwartet h\u00e4tte. Beim n\u00e4chsten Mal w\u00fcrde ich 5g\/l Orangenschale verwenden, statt der 3g\/l. "
+}

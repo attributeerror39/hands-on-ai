@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Winterweizen Red X ",
+    "Datum": "13.03.2023",
+    "Sorte": "Dunkles Hefeweizen",
+    "Autor": "Bolus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.8,
+    "Bittere": 10,
+    "Farbe": 30,
+    "Alkohol": 6,
+    "Kurzbeschreibung": "Wie es scheint, ist es das erste Weizenrezept mit Red X hier auf MMuM. Ein leckeres Weizen f\u00fcr die dunkle Jahreszeit. ",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 830,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz dunkel",
+            "Menge": 1.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Best Red X",
+            "Menge": 2.33,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.333333333333336,
+    "Einmaischtemperatur": 47,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 10.083333333333332,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 7,
+            "Alpha": 8.7,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 7,
+            "Alpha": 8.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition ",
+            "Menge": 20,
+            "Alpha": 6.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Spalter Select ",
+            "Menge": 20,
+            "Alpha": 5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Wyeast 3068",
+    "Gaertemperatur": "18-23",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Nachisomerisierung ca. 3 Min.\r\nWhirlpool G\u00e4be bei 75\u00b0C f\u00fcr 15 Min. dann weiter gek\u00fchlt auf 18 Grad Anstelltemperatur. \r\nDas Red X gibt dem Bier das gewisse etwas und eine sehr sch\u00f6ne Farbe. \r\nNachgussmenge ist nur gesch\u00e4tzt. \r\nKarbonisiert mit Zucker und Dosierhilfe. \r\nIch w\u00fcrde sagen, es ist das beste Weizen das ich bisher gebraut habe . "
+}

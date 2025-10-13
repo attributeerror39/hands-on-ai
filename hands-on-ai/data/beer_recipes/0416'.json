@@ -1,0 +1,94 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Seven Seas Pale Ale",
+    "Datum": "07.10.2014",
+    "Sorte": "Pale Ale",
+    "Autor": "Cervisia Magistri",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 38,
+    "Farbe": 13,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Gelb-oranges fruchtiges Pale Ale mit einer angenehmen Bittere. Der Hopfen stammt aus England, den USA und Australien - also L\u00e4ndern, die an den sieben Weltmeeren liegen (oder zumindest an einigen derselben)- daher der Name.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 460,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin",
+            "Menge": 230,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.571428571428573,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.857142857142858,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 15,
+            "Alpha": 7.4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 7,
+            "Alpha": 15.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Topaz",
+            "Menge": 7,
+            "Alpha": 16,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 4,
+            "Alpha": 7.6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 4,
+            "Alpha": 15.2,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Nottingham Ale",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die Nachgussmenge hat der \"Kleine Brauhelfer\" so berechnet. Wir schw\u00e4nzen allerdings immer an, bis wir 1-2\u00b0P unter der Zielstammw\u00fcrze liegen, und messen die Nachgussmenge nicht. \r\nDas Bier schmeckt zwar nach \"Sommer\", kommt aber auch jetzt im Herbst in unserem Bekanntenkreis gut an."
+}

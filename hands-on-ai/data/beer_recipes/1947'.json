@@ -1,0 +1,101 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mist of Loch Uraraidh",
+    "Datum": "06.03.2024",
+    "Sorte": "Rauchbier",
+    "Autor": "ej43yhok",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17,
+    "Bittere": 40,
+    "Farbe": 114,
+    "Alkohol": 7.1,
+    "Kurzbeschreibung": "Ein Tiefschwarzes Stout inspiriert vom bekannten Scotch Whisky Laphroaig von der Insel Islay. Gebraut mit getorftem Whisky-Malz, gelagert auf original Laphroaig-Fass-Chips.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.84,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 350,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Whisky Malz Best peated (heavy 50 ppm)",
+            "Menge": 660,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CARAFA II Spezial",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CARAM&Uuml;NCH II",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CARAHELL",
+            "Menge": 230,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 19.8,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.2,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Halltertauer Magnum",
+            "Menge": 21,
+            "Alpha": 12.4,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 10,
+            "Alpha": 4.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 13,
+            "Alpha": 4.7,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "BHP Smokewood Laphroaig",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Lallemand Danstar Nottingham Ale",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 73,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Mein Brauwasser (3,58 &deg;DH Restalkalit&auml;t) habe ich f&uuml;r dieses Bier nicht aufbereitet. Ich denke dieses Bier vertr&auml;gt auch recht hartes Wasser ohne Behandlung. \r\n\r\nDie Fassst&uuml;cke von BHP Smokewood Laphroaig habe ich in kleine Chips gespalten, mit 70 %igem Trinkethanol benetzt und 5 Tage nach dem Anstellen in den G&auml;rbeh&auml;lter gegeben. Nach 16 Tagen habe ich das Holz dann wieder entfernt und abgef&uuml;llt.\r\n\r\nDas Bier hat ein herrlich torfiges Aroma wie man es von Scotch-Whisky kennt. Es eignet sich super zum Lagern und wird mit der Zeit immer runder. Ein Jahr im Keller hilft dem Bier eher als dass es ihm schadet."
+}

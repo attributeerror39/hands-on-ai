@@ -1,0 +1,73 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Swiss Cannab.Ale",
+    "Datum": "12.04.2018",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "Mystic-G",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 17,
+    "Farbe": 7,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "goldgelbes, zitrusfrisches Sommer-Hanfbier mit einer herrlich, hanfigen Note in der Nase",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertau Mittelfr\u00fch",
+            "Menge": 30,
+            "Alpha": 4.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Hanfbl\u00fcten",
+            "Menge": 30,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "Hefe": "Safale S04",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Es handelt sich um Outdoor selbst angebauten, legalen und THC-freien Hanf von welchem die Bl\u00fctenresten vom abr\u00fcsten genommen wurden.\r\nEs standen 30g (absolut furz-trockene) Hanfbl\u00fcten zur Verf\u00fcgung und die Hanfnote ist jetzt sehr harmonisch und dezent, aber doch deutlich bemerkbar.\r\nDie Bl\u00fcten wurden nach dem Abschalten der Heizquelle dazugegeben und anschliessend gleich die W\u00fcrze auf 80\u00b0C heruntergek\u00fchlt.\r\nWer den Geschmack noch intensiver m\u00f6chte, dem steht es frei noch mehr Bl\u00fcten dazu zu geben.\r\nDas Bier selber ist sehr frisch und spritzig im Geschmack, erstaunlich zitronig, hat was von einem unges\u00fcssten Radler.\r\nPerfekt f\u00fcr die heissen Sommertage im Pool oder am Fluss.\r\nDas Bier hatte ich 7 Tage in der G\u00e4rung und anschliessend noch weitere 7 Tage bei Zimmertemperatur in der Nachg\u00e4rung.\r\nDanach 14 Tage im Keller bei um die 15\u00b0C und zum Schluss in den K\u00fchlschrank bei ca. 3\u00b0C Lagern.\r\nWie gestopfte Biere sollte es nicht zu lange gelagert werden, sondern innert ein\/zwei Monaten getrunken werden, da sich sonst die Hanfgeschm\u00e4cker verfl\u00fcchtigen k\u00f6nnten.\r\nMeins ist jetzt im April trinkbar und ich vermute es wird schon vor dem Sp\u00e4tsommer weg sein."
+}

@@ -1,0 +1,108 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Stampes Bock",
+    "Datum": "26.11.2013",
+    "Sorte": "Dunkles Bockbier",
+    "Autor": "Mobilix",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.5,
+    "Bittere": 48,
+    "Farbe": 45,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Sehr dunkler, fast schwarzer Winterbock mit gro\u00dfem Malzk\u00f6rper, welchem eine leicht fruchtige, f\u00fcr einen Bock eher intensivere Hopfung entgegensteht",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 720,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Dunkel",
+            "Menge": 280,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Red",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraFa II",
+            "Menge": 120,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 80,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Waimea",
+            "Menge": 10,
+            "Alpha": 14.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 4,
+            "Alpha": 14.9,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 16,
+            "Alpha": 3.9,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 16,
+            "Alpha": 7.9,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Waimea",
+            "Menge": 10,
+            "Alpha": 14.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 72.1,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Schmeckt nach 2 Monaten Reifung schon richtig gut.\r\nFreu mich auf die Verkostung um die Weihnachtszeit.\r\nEin 10l Fass werde ich versuchen \u00fcber ein Jahr bis zum n\u00e4chsten Winter aufzuheben :-)\r\n\r\n(Bild folgt)"
+}

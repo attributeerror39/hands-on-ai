@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Drunken Dwarf",
+    "Datum": "09.08.2024",
+    "Sorte": "Belgisches Blonde Ale",
+    "Autor": "Stuggbrew",
+    "Klonbier": "ja",
+    "Klonbier_Original": "La Chouffe Blonde",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 21,
+    "Farbe": 8,
+    "Alkohol": 8.2,
+    "Kurzbeschreibung": "Ein Klonrezept das sehr nahe an das klassische La Chouffe Blonde herankommt. Sch&ouml;n trocken, leichte Noten von Vanille, Orange und Pfirsich - gef&auml;hrlich s&uuml;ffig bei doch 8% vol.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Foam",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 23,
+    "Einmaischtemperatur": 64,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 74,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 74,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Styrian Golding",
+            "Menge": 14,
+            "Alpha": 4.8,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saaz",
+            "Menge": 5,
+            "Alpha": 3.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saaz",
+            "Menge": 5,
+            "Alpha": 3.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "White candy syrup",
+            "Menge": 600,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Indischer Koriander",
+            "Menge": 14,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Wyeast 3522 Ardenne (alt.: MJ31 Tripple)",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 81,
+    "Karbonisierung": 5.2,
+    "Anmerkung_Autor": "Das Rezept ist relativ simpel in der Sch&uuml;ttung. Das Bier braue ich im BIAB Verfahren daher hier ohne Nachguss angegeben. \r\nDie Koriandersamen werden in diesem Rezept weder ger&ouml;stet noch gem&ouml;rsert da sie wirklich nur leicht unterst&uuml;tzend im Geschmack durchkommen sollen. \r\nDie letzte Saaz Gabe ist eine Flame-out Gabe. Bei mir betr&auml;gt die Nachisomerisierung knapp 15 min. bis unter 80C. \r\n\r\nDas Wasser ist bei mir nicht angepasst da ich ein relativ mineralarmes Leitungswasser habe. Lediglich der pH-Wert wird von mir mittels Milchs&auml;ure auf 5,4 eingestellt.  "
+}

@@ -1,0 +1,108 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "IPA CAC",
+    "Datum": "28.04.2013",
+    "Sorte": "India Pale Ale",
+    "Autor": "Siedlerbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 50,
+    "Farbe": 8,
+    "Alkohol": 6.2,
+    "Kurzbeschreibung": "IPA mit Citra, Amarillo, Chinook",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner ",
+            "Menge": 1.63,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner ",
+            "Menge": 930,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara dunkel",
+            "Menge": 140,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 230,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 23.255813953488374,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 7.441860465116279,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 19,
+            "Alpha": 14.1,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 19,
+            "Alpha": 8.9,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 20,
+            "Alpha": 11.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 14
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 14
+        }
+    ],
+    "Hefe": "Fermentis Safale US-05",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 81.3,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Ich habe mit diesem IPA bei der Bindverkostung auf Hobbybrauer.de mitgemacht.\r\nDie Bewertung findet Ihr unter: https:\/\/umfragen.neusto.de\/auswertung\/2013.04.28.auswertung_ipa.pdf"
+}

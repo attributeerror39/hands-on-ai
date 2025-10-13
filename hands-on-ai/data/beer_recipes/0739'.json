@@ -1,0 +1,92 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hopfen-Smoothie No.1",
+    "Datum": "21.06.2017",
+    "Sorte": "Pale Ale",
+    "Autor": "Ozelot",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.4,
+    "Bittere": 30,
+    "Farbe": 9,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Extrem fruchtiges Pale Ale, mit einem sehr starken Mangoaroma und Pink-Grapefruit im Abgang",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 3.79,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Red",
+            "Menge": 170,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 210,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 62,
+    "Rasten": [
+        {
+            "Temperatur": 62,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 7.142857142857143,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 7,
+            "Alpha": 13,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 7,
+            "Alpha": 12,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 18,
+            "Alpha": 13,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 18,
+            "Alpha": 12,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 71
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 63
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 54
+        }
+    ],
+    "Hefe": "M44 US Westcoast",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Gebraut mit dem Braumeister 20, darum die Nachgussmenge.\r\nWasser mit Braugips ann\u00e4hernd auf Burton on Trent Werte eingestellt. Nachisomerisierungszeit 4min und auf 78\u00b0 15min stehen gelassen und danach auf Anstelltemp. gek\u00fchlt.\r\nNach der Hauptg\u00e4rung wurde gestopft, aber nur 4 Tage, damit es nicht zu grasig wird.\r\nBebilderte Brau-Doku gibts auf https:\/\/dasbiergartenhuhn.wordpress.com\/2017\/05\/29\/hopfen-smoothie-no-1\/\r\n\r\n"
+}

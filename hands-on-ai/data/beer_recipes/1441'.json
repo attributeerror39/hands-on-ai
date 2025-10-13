@@ -1,0 +1,61 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Zitronenthymian Pale Ale SMaSH und BIAB",
+    "Datum": "15.03.2021",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "Nidoskal",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 32,
+    "Farbe": 11,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Supers\u00fcffiges und simples Pale Ale (SMaSH und BIAB) das durch den Zitronenthymian einen fantastischen zitronig-kr\u00e4utrigen Geschmack und Geruch bekommt. Perfekter Durstl\u00f6scher f\u00fcr Fr\u00fchling und Sommer!",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4.96,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 28,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 24,
+            "Alpha": 5.9,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 32,
+            "Alpha": 5.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Zitronenthymian",
+            "Menge": 20,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Simpel und schnell gebraut durch BIAB (brew in a bag) und SMaSH (eine Malz-und Hopfensorte). Hatte versucht ein Bier aus dem Urlaub nachzubrauen und gedacht es w\u00e4re m\u00f6glicherweise Zitronenthymian drin. Nach einer Mail an den Braumeister war klar dass dem nicht so war. Ich hatte nun aber mein mit Abstand bestes Bier gebraut das Industriebier-Fans bis Craft-Beer-Trinker alle gleicherma\u00dfen begeistert hat. Am besten schmeckt es nach ca 4 Wochen Kalt-Reifung. Danach am besten innerhalb weniger Wochen trinken da sich das Aroma des Zitronenthymians etwas schneller abbaut als das des Hopfens. Nehmt am besten einen Zitronenthymian im Kr\u00e4utertopf, schneidet die Zweige ab und macht sie kurz sauber.Dann die ganzen Zweige in die W\u00fcrze geben (ihr m\u00fcsst die Bl\u00e4tter nicht einzeln abzupfen)"
+}

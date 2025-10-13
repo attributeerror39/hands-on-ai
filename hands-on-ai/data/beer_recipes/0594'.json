@@ -1,0 +1,132 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Miami Waves",
+    "Datum": "22.05.2016",
+    "Sorte": "India Pale Ale",
+    "Autor": "Benni",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.5,
+    "Bittere": 70,
+    "Farbe": 30,
+    "Alkohol": 5.7,
+    "Kurzbeschreibung": "Spitzen IPA mit 4-C Hopfenkombination.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.48,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcncherner Malz",
+            "Menge": 870,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Crystal",
+            "Menge": 87,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.304347826086955,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nugget",
+            "Menge": 25,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 14,
+            "Alpha": 13,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 11,
+            "Alpha": 7.5,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Columbus",
+            "Menge": 11,
+            "Alpha": 15.3,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 13,
+            "Alpha": 8.5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 9,
+            "Alpha": 13,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 9,
+            "Alpha": 7.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Columbus",
+            "Menge": 9,
+            "Alpha": 15.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 9,
+            "Alpha": 8.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Protofloc",
+            "Menge": 1,
+            "Einheit": "ml",
+            "Kochzeit": 15
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade, Centennial, Columbus und Chinnok",
+            "Menge": 17
+        }
+    ],
+    "Hefe": "Wyeast Labs #1272",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 75.8,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Freunde der Braukunst,\r\nwer auf Ammi-Biere steht, der sollte sich mal an dieses IPA heranwagen. Das Bier habe ich f\u00fcr meine Freundin gebraut (daher auch der von ihr gew\u00e4hlte Hipstername), der, seit ihrem letzten USA Trip, geschmacklich vor allem nach IPA\u2019s zu Mute ist. Sprich, als Hopfen kamen lediglich \u201ethe 4 C\u2019s\u201c aus Ammiland rein. Gestern wurde nach 6 Wochen Kaltlagerung (2\u00b0C) die erste Flasche ge\u00f6ffnet und meine Freundin (aber auch ich) waren sehr zufrieden. Schon beim \u00d6ffnen der Flasche kommen einem die Hopfenaromen entgegen, ein Traum. Die Schaumkrone ist stabil und trotz der vielen Aromen schmeckt das Bier ausgewogen, nicht s\u00fc\u00df und vor allem immer noch nach Bier. \r\n\r\nWichtig: Um zu viel Bittere zu vermeiden sollte der Whirlpool nur eine Temperatur von 75\u00b0C haben. Die Nachisomerisierungszeit betrug bei mir 20 Minuten.\r\n\r\nDie #1272 ist \u00fcbrigens kein Muss, wollte die nur mal ausprobieren. Bin total zufrieden, denke aber das in Zukunft die US-05 eine gute\/billigere Alternative darstellt. \r\n\r\nF\u00fcr die Kl\u00e4rung habe ich eine Teel\u00f6ffelspitze konzentriertes Irish Moss (Protofloc) f\u00fcr 15 Minuten mit gekocht.\r\n\r\nSchreibt gerne ob es euch geschmeckt hat, Prost!"
+}

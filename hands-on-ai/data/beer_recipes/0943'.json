@@ -1,0 +1,101 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Rochefort 8",
+    "Datum": "21.08.2018",
+    "Sorte": "Belgisches Dunkel",
+    "Autor": "Kurt",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Rochefort 8",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20,
+    "Bittere": 32,
+    "Farbe": 70,
+    "Alkohol": 9.2,
+    "Kurzbeschreibung": "Gewinnerrezept von Herman Holtrop bei einem niederl\u00e4ndischen Rochefort 8 Clone-Wettbewerb:\r\n\r\nhttp:\/\/www.brewboard.com\/index.php?showtopic=49298&mode=threaded",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4.75,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram\u00fcnch 120 EBC",
+            "Menge": 750,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Special B",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Maisflocken",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial 800 EBC",
+            "Menge": 60,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 63,
+    "Rasten": [
+        {
+            "Temperatur": 61,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 16,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Styrian Goldings",
+            "Menge": 46,
+            "Alpha": 4.2,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hersbrucker",
+            "Menge": 20,
+            "Alpha": 3.5,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hersbrucker",
+            "Menge": 10,
+            "Alpha": 3.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Cassonade Bruin",
+            "Menge": 750,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Koriandersamen",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "WYeast 1762, WLP 540",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 82,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Wie von Herman Holtrop empfohlen wurde die Carafa-Menge um 40% reduziert. Cassonade Bruin ist unverzichtbar. Die Indischen(!) Koriandersamen sollten zersto\u00dfen werden. Die Hefe muss sehr fit sein. Ein au\u00dfreichend gro\u00dfer Starter und Hefenahrung sind sehr empfehlenswert und die G\u00e4rtemperatur ist zu kontrollieren - nicht zu warm werden lassen! Mindestens 6 Monate lagern."
+}

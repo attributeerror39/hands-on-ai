@@ -1,0 +1,94 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Samba das Saison",
+    "Datum": "30.03.2017",
+    "Sorte": "Saison",
+    "Autor": "marsabba",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 30,
+    "Farbe": 10,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Samba auf Belgisch: Hochvergoren, estrig, phenolisch. Die Hefe ist der Star.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 930,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Roggenmalz",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner II",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Maisgries",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 230,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.333333333333336,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 73,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Styrian Celeia",
+            "Menge": 40,
+            "Alpha": 3.9,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Styrian Celeia",
+            "Menge": 27,
+            "Alpha": 3.9,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 20,
+            "Alpha": 8.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Cassonade Graeffe (Zucker)",
+            "Menge": 440,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Mangrove Jacks M29 French Saison",
+    "Gaertemperatur": "18-25",
+    "Endvergaerungsgrad": 95,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Hefe bei 18 Grad anstellen, dann jeden Tag Temperatur um 1 Grad ansteigen lassen (bis 25 Grad).\r\nDie Hefe erzeugt eine s\u00e4uerliche Note, die sich aber in wenigen Wochen abbaut."
+}

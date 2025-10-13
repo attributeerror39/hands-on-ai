@@ -1,0 +1,100 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Dieter",
+    "Datum": "14.08.2023",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "stunner2002",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.3,
+    "Bittere": 43,
+    "Farbe": 13,
+    "Alkohol": 5.3,
+    "Kurzbeschreibung": "Goldiges (German) Hazy IPA mit ausschlie&szlig;lich deutschen Malz &amp; Hopfen. Cremig, Bitter und rote Fr&uuml;chte.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.46,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz (hell)",
+            "Menge": 770,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 770,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.076923076923077,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 11.153846153846153,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 8,
+            "Alpha": 13.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Lilly\/Sissi",
+            "Menge": 23,
+            "Alpha": 6.7,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Monroe",
+            "Menge": 23,
+            "Alpha": 4.1,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Lilly\/Sissi",
+            "Menge": 77,
+            "Alpha": 6.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Monroe",
+            "Menge": 77,
+            "Alpha": 4.1,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Lilly\/Sissi",
+            "Menge": 54
+        },
+        {
+            "Sorte": "Monroe",
+            "Menge": 54
+        }
+    ],
+    "Hefe": "Lallemand Voss Kveik",
+    "Gaertemperatur": "30-37",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 4.7,
+    "Anmerkung_Autor": "Inspiriert durch die Braustelle in K&ouml;ln.\r\n\r\nRelativ herbes Hazy IPA. Die Hopfen bringen vor allem rote Beeren (Johannesbeere, Erdbeere, Himbeere) und leichte Kr&auml;uter Noten. Durch den hohen Anteil an Carahell wird der Joghurt-artige Geschmack des Monroe mit einem cremigen Mundgef&uuml;hl unterstrichen. Das Bier ist sehr untypisch f&uuml;r den Stil, jedoch mal was erfrischend anderes.\r\n\r\nW&auml;hrend der Maische gab es keine Besonderheiten. Nat&uuml;rlich den pH Wert beobachtet und korrigiert. Ein wenig (3g) Calzium Chloride um das K&ouml;lner Wasser ein wenig weicher zu machen und ein Cl:SO Verh&auml;ltnis von 1:1 zu haben.\r\n\r\nDie Voss habe ich bei ca. 30&deg;C gepitched und dann mit etwas Unterst&uuml;tzung innerhalb von 24h auf 37.5&deg;C gebracht und dort f&uuml;r weitere 24h gehalten. Danach wars das auch schon mit der G&auml;rung. Soft Crash auf 15&deg;C, gestopft und direkt weiter auf 2&deg;C. 48h nach dem stopfen wurd ins Keg geschlaucht.\r\n\r\nDurch das Stopfen und die helle Sch&uuml;ttung solltet ihr auch hier alles tun um sauerstoff Einschluss zu vermeiden.\r\n\r\nDas Bier vertr&auml;gt mindestens 2 Wochen Lagerung (bei mir 7&deg;C) aber auch gerne noch 2 mehr. Das Bier wird runder, aber der Hopfen bleibt pr&auml;sent.\r\n\r\nBeim n&auml;chsten mal w&uuml;rde ich weniger Carahell (ca. 10%) nehmen und mit Wiener oder M&uuml;nchener Malz anstatt dem Pilsener experimentieren. Die IBU w&uuml;rde ich auf ca. 30 IBU absenken. Das Verh&auml;ltnis der Hopfen k&ouml;nnte zu Gunsten des Monroe angepasst werden."
+}

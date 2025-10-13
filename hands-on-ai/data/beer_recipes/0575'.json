@@ -1,0 +1,85 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Corny's Waleizen",
+    "Datum": "21.03.2016",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "mcorny76",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.6,
+    "Bittere": 40,
+    "Farbe": 14,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Fruchtig, spritzig, s\u00fcffig-leicht",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2.04,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener",
+            "Menge": 1.79,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 260,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 120,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Special B",
+            "Menge": 43,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.52173913043478,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.565217391304348,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Blanc",
+            "Menge": 43,
+            "Alpha": 8.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Hallertauer Blanc",
+            "Menge": 43
+        }
+    ],
+    "Hefe": "WLP 002",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 67,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Weizen-Ale-Experiment: Wiener-Weizen-Kara Sch\u00fcttung mit niedrig verg\u00e4render englischer Ale Hefe (WLP002) vergoren und mit Hallertauer-Blanc VW-gehopft und gestopft. Special B und Sauermalz sind nicht n\u00f6tig, waren aber noch da und mussten weg. Ich bin begeistert, das Bier ist extrem gut trinkbar und wird mein Sommer-Durstl\u00f6scher 2016.\r\n8 Tage HG (inkl. 5 Tage Stopfen mit Dolden), 10 Tage NG in Flaschen. Nach 2 Wochen Kaltreifung bei 5 Grad C schon super lecker!"
+}

@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "MilkShake IPA",
+    "Datum": "14.12.2019",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "beryll",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.5,
+    "Bittere": 23,
+    "Farbe": 7,
+    "Alkohol": 8.2,
+    "Kurzbeschreibung": "Fruchtiges, helles MilkShake IPA (NEIPA) - inspiriert von BEERSERKERs Rezept und dem Lervig Freakshake Milkshake IPA.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.05,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 910,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 640,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen Rohfrucht",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken ",
+            "Menge": 450,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.090909090909092,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.909090909090908,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 9,
+            "Alpha": 7.9,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 18,
+            "Alpha": 12,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 11,
+            "Alpha": 13,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Laktose (Milchzucker)",
+            "Menge": 455,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Kveik #8 Tormodgarden \/ Saure",
+    "Gaertemperatur": "27",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Entgegen der \u00fcblichen Empfehlungen, die Kveik mit 37 Grad verg\u00e4ren zu lassen, hab ich lediglich 27 Grad gew\u00e4hlt und der Hefe 5 Tage Zeit gegeben. Danach wurde abgef\u00fcllt und zwangskarbonisiert. Das Bier ist sofort trinkbar. Galaxy, Citra und Kveik harmonisieren sehr gut zusammen, durch den Milchzucker besitzt das Bier ein traumhaftes Mundgef\u00fchl.\r\nIch werde noch 1 Keg mit dem HopStrainer f\u00fcr 5 min \u201estopfen\u201c und schauen, wie sich der Geschmack ver\u00e4ndert. Das Bier ist auch ohne Stopfen ein voller Obstkorb!"
+}

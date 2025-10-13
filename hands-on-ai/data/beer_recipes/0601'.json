@@ -1,0 +1,67 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Guinness Draught",
+    "Datum": "27.06.2016",
+    "Sorte": "Stout",
+    "Autor": "OnkelBernd",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Guinness Draught",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 9.5,
+    "Bittere": 34,
+    "Farbe": 89,
+    "Alkohol": 3.6,
+    "Kurzbeschreibung": "Adaption des von BYO ver\u00f6ffentlichten Klonrezeptes (https:\/\/byo.com\/recipes-tag\/item\/3024-guinness-draught-clone)",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 1.77,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 850,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 350,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "dekoktion",
+    "Einmaisch_Zubruehwasser_gesamt": 10.4,
+    "Dekoktionen": [
+        {
+            "Volumen": 7.7,
+            "Temperatur_ist": 72,
+            "Temperatur_resultierend": 66,
+            "Rastzeit": 60
+        },
+        {
+            "Volumen": 2.7,
+            "Form": "Kochendes Wasser",
+            "Teilmaische_Kochzeit": 0,
+            "Temperatur_resultierend": 76,
+            "Rastzeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 13.461538461538463,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Kent East Golding",
+            "Menge": 58,
+            "Alpha": 4.1,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WYeast 1084 oder WLP004",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 3.8,
+    "Anmerkung_Autor": "Adaption des von BYO ver\u00f6ffentlichten Klonrezeptes (https:\/\/byo.com\/recipes-tag\/item\/3024-guinness-draught-clone)\r\n\r\nNach Verkostung wird aber klar, dass es dem Original sehr nahe kommt, aber man doch Unterschiede schmeckt. Das vorliegende Rezept bringt ein etwas vollmundigeres Bier heraus, welches viel weniger S\u00e4ure als das Original hat. Das Klonbier ist etwas hopfiger und bitterer.\r\n\r\nDennoch sehr gutes s\u00fcffiges Stout, was in die richtige Richtung geht."
+}

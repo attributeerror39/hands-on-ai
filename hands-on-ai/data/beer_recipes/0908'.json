@@ -1,0 +1,62 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Dinkel-Wiener",
+    "Datum": "01.06.2018",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "manny15",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 18,
+    "Farbe": 11,
+    "Alkohol": 5.9,
+    "Kurzbeschreibung": "Dinkel der Urweizen.\r\nDas Bier leicht malzaromatisch mit dem Wienermalz eine gute Partnerschaft.",
+    "Malze": [
+        {
+            "Name": "Dinkelmalz",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wienermalz",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Comet",
+            "Menge": 14,
+            "Alpha": 8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Comet",
+            "Menge": 7,
+            "Alpha": 8,
+            "Zeit": 80,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Munich Classic ",
+    "Gaertemperatur": "17-20",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 6
+}

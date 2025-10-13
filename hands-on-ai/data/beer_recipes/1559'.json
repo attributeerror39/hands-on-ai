@@ -1,0 +1,87 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Winter Whiskey Stout",
+    "Datum": "15.09.2021",
+    "Sorte": "Stout",
+    "Autor": "flatflo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 42,
+    "Farbe": 130,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Gehaltvolles Winter Whiskey Stout mit Aromen nach Vanille, Eiche und Zimt. Leicht schokoladig und r\u00f6stig. Sch\u00f6n f\u00fcr die kalten Tage.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.77,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 770,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 1.23,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malz",
+            "Menge": 180,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 23.076923076923073,
+    "Einmaischtemperatur": 40,
+    "Rasten": [
+        {
+            "Temperatur": 40,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 9.230769230769232,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Bramling Cross",
+            "Menge": 46,
+            "Alpha": 7,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Eichenholzchips",
+            "Menge": 23,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Vanilleschoten",
+            "Menge": "3 ",
+            "Einheit": "St\u00fcck"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 81,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Die R\u00f6stgerste habe ich mit meiner elektrischen Kaffeem\u00fchle auf feinster Stufe gemahlen und bei der letzten Rast f\u00fcr 20 Minuten dazu gegegeben.\r\n\r\nBeim L\u00e4utern sollte man bez\u00fcglich der Haferflocken und der feinen R\u00f6stgerste aufmerksam sein. Gegebenenfalls Treberkuchen etwas einschneiden. Mein Durchfluss war nach kurzer Zeit bereits recht z\u00e4h. \r\n\r\nVier Wochen vor dem Brauen habe ich:\r\n\r\nEichenchips (medium toast) 15g in Whiskey 200 ml f\u00fcr 4 Wochen eingelegt. Chips gegen Ende der Hauptg\u00e4rung 5 Tage in den G\u00e4rbottich.\r\n\r\nVanille (2 Schoten; aufgeschnitten und ausgekratzt) in Whiskey 200 ml f\u00fcr 4 Wochen eingelegt. Vanille gegen Ende der Hauptg\u00e4rung 5 Tage in den G\u00e4rbottich. \r\n\r\nZimt in Whiskey 200 ml f\u00fcr 4 Wochen eingelegt. \r\n\r\nVerwendet habe ich in dem Fall Jim Beam.\r\n\r\n\r\nVor dem Abf\u00fcllen noch einen Cold Crash gemacht. Beim Abf\u00fcllen habe ich den Zucker vorgelegt und dann die Whiskeys in verschieden Mengen in die 0,33er Flaschen gef\u00fcllt. Sah bei mir folgend aus:\r\n\r\nUnbelassen\t\r\nWhiskey Vanille 5ml\t\r\nWhiskey Eiche 5ml\t\r\nWhiskey Zimt 5ml\t\r\nWhiskey Vanille 10ml\t\r\nWhiskey Eiche 10ml\t\r\nWhiskey Zimt 10ml\t\r\nWhiskey Vanille 5ml + Whiskey Eiche 5ml\r\nWhiskey Vanille 5ml + Whiskey Eiche 5ml + Whiskey Zimt 5ml\t\r\nWhiskey Vanille 5ml + Whiskey Eiche 5ml + Whiskey Zimt 1ml\r\n\r\nJe 5ml vom Whiskey wandert der Alkohol pro Flasche um ca. 0,5% nach oben. \t\r\n\t\r\n\t\r\nAnschlie\u00dfend das Jungbier ganz normal abgef\u00fcllt. Nachg\u00e4rung dauerte circa zwei Wochen; anschlie\u00dfend in den K\u00fchlschrank.\r\n\r\nDer angegebene Alkoholgehalt im Rezept ist inklusive Karbonisierung mit Zucker. "
+}

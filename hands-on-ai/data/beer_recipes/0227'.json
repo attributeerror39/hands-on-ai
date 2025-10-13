@@ -1,0 +1,85 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "India Red Ale",
+    "Datum": "31.08.2012",
+    "Sorte": "India Pale Ale",
+    "Autor": "everell",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.5,
+    "Bittere": 70,
+    "Farbe": 35,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "heftig gehopftes, starkes, kupferfarbenes Bier",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4.53,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara  Hell",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara M\u00fcnch",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Aroma (Special B)",
+            "Menge": 130,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.666666666666668,
+    "Einmaischtemperatur": 62,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15.833333333333332,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 14,
+            "Alpha": 15,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 36,
+            "Alpha": 5.9,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 116,
+            "Alpha": 5.6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Willamette",
+            "Menge": 83
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "~22",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Nachisomerisierungszeit 15 min<br>\r\n\r\nSud-Datei f\u00fcr den Kleinen Brauhelfer:<br>\r\nhttp:\/\/ubuntuone.com\/45dKD6HeTdynj3EgcqcF8q"
+}

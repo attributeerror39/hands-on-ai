@@ -1,0 +1,52 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "K\u00f6lner Wei\u00dfe",
+    "Datum": "04.07.2021",
+    "Sorte": "Sauerbier",
+    "Autor": "Tarkus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 8,
+    "Bittere": 8,
+    "Farbe": 3,
+    "Alkohol": 3,
+    "Kurzbeschreibung": "Leichtes Sauerbier in Anlehnung an eine Berliner Wei\u00dfe, jedoch mit der Philly Sour vergoren und daher ohne Brett. Perfekter Durstl\u00f6scher an hei\u00dfen Sommertagen. Durch die leichte S\u00e4ure ein guter Einstieg in die Sauerbier-Thematik ohne zu \u00fcberfordern.",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 2.1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen hell",
+            "Menge": 900,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 11.7,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.8,
+    "Kochzeit_Wuerze": 10,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 8,
+            "Alpha": 12.6,
+            "Zeit": 10,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Hefe": "Wildbrew Philly Sour",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die G\u00e4rung erfolgte im Keg unter Druck. In ein weiteres Keg habe ich aus Zeitgr\u00fcnden erst nach 3 Wochen umgedr\u00fcckt. Es war sofort trinkbar, da das Bier bereits fertig karbonisiert war. Allerdings habe ich es noch weitere 3 Monate im Keg reifen lassen bzw. gelagert, ist aber nicht zwingend notwendig.\r\n\r\nDer Hopfen wurde direkt mit in die Maische gegeben, spielt nur eine untergeordnete Rolle und kann beliebig ausgetauscht werden.\r\n\r\nDas Bier k\u00f6nnte meiner Meinung nach sehr gut als Basis zum Stopfen mit Fr\u00fcchten genutzt werden, habe ich jedoch noch nicht probiert.\r\n\r\nUm etwas mehr S\u00e4ure zu produzieren kann man die doppelte Hefemenge nehmen."
+}

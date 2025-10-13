@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Fuchsenbock",
+    "Datum": "12.12.2012",
+    "Sorte": "Weizenbock",
+    "Autor": "FantaRainer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.5,
+    "Bittere": 25,
+    "Farbe": 43,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Kastanienfarbener, w\u00fcrziger und aromatischer Weizenbock f\u00fcr die kalte Jahreszeit",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2.93,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.27,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Red",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Aroma",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gertenflocken",
+            "Menge": 270,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.333333333333332,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 20,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 33,
+            "Alpha": 7,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 3068 (2. F\u00fchrung)",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 73,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Das Bier hat mittlerweile 8 Wochen Reife auf dem Buckel und entwickelt sich sehr gut. Bananenaromen sind kaum vorhanden, daf\u00fcr schmeckt es leicht nach getrocknetem Obst, insgesamt sehr w\u00fcrzig, aber auch mit recht hoher Rests\u00fc\u00dfe. Mir schmeckts!\r\n"
+}

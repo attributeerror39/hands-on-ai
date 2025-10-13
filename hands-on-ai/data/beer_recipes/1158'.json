@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Wit 1904",
+    "Datum": "23.10.2019",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "skelks",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 15,
+    "Farbe": 8,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Klassisches Witbier mit toller Vanillenote und sch\u00f6n cremigem Schaum.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Malz",
+            "Menge": 830,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 170,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenflocken",
+            "Menge": 630,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 26.666666666666664,
+    "Einmaischtemperatur": 44,
+    "Rasten": [
+        {
+            "Temperatur": 44,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 2.5,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Blanc",
+            "Menge": 13,
+            "Alpha": 9,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Koriander",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Orangenschalen",
+            "Menge": 21,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "GOZDAWA Classic Belgian Witbier ",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Ich verwende einen Braumeister mit LOB. Die Nach\u00adisomerisie\u00adrungszeit ist bei mir immer um die 10 min.\r\nDen Koriander und die Orangenschalen tue ich immer in Teebeutel und binde sie unten an die K\u00fchlspirale.\r\n\r\nWasserwerte habe ich mit Schlupfs Wasserrechner auf die Werte im Screenshot eingestellt.\r\n\r\nNachtrag: Ich habe es jetzt auch mit der M21 gebraut. Sie war sehr schnell, geschmacklich jetzt nicht so viel anders, aber deutlich tr\u00fcber. Werde wohl weiter bei der Gozdawa bleiben, aber mit der M21 macht man sicher nichts verkehrt."
+}

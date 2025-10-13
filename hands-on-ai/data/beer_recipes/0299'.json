@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Anchor Liberty Ale",
+    "Datum": "15.04.2013",
+    "Sorte": "India Pale Ale",
+    "Autor": "kurt",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Anchor Liberty Ale",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.5,
+    "Bittere": 50,
+    "Farbe": 12,
+    "Alkohol": 5.9,
+    "Kurzbeschreibung": "Ein IPA-Klassiker seit 1975",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.75,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 28,
+            "Alpha": 6.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 14,
+            "Alpha": 6.9,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 28,
+            "Alpha": 6.9,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 56
+        }
+    ],
+    "Hefe": "Wyeast 1272 American Ale II",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wasseraufbereitung mit etwas Braugips zur Anhebung des Sulfatgehalts und Milchs\u00e4ure auf RA=0.\r\n\r\nDas Originalrezept nutzt ausschlie\u00dflich Pale Ale Malz - hier werden 5% Caramalz als Antioxidans eingesetzt. \r\nBei der Maischearbeit wird Wert auf die Maltosebildung gelegt um ein trockenes Bier zu erhalten. \r\nDie letzte Hopfengabe erfolgt in den Whirlpool, Irish Moss (1 TL\/20L) ist optional. Gestopft wird f\u00fcr 1-2 Wochen w\u00e4hrend der Nachg\u00e4rung.\r\n\r\nDie Originalhefe ist die WYeast 1272 American Ale II. Die Danstar BRY-97 soll als Trockenhefe sehr \u00e4hnlich sein, ist allerdings zur Zeit noch nicht gut verf\u00fcgbar. Zur Not geht auch die Fermentis US-05."
+}

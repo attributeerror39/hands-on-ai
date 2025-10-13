@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Sir Herkommer",
+    "Datum": "26.10.2024",
+    "Sorte": "Pale Ale",
+    "Autor": "operitivo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.8,
+    "Bittere": 35,
+    "Farbe": 13,
+    "Alkohol": 4.6,
+    "Kurzbeschreibung": "Ein recht herbes, gold-braunes Pale Ale aus Landsberg am Lech.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz (belgisch)",
+            "Menge": 3.87,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Malz (belgisch)",
+            "Menge": 160,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Crystal 150",
+            "Menge": 36,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 63,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 12.173913043478262,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 19,
+            "Alpha": 6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggles",
+            "Menge": 18,
+            "Alpha": 4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 2,
+            "Alpha": 12,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 14,
+            "Alpha": 3.1,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "1 Woche Hauptg&auml;rung unter kontrollierter Temperatur (K&uuml;hlung &uuml;ber 20&deg;C), dann abgef&uuml;llt in Flaschen eine weitere Woche bei Raumtemperatur, 3 Wochen bei +4&deg;C im K&uuml;hlschrank. Jungbier ist recht gelb, das Bier entwickelt bei der Reifung aber eine zunehmend dunklere, goldbraune Farbe.\r\n\r\nRefraktometer: Stammw&uuml;rze 12 Brix, Jungbier 6.5 Brix. \r\n\r\nWir brauen auf einer Eigenbau-Anlage, daher die krummen Zahlen bzgl. Ausschlagw&uuml;rze.\r\n"
+}

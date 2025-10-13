@@ -1,0 +1,92 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "IPA",
+    "Datum": "09.03.2016",
+    "Sorte": "India Pale Ale",
+    "Autor": "Eselundkuh",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17,
+    "Bittere": 65,
+    "Farbe": 20,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Leuchtende F\u00e4rbung mit feinen hellem Schaum, inkl. intensiven Geruch nach reifen Fr\u00fcchten und elaganter Hopfenbittere",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 4.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.58,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 320,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22.5,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.333333333333332,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 22,
+            "Alpha": 5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 32,
+            "Alpha": 13.2,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 8,
+            "Alpha": 11.7,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertau Blanc",
+            "Menge": 8,
+            "Alpha": 6.7,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 8,
+            "Alpha": 5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 10,
+            "Alpha": 13.2,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Windsor Ale",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 68,
+    "Karbonisierung": 5.1,
+    "Anmerkung_Autor": "Reifung min. 12 Wochen\r\nTrinktemperatur 10 Grad\r\n\r\nAlternativ kann auch Danstar Nothingham Ale verwendet werden, dadurch wird ein h\u00f6here EVG erreicht.\r\n\r\nEBC und IBU durch kleiner- Brauhelfer berechnet."
+}

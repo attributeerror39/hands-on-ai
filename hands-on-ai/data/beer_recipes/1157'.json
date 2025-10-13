@@ -1,0 +1,143 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ananas Mango IPA",
+    "Datum": "14.10.2019",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "Bier39",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.2,
+    "Bittere": 65,
+    "Farbe": 15,
+    "Alkohol": 7.3,
+    "Kurzbeschreibung": "Bitter-fruchtiges IPA mit Ananas-Mango-Geschmack. Saulecker!",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.92,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 470,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 240,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.745283018867923,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.179245283018869,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 47,
+            "Alpha": 11,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 11,
+            "Alpha": 11,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 13,
+            "Alpha": 8.7,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 19,
+            "Alpha": 5.5,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 28,
+            "Alpha": 11,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 28,
+            "Alpha": 8.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 28,
+            "Alpha": 5.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Vanillstangen",
+            "Menge": "2 &frac34;",
+            "Einheit": "St\u00fcck",
+            "Kochzeit": 30
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 28
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 47
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 47
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 66,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "-Kochende bis Beginn der K\u00fchlung: 12 Minuten\r\n-Temperatur vor K\u00fchlung: 85\u00b0C\r\n-G\u00e4rbeginn: 1 Tage nach Brautag\r\n-G\u00e4rung: 7 Tage bei 20\u00b0C\r\n-Kalthopfung: Am 4. Tag der G\u00e4rung dazugegeben\r\n\r\nVarinte Flascheng\u00e4rung:\r\n-Zugabe von Ananas und Mango: 3 grosse B\u00fcchsen Ananas-Scheiben, eine frische Mango p\u00fcrieren und zusammen mit 3 Vanill-Stangen f\u00fcr ca. 40 Min. kochen. Danach heiss in 2 Einmachgl\u00e4ser abf\u00fcllen und abk\u00fchlen. Zusammen mit dem Stopfhopfen ins G\u00e4rfass geben (Menge: 2 Gl\u00e4ser, ca. 800g) \r\n-Aufkarbonisierung: 360 g Zucker, aufgel\u00f6st in 1 Liter abgekochtem Wasser vor dem Abf\u00fcllen dazugegeben (vorsichtig mit Jungbier vermischen damit der Bodensatz nicht aufgewirbelt wird\r\n-Flascheng\u00e4rung: 7 Tage bei 20\u00b0C\r\n-Lagerung: Mind. 21 Tage im K\u00fchlschrank bei 5\u00b0C\r\n\r\nVariante Keg:\r\n-Nach der Hauptg\u00e4rung Bier in Keg umf\u00fcllen und Mango-Ananas-Vanill-Brei dazugeben (Herstellung: siehe Beschrieb oben)\r\n-7 Tage Druck bei 2.2 bar \/ 20\u00b0C\r\n-Nach einer Woche Keg k\u00fchl stellen 5\u00b0C\r\n\r\nBrauwasser\r\nKalzium 111.6 mg\/l\r\nMagnesium 15.9 mg\/l\r\nSulfat 96.8 mg\/l\r\nChlorid 17.3 mg\/l\r\nNatrium 10.5 mg\/l\r\nRestakalit\u00e4t 0.07 \u00b0dH\r\nKarbonh\u00e4rte 5.1 \u00b0dH"
+}

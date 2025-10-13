@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Gagel\u00f8l",
+    "Datum": "03.12.2017",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "integrator",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 22,
+    "Farbe": 7,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Goldgelbes, leicht tr\u00fcbes und nicht zu bitteres Bier, der Gagel bringt eine w\u00fcrzige Note rein die ganz leicht nach Minze schmeckt. Massentauglicher Pilsersatz.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.08,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Hafer Malz",
+            "Menge": 1.54,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.153846153846153,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.53846153846154,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saphir",
+            "Menge": 26,
+            "Alpha": 4.2,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 32,
+            "Alpha": 3.1,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Gagel",
+            "Menge": 6,
+            "Einheit": "g",
+            "Kochzeit": 15
+        },
+        {
+            "Name": "Gagel",
+            "Menge": 6,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "Hefe": "Safale S-04",
+    "Gaertemperatur": "18-21",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Mein Freund (O-Raily) trat mit der Idee an mich ran, in seinem Garten Gagel anzubauen und davon ein Bier zu brauen. Nach einigen Tage des lesens haben wir den Gagel zwar angebaut aber f\u00fcr das erste Bier hier http:\/\/www.wildfoods.ca\/store\/brewery-supplies\/sweet-gale bestellt. Nach lesen diverser Rezeptvorschl\u00e4ge habe ich diese kombiniert.\r\nWir haben das Bier nur leicht gebittert damit der Gagel ein Chance hat sein Aroma und Geschmack zu Geltung zu bringen. Die 22 IBU sind ohne den Gagel.\r\n\r\nBrauen im Grainfather - Restalkalit\u00e4t 3,4\u00b0dH - Nachisomisierung 15 min."
+}

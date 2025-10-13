@@ -1,0 +1,105 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "JAIPA - US meetz NZ",
+    "Datum": "15.07.2024",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "tedd",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 38,
+    "Farbe": 16,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "JAIPA - Just-Another-IPA. \r\nHazy, fruity and balanced bitterness.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 1.9,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchner Malz",
+            "Menge": 520,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 520,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz, dunkel",
+            "Menge": 110,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 150,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraRed",
+            "Menge": 150,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 140,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.37837837837838,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 12.432432432432432,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 12,
+            "Alpha": 12.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 12,
+            "Alpha": 12.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe (@80&deg;C, 15 min)",
+            "Menge": 54,
+            "Alpha": 12.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Nectaron (@80&deg;C, 15 min)",
+            "Menge": 54,
+            "Alpha": 11,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Wakatu (@80&deg;C, 15 min)",
+            "Menge": 54,
+            "Alpha": 7.1,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Tropicus TUM-506",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Hazy, fruity and balanced bitterness. So kann man es am ehesten beshreiben.\r\nDie Idee war in die Richtung NEIPA zu brauen allerdings ohne Hopfenstopfen. Dazu kommt in den Whirlpool bei 80&deg;C f&uuml;r 15 Minuten eine ordentliche Menge Hopfen (8g\/l) aus den USA und Neuseeland. Das Ergebnis ist ein leckerer Fruchtcocktail mit 5% Alkohol, der Lust auf mehr macht.\r\n\r\nDie Flaschenversion ist schon sehr lecker. Richtig klasse wird es, wenn durch die Handpump gezogen wird. Hier kommen die fruchtigen Aromen nochmal besser raus.\r\nDer Unterschied zwischen Flasche und Handpump liegt nur in der Karbonisierung. Die Flasche kommt mit 4,5g\/l und die Beerengine mit 2g\/l daher.\r\n\r\nGebraut wurde mit D&uuml;sseldorfer Stadtwasser ohne Aufbereitung. Wasserprofil D&uuml;sseldorf:\r\nhttps:\/\/www.maischemalzundmehr.de\/index.php?inhaltmitte=toolswasserrechner&amp;sk43=216&amp;ubi=mg%2Fl&amp;ca=86&amp;uca=mg%2Fl&amp;mg=12&amp;umg=mg%2Fl&amp;so4=58&amp;uso4=mg%2Fl&amp;cl=75&amp;ucl=mg%2Fl&amp;na=41&amp;una=mg%2Fl&amp;pluscao=0&amp;vol_total=61&amp;vol_hg=45&amp;pluscaso4=0&amp;pluscacl2=0&amp;pluscacl2lsg=0&amp;cacl2lsg_einh=ml&amp;plusmgso4=0&amp;plusnacl=0&amp;plusnaHCO=0&amp;plus_ms=0&amp;ms_einh=ml&amp;ms_prozent=80&amp;plus_hcl=0&amp;hcl_einh=ml&amp;hcl_prozent=9&amp;plus_h2so4=0&amp;h2so4_einh=ml&amp;h2so4_prozent=5&amp;plus_h3po4=0&amp;h3po4_einh=ml&amp;h3po4_prozent=10&amp;plussauermalz=0&amp;vol_verschnitt=0&amp;cav=0&amp;mgv=0&amp;HCOv=0&amp;so4v=0&amp;clv=0&amp;nav=0&amp;ms1=Malz&amp;mm1=9000&amp;mf1=6&amp;ms2=Caramalz&amp;mm2=1000&amp;mf2=6&amp;ms3=Malz&amp;mm3=0&amp;mf3=0&amp;ms4=Malz&amp;mm4=0&amp;mf4=0&amp;ms5=Malz&amp;mm5=0&amp;mf5=0\r\n"
+}

@@ -1,0 +1,96 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Oatmeal Dry Stout #1",
+    "Datum": "23.12.2023",
+    "Sorte": "Stout",
+    "Autor": "hutzfeldt",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.5,
+    "Bittere": 49,
+    "Farbe": 71,
+    "Alkohol": 6.2,
+    "Kurzbeschreibung": "Cremiges Oatmeal Stout mit komplexem, erfrischendem Geschmack",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.48,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Oatmeal",
+            "Menge": 870,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Amber Malt",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa II",
+            "Menge": 260,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Blackmalz",
+            "Menge": 260,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 38,
+    "Rasten": [
+        {
+            "Temperatur": 38,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 70
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 12.173913043478262,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Ariana",
+            "Menge": 17,
+            "Alpha": 20.5,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saaz",
+            "Menge": 26,
+            "Alpha": 10.2,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 15,
+            "Alpha": 5.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Columbus",
+            "Menge": 17,
+            "Alpha": 13.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "New World Strong Ale Code: M42",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Diese Rezept wurde auf einem Grainfather G30 gebraut.\r\nLink f&uuml;r das GG Rezept hier :\r\n\r\nhttps:\/\/community.grainfather.com\/recipes\/1020559"
+}

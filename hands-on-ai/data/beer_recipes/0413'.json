@@ -1,0 +1,95 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bruder Jakob",
+    "Datum": "28.09.2014",
+    "Sorte": "Belgisches Dubbel",
+    "Autor": "Hieronymus",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 20,
+    "Farbe": 25,
+    "Alkohol": 6.2,
+    "Kurzbeschreibung": "kupferfarbenes Trappistenbier mit einem intensiven, an Backpflaumen erinnernden Aroma",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.17,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.74,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz, hell",
+            "Menge": 870,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraweizen",
+            "Menge": 170,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Farbmalz",
+            "Menge": 43,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.91304347826087,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.91304347826087,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 28,
+            "Alpha": 6.6,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Koriander, zersto\u00dfen",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Nelken, ganz",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "K\u00fcmmel, ganz",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Wyeast 1214 (Belgian Abbey)",
+    "Gaertemperatur": "19-21",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Die 72\u00b0-Rast wurde durch eine Kochmaische (7 Liter), die nach 25 min der 64\u00b0-Rast gezogen wurde, erreicht.\r\nBeim Kochen k\u00f6nnen noch 10 - 20 g\/L brauner Zucker hinzugef\u00fcgt werden. Entsprechend erh\u00f6ht sich der Alkoholgehalt. Mir reicht es aber auch so.\r\nUnbedingt lange lagern, fr\u00fchestens nach 3 Monaten trinken!!!"
+}

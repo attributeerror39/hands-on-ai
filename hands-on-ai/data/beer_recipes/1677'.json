@@ -1,0 +1,110 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Coffee Stout",
+    "Datum": "16.05.2022",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Kesselbrauer Stuttgart e.V.",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.9,
+    "Bittere": 26,
+    "Farbe": 100,
+    "Alkohol": 5.9,
+    "Kurzbeschreibung": "3.Platz beim Kesselbrauer Bierwettbewerb 2022 in der offenen Kategorie *Kesselbrauer Stuttgart e.V.*Rezept von Jens* Oatmeal Stout",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz Typ 2",
+            "Menge": 2.73,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Karamellmalz Rot",
+            "Menge": 550,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste ",
+            "Menge": 55,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Special W\u00ae",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.55,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 680,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 91,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 56,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.636363636363635,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 18,
+            "Alpha": 13,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 36,
+            "Alpha": 5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 27,
+            "Alpha": 13,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Kaffee",
+            "Menge": 182,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Fermentis SafAle S-33",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 67,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "200 Gramm Kaffee wurden als ColdBrew zubereitet. Dazu einen Liter Wasser mit dem etwas gr\u00f6ber\r\ngemahlenen Kaffee \u00fcber Nacht im K\u00fchlschrank stehen lassen. Danach durch einen Kaffeefilter abseien\r\nund mit weiterem Wasser aussp\u00fclen, sodass in etwa ein Liter Kaffee rauskommt. Kaffee nach der\r\nHauptg\u00e4rung hinzugeben. Dadurch reduziert sich die Stammw\u00fcrze um ca. 1\u00b0 Plato.\r\nRecht komplexe Sch\u00fcttung aus \u201cResten\u201d, um ein wenig mehr K\u00f6rper ins Bier zu bekommen. Maischprofil\r\neher in Richtung Verzuckerungsrast bei 72\u00b0C und nicht so hoch verg\u00e4rende Hefe, damit ein etwas s\u00fc\u00df\u2010\r\nlicheres Bier rauskommt.\r\n\r\nDie Tats\u00e4chliche Sch\u00fcttung:\r\nM\u00fcnchner Malz Typ II 3000 g 45.3 % 23 EBC\r\nKaramellmalz Rot 600 g 9.1 % 45 EBC\r\nR\u00f6stgerste 60 g 0.9 % 1150 EBC\r\nSpecial W\u00ae 250 g 3.8 % 300 EBC\r\nPilsner Malz 1700 g 25.7 % 4 EBC\r\nSauermalz 100 g 1.5 % 5 EBC\r\nHaferflocken 750 g 11.3 % 2 EBC\r\nChocolate Malt 100 g 1.5 % 900 EBC\r\nR\u00f6stmalz Spezial Typ II 60 g 0.9 % 1150 EBC"
+}

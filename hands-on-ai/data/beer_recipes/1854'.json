@@ -1,0 +1,108 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Nitro Glycyrrhizin \u2013 Lakritz-Porter",
+    "Datum": "17.10.2023",
+    "Sorte": "Robust Porter",
+    "Autor": "JBrew",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.6,
+    "Bittere": 38,
+    "Farbe": 42,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Lakritzschnecke aus dem Glas - Nichts f\u00fcr Lakritz-Hasser! <br><br>\r\n\r\nS\u00fc\u00dfholzpulver, nicht das R\u00f6stmalz, macht dieses Porter schwarz wie die Nacht und verleiht eine angenehme S\u00fc\u00dfe, welche die IBUs angenehm ausgleicht. Die Kombination mit Sternanis vervollst\u00e4ndigt das Lakritzaroma.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.73,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Gerstendiastasemalz",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch II",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial II",
+            "Menge": 91,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.363636363636363,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.727272727272727,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Fuggles",
+            "Menge": 53,
+            "Alpha": 5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggles",
+            "Menge": 20,
+            "Alpha": 5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "S\u00fc\u00dfholzpulver",
+            "Menge": 18,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "S\u00fc\u00dfholzpulver (bei <90\u00b0C)",
+            "Menge": 73,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Sternanis",
+            "Menge": "2 &frac34;",
+            "Einheit": "St\u00fcck"
+        }
+    ],
+    "Hefe": "Gozdawa Porter & Kvass",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "<h1>Wasser<\/h1>\r\nIch nutze f\u00fcr dunkle Biere das Darmst\u00e4dter Leitungswasser und salze ein wenig auf, um mich dem Wasserprofil von Dublin zu n\u00e4hern (aus Brewfather): <br>\r\nCa2+: 119 Mg2+: 18 Na+ 33 Cl-: 91 SO4: 76 HCO3-: 268 <br>\r\nDie Maische stelle ich mit Phosphors\u00e4ure auf pH 5.5 ein. <br>\r\n\r\n<h1>Lakritz<\/h1>\r\nLakritz bekommt seine S\u00fc\u00dfe und chrackteristischen Geschmack von 2 Zutaten: S\u00fc\u00dfholz und Anis. Und ganz genau genommen sind es daraus das Glycosid Glycyrrhizin (S\u00fc\u00dfholz) und der Alkohol Anethol (Anis), welche perfekt miteinander harmonisieren. Die Interaktion der beiden Stoffe sorgt auch daf\u00fcr, dass der Sternanis in disem Rezept nicht zu dem bekannten \"Weihnachtsbier-Effekt\" f\u00fchrt!<br><br>\r\nSternanis gibt es \u00fcberall zu kaufen, mein S\u00fc\u00dfholzpulver beziehe ich online (Azafran Lakritzpulver - S\u00fc\u00dfholz gemahlen 100g).<br>\r\n\r\n<h2>S\u00fc\u00dfholzpulver<\/h2>\r\nS\u00fc\u00dfholzpulver entwickelt je nach Temperatur andere Geschmacksnoten. \u00dcber 90\u00b0C f\u00fchrt es eher zu schokoladigen Noten, unter 50\u00b0C entwickeln sich stechende, s\u00fc\u00dfliche Aromen. Daher geben wir nur 20 g des Pulvers f\u00fcr 5 min zum Kochen hinzu und die restlichen 80 g erst nachdem die W\u00fcrze auf unter 90\u00b0C abgek\u00fchlt ist (mindestens 10 min stehen lassen, bevor man weiter runter k\u00fchlt).<br>\r\n\r\n<h2>Sternanis<\/h2>\r\nF\u00fcr einen 20 L Ansatz benutze ich 3 St\u00fcck Sternanis. Diese am Besten mit einem M\u00f6rser zersto\u00dfen und dabei die kugelartigen Samen, die sich in den Sternarmen befinden, heraussuchen und wegwerfen. Diese enthalten kein Anethol. <br>\r\nUm das Infektionsrisiko zu mindern, kann man die Kr\u00fcmel f\u00fcr mindestens 24 h im K\u00fchlschrank in wenig Vodka inkubieren (besser l\u00e4nger - ich setze diese Mischung oft 1 Woche vor meinem Brautag an). Dies hat auch den Vorteil, dass der hohe Alkoholgehalt des Vodkas einen Anethol-Auszug herstellt, der mehr Aroma ins Bier bringt. Ich habe nie festgestellt, dass man  den Vodka nachher noch im Bier erkennen kann. Das Anethol-Vodka Gemisch dann am Ende der Hauptg\u00e4rung dem Bier zusetzen und f\u00fcr mindestens 7 Tage bei 18\u00b0C stehen lassen. Die Kr\u00fcmel setzen sich dann sp\u00e4ter im Cold Crash gut ab.<br>\r\n\r\n<h2>Salmiak<\/h2>\r\nWer auf Salzlakritz steht, kann sich im Internet etwas Salmiak bestellen und das diesem Bier zusetzen. Dabei sollte man sehr vorsichtig vorgehen, da Salmiak sehr potent ist. Ich empfehle zun\u00e4chst nicht mehr als 500 mg \/ 20 L Bier auszuprobieren!<br>\r\n\r\n<h2>Klingt super, aber 20 L davon...?<\/h2>\r\nDas habe ich nun schon mehrmals geh\u00f6rt :-). Wenn man sauber arbeitet, h\u00e4lt sich dieses Bier durchaus mehrere Jahre!"
+}

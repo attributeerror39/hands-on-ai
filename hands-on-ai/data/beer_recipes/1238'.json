@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "G'Stopftes Ale",
+    "Datum": "18.03.2020",
+    "Sorte": "Mild Ale",
+    "Autor": "DerBraukurs",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 35,
+    "Farbe": 13,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Eines meiner Lieblingsbiere. L\u00e4sst sich gut und z\u00fcgig brauen. Mir gef\u00e4llt die angenehme Bittere gepaart mit etwas Fruchtigkeit durch das Kalthopfen (7 Tage im Hopfens\u00e4ckchen). Reife ca. 4 Wochen.",
+    "Malze": [
+        {
+            "Name": "Bio Wiener Malz",
+            "Menge": 3.36,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Bio Pilsner Malz",
+            "Menge": 1.01,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caramalz hell, CARAHELL",
+            "Menge": 430,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.285714285714285,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.619047619047619,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 65,
+            "Alpha": 3.1,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 12,
+            "Alpha": 6.4,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 50
+        }
+    ],
+    "Hefe": "SAFALE S-04",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wasser habe ich auf 2\u00b0dH mit Milchs\u00e4ure eingestellt. Zum Stopfen habe ich 2,5g\/l Citra verwendet."
+}

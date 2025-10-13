@@ -1,0 +1,86 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Warped Tripel Recipe",
+    "Datum": "09.04.2022",
+    "Sorte": "Belgisches Tripel",
+    "Autor": "markus@theweltis.ch",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Westmalle",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 19.3,
+    "Bittere": 36,
+    "Farbe": 8,
+    "Alkohol": 9,
+    "Malze": [
+        {
+            "Name": "Belgisches Pilsner",
+            "Menge": 6.1,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 38,
+    "Rasten": [
+        {
+            "Temperatur": 35,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 50,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saazer",
+            "Menge": 28,
+            "Alpha": 3.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfrueh",
+            "Menge": 14,
+            "Alpha": 3.9,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 57,
+            "Alpha": 3.4,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfrueh",
+            "Menge": 14,
+            "Alpha": 3.9,
+            "Zeit": 30,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Klarer Kandis Zucker",
+            "Menge": 900,
+            "Einheit": "g",
+            "Kochzeit": 90
+        }
+    ],
+    "Hefe": "Wyeast 3787, White Labs WLP530, oder Safbrew T-58",
+    "Gaertemperatur": "22"
+}

@@ -1,0 +1,68 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Gr\u00e4tzer Rauchbier",
+    "Datum": "22.05.2017",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Bilbobreu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 9,
+    "Bittere": 22,
+    "Farbe": 10,
+    "Alkohol": 3,
+    "Kurzbeschreibung": "helles leichtes Rauchbier mit der eleganten Rauchnote von Weizen-Eichenrauch-Malz",
+    "Malze": [
+        {
+            "Name": "Eichenrauch-Weizenmalz",
+            "Menge": 2.99,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 10.44776119402985,
+    "Einmaischtemperatur": 40,
+    "Rasten": [
+        {
+            "Temperatur": 40,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 52,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 50
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.940298507462686,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Lubelski",
+            "Menge": 27,
+            "Alpha": 4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Lubelski",
+            "Menge": 18,
+            "Alpha": 4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Lubelski",
+            "Menge": 30,
+            "Alpha": 4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Fermentis SAFBREW S 33",
+    "Gaertemperatur": "17-18",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "F\u00fcr das ungew\u00f6hnliche Maischeschema sind die Aufheizraten zwischen den Rasten wichtig.Diese sollten sich bei einer Temperatursteigerung von 1 K pro Minute bewegen.\r\nMehrfach erprobt und f\u00fcr gut befunden ist eine Erg\u00e4nzung des Rezepts mit Wacholderbeeren: 1 g\/L mit der ersten Hopfengabe f\u00fcr 60 min kochen und 2,5 g\/L f\u00fcr 4-5 Tage nach der Hauptg\u00e4rung stopfen."
+}

@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Sleepy Gogmagog",
+    "Datum": "09.12.2017",
+    "Sorte": "Barley Wine",
+    "Autor": "Xacobator",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 22,
+    "Bittere": 68,
+    "Farbe": 40,
+    "Alkohol": 10.2,
+    "Kurzbeschreibung": "Ein malzig-aromatisches englisches Starkbier.\r\nDer Name spielt auf den hohen Alkoholgehalt an, der auch einen Riesen schl\u00e4frig werden l\u00e4sst...\r\n",
+    "Malze": [
+        {
+            "Name": "Marris Otter Pale Ale Malz",
+            "Menge": 4.88,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraAroma",
+            "Menge": 310,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraAmber",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 22.5,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 68,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 84,
+            "Alpha": 5.2,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggles",
+            "Menge": 31,
+            "Alpha": 6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 43,
+            "Alpha": 5.2,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Zucker (gel\u00f6st in abgekochtem Wasser)",
+            "Menge": 594,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Mangrove Jack's M42",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die ersten ~2 Liter beim L\u00e4utern habe ich aufgefangen und separat gekocht, bis daraus ein z\u00e4her, leicht karamelliger Sirup geworden ist. Dieser wurde dann wieder der Kochw\u00fcrze hinzugef\u00fcgt.\r\n\r\nNach dem Kochen hat die W\u00fcrze ca. 19\u00b0P. W\u00e4hrend der G\u00e4rung habe ich die Stammw\u00fcrze (rechnerisch) durch die Zugabe von Zuckerl\u00f6sung auf 22\u00b0P erh\u00f6ht. Der Zucker kann auch bereits w\u00e4hrend des Hopfenkochens hinzugegeben werden.\r\n\r\nBei dem Barley Wine ist eine lange Reifung zu empfehlen. Nach ca. drei Monaten ist das Bier schon gut trinkbar und nicht mehr sprittig. Nach ca. 9 Monaten ist es dann richtig gut und rund."
+}

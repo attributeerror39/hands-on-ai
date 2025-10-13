@@ -1,0 +1,73 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Antwerpen Pale Ale",
+    "Datum": "24.02.2018",
+    "Sorte": "Franz\u00f6sisches Ale",
+    "Autor": "OnkelBernd",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.5,
+    "Bittere": 27,
+    "Farbe": 32,
+    "Alkohol": 4.3,
+    "Kurzbeschreibung": "easy-drinking Ale mit belgischen Aromen (in Anlehnung an das \"De Koninck\")\r\n\r\n",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 460,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Amber",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa II Spez.",
+            "Menge": 60,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 18,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 11,
+            "Alpha": 13.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 20,
+            "Alpha": 4.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Mangrove Jacks M47",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "habe im unteren Temperaturbereich vergoren, dass die Hefe nicht allzu viele \"belgische Aromen\" produziert.\r\n\r\nSehr rundes und ausgewogenes Bier. Sehr s\u00fcffig und nicht zu bitter. dennoch etwas Hopfenaromen und etwas Malzigkeit bei schlankem K\u00f6rper. Ein paar \"belgische Aromen\" geh\u00f6hren aber definitiv in das Bier, sie sind aber nicht zu pr\u00e4gnant.\r\n\r\n"
+}

@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Single Hop Ale",
+    "Datum": "23.03.2019",
+    "Sorte": "India Pale Ale",
+    "Autor": "cafehuesch",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 32,
+    "Farbe": 12,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "um die verschiedenen Aroma-Hopfen kennen zu lernen",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.24,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz",
+            "Menge": 760,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen Malz",
+            "Menge": 520,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamalz hell",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.666666666666668,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.857142857142858,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 14,
+            "Alpha": 12,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 6,
+            "Alpha": 12,
+            "Zeit": 25,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 10,
+            "Alpha": 12,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moos",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 119
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "14-18",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Alternative Hefe: Danstar Nottingham\r\nABV: ein h\u00f6herer Alkoholgehalt im Bier beg\u00fcnstigt die Aromatherapie\r\nHopfen Stopfen: www.hopfenhelden.de\/hopfenstopfen-dry-hopping-kalthopfung \r\nKalthopfen Menge: max 5g\/L, max 5 Tage\r\nHopfensorte: als Single Hop Citra (tropische Fr\u00fcchte), Amarillo (Aprikose, Pfirsich), Mandarina Bavaria (Mandarine), Nelson (Trauben, Stachelbeere), Chinook (rote Beeren), Cascade (Zitrus, Grapfruit) siehe auch: https:\/\/www.hopfen-der-welt.de\/pellets-typ-90\/"
+}

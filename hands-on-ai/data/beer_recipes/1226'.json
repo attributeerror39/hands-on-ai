@@ -1,0 +1,104 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Energetic IPA",
+    "Datum": "04.03.2020",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "lxmuc",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17,
+    "Bittere": 40,
+    "Farbe": 10,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "etwas st\u00e4rkeres IPA mit vollmundigem Aroma, bernsteinfarben, angenehme S\u00fc\u00dfe und Bittere und tollem Schaum. ",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 3.81,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 2.19,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara red",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "ggf Sauermalz",
+            "Menge": 29,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.904761904761905,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 7.619047619047619,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 14,
+            "Alpha": 13.1,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 15,
+            "Alpha": 13.1,
+            "Zeit": 45,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 16,
+            "Alpha": 13.1,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 95
+        }
+    ],
+    "Hefe": "London Ale III",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Ich braue dieses Rezept nun schon seit einem Jahr in vrschiedenen Varianten, diese schmeckt mir derzeit am besten.\r\nDerzeit l\u00e4uft gerade ein split batch mit einerseits simcoe und casacde Kalthopfung sowie rein Perle Kalthofung.\r\n\r\nStopfen erfolgt zur Mitte des G\u00e4rverlaufs.\r\n\r\nHefe vorher 2 Tage renaturieren, dann l\u00e4uft die G\u00e4rung sofort an. Habe auch schon mit der US-05 gebraut, war auch gut.\r\n\r\nIch f\u00fclle bei ca. 21L Ausschlag ca. 1,5 L Speise f\u00fcr die Nachg\u00e4rung ab.\r\nNachg\u00e4rung ca 7 Tage bei 18 \u00b0C.\r\nReifezeit mind. 3 Monate bei 5\u00b0C, vorher hat es mir pers\u00f6nlich nie geschmeckt.\r\nRezept ist urspr\u00fcnglich inspiriert vom Kollegen Siedlerbr\u00e4u (IPA Simcoe), welches immer hervorragend schmeckt!!\r\nAlle Mengenangaben ca. Werte, nagelt mich bitte nicht auf IBU Werte oder dgl. fest. Viel Spass beim Nachbrauen und kommentiert bitte eure Erfahrungen!"
+}

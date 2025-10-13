@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Grubengold",
+    "Datum": "16.09.2017",
+    "Sorte": "Stout",
+    "Autor": "kurz.reini",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 31,
+    "Farbe": 100,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Gebraut mit dem Speidel Braumeister",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 960,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate",
+            "Menge": 480,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 480,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 280,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch 2",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.8,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 55
+        },
+        {
+            "Temperatur": 71,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8.8,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nugget",
+            "Menge": 5,
+            "Alpha": 15,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Nugget",
+            "Menge": 13,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Mangrove Jack's M42 - New World Strong Ale",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Rezept stammt von \"auftauer\" und war das beste Stout, das ich bis jetzt probiert habe!\r\n"
+}

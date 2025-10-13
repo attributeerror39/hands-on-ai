@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "G-Br\u00e4u Altbier (HBCon23)",
+    "Datum": "12.03.2023",
+    "Sorte": "Altbier",
+    "Autor": "Tommys G-Br\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 49,
+    "Farbe": 32,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "1. Platz bei der Heimbrauconvention (HBCON) 2023 in der Kategorie \"Altbier\" BJCP #7b",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 3.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraWheat",
+            "Menge": 110,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa Spezial II",
+            "Menge": 62,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.384615384615385,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 11.538461538461537,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 14,
+            "Alpha": 10,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertau Mittelfr\u00fch",
+            "Menge": 34,
+            "Alpha": 4.4,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Spalt Spalter",
+            "Menge": 38,
+            "Alpha": 4.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "OGA 9",
+    "Gaertemperatur": "14",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Carafa Speziall II gebe ich erst bei der 72\u00b0 Rast dazu. Daf\u00fcr am besten sch\u00f6n fein mahlen. Gebraut mit D\u00fcsseldorfer Stadtwasser ohne Anpassung. Die hier angegebenen Nachgussmengen sind nur ungef\u00e4hr Angaben, ich gebe immer Nachguss bis der Extraktgehalt der Pfannevollw\u00fcrze erreicht ist, den ich angepeilt habe. Flascheng\u00e4rung mit vorgelegtem Zucker."
+}

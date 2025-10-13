@@ -1,0 +1,111 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Coco Jamboo",
+    "Datum": "16.03.2024",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "stunner2002",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.4,
+    "Bittere": 27,
+    "Farbe": 9,
+    "Alkohol": 6.7,
+    "Kurzbeschreibung": "Modernes NEIPA mit viel tropischen und vor allem Kokosnuss Aromen. Wurde auf der HBCon 24 w&auml;hrend der BHS ausgeschenkt.",
+    "Malze": [
+        {
+            "Name": "Pilsner Extra Hell",
+            "Menge": 3.81,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 950,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Malz",
+            "Menge": 950,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 950,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 950,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenflocken",
+            "Menge": 480,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 27.61904761904762,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 75,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 8.19047619047619,
+    "Kochzeit_Wuerze": 30,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 5,
+            "Alpha": 13.5,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 48,
+            "Alpha": 14,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Galaxy",
+            "Menge": 48,
+            "Alpha": 14.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 48,
+            "Alpha": 15.7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Galaxy",
+            "Menge": 95
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 95
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 57
+        }
+    ],
+    "Hefe": "Lallemand Verdant IPA",
+    "Gaertemperatur": "18-22",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Der pH Wert der Maische sollte bei ca 5,2 liegen, ich stelle mit Milchs&auml;ure ein. Das Wasser salze ich auf ein 3:1 Chlorid:Sulfat Verh&auml;ltnis, daf&uuml;r verd&uuml;nne ich das harte K&ouml;lner Wasser (rrh) mit 40% destilliertem Wasser und salze dann wieder auf.\r\n\r\nDie Hefe wird bei ca. 18&deg;C angestellt und dann auf ca. 22&deg; kommen. Das passt bei meiner Anlage ganz gut, aber ihr solltet ein Auge drauf haben dass der Temperaturanstieg nicht zu schnell ist. Die 22&deg; sollten fr&uuml;hestens bei ca 7&deg;P REx Anliegen. Nach der Hauptg&auml;rung gebe ich der Hefe noch 2 Tage bei 20-22&deg;C.\r\n\r\nSoft Crash auf 14&deg;C, dann wird gestopft. Cold Crash auf 0&deg;C und 2 Tage warten. Wenn m&ouml;glich den Hopfen 2mal in Suspension bringen(z.B. mit CO2 sp&uuml;len). Nach dem Umdr&uuml;cken wird im Keg Zwangskarbonisiert und nach einer Woche ist das Bier servierfertig.\r\n\r\nDie Sch&uuml;ttung zielt auf m&ouml;glichst wenig Malzaroma, mit m&ouml;glichst viel K&ouml;rper. Der Hopfen und Hefe spielen die Hauptrolle.\r\n\r\nEigentlich mag ich meine NEIPA etwas herber, aber das Bier auf der HBCon war etwas zu bitter. Ich w&uuml;rde bei so gro&szlig;en Whirlpoolgaben beim n&auml;chsten Mal auf den Magnum verzichten.\r\n\r\nMeine NEIPA Rezepte sind eine Abwandlung des &quot;Even Sharks Need Water&quot; von Verdant: https:\/\/www.themaltmiller.co.uk\/product\/verdant-even-sharks-need-water-neipa\/"
+}

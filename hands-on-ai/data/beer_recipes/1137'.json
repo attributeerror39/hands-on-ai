@@ -1,0 +1,92 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Cholech\u00e4ller",
+    "Datum": "01.09.2019",
+    "Sorte": "Imperial Stout",
+    "Autor": "-roger-",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 21,
+    "Bittere": 63,
+    "Farbe": 66,
+    "Alkohol": 9,
+    "Kurzbeschreibung": "Schwarz wie die Nacht mit angenehmen R\u00f6st-(Kaffee-) und leichtem Bitterschokolade-Aroma",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4.84,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 1.26,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 950,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stmalz",
+            "Menge": 260,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Aroma",
+            "Menge": 210,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 24.842105263157897,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 105
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 7.684210526315789,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 42,
+            "Alpha": 15,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 13,
+            "Alpha": 7.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 26,
+            "Alpha": 9.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 26,
+            "Alpha": 11.9,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Nottingham",
+    "Gaertemperatur": "18-21",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 4
+}

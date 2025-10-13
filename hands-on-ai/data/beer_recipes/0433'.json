@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hogfathers Delight",
+    "Datum": "10.12.2014",
+    "Sorte": "Old Ale",
+    "Autor": "Burkhart",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.4,
+    "Bittere": 32,
+    "Farbe": 48,
+    "Alkohol": 7.7,
+    "Kurzbeschreibung": "Britischer Winter Warmer mit leichter Rauchnote.\r\nSehr komplexe Malzaromen mit Karamell und dunklen Trockenfr\u00fcchten.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.14,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Special X",
+            "Menge": 860,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Spitzmalz",
+            "Menge": 860,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 570,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 230,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Red X",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.714285714285715,
+    "Einmaischtemperatur": 64,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.285714285714286,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 46,
+            "Alpha": 5,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 20,
+            "Alpha": 5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Zucker\u00fcbensirup",
+            "Menge": 257,
+            "Einheit": "g",
+            "Kochzeit": 90
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "21-16",
+    "Karbonisierung": 3,
+    "Anmerkung_Autor": "Das verwendte Rauchmalz ist von Best-Malz.\r\nIch hatte Restbest\u00e4nde meines Braubedarf-Lieferanten \u00fcbernommen, daher kommt die vielleicht etwas abenteuerliche Zusammenstellung.\r\nDas Bier ben\u00f6tigt mind. 2-3 Monate Reife!\r\nAuf Grund der Malz-Zusammenstellung hat es schon belgischen Charakter...\r\nEin Bier, dass man am besten an einem warmen Kaminfeuer genie\u00dft!"
+}

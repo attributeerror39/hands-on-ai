@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mais\/Dinkel Ale",
+    "Datum": "15.11.2015",
+    "Sorte": "Pale Ale",
+    "Autor": "alt-phex",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 30,
+    "Farbe": 19,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Goldenes Pale Ale mit Mais und Dinkel Rohfrucht (~25%)",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 2.92,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Maisflocken Polenta",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Dinkel Rohfrucht",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch II",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stmalz Carafa Spezial II",
+            "Menge": 20,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 13,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 25,
+            "Alpha": 9.4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 18,
+            "Alpha": 7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Polenta und Dinkel sind vom Aldi, gibt es dort immer wieder als Aktionsware.\r\n\"Bio-Dinkel geschliffen 750g\" und \"Bio-Maisgrie\u00df 800g\". Dinkel und Polenta\r\neinfach mit einmaischen, Dinkel vorher schroten !\r\n\r\nDie Whirlpoolgabe mit Cascade erfolgte bei unter 80\u00b0C.\r\n\r\nDurch den hohen Maisanteil, ein eher schlankes Bier das dem Hopfen viel\r\nSpielraum l\u00e4sst. Im Antrunk sind malzig-getreidige Noten raus zu schmecken.\r\n\r\nNach zwei Wochen Kaltreifung schon sehr lecker. Nach vier Wochen wird\r\nharmonischer was die Bittere und die Aromen angeht."
+}

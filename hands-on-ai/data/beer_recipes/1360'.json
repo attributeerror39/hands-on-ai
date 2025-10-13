@@ -1,0 +1,103 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Vic Secret American Amber Ale",
+    "Datum": "04.10.2020",
+    "Sorte": "Amber Ale",
+    "Autor": "bw111",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 32,
+    "Farbe": 24,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Das Siegerbier der Best Brew Challenge 2018. Herrlich fruchtig mit Ananas- und Passionsfruchtaromen, perfekt abgerundet durch die malzige S\u00fc\u00dfe. Das Bier pr\u00e4sentiert vor allem die tropischen Komponenten des Vic Secret, die durch das vollmundige R\u00fcckgrat weitergetragen werden. Im Schnitt vergab die Jury 49,7 von 50 Punkten, was uns noch immer sehr stolz macht. Viel Spa\u00df beim Nachbrauen!\r\n\r\nAnmerkung: Rezept f\u00fcr den Braumeister 20 l, f\u00fcr klassische Brausetups Haupt-\/Nachguss nach gusto anpassen.",
+    "Malze": [
+        {
+            "Name": "Pale Malz",
+            "Menge": 2.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.15,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Best Red X",
+            "Menge": 770,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraMunich II",
+            "Menge": 190,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Spitzmalz",
+            "Menge": 150,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 28.181818181818183,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 2.727272727272727,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 4,
+            "Alpha": 18.4,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 4,
+            "Alpha": 18.4,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 14,
+            "Alpha": 18.4,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 17,
+            "Alpha": 18.4,
+            "Zeit": 1,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Vic Secret",
+            "Menge": 45,
+            "Alpha": 18.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Wyeast #1318 London Ale III",
+    "Gaertemperatur": "16-18",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Wasser wurde wie folgt eingestellt: \r\nCalcium 53 mg\/l\r\nMagnesium 4 mg\/l\r\nSulfat 58 mg\/l\r\nChlorid 82 mg\/l\r\nNatrium 55 mg\/l\r\npH 5.46\r\nRestalkalit\u00e4t -1,1 mmol\/l\r\n\r\nDie Sch\u00fcttung ist etwas komplexer, war aber das Ergebnis mehrerer Tests, um schlie\u00dflich eine f\u00fcr unseren Geschmack perfekte Farbe - dunkel-orangener Bernstein - zu erzielen. Sauermalz, um das harte Mannheimer Wasser zu kontern, Spitzmalz, weil wir seinerzeit etwas Probleme mit der Schaumstabilit\u00e4t hatten (das hatte sich durch moderate Spitzmalzgaben erledigt).\r\n\r\nGemaischt wurde bei etwas h\u00f6herer Kombirasttemperatur mit anschlie\u00dfender Verzuckerungsrast, um einen gr\u00f6\u00dferen Anteil nicht-verg\u00e4rbarer Zucker zu erzielen - so konnten wir das Ziel erreichen, das Bier eher \"s\u00fc\u00dflich\" schmecken zu lassen.\r\n\r\nNachisomerisierungszeit 3-4 Minuten. Aufgrund fehlenden Equipments haben wir damals auf dry hopping verzichtet und daf\u00fcr eine gro\u00dfz\u00fcgige Whirlpoolgabe erg\u00e4nzt.  Heute w\u00fcrde ich noch zus\u00e4tzlich 2-3 g\/l Vic Secret im G\u00e4rtank erg\u00e4nzen wollen.\r\n\r\nAls Hefealternative geht auch die US-05 gut, das Bier profitiert von einer eher niedrigen G\u00e4rtemperatur (ich strebe ein Anstellen bei 16\u00b0C an und lasse das Bier auf maximal ca. 18\u00b0C kommen). sEVG liegt bei ca. 71% mit der Wyeast 1318.\r\n\r\nInsgesamt bereits \u00fcberraschend fr\u00fch (ca. 3 Wochen nach Brauen) trinkreif, nach 6-8 Wochen war f\u00fcr uns der sweet spot erreicht mit perfekter Balance zwischen Malz- und Hopfenaroma."
+}

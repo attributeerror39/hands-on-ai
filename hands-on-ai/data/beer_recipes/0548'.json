@@ -1,0 +1,102 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Gartenst\u00e4dter Hopfenexplosion - WhiteIPA",
+    "Datum": "13.01.2016",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "Swert_p",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 40,
+    "Farbe": 10,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Weizenbasiertes, sehr trockenes IPA mit moderater Bittere und einer hervorstechenden Hopfennase mit Citrus-, Grapefruit- und Rieslingnoten.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 100,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 11,
+    "Einmaischtemperatur": 51,
+    "Rasten": [
+        {
+            "Temperatur": 62,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 19,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Chinook ",
+            "Menge": 15,
+            "Alpha": 13.7,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Amarillo ",
+            "Menge": 4,
+            "Alpha": 9.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 4,
+            "Alpha": 5.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 8,
+            "Alpha": 9.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 8,
+            "Alpha": 5.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 40
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 40
+        },
+        {
+            "Sorte": "Hallertau Blanc",
+            "Menge": 20
+        }
+    ],
+    "Hefe": "Danstar Nottingham Ale ",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Stopfhopfen nach einer Woche Haupt\u00e4rung f\u00fcr eine weitere Woche zugeben. \r\nBereits nach kurzer Lagerung (nach der Nachg\u00e4rung 2 - 3- Wochen) trinkbar. Kompromisloses Hopfenerlebnis ohne malzigen Gegenpol, sehr schlankes Mundgef\u00fchl.  "
+}

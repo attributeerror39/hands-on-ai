@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "American 4-grain Basil Ale",
+    "Datum": "01.11.2017",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "jonnnes",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 54,
+    "Farbe": 14,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Eine wunderbare Vereinigung von amerikanischen Hopfen mit Basilikum zu einem leckeren, hopfig fruchtigem Pale Ale.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.11,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Maris Otter",
+            "Menge": 960,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 480,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Roggenmalz",
+            "Menge": 480,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraM\u00fcnch III",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 350,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.666666666666664,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.157894736842104,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": null,
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die Vereinigung der amerikanischen Hopfen mit dem Basilikum ergibt eine ganz eigene Note. Wenn man es nicht w\u00fc\u00dfte, w\u00fcrde man nicht vermuten, dass es Basilikum ist. Eher schon Richtung Pale Ale oder IPA. War und ist auch bei den Frauen sehr beliebt.\r\n\r\nMalz:\r\nIch habe das Bier in den USA gebraut. Ich habe geh\u00f6rt, dass Briess 2-row und Briess Crystal 60 in Deutschland nicht so leicht zu bekommen sind. Ich w\u00fcrde stattdessen Pilsner und CaraM\u00fcnch III verwenden. Das macht keinen gro\u00dfen Unterschied. \r\n\r\nHopfenkochen (90 min gesamt):\r\nLeider l\u00e4\u00dft das Formular nur eine begrenzte Anzahl an Zutaten zu. Daher hier die komplette Hopfentabelle:\r\n\r\nf\u00fcr 60 min:\r\nMagnum  \t  13.7%\tAA      4 g\r\nTarget\t\t  12.5%\tAA      5 g\r\nSimcoe\t\t  12.9%\tAA      3.3 g\r\n\r\nf\u00fcr 30 min:\r\nSimcoe\t\t  12.9%\tAA      6 g\r\nCascade\t\t   8.3%\tAA      6 g\r\n\r\nf\u00fcr 15 min:\r\nSimcoe\t\t  12.9%\tAA      1 g\r\nCascade\t\t   8.3%\tAA      6 g\r\nBasilikum (gerebelt)            5 g\r\n\r\nf\u00fcr 0 min (Whirlpool):\r\nSimcoe\t\t  12.9%\tAA\t1 g\r\nCascade \t   8.3%\tAA\t3 g\r\nEast Kent Golding  5,6% AA \t1 g\r\nBasilikum (gerebelt)            5 g\r\n\r\nDas Hopfenseihen wurde ausgelassen, der Hopfen und das Basilikum waren also bis zum Abf\u00fcllen im Bier."
+}

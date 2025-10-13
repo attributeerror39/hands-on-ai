@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "BOCK auf Cascade",
+    "Datum": "26.10.2012",
+    "Sorte": "Heller Doppelbock",
+    "Autor": "Barde",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.5,
+    "Bittere": 30,
+    "Farbe": 28,
+    "Alkohol": 7.6,
+    "Kurzbeschreibung": "Leicht roter Doppel Bock mit Cascade",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.27,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 320,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 4.44,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.581395348837205,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.674418604651162,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 14,
+            "Alpha": 7,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Herkules",
+            "Menge": 7,
+            "Alpha": 17.6,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 14,
+            "Alpha": 7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 19
+        },
+        {
+            "Sorte": "Pilot",
+            "Menge": 9
+        },
+        {
+            "Sorte": "Aurora",
+            "Menge": 9
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "14",
+    "Endvergaerungsgrad": 82.7,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Anfangs wurde die Notti bei 14 grad f\u00fcr 1 Woche gestellt dann f\u00fcr 1 Woche bei 18 grad umgebungs Temp. Nach 2 Wochen wurde der Stopfhopfen hinzugegeben jeweils 20g zus\u00e4tzlich noch 20g Herkules. Nach 1 Woche Stopfen noch 20 g Cascade zus\u00e4tzlich f\u00fcr 1 Woche. Abf\u00fcllen und nach 1 Woche und 2tage bei ca 6 grad Sau lecker. Ab der H\u00e4lfte der Kombi wurde 10L Dickmaische seperat gehandhabt und f\u00fcr 10 min bei 72 grad und dann f\u00fcr 10 min gekocht, dann wieder in die W\u00fcrze und gel\u00e4utert. Geschmack Grapefruit und manchmal Honigmelone"
+}

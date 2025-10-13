@@ -1,0 +1,114 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Classic Series - Saison",
+    "Datum": "27.10.2024",
+    "Sorte": "Saison",
+    "Autor": "Stuggbrew",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 30,
+    "Farbe": 8,
+    "Alkohol": 5.9,
+    "Kurzbeschreibung": "Ein relativ klassisch gehaltenes gelb-opakes Saison mit sch&ouml;n trockenem Abgang, trinkanimierend und einer sch&ouml;n pfeffrig, vanilligen Note",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchner I",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraFoam",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 67,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Bisquit malz",
+            "Menge": 67,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.666666666666668,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 69,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 74,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 74,
+    "Nachguss": 5.333333333333333,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saazer",
+            "Menge": 13,
+            "Alpha": 3.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 13,
+            "Alpha": 3.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "EKG",
+            "Menge": 13,
+            "Alpha": 2.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "EKG",
+            "Menge": 13,
+            "Alpha": 2.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Vanilleschoten",
+            "Menge": "2 &frac34;",
+            "Einheit": "St\u00fcck",
+            "Kochzeit": 20
+        },
+        {
+            "Name": "Kandiszucker braun",
+            "Menge": 67,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Belle Saison",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 88,
+    "Karbonisierung": 5.5
+}

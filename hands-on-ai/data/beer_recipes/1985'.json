@@ -1,0 +1,114 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Suicide Mission Double IPA",
+    "Datum": "16.04.2024",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "ElToro92",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Suicide Mission Double IPA (Chris Burges",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16.5,
+    "Bittere": 55,
+    "Farbe": 25,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Klonrezept eines Siegerrezept aus den Staaten von Chris Burgess of Rocklin aus Californien. Sehr hopfenbetontes und hazy Double IPA.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.55,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 780,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 780,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 96,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 6.956521739130435,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Columbus",
+            "Menge": 9,
+            "Alpha": 14,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 37,
+            "Alpha": 11.9,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Columbus",
+            "Menge": 9,
+            "Alpha": 14,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "El Dorado",
+            "Menge": 9,
+            "Alpha": 14.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Dextrose",
+            "Menge": 246,
+            "Einheit": "g",
+            "Kochzeit": 60
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mosaic (nach 3 Tagen f&uuml;r 3 Tage)",
+            "Menge": 50
+        },
+        {
+            "Sorte": "Columbus (nach 3 Tagen f&uuml;r 3 Tage)",
+            "Menge": 24
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Galaxy",
+            "Menge": 22,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Lallemand Voss Kveik Ale",
+    "Gaertemperatur": "22-26",
+    "Endvergaerungsgrad": 71,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Sehr leckeres hazy Double IPA, welches auch bei meiner Frau sehr gut ankommt. "
+}

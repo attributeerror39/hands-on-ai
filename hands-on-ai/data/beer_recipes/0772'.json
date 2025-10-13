@@ -1,0 +1,107 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Lootbier",
+    "Datum": "06.09.2017",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "Cliche8",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 24,
+    "Farbe": 4,
+    "Alkohol": 4.7,
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.19,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Malz",
+            "Menge": 1.69,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.125,
+    "Einmaischtemperatur": 42,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.5,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Strisselspalter",
+            "Menge": 16,
+            "Alpha": 1.1,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 11,
+            "Alpha": 9.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 3,
+            "Alpha": 9.2,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Strisselspalter",
+            "Menge": 16,
+            "Alpha": 1.1,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 6,
+            "Alpha": 9.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 3,
+            "Alpha": 9.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "frische Orangenschale",
+            "Menge": 100,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Safale S-04",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Nachisomerisierungszeit: 15 min\r\nBereits nach 2 Wochen Reifung gut trinkbar"
+}

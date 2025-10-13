@@ -1,0 +1,118 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Liquid After Eight",
+    "Datum": "15.10.2021",
+    "Sorte": "Stout",
+    "Autor": "Eichsfeldbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.1,
+    "Bittere": 42,
+    "Farbe": 126,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Ein vollmundiges Stout mit deutlicher Schokonote und vollem Pfefferminzaroma",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.11,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz Typ I",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamellmalz B\u00f6hmisch CARABOHEMIAN",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Special B CARAAROMA",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 170,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stmalz Typ I CHOCOLATE",
+            "Menge": 310,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz dunkel",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.313333333333333,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 65
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 5.1466666666666665,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Magnum",
+            "Menge": 8,
+            "Alpha": 14.5,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Polaris",
+            "Menge": 14,
+            "Alpha": 20.5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Polaris",
+            "Menge": 13,
+            "Alpha": 20.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Polaris",
+            "Menge": 7,
+            "Alpha": 20.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Pfefferminze (frisch)",
+            "Menge": 33,
+            "Einheit": "g",
+            "Kochzeit": 0
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Pfefferminze",
+            "Menge": 27,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Kakaonibs",
+            "Menge": 27,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Wyeast 1968 London ESB Ale",
+    "Gaertemperatur": "18\u00b0",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Es gibt hier zwar schon ein After-Eight-Stout-Rezept, dass hatte ich jedoch vorher nicht gesehen und es unterscheidet sich auch deutlich von diesem Rezept.\r\n\r\nMein Rezept ist angelehnt an eines von Dr.Hans Brewery auf youtube ver\u00f6ffentlichten Rezepts (zu finden unter: Brewing with mint - Chocolate mint porter). \r\n\r\nVergoren habe ich durchgehend (Anstelltemp, HG, NG) bei konstanter Kellertemperatur von 18\u00b0C.\r\n\r\nDas Brauwasser habe ich mit Milchs\u00e4ure auf 0\u00b0 dH (Das Trinkwasser hat hier 10,75\u00b0 dH) eingestellt, Maische-PH betr\u00e4gt 5,28.\r\n\r\nDie sp\u00e4teren Gaben von Pfefferminze und Kakaonibs sind nach der Hauptg\u00e4rung, nach ca. 5 Tagen, erfolgt.\r\n\r\nKarbonisiert habe ich mit 4,8g Zucker pro Liter (Rechner hier von MaischeMalzundMehr verwendet) und ins Fass abgef\u00fcllt.\r\n\r\nNach 6 Wochen habe ich das Fass umgedr\u00fcckt (dank k\u00fcrzerem Degen im Nachg\u00e4rfass ohne Hefe) und im 2.Fass weitere 2 Wochen im K\u00fchlschrank gelagert und dann per Gegendruckabf\u00fcller in Flaschen abgef\u00fcllt. \r\nNach insgesamt 8 Wochen die erste Flasche probiert und es schmeckt tats\u00e4chlich wie ein fl\u00fcssiges After-Eight. Sch\u00f6ne Schokoladennoten und Pfefferminze. Anf\u00e4nglich war die Pfefferminze sehr dominant, aber nach 8 Wochen ist das Aroma herrlich.\r\n\r\nIm Gegensatz zu Dr.Hans finde ich, dass das Bier herrlich in die nun kommende k\u00e4ltere Jahreszeit passt. \r\n\r\nIch kann den Einsatz von frischer Pfefferminze sehr empfehlen (andere Minzsorten gehen sicherlich auch, ggf. die Menge erh\u00f6hen, da Pfefferminze sehr viel sch\u00e4rfer\/aromatischer ist, als bspw. Marokkanische Minze)."
+}

@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Dubbel Ambr\u00e9e ",
+    "Datum": "07.10.2014",
+    "Sorte": "Belgisches Dubbel",
+    "Autor": "Nachtflug",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 35,
+    "Farbe": 25,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Malziges, ausgewogen gehopftes, bernsteinfarbenes Dubbel im Stil eines Abteibieres mit Aromen von Orangen und kandierten Fr\u00fcchten.",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 3.82,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carabelge",
+            "Menge": 820,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carared",
+            "Menge": 550,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidin",
+            "Menge": 270,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.727272727272727,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.636363636363635,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 36,
+            "Alpha": 4,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 18,
+            "Alpha": 4,
+            "Zeit": 40,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 18,
+            "Alpha": 4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "SAFBREW Abbaye Trockenhefe",
+    "Gaertemperatur": "20 - 22",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Nach G\u00e4rende 150 g braunen Kandiszucker in der gleichen Menge warmem Wasser aufl\u00f6sen. Das Jungbier vom Bodensatz abziehen und in die Zuckerl\u00f6sung schlauchen. Die G\u00e4rung dauert 3 - 4 Tage, die Nachg\u00e4rung sollte ca. 1 Woche bei gleicher Temperatur dauern. Anschlie\u00dfend das Bier bei 10 - 12 \u00b0C f\u00fcr mindestens 6 Wochen reifen lassen. Die Trinktemperatur ist gleich der Lagertemperatur und der Hefesatz sollte beim Einschenken in der Flasche verbleiben."
+}

@@ -1,0 +1,101 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Citra Pils",
+    "Datum": "15.05.2021",
+    "Sorte": "Dinkel-, Emmer- oder Mehrkornbier",
+    "Autor": "Shivaco",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 32,
+    "Farbe": 8,
+    "Alkohol": 4.6,
+    "Kurzbeschreibung": "Goldgelbes, kerniges Bier mit Dinkelmalz, mittlerem K\u00f6rper und Hopfenaromen von Citra. Sommerbier f\u00fcr den Balkon. ",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.14,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Malz",
+            "Menge": 480,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Dinkel Malz",
+            "Menge": 440,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 120,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 220,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.444444444444443,
+    "Einmaischtemperatur": 54,
+    "Rasten": [
+        {
+            "Temperatur": 54,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 9.777777777777777,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 4,
+            "Alpha": 11.6,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 7,
+            "Alpha": 11.6,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 8,
+            "Alpha": 11.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 8,
+            "Alpha": 11.6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 13,
+            "Alpha": 11.6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "OGA9",
+    "Gaertemperatur": "20",
+    "Anmerkung_Autor": "Das Wasser nehme ich direkt bei uns aus der Quelle. Dies wird nicht behandelt. Nach einer Analyse vor 2 Jahren wurde das Wasser f\u00fcr sehr gut befunden. Das Dinkel Malz habe ich aus der Bio-Abteilung im Einkaufsladen. Muss nat\u00fcrlich geschrotet werden. \r\nDie Nachg\u00e4rung findet bei 20 Grad f\u00fcr 3-5 Tage statt. F\u00fcr die Reifung kommt das Bier f\u00fcr 4 Wochen in den K\u00fchlschrank bei 4 Grad."
+}

@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "B[ie]rot",
+    "Datum": "09.02.2024",
+    "Sorte": "Irish Ale",
+    "Autor": "Stuggbrew",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.9,
+    "Bittere": 20,
+    "Farbe": 29,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Wunderbares Irish Red Ale das im Zuge eines Kreativbierwettbewerbs mit 20% Brot in der Sch&uuml;ttung versehen wurde. \r\nSch&ouml;nes Alltagsbier, leichte Noten von Malz und leichte Brot\/R&ouml;staromen gepaart mit EKG als Hopfen.",
+    "Malze": [
+        {
+            "Name": "Altes Brot",
+            "Menge": 1.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Best Red X",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Red",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 670,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 59,
+    "Rasten": [
+        {
+            "Temperatur": 64,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 69,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 74,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 74,
+    "Nachguss": 10.666666666666666,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 20,
+            "Alpha": 6,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "East Kent",
+            "Menge": 13,
+            "Alpha": 6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 1084 Irish Ale",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5.2,
+    "Anmerkung_Autor": "Maische-pH wurde auf 5,4 eingestellt. Am Ende der Hauptg&auml;rung habe ich noch 0,3g \/ l Salz dazugegeben. \r\n\r\nG&auml;rung war nach rund 7 Tagen durch. Abf&uuml;llung in Flaschen und mit Haushaltszucker Karbonisiert. Danach f&uuml;r 3 Wochen Kaltreifung. "
+}

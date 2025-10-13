@@ -1,0 +1,127 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "DC Orangen Saison",
+    "Datum": "15.02.2018",
+    "Sorte": "Saison",
+    "Autor": "DerDallmann",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 30,
+    "Farbe": 7,
+    "Alkohol": 6.8,
+    "Kurzbeschreibung": "Spritziges Saison mit Honig und (viel) Orangenschale. Nur leichte Bittere und Hopfenaromen, die Honig- und Orangenaromen stehen im Vordergrund. ",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.27,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 820,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Roggenmalz",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 91,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 73,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.272727272727273,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 15.454545454545453,
+    "Kochzeit_Wuerze": 65,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hopsteiner Unique",
+            "Menge": 9,
+            "Alpha": 7.4,
+            "Zeit": 65,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Magnum",
+            "Menge": 9,
+            "Alpha": 14.3,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 6,
+            "Alpha": 3.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 9,
+            "Alpha": 3.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 18,
+            "Alpha": 3.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Orangenschalen, frisch",
+            "Menge": 27,
+            "Einheit": "g",
+            "Kochzeit": 0
+        },
+        {
+            "Name": "Hefenahrung",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Irish Moss",
+            "Menge": 3,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Orangenschalen, frisch",
+            "Menge": 73,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Orangenhonig",
+            "Menge": 455,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Wyeast 3726 (Farmhouse Ale, Blaugies), alternativ: BE-134",
+    "Gaertemperatur": "26",
+    "Endvergaerungsgrad": 82,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Ein Freund von mir hat sich bei der Del Carmen Bio-Orangenplantage auf Mallorca einen Orangenbaum und ein Bienenvolk gecrowdfunded. Diese Produkte sollten in dem Bier in den Vordergrund r\u00fccken. Ein Saison schien mir da passend.\r\n\r\nDie Orangenschalen (ohne das weisse, sauber gezestet) habe ich vor dem Stopfen mit Wodka bedekt und dann p\u00fcriert. Den Honig habe ich vorher in Wasser gel\u00f6st und zusammen mit den Orangenschalen nach Zerfall der Kr\u00e4usen ins Jungbier gegeben.\r\n\r\nDie Hefe habe ich gew\u00e4hlt, weil sie eine \"entspannte\" Saisonhefe ist, die nicht so phenolisch und dominant daherkommt, wie viele andere Saisonhefen. \r\n\r\nIrish Moss und Hefenahrung sind jeweils 2 TL, gewogen habe ich das nicht. \r\n\r\nNachisomerisierungszeit: 3 Minuten. Die Temperatur war anfangs 25\u00b0C f\u00fcr eine Woche, zum Ende hin hab ich dann auf 27\u00b0C aufgeheizt f\u00fcr 3 Tage. Danach Cold Crash f\u00fcr 2 Tage, damit sich die Orangenschale vollst\u00e4ndig absetzt.\r\n\r\nDas Ergebnis ist ein spritziges Saison, dass etwas dunkler als erwartet geworden ist. (Die errechneten 7 EBC passen keinesfalls, es sind eher 12) Die Orangenaromen stechen raus, wie gewollt, im Hintergrund kommt der Honig durch. Ich bin ziemlich zufrieden. Ist definitiv eher was f\u00fcr den Sommer, schmeckt aber auch jetzt ganz gut.\r\n\r\nEdit: In der angegebenen Stammw\u00fcrze\/Alkoholgehalt ist der Honig bereits einkalkuliert.\r\n\r\nVersion 4 des Bieres habe ich mit der BE-134 vergoren, die ist der Blaugies sehr \u00e4hnlich. Au\u00dferdem habe ich den Honig weggelassen und dur Klostermalz ersetzt. Zus\u00e4tzlich habe ich leicht mit Comet gestopft. Die Orangen habe ich diesmal einfach nur sauber \"gezestet\" ins Bier gegeben. Passt sehr gut zusammen.\r\n\r\nEdit: Ich habe noch ein Foto erg\u00e4nzt. Das abgebildete Bier hat ein Braukollege nach diesem Rezept gebraut, auch mit der BE-134. Cheers, Frank!\r\n\r\nWichtig:\r\nBitte das Rezept nicht 1:1 \u00fcbernehmen, sondern an eure Brauanlage, sowie eure Sudhausausbeute anpassen. Ebenso sind die Mengen zu Haupt-, und Nachguss an euer System anzupassen. \r\n\r\n"
+}

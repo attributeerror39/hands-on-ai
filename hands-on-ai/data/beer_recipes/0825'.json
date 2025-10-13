@@ -1,0 +1,91 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Trappist 1",
+    "Datum": "20.12.2017",
+    "Sorte": "Belgisches Dubbel",
+    "Autor": "-roger-",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 18.9,
+    "Bittere": 25,
+    "Farbe": 22,
+    "Alkohol": 8.2,
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 4.93,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 1.21,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 860,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 10.714285714285714,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 40
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 6.428571428571429,
+    "Kochzeit_Wuerze": 85,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 10,
+            "Alpha": 15,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Trad.",
+            "Menge": 12,
+            "Alpha": 7,
+            "Zeit": 75,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Kandiszucker",
+            "Menge": 857,
+            "Einheit": "g",
+            "Kochzeit": 85
+        },
+        {
+            "Name": "Haushaltzucker",
+            "Menge": 307,
+            "Einheit": "g",
+            "Kochzeit": 85
+        },
+        {
+            "Name": "Honig",
+            "Menge": 307,
+            "Einheit": "g",
+            "Kochzeit": 85
+        }
+    ],
+    "Hefe": "WYEAST 3787",
+    "Gaertemperatur": "19-21",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5.3,
+    "Anmerkung_Autor": "W\u00fcrzebereitung:\r\nMaischen:\r\nHaferflocken als Rohfruchtmaische mit 5 l Wasser kalt ansetzen und zum Kochen bringen, gut 30 Minuten kochen.\r\nEinmaischen \t55\u00b0C\r\nEiwei\u00dfrast \t55\u00b0C - 15min\r\nDann beide Teilmaischen zusammenf\u00fchren (ergibt ca. 65\u00b0C). Knapp eine Stunde gut isoliert rasten, regelm\u00e4\u00dfig r\u00fchren.\r\n20% Dickmaische abziehen, zum Kochen bringen und zehn Minuten kochen. Dann wieder zubr\u00fchen, ergibt ca. 72\u00b0C (wenn zu hei\u00df, notfalls etwas Kaltwasser nachgeben). 40 Minuten gut isoliert rasten. \r\n\r\n5l Wasser werden im L\u00e4uterbottich vorgelegt\r\n\r\nW\u00fcrzekochen:\r\nHonig, Zucker und Kandis in etwas Vorder- w\u00fcrze aufl\u00f6sen und zugeben. "
+}

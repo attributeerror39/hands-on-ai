@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Stunning Goldings No. 2",
+    "Datum": "25.03.2011",
+    "Sorte": "Bitter",
+    "Autor": "tauroplu",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 30,
+    "Farbe": 15,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Englisches Bitter mit dem typischem Johannisbeeraroma des Styrian Goldings",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 1.75,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 830,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell\u00ae",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.5,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Styrian Goldings",
+            "Menge": 26,
+            "Alpha": 4.8,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 4,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Styrian Goldings",
+            "Menge": 24,
+            "Alpha": 4.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "2 Pckg. Brewferm TOP (Ale)",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 69,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die IBU Werte wurden mit Earls Hopfenrechner f\u00fcr Profis ermittelt. Ich verwende Pellets. - Nachisomerisierungszeit: 15 Min. -"
+}

@@ -1,0 +1,78 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hopfenzwerg",
+    "Datum": "23.02.2018",
+    "Sorte": "Pale Ale",
+    "Autor": "realholgi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 7.5,
+    "Bittere": 44,
+    "Farbe": 15,
+    "Alkohol": 2.9,
+    "Kurzbeschreibung": "Hopfenaromatisches Session Pale Ale im NEIPA Style mit wenig Alkohol",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 1.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Roggenmalz",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CaraPils",
+            "Menge": 680,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 76,
+    "Rasten": [
+        {
+            "Temperatur": 72,
+            "Zeit": 45
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10,
+    "Kochzeit_Wuerze": 30,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Equinox \/ HBC 366",
+            "Menge": 58,
+            "Alpha": 13.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 58,
+            "Alpha": 12,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Equinox \/ HBC 366",
+            "Menge": 22
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 40
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 50
+        }
+    ],
+    "Hefe": "Conan x WLP644 Hybrid",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 71,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Hopstand bei FlameOut <80\u00b0F f\u00fcr 30min. \r\nRestalkalit\u00e4t=0. \r\n\r\nHopen-Stopfen auf zwei Mal: Erste H\u00e4lfte der Dry-Hopfengabe gleich nach dem Bel\u00fcften und Anstellen 'reingeworfen und nach 3 Tagen den Rest f\u00fcr weitere 3 Tage.\r\n\r\nNach ca. 6 Wochen superlecker und f\u00fcr <3% alc. erstaunliches Mundgef\u00fchl."
+}

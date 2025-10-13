@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "LysBlomst Ale",
+    "Datum": "26.10.2024",
+    "Sorte": "Amber Ale",
+    "Autor": "operitivo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 40,
+    "Farbe": 30,
+    "Alkohol": 3.8,
+    "Kurzbeschreibung": "Ein kr&auml;ftiges, vollmundiges Farmhouse Ale der besonderen Art. Einfach zu brauen, da nur eine Rast und ein Hopfen. Komplexe Malzkomposition.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchner Malz",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamellmalz 150",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 300,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken (optional)",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.666666666666668,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 20,
+    "Kochzeit_Wuerze": 45,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer (optional)",
+            "Menge": 20,
+            "Alpha": 11,
+            "Zeit": 45,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Northern Brewer (Dual Use)",
+            "Menge": 13,
+            "Alpha": 11,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Northern Brewer (Dual Use)",
+            "Menge": 13,
+            "Alpha": 11,
+            "Zeit": 1,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Zacke Sternanis (optional)",
+            "Menge": 7,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Kandiszucker",
+            "Menge": 133,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Windsor ",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Recht leicht\/locker aber vollmundig. Ggf. den Bitterhopfen komplett weglassen wenn ihr es nachbraut. Aus der Malzmischung habe ich als weitere Verwertung ein sehr leckeres M&uuml;sli gebacken (Oberhitze).\r\n\r\nGebraut mit meinem Mini-Setup in der K&uuml;che."
+}

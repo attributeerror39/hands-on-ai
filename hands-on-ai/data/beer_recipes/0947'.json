@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Cordy\u2019s Weizenbock Hell",
+    "Datum": "31.08.2018",
+    "Sorte": "Weizenbock",
+    "Autor": "harplip",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.4,
+    "Bittere": 18,
+    "Farbe": 19,
+    "Alkohol": 6.7,
+    "Malze": [
+        {
+            "Name": "Weizen Hell",
+            "Menge": 4.24,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Wheat",
+            "Menge": 470,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 94,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2.35,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Vienna Barke",
+            "Menge": 240,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 24.705882352941178,
+    "Einmaischtemperatur": 40,
+    "Rasten": [
+        {
+            "Temperatur": 40,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 53,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 5.294117647058823,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 12,
+            "Alpha": 10.9,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 21,
+            "Alpha": 7.8,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Zymoferm Z034 fl\u00fcssig",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 7
+}

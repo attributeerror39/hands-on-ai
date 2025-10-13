@@ -1,0 +1,108 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bastis Hochzeitsbier",
+    "Datum": "23.11.2024",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "BRAUBERND",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 35,
+    "Farbe": 10,
+    "Alkohol": 4.6,
+    "Kurzbeschreibung": "Ein helles vollmundiges Sommerbier, frisch und perlend, leichte Fruchtaromen und deutliche Bitteraromen",
+    "Malze": [
+        {
+            "Name": "Maris Otter",
+            "Menge": 2.92,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 630,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M&uuml;nchener Malz",
+            "Menge": 420,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Pils",
+            "Menge": 250,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.333333333333332,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 68,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.166666666666668,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Columbus",
+            "Menge": 3,
+            "Alpha": 15,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 8,
+            "Alpha": 9.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Columbus",
+            "Menge": 8,
+            "Alpha": 15,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 42,
+            "Alpha": 9.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Columbus",
+            "Menge": 42,
+            "Alpha": 15,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Galayxy",
+            "Menge": 67
+        },
+        {
+            "Sorte": "Sultana",
+            "Menge": 67
+        }
+    ],
+    "Hefe": "Verdant IPA",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Ein voller Erfolg bei der Hochzeit meines Sohnes. Das Rezept hat er selbst erarbeitet, aus unseren gemeinsamen Brauerfahrungen. Es ist ein typisches NEIPA aber aber ohne das, f&uuml;r mich st&ouml;rende Weizenaroma. Dezente Fruchtaromen. Durch das Kalthopfen, 6 Tage nach beginn der Hauptg&auml;rung, sind viele Tr&uuml;bstoffe und ein deutlicher Bodensatz enthalten. Wir wollten eine Oxidation vermeiden und haben beim Abf&uuml;llen die Flaschen mit CO2 aus der Sodastream-flasche vorgesp&uuml;lt sowie oben in den G&auml;rbeh&auml;lter CO2 geblasen. Umschlauchen w&auml;re da kontraproduktiv gewesen. Aus dem Glas und vorsichtig eingie&szlig;en, dann ist es perfekt."
+}

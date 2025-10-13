@@ -1,0 +1,95 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Schokorauchstout&shy;woizadoppelbock",
+    "Datum": "25.07.2015",
+    "Sorte": "Weizenbock",
+    "Autor": "Kuttenbr\u00e4u",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 18,
+    "Bittere": 22,
+    "Farbe": 120,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Tiefschwarzer Weizendoppelbock mit deutlichen R\u00f6st- und Raucharomen. - Rezept f\u00fcr BM 20l.",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener",
+            "Menge": 1.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen hell",
+            "Menge": 2.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Rauchmalz",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Schokomalz",
+            "Menge": 270,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 670,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara dunkel",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 30.666666666666668,
+    "Einmaischtemperatur": 35,
+    "Rasten": [
+        {
+            "Temperatur": 53,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 0.6666666666666666,
+    "Kochzeit_Wuerze": 120,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch ",
+            "Menge": 33,
+            "Alpha": 3.7,
+            "Zeit": 120,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr\u00fch",
+            "Menge": 13,
+            "Alpha": 3.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Safbrew WB-06",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Dieser Sud war eigentlich nur eine Verwertung von Resten die ich von einem anderen, befreundeten Hobbybrauer geschenkt bekommen habe. Dunkel und starkt sollte es sein. \r\nEs l\u00e4sst sich geschmacklich irgendwo um Stout herum einordnen, das Weizenmalz ist aber auch noch gut erkennbar. Das Bier schmeckt nach drei Monaten Lagerung richtig gut, vorher ist es zu s\u00fc\u00df und zu malzig. \r\n\r\nDer Nachguss betrug nur 0,5l, leider lassen sich in dieser Datenbank beim entsprechenden Feld keine Kommazahlen eintragen."
+}

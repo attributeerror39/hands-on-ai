@@ -1,0 +1,74 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Schnelles Weizenbier",
+    "Datum": "20.03.2015",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Trisman",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 15,
+    "Farbe": 12,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Helles Bayrisches Weizenbier, schon nach ca. 2 Wochen gut trinkbar",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 47,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 30,
+            "Alpha": 4.2,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Hefe": "Wyeast 3638 Bavarian Wheat",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 83,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Nachisomerisierung 15 Minuten\r\n\r\nWasserwerte:\r\n\r\nCa: 22\r\nMg: 8\r\nCloride: 39\r\nSulfate: 31\r\nNatrium: 0\r\nHCO3: 0\r\n\r\n33 Liter destiliertes Wasser mit 4ml Milchs\u00e4ure, 2,6gr MgSo4 und 2,7 CaCl  behandelt.\r\n\r\n\r\nDas Bier hat ca 4 Tage f\u00fcr die Hauptg\u00e4rung gebraucht. Nach 7 Tagen wurde mit Zucker auf 6gr\/L Co2 aufkarbonisiert in Flaschen abgef\u00fcllt. \r\nNach weiteren 5 Tagen war die Nachg\u00e4rung durch und das Bier sehr gut trinkbar.\r\nMan k\u00f6nnte den Geschmack als in allen Belangen ausgewogen beschreiben. Weder zu trocken, noch zu mastig. Weder Nelke, noch Banane im Vordergrund (obwohl beides etwas vorhanden ist). Wer ein Weizenbier ohne eine extreme Ausrichtung m\u00f6chte, ist hier gut bedient.\r\n\r\n\r\nPS: Meine Anlage verdampft recht viel beim Hopfenkochen, daher die relativ hohe Gesamtwasser Menge. Das sollte jeder individuell nach seiner Anlage anpassen."
+}

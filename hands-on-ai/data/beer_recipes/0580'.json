@@ -1,0 +1,121 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bite my Ass",
+    "Datum": "02.04.2016",
+    "Sorte": "India Pale Ale",
+    "Autor": "augenzeuge",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 18,
+    "Bittere": 70,
+    "Farbe": 25,
+    "Alkohol": 7.2,
+    "Kurzbeschreibung": "Kr\u00e4ftig. Fruchtig. Wuchtig. Der Name ist Programm und kam mir nach der ersten Verkostung spontan in den Sinn.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 1.67,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraHell",
+            "Menge": 530,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.666666666666666,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Cascade",
+            "Menge": 7,
+            "Alpha": 5.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Lemondrop",
+            "Menge": 5,
+            "Alpha": 4.6,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 7,
+            "Alpha": 12.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 6,
+            "Alpha": 5.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Lemondrop",
+            "Menge": 5,
+            "Alpha": 4.6,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 14,
+            "Alpha": 12.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 6,
+            "Alpha": 5.6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Lemondrop",
+            "Menge": 5,
+            "Alpha": 4.6,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 22,
+            "Alpha": 12.9,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar Nottingham Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 68,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Ich habe den Sud aufgeteilt und die eine H\u00e4lfte nach der Hauptg\u00e4rung in NCs einer Nachg\u00e4rung unterzogen. Die andere H\u00e4lfte hat zur Nachg\u00e4rung noch ein Hopfenstopfen mit Nelson Sauvin mit 5g\/L bekommen.\r\n\r\nDas Stopfen-Bier (\"Ecstasy of Gold\" - auch hier ist der Name Programm) hat unglaubliche Aromen von Maracuja. Grapefruit ist in beiden Sorten deutlich wahrnehmbar (Cascade oder Simcoe). Hat bei Verkostungen Lobeshymnen bekommen. Der Nelson hebt das Bier auf ein ganz anderes Niveau, ohne dass das Ursprungsbier dabei verblasst."
+}

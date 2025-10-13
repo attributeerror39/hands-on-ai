@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "100perCentennial IPA",
+    "Datum": "07.01.2019",
+    "Sorte": "Kveik",
+    "Autor": "beercan",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.6,
+    "Bittere": 45,
+    "Farbe": 17,
+    "Alkohol": 6.6,
+    "Kurzbeschreibung": "Sehr leckeres fruchtiges IPA mit der Kveik Framgarden-Hefe.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.9,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Red X",
+            "Menge": 1.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 300,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenflocken",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.6,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 11,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 11,
+            "Alpha": 9.8,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 11,
+            "Alpha": 9.8,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 17,
+            "Alpha": 9.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 30,
+            "Alpha": 9.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 35
+        }
+    ],
+    "Hefe": "Kveik Framgarden",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 83,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Mein erstes Bier mit einer Kveik vergoren. \r\nDa ich sehr hartes Wasser habe, musste dieses mit Osmosewasser, Milchs\u00e4ure und Calciumsulfat aufbereitet werden. \r\nIm Endeffekt kam ich auf eine Restalkalit\u00e4t von -2.\r\nWasserwerte (Link kopieren und im Browser \u00f6ffnen): \r\nhttps:\/\/docs.google.com\/spreadsheets\/d\/e\/2PACX-1vRwXYG_1SVLrQ3tyaUImhXsWofIx8dYe7RQRn7hfiL3Md7gLXAQ9Tz-4KpFG6hSXVKGnuu2gCl2r_3j\/pubhtml?gid=1845373570&single=true\r\n\r\n\r\nNachisomerisierungszeit liegt bei mir bei knapp 10 min.\r\n\r\n"
+}

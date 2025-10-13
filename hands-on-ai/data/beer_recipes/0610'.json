@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Australisches Amber Ale",
+    "Datum": "01.08.2016",
+    "Sorte": "Amber Ale",
+    "Autor": "cubase",
+    "Klonbier": "ja",
+    "Klonbier_Original": "James Squire Amber Ale",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 35,
+    "Farbe": 32,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Mein pers\u00f6nliches Lieblingsbier aus einer kleinen Brauerei in Sydney. Rot-Braun mit leckeren R\u00f6staromen und einer Kaffeenote.",
+    "Malze": [
+        {
+            "Name": "Pale ale Malz",
+            "Menge": 2.61,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener Malz Typ 1",
+            "Menge": 650,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chrystal malt 240 EBC",
+            "Menge": 260,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chrystal malt 120 EBC",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.91304347826087,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 75
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.304347826086955,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Dr. Rudi (fr\u00fcher: Super alpha)",
+            "Menge": 17,
+            "Alpha": 12,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Williamette",
+            "Menge": 26,
+            "Alpha": 5.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Rohrzucker",
+            "Menge": 261,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Safale English ale S-04",
+    "Gaertemperatur": "18-20",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Ach ja, das originale Rezept stammt aus dem australischen Homebrewer-Forum\r\n<a href=\"http:\/\/aussiehomebrewer.com\/topic\/44576-james-squire-amber-ale\/\"<\/a>\r\n"
+}

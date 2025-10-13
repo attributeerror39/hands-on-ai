@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Belgisch Wit",
+    "Datum": "15.05.2018",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "Luke",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 14,
+    "Farbe": 6,
+    "Alkohol": 4,
+    "Kurzbeschreibung": "Traditioneller belgischer Erfrischer. Mit feinen Gew\u00fcrz- und Zitrusnoten. *by braumischung.de",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Flocken\/Rohfrucht",
+            "Menge": 1.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.363636363636363,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 71,
+            "Zeit": 15
+        }
+    ],
+    "Abmaischtemperatur": 71,
+    "Nachguss": 9.09090909090909,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Styrian Golding",
+            "Menge": 27,
+            "Alpha": 4,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "getrocknete Bitterorangenschalen",
+            "Menge": 14,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "zersto\u00dfene Koriandersamen",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Mangrove Jack's M21 Belgian Wit",
+    "Gaertemperatur": "18-25",
+    "Endvergaerungsgrad": 58,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Dieses Witbier ist sehr klassisch und ausgewogen gehalten. Es hat eine komplexe Aromenvielfalt, in der man auch die Einzelbestandteile noch gut wahrnehmen kann: Koriandernoten, komplexe Zitrusnoten, tolle belgische Hefe-Ester, Getreide.\r\nDazu ist es sehr erfrischend, mit feiner S\u00e4ure und spritziger Karbonisierung.\r\n\r\nDie Sudhausausbeute kann etwas schwanken, je nachdem welchen Weizen man verwendet. Wir gehen von 60 % Sudhausausbeute aus. Etwas mehr Sch\u00fcttung zu nehmen und ggf. sp\u00e4ter etwas zu Verd\u00fcnnen schadet diesem Bier keinenfalls.\r\n\r\nAls alternativen Hopfen kann man hier viele Sorten nehmen, da die Aromen mit der Vorderw\u00fcrzehopfung und den Gew\u00fcrzen eher dezent sind. Europ\u00e4ische Aromahopfen wie Perle, Saazer, Select, Tettnanger, East Kent Goldings,... bieten sich an.\r\n\r\nDieses Rezept verwendet eine Trockenhefe die sich bei uns bew\u00e4hrt hat. Es gibt auch noch die Gozdawa Classic Belgian Witbier, mit der es vom Charakter sehr, sehr \u00e4hnlich wird. Beide Hefen geben richtig Gas, und nach 2 Tagen ist die Sache quasi gegessen. Nat\u00fcrlich sollte man trotzdem die G\u00e4rung sorgf\u00e4ltig \u00fcberwachen. Fl\u00fcssighefen speziell f\u00fcr Witbier lohnen sich auch!\r\n\r\nNach 4-6 Wochen Lagerung schmeckt es am besten. \r\n\r\n\r\n\r\n"
+}

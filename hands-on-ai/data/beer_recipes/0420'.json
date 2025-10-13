@@ -1,0 +1,67 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Heicardo Hell I.",
+    "Datum": "11.10.2014",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "Ricardo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 25,
+    "Farbe": 7,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "frisches K\u00f6lsch (bzw. Wiess) mit einem Hauch Citrus-Aroma",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.64,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 360,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.454545454545453,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15.454545454545453,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tradition",
+            "Menge": 34,
+            "Alpha": 5.3,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 9,
+            "Alpha": 7,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Danstar Nottingham \/ SAFALE K-97",
+    "Gaertemperatur": "18",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Unser Wasser passen wir mit etwas Milchs\u00e4ure an, um auf ca. 4-5\u00b0 dH zu kommen.\r\n\r\nAlternativ k\u00f6nnen auch die Hefen Colonia F, S-33 benutzt werden. Wir waren mit der Notti aber am meisten zufrieden.\r\n[Erg\u00e4nzung Fr\u00fchling 2016: Die SAFALE K-97 ist nun unser Favorit f\u00fcr dieses Bier]\r\n\r\nMittlerweile kl\u00e4ren wir unser Heicardo Hell I. auch mit Irish Moss (10 min vor Kochende), was in Verbindung mit der Notti sehr gut funktioniert.\r\nDie dritte Ausbaustufe war bei uns die Zwangscarbonisierung. Eine Woche nach der Hauptg\u00e4rung (und Zwangskarbonisierung) schmeckte es nach unserem Geschmack noch nicht ausgereift, \u00fcbliche Biertrinker konnten aber keinen Unterschied feststellen.\r\n\r\nWir haben unser Heicardo Hell I. zur \"5. blinde Hobbybrauerverkostung\" vom Hobbybrauer-Forum (insb. Philipp) eingeschickt. Mit insgesamt 40,7 Punkten konnte dieses Bier die meisten Tester \u00fcberzeugen. Die Nachfrage nach dem Rezept beantworte ich nun hiermit ;-)\r\n"
+}

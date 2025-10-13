@@ -1,0 +1,77 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bernsteinfarbenes Weizen",
+    "Datum": "31.12.2021",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "emskopp",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 15,
+    "Farbe": 18,
+    "Alkohol": 5.2,
+    "Kurzbeschreibung": "Ein bernsteinfarbenes Hefeweizen, sch\u00f6n s\u00fcffig, leichter Malz- und Karamellgeschmack.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 2.23,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.16,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz I",
+            "Menge": 1.16,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizen Caramell",
+            "Menge": 180,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 10,
+            "Alpha": 7,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 13,
+            "Alpha": 4.3,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 3068",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 68,
+    "Karbonisierung": 7,
+    "Anmerkung_Autor": "Karbonisiert wurde in der Flasche mit Haushaltszucker, dadurch steigert sich der Alkoholgehalt um ca. 0,7% auf die angegebenen 5,2%."
+}

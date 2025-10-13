@@ -1,0 +1,104 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Nigra Noctis",
+    "Datum": "30.05.2017",
+    "Sorte": "Alkoholfreies\/-armes",
+    "Autor": "Mavro",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 9,
+    "Bittere": 30,
+    "Farbe": 200,
+    "Alkohol": 3,
+    "Kurzbeschreibung": "Ein leichtes Crossover aus einem Robust Porter und einem Milky-\/Coffee-Stout. Schwarz wie die Nacht, cremig, r\u00f6stig, schokoladig und sch\u00f6n malzig mit Toffee-Note. Das Ganze bei knapp 3% Alkohol und nicht von einem Bier mit 5-6% Alk. zu unterscheiden. Durch die Laktose entsteht eine angenehme S\u00fc\u00dfe, die dezent im Hintergrund bleibt. Mit einem dunklen und starken Schaum.",
+    "Malze": [
+        {
+            "Name": "Wiener",
+            "Menge": 1.94,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 810,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara M\u00fcnch",
+            "Menge": 250,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Aroma",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 210,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 390,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 23.157894736842106,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 56,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 75,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 12.631578947368421,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 32,
+            "Alpha": 5.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 21,
+            "Alpha": 5.2,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Laktose",
+            "Menge": 421,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Danstar Windsor Ale",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 60,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Ziel war es, ein Leichtbier zu brauen, das einem normalen Robust-Porter bzw. einem Milky-\/Coffee-Stout in nichts nachsteht. Daf\u00fcr habe ich den Maischeverlauf angepasst, die Cara-Malzanteile hoch angesetzt, Haferflocken hinzugef\u00fcgt, Lactose hinzu gegegben, mit der Danstar Windsor Ale eine niedrig verg\u00e4rende Hefe eingesetzt und die Gesamtsch\u00fcttung niedrig gehalten. Am Ende kommt wenig Alkohol mit viel Geschamck dabei heraus. \r\n\r\nDie Stammw\u00fcrze war mit Laktose 10.8 und nach der G\u00e4rung 5,3\u00b0 Plato. 2\u00b0 Plato muss man daf\u00fcr subtrahieren.\r\n\r\n10 Tage im G\u00e4reimer gelassen, dann 2 Wochen in Flaschen bei 19\u00b0 Celsius nachgegoren, dann 4 Wochen im K\u00fchlschrank. Das Bier ist dann schon sehr gut und ist in den letzten Wochen noch harmonischer geworden.\r\n\r\nDas Bier ist wirklich sehr lecker und ich bin sehr zufrieden damit.\r\n\r\n"
+}

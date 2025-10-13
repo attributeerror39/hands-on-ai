@@ -1,0 +1,86 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Schokoladen Stout",
+    "Datum": "19.04.2020",
+    "Sorte": "Milk Stout",
+    "Autor": "mlie",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.7,
+    "Bittere": 25,
+    "Farbe": 108,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Schwarz wie die Nacht, mit sch\u00f6nen karamelfarbenen feinporigen Schaum, lecker leicht s\u00fc\u00dfen, schokoladigen und karamelligen Malz Geschmack, mit gut eingebunden nicht zu hopfigen Gesamtbittere, wobei der Milchzucker es ganz weich und geschmeidig in Szene setzt, die Hefe macht ein super Stout mit leicht fruchtigen Geruch \/ einfach echt lecker lecker....",
+    "Malze": [
+        {
+            "Name": "Maris Otter Malz",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken ",
+            "Menge": 1.11,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Chokoladen Malz 600",
+            "Menge": 330,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara M\u00fcnch 120",
+            "Menge": 170,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste ",
+            "Menge": 110,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.77777777777778,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 70
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.11111111111111,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 22,
+            "Alpha": 8.6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Brewers Gold",
+            "Menge": 11,
+            "Alpha": 6,
+            "Zeit": 3,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Milchzucker",
+            "Menge": 556,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "WYEAST 1469 West Yorkshire Ale",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 69,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "10g Brewers Gold per Whirlpool bei 80\u00b0C zugegeben \/ mit 2,5 g Cassonade bruin(belg. Kandiszucker) auf Flasche 0,5l carbonisiert nach 3 Wochen Reifezeit sehr gutes Bierchen"
+}

@@ -1,0 +1,66 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Nelsons Summer",
+    "Datum": "31.10.2014",
+    "Sorte": "Pale Ale",
+    "Autor": "Nansen",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.2,
+    "Bittere": 32,
+    "Farbe": 7,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "spritziges, goldgelbes Ale mit dem vollen Nelson-Sauvin-Aroma",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.75,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz, hell",
+            "Menge": 650,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.5,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 24,
+            "Alpha": 11.8,
+            "Zeit": 75,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Nelson Sauvin",
+            "Menge": 24,
+            "Alpha": 11.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Danstar BRY-97 American West Coast",
+    "Gaertemperatur": "21",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Bier wurde begeistert getrunken. Grapefuit sticht besonders hervor. O-Ton eines Verkosters: \"Ich wusste gar nicht, wie gut ein Bier schmecken kann!\"\r\nIch habe das Rezept leicht abgewandelt auch mit der Hefe S04 probiert, aber die BRY-97 passt wesentlich besser.\r\nDie BRY sollte aber mindestens bei 20\u00b0C verg\u00e4ren. Ich hatte erst 19\u00b0 aber da brauchte Sie schon ein Weilchen um anzukommen.\r\n\r\nEdit: Inzwischen habe ich das Bier auch mit Gozdawa USWC gebraut. Das Bier schmeckt damit leicht hefig, was mir nicht so gut gef\u00e4llt. Die BRY-97 ist meine klare Empfehlung f\u00fcr dieses Bier."
+}

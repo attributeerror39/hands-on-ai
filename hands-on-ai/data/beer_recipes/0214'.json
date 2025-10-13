@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Leichter Schotte",
+    "Datum": "05.08.2012",
+    "Sorte": "Brown Porter",
+    "Autor": "BrasseriePlan58",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 35,
+    "Farbe": 66,
+    "Alkohol": 4.6,
+    "Kurzbeschreibung": "Leichtes Porter, ideal f\u00fcr den Sommer",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa\u00ae I",
+            "Menge": 35,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 120,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 10.434782608695652,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 17.391304347826086,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Fuggles",
+            "Menge": 25,
+            "Alpha": 4.5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 25,
+            "Alpha": 4.5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": "2 &frac12;",
+            "Einheit": "",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "19",
+    "Anmerkung_Autor": "Leichtes Porter, herrlich f\u00fcr den Sommer. Nicht zu schwer, wenig R\u00f6stnoten, breiter Geschmack. Werd ich auf jeden Fall wieder machen."
+}

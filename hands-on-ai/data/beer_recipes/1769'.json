@@ -1,0 +1,82 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Jugendherbergsgose",
+    "Datum": "26.02.2023",
+    "Sorte": "Sauerbier",
+    "Autor": "London Rain",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 9.5,
+    "Bittere": 10,
+    "Farbe": 5,
+    "Alkohol": 3.5,
+    "Kurzbeschreibung": "Gose mit Hibiskus und Hagebutte. Sauer und fruchtig.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 2.14,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz, hell",
+            "Menge": 990,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.82,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 14.84,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 9,
+            "Alpha": 8,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Hagebuttentee",
+            "Menge": 280,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Koriandersamen",
+            "Menge": 16,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Salz",
+            "Menge": 12,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Irish Moos",
+            "Menge": 2,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Danstar Nothingham Ale",
+    "Gaertemperatur": "19",
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Idee\r\nFast jeder erinnert sich bestimmt an Klassenfahrten in Jugendherbergen mit Edelstahlkannen voller Hagebuttentee. Darauf spielt der Name an. Urspr\u00fcnglich hatte Raimund (ein Essener Ex-Hobbybrauerkollege) die Rezeptidee. Mark und ich haben das Rezept seitdem immer wieder - nahezu unver\u00e4ndert - nachgebraut, weil es uns so gut gef\u00e4llt.\r\n\r\nIch glaube, die urspr\u00fcngliche Idee war auch von dem hier schon lange ver\u00f6ffentlichten \u201cEin M\u00e4nnlein steht im Walde..\u201d-Rezept (https:\/\/www.maischemalzundmehr.de\/index.php?inhaltmitte=rezept&id=724) inspiriert, aber die Hagebuttengabe wurde durch ein Versehen beim Berechnen um eine Gr\u00f6\u00dfenordnung erh\u00f6ht. Dabei ist es dann ungef\u00e4hr auch geblieben.\r\n\r\nDas Bier soll sommerlich leicht, frisch und fruchtig sein.\r\n\r\nParameter\r\n9,5 \u00b0P \/ 3,5 % \/ 10 IBUs \/ 5 EBC \/ CO2 6,5 g\/l\r\nSch\u00fcttung: 65% PiMa \/ 30 % Weizenmalz, hell \/ 5% Haferflocken\r\n\r\nWasser\r\nZum Berechnen meines Wasserprofils nutze ich Bru'n Water. Ich habe versucht Sulfate und Chloride entsprechend dem \u201cYellow Balanced\u201d-Profil zu erreichen. Eingestellt habe ich folgendes Ionenprofil: Ca 103 ppm, Mg 5 ppm, Na 19 ppm, SO4 75 ppm, Cl 60 ppm. Ergibt ein Sulfat-Chlorid-Verh\u00e4ltnis von 1,2. Am Ende ist das Wasserprofil bei dem Bierstil aber sicherlich eher unwichtig.\r\n\r\nAchtung: Das enth\u00e4lt noch nicht das Salz (NaCl), was zum Rezept geh\u00f6rt, aber erst beim Kochen hinzugegeben wird.\r\n\r\nDen Maische-pH habe ich auf 5,2 eingestellt (das darf ruhig ein bisschen niedriger als bei \u201cnormalen Bieren\u201d sein), den des Nachgusswassers auf 5,5.\r\n\r\nSiehe auch:\r\nhttps:\/\/www.homebrewersassociation.org\/forum\/index.php?topic=28139.0\r\n\r\nMaischen\r\nEinfache Kombirast: Eine Stunde bei 67 \u00b0C.\r\n\r\nKettle Souring\r\nNun kommt der Teil, der das Bier ausmacht, und weswegen ich das Rezeptschreiben so lange aufgeschoben habe. Ich bin n\u00e4mlich absolut kein Experte im Thema Sauerbier und Kettle Souring und kann das hier nicht in aller Tiefe erkl\u00e4ren. Vielleicht reicht aber ein bisschen \u00dcbersicht und eine ganz konkrete Anleitung, wie wir es gemacht haben, mit dem Ansporn, euch selbst an anderer Stelle im Detail schlau zu lesen.\r\n\r\nEin sehr guter Einstieg dazu ist sicher \u201cMilk the Funk\u201d:\r\nhttps:\/\/www.milkthefunk.com\/wiki\/Wort_Souring#Souring_in_the_Boiler_.28Kettle_Sour.29\r\n\r\nWir haben immer die nat\u00fcrlich vorkommende Mikroflora auf dem Malz zur S\u00e4uerung benutzt. Dazu machen wir einen Starter aus 1-1,5 Liter Wasser und 2 Handvoll (ungeschrotetem!) Pilsner Malz. Dies lassen wir 48 Stunden (vor dem Brautag!) vor einer Heizung s\u00e4uern. Diese Menge war f\u00fcr 40 Liter Bier. Es empfiehlt sich, mehr als einen Starter anzusetzen. Es sollte dann feins\u00e4uerlich in Richtung  Sauerkraut riechen - auf keinen Fall nach Kl\u00e4ranlage oder sonst wie unangenehm. Wenn es euch sensorisch nicht zusagt, verwerft es lieber und nimmt den Backupstarter.\r\n\r\nZur\u00fcck zum Brautag:\r\nNach dem L\u00e4utern sollte die W\u00fcrze 10 Minuten gekocht\/sterilisiert werden - noch ohne Hopfen! Sollte ein Verd\u00fcnnen n\u00f6tig sein, um auf die Zielstammw\u00fcrze zu kommen, w\u00e4re jetzt der richtige Zeitpunkt.\r\n\r\nDanach k\u00fchlt ihr die W\u00fcrze auf 45 \u00b0C ab und haltet sie in einem - m\u00f6glichst genau passenden - Thermoport bei dieser Temperatur. Gebt den Milchs\u00e4urestarter dazu und flutet den Kopfraum mit CO2. Die Oberfl\u00e4che kann zus\u00e4tzlich auch noch mit Klarsichtfolie abgedeckt werden. Man will Sauerstoffeintrag m\u00f6glichst vermeiden. \r\n\r\nJetzt benutzt ihr entweder ein pH-Meter, um es bis zum gew\u00fcnschten S\u00e4uregehalt zu s\u00e4uern. Wenn man das nicht hat, geht es auch einfach immer wieder zu probieren: \u201cSour-to-taste\u201d. Das dauert so 24 - 48 Stunden. Wir haben ein sehr einfaches China-pH-Meter benutzt.\r\n\r\nHier gibt es eine gute \u00dcbersicht \u00fcber den S\u00e4ureeindruck eines bestimmten pH-Wertes:\r\nhttp:\/\/www.homebrewtalk.com\/showpost.php?p=7926750&postcount=3 \r\n\r\nSo als grobe Handgabe:\r\nBeim ersten Brauen waren wir nach knapp 48 Stunden nach Startergabe bei einem pH-Wert von 3,4. Beim zweiten Mal nach 36 Stunden bei einem pH-Wert von 3,3. Das empfinden wir als knackig sauer - aber genau passend. Ich denke, der pers\u00f6nliche Geschmack ist da sehr unterschiedlich.\r\n\r\nPre-Souring und alternative Lacto-Quellen\r\nWas wir nie gemacht haben, was sich aber eigentlich empfiehlt, da die W\u00fcrze dann unempfindlicher gg\u00fc. ungewollten Mikroorganismen ist: Man kann die W\u00fcrze vor Sauerstartergabe auf einen pH-Wert von 4,9-4,5 vors\u00e4uern - etwa mit 80%iger Milchs\u00e4ure. Dies sollte auch die ben\u00f6tigte Zeit der Milchs\u00e4ureg\u00e4rung verringern.\r\nSiehe:\r\nhttps:\/\/byo.com\/article\/overnight-acidification\/ -> Pre-acidification\r\nhttps:\/\/byo.com\/article\/gose-a-modern-take-on-an-ancient-style\/ -> Lowering the pH (nur f\u00fcr Digital-Abonenten)\r\nhttps:\/\/www.milkthefunk.com\/wiki\/Wort_Souring#How_to_Pre-Acidify\r\n\r\nMan kann auch andere Dinge als Lacto-Quelle nutzen. Es gibt von den g\u00e4ngigen Hefeherstellern auch reine Lacto-Kulturen zu kaufen.\r\nF\u00fcr ein dunkles Bier haben wir auch schon mal Yakult genutzt (6 Fl\u00e4schen rotes Yakult auf 11 Liter mit 17,5 \u00b0P. )\r\nZu Yakult siehe auch:\r\nhttps:\/\/hobbybrauer.de\/forum\/viewtopic.php?p=282120#p282120\r\nhttps:\/\/hobbybrauer.de\/forum\/viewtopic.php?p=299183#p299183\r\n\r\nAuch noch erw\u00e4hnt sei die Variante, ganz auf Kettle Souring zu verzichten und nur mit Milchs\u00e4ure zu s\u00e4uern: \u201cSchummelgose\u201d. Dies produziert eine flachere, eindimensionalere S\u00e4ure - ist aber nat\u00fcrlich prozesstechnisch wesentlich einfacher umzusetzen.\r\nSiehe:\r\n- https:\/\/www.maischemalzundmehr.de\/index.php?id=777&inhaltmitte=recipe\r\n- Bier erleben, Oliver Wesseloh, rororo, Seite 231: Gose von Fritz W\u00fclfing\/Ale-Mania\r\n\r\nKochen: Hopfen\/Tee\/Salz\r\nNachdem ihr nun, wie auch immer, die fertig ges\u00e4uerte W\u00fcrze produziert habt, geht es nun ganz normal mit dem Kochen weiter. Der gew\u00e4hlte Hopfen sorgt nur f\u00fcr eine sehr geringe Grundbittere - welche Sorte ist vermutlich relativ unerheblich.\r\n\r\nEntscheidend hingegen ist der Tee. Wir haben \u201cTeekanne Hagebutte\u201d verwendet. Der enth\u00e4lt insbesondere keine Aromastoffe, sondern nur Hagebutten und Hibiskus.\r\nhttps:\/\/www.teekanne.de\/shop\/de-de\/hagebutte-familienpackung.html \r\nEin Teebeutel hat 3,5 Gramm. Wir dosieren mit 14g\/l. Alle Schildchen m\u00fcssen vorher abgeschnitten werden und die Beutel k\u00f6nnen geb\u00fcndelt zusammengebunden werden. Das sind wirklich viele Teebeutel! Auf 40 Liter hatten wir 160 Beutel \u00e0 3,5 g. Der Geschmack ist sehr intensiv - und wie gesagt aus einer \u00dcberdosierung entstanden. Uns gef\u00e4llt das genau so, aber hier kann man sicher auch selbst experimentieren.\r\n\r\nKoriandersamen: Die sollten m\u00f6glichst frisch und m\u00f6glichst indisch sein. Noch im Ganzen sollten sie bei mittelhoher Hitze in einer Pfanne ohne Fett trocken anger\u00f6stet werden, ohne zu verbrennen. Wenn es intensiv wie \u201cFanta Orange\u201d riecht, ist es gut. Dann am besten noch kurz anm\u00f6rsern.\r\n\r\nZu den 0,8 g\/l Koriandersamen kommen auch noch 0,6 g\/l Salz. Wir haben \u201crosanes Himalayasalz\u201d genommen, weil es so sch\u00f6n zu der Farbe passte. Geschmacklich ist das aber vollkommen egal. Es sollte einfach jodfrei - und m\u00f6glichst ohne irgendwelche Rieselhilfenzus\u00e4tze sein.\r\n\r\nG\u00e4rung\r\nWir haben immer die \u201cDanStar\/Lallemand\/LalBrew Nottingham Ale\u201d genutzt. Ich k\u00f6nnte mir aber auch gut die \u201cFermentis SAFALE K-97\u201d vorstellen.\r\nDiese benutze ich auch bei meinem \u201cIt\u2019s a Girl!\u201d-Rezept:\r\nhttps:\/\/www.maischemalzundmehr.de\/index.php?id=920&inhaltmitte=rezept\r\n\r\nEine weitere Variante zum Kessels\u00e4uern w\u00e4re das Verwenden der \u201cWildBrew Philly Sour\u201d-Hefe, die direkt auch S\u00e4ure mitproduziert, wie bspw. hier beim \u201cRed 'n Black - Black Currant Philly Sour\u201d-Rezept: https:\/\/www.maischemalzundmehr.de\/index.php?id=1646&inhaltmitte=rezept \r\n\r\nVariante\r\nEine ebenfalls erprobte, alternative Variante ist eine Himbeergose. Dazu bleibt alles gleich, nur der Tee wird weggelassen. Stattdessen kommen nach dem Abschluss der Hauptg\u00e4rung TK-Himbeeren hinzu. 2,5 kg auf 40 Liter, also 62,5 g\/l. Zu dem Verfahren mit den Himbeeren siehe das im Abschnitt \u201cG\u00e4rung\u201d verlinkte \u201cIt\u2019s a Girl!\u201d-Rezept."
+}

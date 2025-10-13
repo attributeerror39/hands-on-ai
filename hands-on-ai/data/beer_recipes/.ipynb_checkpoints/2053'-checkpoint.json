@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Rocket Man",
+    "Datum": "20.12.2024",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "Brauwerk 76",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.6,
+    "Bittere": 40,
+    "Farbe": 15,
+    "Alkohol": 5.6,
+    "Kurzbeschreibung": "Dieses Amerikanische Pale Ale ist mit intensiver Hopfenaromatik durch besonders sp&auml;te Hopfengabe!Fruchtig und mit einer feinen stabilen Schaumkrone.Das Rezept stammt von MashCamp und ist speziell f&uuml;r die Einkocherklasse definiert.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.48,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M&uuml;nchner Malz",
+            "Menge": 430,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 170,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.304347826086955,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Centennial",
+            "Menge": 8,
+            "Alpha": 10,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 11,
+            "Alpha": 8.5,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 11,
+            "Alpha": 10,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 16,
+            "Alpha": 13.2,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 20
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 20
+        }
+    ],
+    "Hefe": "1xLiberty Bell oder 1xWyeast 1056 American Ale",
+    "Gaertemperatur": "18-21",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Der Hopstand mit 18g Amarillo und 18g Centennial wird 10 Minuten nach Kochende zugegeben und f&uuml;r 30 Minuten ziehen lassen bzw w&auml;hrend der W&uuml;rzek&uuml;hlung auf 80&deg;C.\r\n\r\nDer Stopfhopfen Citra und Centennial wird nach der Hauptg&auml;rung zugegeben f&uuml;r 2-3 Tage."
+}

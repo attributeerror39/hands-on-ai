@@ -1,0 +1,86 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Champagnerweizen-Doppelbock",
+    "Datum": "05.07.2020",
+    "Sorte": "Weizenbock",
+    "Autor": "Hopfenfl\u00fcsterer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 21.5,
+    "Bittere": 22,
+    "Farbe": 22,
+    "Alkohol": 8.5,
+    "Kurzbeschreibung": "Tolles ausgefallenes Bier, eignet sich hervorragend als Alternative beim Sektempfang.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 3.3,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.04,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 260,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.652173913043478,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.304347826086955,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 13,
+            "Alpha": 10,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mittelfr\u00fch",
+            "Menge": 10,
+            "Alpha": 8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Rohrzucker",
+            "Menge": 478,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Kitzinger Sekt Trockenhefe",
+            "Menge": 9,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "WB 06",
+    "Gaertemperatur": "17-20",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Das Rezept wurde von der Seite \"meinsudhaus\" \u00fcbernommen und sollte in diesem Archiv auf keinen Fall fehlen.\r\n\r\nDie erste G\u00e4rung mit der WB06 wird bis zum Ende der G\u00e4raktivit\u00e4t gef\u00fchrt (ca. 4-5 Tage). F\u00fcr den ersten G\u00e4rungsdurchgang sollte hinsichtlich der Temperatur beachtet werden:\r\n\r\neine etwas h\u00f6here Anstelltemperatur f\u00f6rdert die Esterproduktion, verbessert somit das typische Wei\u00dfbier-Aroma\r\neine etwas niedriegere Anstelltemperatur f\u00fchrt zu einer langsameren G\u00e4rung und somit zu einer besseren Kl\u00e4rung - weniger (inaktive) Wei\u00dfbierhefe, wenn die Champagnerhefe arbeitet\r\nObtimal w\u00e4re eine h\u00f6here Anstelltemperatur von 22\u00b0C und ein Abk\u00fchlen auf ca. 17\u00b0C ab dem 3. Tag.\r\n\r\nJe blanker das Jungbier nach der ersten G\u00e4rung ist, desto weniger WB06-Hefe nimmt man f\u00fcr die zweite G\u00e4rung mit. Auf Grund des hohen zu erwartenden Alkoholgehalts kann es zu Autolyse der WB06 kommen (die Hefezellen platzen auf) und das Wei\u00dfbier erh\u00e4lt einen unangenehmen hefigen (Gel\u00e4ger-)Geschmack.\r\n\r\nNachdem Ende der ersten G\u00e4rung zieht man vorsichtig das Jungbier in einen 2. G\u00e4rbottich ab und gibt f\u00fcr die zweite G\u00e4rung die Champagnerhefe hinzu. Die Champagnerhefe ist alkohol-resistenter und verg\u00e4rt den restlichen Zucker.\r\n"
+}

@@ -1,0 +1,119 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Roy'l Black",
+    "Datum": "18.09.2017",
+    "Sorte": "Imperial Stout",
+    "Autor": "dadr",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20,
+    "Bittere": 50,
+    "Farbe": 212,
+    "Alkohol": 7.5,
+    "Kurzbeschreibung": "Imperial Stout, s\u00fc\u00df und cremig, 1. Platz beim Camba Hobbybrauerwettbewerb 2017",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 3.25,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraAroma",
+            "Menge": 790,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner Typ II",
+            "Menge": 650,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 650,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 650,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Chocolat",
+            "Menge": 330,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste",
+            "Menge": 190,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.18181818181818,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12.727272727272727,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Herkules",
+            "Menge": 17,
+            "Alpha": 19.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 10,
+            "Alpha": 9.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Brewers Gold",
+            "Menge": 14,
+            "Alpha": 6.8,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 14,
+            "Alpha": 7.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Brewers Gold",
+            "Menge": 14,
+            "Alpha": 6.8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Dunkler Muscovado",
+            "Menge": 400,
+            "Einheit": "g",
+            "Kochzeit": 0
+        },
+        {
+            "Name": "Hefenahrung",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Safale S-04",
+    "Gaertemperatur": "20-22",
+    "Endvergaerungsgrad": 64,
+    "Karbonisierung": 4.2,
+    "Anmerkung_Autor": "R\u00f6stgerste fein gehackt erst beim Aufheizen auf Abmaischtemperatur dazugeben.\r\nNachisomerisierungszeit 30min.\r\nLieber etwas k\u00fchler anstellen und Temperatur erh\u00f6hen. Sonst reicht auch der \u00fcbliche 1\/3 Steigraum nicht.\r\n\r\nLagerzeit min. 5 Monate. Davor hatte ich keinen ordentlichen Schaum.\r\n\r\nNachtrag: Bitte G\u00e4rbottich max. zur H\u00e4lfte f\u00fcllen!\r\n\r\nNamens\u00e4nderung aus gegebenem Anlass. "
+}

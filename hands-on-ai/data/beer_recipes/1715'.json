@@ -1,0 +1,67 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "American PaleAle",
+    "Datum": "14.09.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "Timber91",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 40,
+    "Farbe": 22,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Ein s\u00fcffiges PalAle welches fruchtig, aber nicht allzu stark gehopft ist! Ein  PaleAle f\u00fcr jedermann.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara M\u00fcnch",
+            "Menge": 200,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 1
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 11,
+            "Alpha": 12.7,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 25,
+            "Alpha": 5.5,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 25,
+            "Alpha": 5.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale US-05",
+    "Gaertemperatur": "18-20"
+}

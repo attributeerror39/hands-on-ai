@@ -1,0 +1,81 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "9-Darter Pale Ale",
+    "Datum": "27.02.2015",
+    "Sorte": "Pale Ale",
+    "Autor": "Mastersergeant180",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 30,
+    "Farbe": 12,
+    "Alkohol": 4.5,
+    "Kurzbeschreibung": "Mildes, hopfiges nicht zu bitteres Pale Ale das ich so aus Austin kenne und lange nach den Einzelheiten des Rezept Fragen musste.",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.33,
+    "Einmaischtemperatur": 66,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.41,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Amarillo",
+            "Menge": 21,
+            "Alpha": 8.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 7,
+            "Alpha": 8.9,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Motueka",
+            "Menge": 7,
+            "Alpha": 7.2,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Motueka ",
+            "Menge": 20,
+            "Alpha": 7.2,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Safale US 05",
+    "Gaertemperatur": "19",
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Die 1g\/L Motueka (hier 20g) am Schluss des W\u00fcrzekochen gebe ich in den Whirlpool nach einem abk\u00fchlen auf ca 94 Grad. Durch dieses Bier bin ich erst auf Craft Biere gekommen und habe mich dann nach einiger Zeit dazu entschieden selbst zu Brauen. "
+}

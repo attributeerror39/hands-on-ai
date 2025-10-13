@@ -1,0 +1,54 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "M\u00fcnchner Ale",
+    "Datum": "14.03.2023",
+    "Sorte": "Brown Ale",
+    "Autor": "hiasl",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 25,
+    "Farbe": 36,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "Ein schnelles Bier, gebraut f\u00fcr den TTO der HBCon 2023. 100 % M\u00fcnchner Malz (24 EBC), gute Drinkability und wenig Zeit f\u00fcr die Reifung waren der Hintergrund.",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 5.06,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 24,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 2,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 17,
+            "Alpha": 9.9,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 37,
+            "Alpha": 9.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Lallemand BRY-97 West Coast Ale",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Gebraut im Braumeister 10 L, kaum \u00dcberschw\u00e4nzen, quasi nur Vorderw\u00fcrze.\r\nVergoren im Speidel G\u00e4rfass, nach Ende der G\u00e4rung umgeschlaucht in Keg. ca. 1,2 Liter Speise zugegeben (Isotherm bei 65 \u00b0C 100 % M\u00fcnchner gemaischt, 13 \u00b0P), 30 min W\u00fcrzekochen mit ein paar Pellets Perle. 2 Wochen Nachg\u00e4rung bei 22 \u00b0C, Spunden auf 4,5 g\/l CO2. 1 Woche Kaltreifung bei 6 \u00b0C (Naturk\u00e4lte, besser w\u00e4ren 1-2 \u00b0C im K\u00fchlschrank). Umdr\u00fccken."
+}

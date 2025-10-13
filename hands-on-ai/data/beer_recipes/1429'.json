@@ -1,0 +1,132 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ipa Nr 28",
+    "Datum": "17.02.2021",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "rudis",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 18,
+    "Bittere": 56,
+    "Farbe": 30,
+    "Alkohol": 7.3,
+    "Kurzbeschreibung": "IPA mit fruchtigem Geruch und feiner tropische Note Mango und Pfirsich. Geschmacklich stehen fruchtig-tropische Aromen in den Vordergrund: Pfirsich, Litschi und Mango. im Abgang aber gut ausbalanciert.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 4.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchener",
+            "Menge": 1.69,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara hell",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Cara Aroma",
+            "Menge": 100,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Rohrzucker",
+            "Menge": 440,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 30,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 65,
+            "Zeit": 90
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 5,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": " Fuggels",
+            "Menge": 21,
+            "Alpha": 4.9,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Fuggels",
+            "Menge": 21,
+            "Alpha": 4.9,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Waimea",
+            "Menge": 23,
+            "Alpha": 15.3,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "North. Brewers",
+            "Menge": 13,
+            "Alpha": 10.6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 13,
+            "Alpha": 9.6,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggels",
+            "Menge": 9,
+            "Alpha": 4.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Waimea",
+            "Menge": 9,
+            "Alpha": 15.3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": " Amarillo",
+            "Menge": 6,
+            "Alpha": 9.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Zirbensp\u00e4ne",
+            "Menge": 11,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Best West USA OG Ale und Abby-Hefe Safale BE-256",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 5,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "der 1. Versuchsdrunk war nach 2 Monaten, noch unreif! der 2 Versuch nach 4 Monaten, noch relativ herb! Dezember 2020 da war die Sache richtig rund, sehr fruchtig, dezenter herber anklang, im Februar 2021 dann die letzte Flaschen, das Bier kam sogar bei den Frauen an!"
+}

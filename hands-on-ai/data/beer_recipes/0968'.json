@@ -1,0 +1,71 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "MANDARINA OVERDOSE",
+    "Datum": "08.10.2018",
+    "Sorte": "Pale Ale",
+    "Autor": "BEERSERKER",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 20,
+    "Farbe": 10,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Goldgelbes SMASH Pale Ale gebittert auf ungef\u00e4hr 20 IBU mit insgesamt 12,5g Mandarina Bavaria pro Liter Bier.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 5,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16.363636363636363,
+    "Einmaischtemperatur": 74,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.909090909090908,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 9,
+            "Alpha": 8.9,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 27,
+            "Alpha": 8.9,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 91,
+            "Alpha": 8,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 9
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 91
+        }
+    ],
+    "Hefe": "Safale S-04",
+    "Gaertemperatur": "17",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Zum ersten Mal gestopft wird wie bei einem NEIPA w\u00e4hrend der Hauptg\u00e4rung mit 10g Hopfen, dann noch einmal danach mit 100g f\u00fcr 5 Tage. Vor dem Abf\u00fcllen \u00fcber Monofilament umschlauchen ! "
+}

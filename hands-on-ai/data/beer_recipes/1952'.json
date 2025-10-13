@@ -1,0 +1,103 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "[G].br&auml;u - Sommerkraut",
+    "Datum": "07.03.2024",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "Kaptn_tom",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11.5,
+    "Bittere": 25,
+    "Farbe": 11,
+    "Alkohol": 4.7,
+    "Kurzbeschreibung": "F&uuml;r den Jurywettbewerb der HBCon 2024 gebraut. Leichtes, helles Sommerbier mit moderater Hopfenbittere und Hopfenaromen nach Citrus und Kr&auml;utern, die wunderbar zur Lindenbl&uuml;te und Zitronenthymian passen.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 1.82,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 800,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CARAPILS",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.454545454545453,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 25
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 14.545454545454547,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Mittelfr&uuml;her",
+            "Menge": 17,
+            "Alpha": 4.1,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Hallertauer Mittelfr&uuml;her",
+            "Menge": 14,
+            "Alpha": 4.1,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 13,
+            "Alpha": 13,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 27,
+            "Alpha": 7,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Zitronenthymian",
+            "Menge": 18,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Lindenbl&uuml;te",
+            "Menge": 13,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 76,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Nachdem die G&auml;rung fast durch war f&uuml;r 5 Tage mit Zitronenthymian und Lindenbl&uuml;te gestopft. Die Kr&auml;uter unbedingt in einem Hopfensocken o.&auml;. hinzu geben, sonst macht das Abf&uuml;llen keinen Spa&szlig;.\r\nMit der Dosierung der Kr&auml;uter vorsichtig sein und an den pers&ouml;nlichen Geschmack heran tasten. Ich habe bei meinen Versuchen die Dosierung zwei Mal verringert, bis es f&uuml;r meinen Geschmack ausgewogen war und mit dem Hopfen harmoniert hat. "
+}

@@ -1,0 +1,84 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Summertime Pale Ale",
+    "Datum": "05.10.2014",
+    "Sorte": "Pale Ale",
+    "Autor": "Hopfenfreund",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.8,
+    "Bittere": 37,
+    "Farbe": 23,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Frisches Pale Ale mit angenehmer Bittere und fruchtig grasiger Hopfennote",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 2.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz II",
+            "Menge": 2.4,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 28.799999999999997,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 76,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 4,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Magnum (Pellets)",
+            "Menge": 13,
+            "Alpha": 14.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings (Dolden)",
+            "Menge": 6,
+            "Alpha": 6.9,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings (Dolden)",
+            "Menge": 19,
+            "Alpha": 6.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Fuggles (Dolden)",
+            "Menge": 26,
+            "Alpha": 6.4,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Fermentis Safale S-04",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Das Wasser wurde auf 0\u00b0dH Restalkalit\u00e4t mit Milchs\u00e4ure eingestellt. Der pH-Wert der Maische lag damit bei 5,4. Das Pale Ale wurde mit einer Malzrohranlage gebraut, was die geringe Menge f\u00fcr den Nachguss erkl\u00e4rt. F\u00fcr R\u00fchranlagen sollte das Verh\u00e4ltnis Hauptguss \/ Nachguss entsprechend ver\u00e4ndert werden."
+}

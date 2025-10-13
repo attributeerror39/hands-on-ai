@@ -1,0 +1,104 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Red Marry\u00b4s Ale",
+    "Datum": "06.01.2016",
+    "Sorte": "India Pale Ale",
+    "Autor": "OnkelBernd",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 45,
+    "Farbe": 33,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "r\u00f6tliches IPA mit Rosmarin und tropisch fruchtigen Hopfenaromen",
+    "Malze": [
+        {
+            "Name": "Red X",
+            "Menge": 1.99,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 1.6,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Red",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.852813852813853,
+    "Einmaischtemperatur": 61,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.341991341991342,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 22,
+            "Alpha": 10.5,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Summer",
+            "Menge": 17,
+            "Alpha": 4.5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Summer",
+            "Menge": 17,
+            "Alpha": 4.5,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Rosmarin (gehackt, frisch)",
+            "Menge": 13,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Summer",
+            "Menge": 52
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Rosmarin (gehackt, frisch)",
+            "Menge": 6,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "15-18",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 5.2,
+    "Anmerkung_Autor": "-frische Rosmarinzweige nehmen\r\n-\"Bl\u00e4tter\" vom Stengel trennen und hacken\r\n-Gewichtsangabe bezieht sich auf die Bl\u00e4tter ohne Stengel\r\n-Stopfrosmarin mit Whisky desinfizieren, Whisky mit zugeben\r\n\r\nEs entsteht eine erstaunlich gute Harmonie aus Rosmarin und tropisch fruchtigen Hopfenaromen. Nicht zu bitter. Malzbetont und angenehm zu trinken.\r\n\r\nMein Brauwasser:\r\nHCO\u00b3-Konzentration 2,82 mmol\/l\r\nKalzium\t75 mg\/l\r\nMagnesium 5 mg\/l\r\nSulfat\t54 mg\/l\r\nChlorid\t39 mg\/l\r\nNatrium\t20 mg\/l\r\nRestalkalit\u00e4t 4.7\u00b0dH\r\n"
+}

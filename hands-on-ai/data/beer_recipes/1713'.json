@@ -1,0 +1,65 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Steel Crafted Beer",
+    "Datum": "11.09.2022",
+    "Sorte": "Pale Ale",
+    "Autor": "MattesHuSta",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17,
+    "Bittere": 20,
+    "Farbe": 7,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Mein erster eigens Rezept. Ist in meinem Umkreis sehr gut angekommen. Nicht Bitter und sehr s\u00fcffig",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 5.83,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Biscuit Malz",
+            "Menge": 870,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.391304347826086,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.782608695652172,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Ariana ",
+            "Menge": 43,
+            "Alpha": 10.7,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 13,
+            "Alpha": 5.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Mead M 05",
+    "Gaertemperatur": "20",
+    "Karbonisierung": 5.5
+}

@@ -1,0 +1,124 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "American Ale",
+    "Datum": "20.12.2020",
+    "Sorte": "Pale Ale",
+    "Autor": "Artesanal",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.4,
+    "Bittere": 52,
+    "Farbe": 16,
+    "Alkohol": 5.9,
+    "Malze": [
+        {
+            "Name": "Bohemien Pilsner",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 1.7,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Biscuit Malz",
+            "Menge": 300,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 300,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caramunch III",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstediastase ",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 52,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 74,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Simcoe",
+            "Menge": 20,
+            "Alpha": 11,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 22,
+            "Alpha": 11.6,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 30,
+            "Alpha": 11,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 55,
+            "Alpha": 11.6,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish moss",
+            "Menge": 4,
+            "Einheit": "g",
+            "Kochzeit": 15
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mosaic 13.3 %",
+            "Menge": 50
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Waldhonig ",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Wyeast 1056 American Ale XL",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 1010,
+    "Karbonisierung": 4
+}

@@ -1,0 +1,110 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Tripel Karmeliet",
+    "Datum": "11.09.2021",
+    "Sorte": "Belgisches Tripel",
+    "Autor": "Kurt",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Tripel Karmeliet",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 20,
+    "Bittere": 24,
+    "Farbe": 9,
+    "Alkohol": 8.1,
+    "Kurzbeschreibung": "Nach den verf\u00fcgbaren Informationen aus dem Netz und mittlerweile zwei Interationen, hier der aktuelle Stand des Rezepts.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 4.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenflocken",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 300,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 55,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saazer",
+            "Menge": 30,
+            "Alpha": 3.5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saazer",
+            "Menge": 20,
+            "Alpha": 3.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Styrian Golding",
+            "Menge": 30,
+            "Alpha": 5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Koriander",
+            "Menge": 10,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Orangenschale trocken",
+            "Menge": 15,
+            "Einheit": "g",
+            "Kochzeit": 5
+        },
+        {
+            "Name": "Optional: S\u00fc\u00dfholzwurzel",
+            "Menge": 5,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "WYeast 3463 Forbidden Fruit",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Online findet man viele Rezepte ohne und mit Gew\u00fcrzen (Sternanis, S\u00fc\u00dfholz, Koriander, Orangenschalen). BLAM schreibt von \"Koriander und Anderen\". Das niederl\u00e4ndische Etikett listet neben Gestenmalz, Weizenmalz, Weizen und Hafer auch Gew\u00fcrze auf. Ein franz\u00f6sisches Rezept listet zudem Zucker.\r\nDer Hopfen kommt aus der Steiermark. Ich setze auf Styrian Goldings und Saazer. Hefevergleiche konnten die Forbidden Fruit als gut passend identifizieren. Candisyrup verwendet die WLP720. Offiziell wird sie als Weinhefe gelistet, inoffiziell ist wohl aber auch eine Withefe, m\u00f6glicherweise sogar ebenfalls der Forbidden Fruit Stamm.\r\nDas Wasser sollte nicht zu hart sein und die RA auf 0\u00b0dH angepasst werden.\r\n\r\nS\u00fc\u00dfholz ist nach meinen Recherchen in der EU kennzeichnungspflichtig und somit evtl. nicht enthalten. Anis geht geschmacklich in eine \u00e4hnliche Richtung."
+}

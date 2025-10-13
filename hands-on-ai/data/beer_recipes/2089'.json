@@ -1,0 +1,103 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Himbeer Weizendoppelbock",
+    "Datum": "16.03.2025",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "funkiwi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 19.1,
+    "Bittere": 8,
+    "Farbe": 45,
+    "Alkohol": 7.7,
+    "Kurzbeschreibung": "3. Platz Bundesheimbrauspiele HBCON 2025 in Romrod - Publikumswettbewerb\r\nEin wundersch&ouml;n rotfarbenes Weizen-Fruchtbier, bei dem die S&auml;ure der Himbeeren perfekt durch die S&uuml;&szlig;e des Bieres kompensiert wird.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz Hell",
+            "Menge": 3.38,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.38,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Heidelberg Malz",
+            "Menge": 1.54,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caram&uuml;nch II",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 24.615384615384617,
+    "Einmaischtemperatur": 56,
+    "Rasten": [
+        {
+            "Temperatur": 56,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.846153846153847,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Solero",
+            "Menge": 6,
+            "Alpha": 11,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Solero",
+            "Menge": 12,
+            "Alpha": 11,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Himbeeren",
+            "Menge": 769,
+            "Einheit": "g",
+            "Kochzeit": 90
+        },
+        {
+            "Name": "Caramellsirup (80%)",
+            "Menge": 1077,
+            "Einheit": "g",
+            "Kochzeit": 1
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Himbeeren",
+            "Menge": 2308,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Wyeast 3638",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Bier wird mit per Doppelinfusionverfahren gebraucht, d.h. die H&auml;lfte des Hauptgusses wird mit der H&auml;lfe der Sch&uuml;ttung zun&auml;chst eingemaischt und dann durch alles Rasten gefahren. Anschlie&szlig;end per Mischkreuz berechnen wie warm die 2. H&auml;lfte des Hauptgusses inkl. Malz sein muss, damit wieder die Einmaischtemperatur erreicht wird. \r\nEs wurde Monin Caramellsirup verwendet, da dieser einen hohen Zuckergehalt (80%) aufweist und mit der Brauanlage ohne diese Zugabe die notwendige Stammw&uuml;rze fehlt. Der Sirup muss aber nicht endlos lange mitgekocht werden, sondern sich nur aufl&ouml;sen in der W&uuml;rze.\r\n500g Himbeeren wurden mitgekocht, 1500g Himbeeren 3 Tage nach G&auml;rungsbedinn gestopft und 5 Tage nach Zugabe wieder entfernt. Als Himbeeren kamen gefrorene Bio-Himbeeren zum Einsatz, die beim Stopfen vor der Zugabe aufgekocht wurden. \r\nAnmerkungen:\r\n(1) Die Sudhausausbeute ist bei diesem Rezept generell recht niedrig. \r\n(2) Die Himbeeren beeinflussen die Stammw&uuml;rze nicht wesentlich.\r\n(3) Warum Doppelinfusion, obwohl es gar keinen Unterschied im Hobbybraubereich machen sollte? Weil die Erfahrung nach &gt;10 Braug&auml;ngen dieses Bierstils zeigt, dass das Bier mit Einfachinfusion weniger Fruchtaromen (Banane) entwickelt und deutlich weniger rund schmeckt.\r\n(4) Wichtig: Nicht zu warm verg&auml;ren! 19-20 Grad sind optimal. "
+}

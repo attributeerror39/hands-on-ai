@@ -1,0 +1,80 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Saison de la rhubarbe",
+    "Datum": "04.11.2024",
+    "Sorte": "Saison",
+    "Autor": "pstumpf",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 20,
+    "Farbe": 6,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Belgisches Saisonbier mit Rhabarber.",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 3.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Hafer",
+            "Menge": 550,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carapils",
+            "Menge": 350,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 57,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 15,
+            "Alpha": 5.7,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 18,
+            "Alpha": 5.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Rhabarber, blanchiert",
+            "Menge": 600,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Wyeast 3724",
+    "Gaertemperatur": "25",
+    "Endvergaerungsgrad": 83,
+    "Karbonisierung": 7.5,
+    "Anmerkung_Autor": "Die angegebene Menge Rhabarber vorher kleinschneiden, ca. 2&ndash;3 Minuten in kochendem Wasser blanchieren und abgie&szlig;en.\r\n\r\nDie G&auml;rf&uuml;hrung ist bei dieser Hefe etwas ungew&ouml;hnlich.  Ich habe bei 24&deg;C angestellt und dann auf 30&deg;C (warme Wohnung im Sommer) erh&ouml;ht.  Da&szlig; die G&auml;rung an einer Stelle stockt, ist ebenfalls normal; in diesem Fall einfach warten bis zu einem EVG von &uuml;ber 80%, nicht vorher abf&uuml;llen.\r\n\r\nKarbonisiert mit Haushaltszucker, daher auch der h&ouml;here Alkoholgehalt.\r\n\r\nDas Bier braucht ca. 8 Wochen Reife im Keller, um eine gewisse Balance aus Rhabarber-, Hefe- und Malzaromen zu erreichen.  Mit zunehmendem Alter schwindet nat&uuml;rlich der Rhabarber, auch die S&auml;ure wird weniger aggressiv."
+}

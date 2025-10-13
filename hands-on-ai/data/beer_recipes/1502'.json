@@ -1,0 +1,117 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mango (Milkshake) Ale",
+    "Datum": "31.05.2021",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Flohaan",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 25,
+    "Farbe": 8,
+    "Alkohol": 6.5,
+    "Kurzbeschreibung": "Ein Bier gebraut f\u00fcr meine Freundin - die keine Biere mag, dieses aber liebt.\r\nFruchtbombe welche die drinkability von Limonade hat.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.18,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz Hell ",
+            "Menge": 820,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 640,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamellmalz Dunkel Typ II",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen Rohfrucht",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 360,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.545454545454547,
+    "Einmaischtemperatur": 74,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 72,
+    "Nachguss": 11.818181818181818,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 15,
+            "Alpha": 8.2,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 9,
+            "Alpha": 8.2,
+            "Zeit": 40,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 9,
+            "Alpha": 8.2,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Lactose (Milchzucker)",
+            "Menge": 455,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 27
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Mango TK St\u00fccke",
+            "Menge": 909,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Mango TK St\u00fccke",
+            "Menge": 909,
+            "Einheit": "g"
+        },
+        {
+            "Name": "ggf. Lactose ",
+            "Menge": 455,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Kveik Voss",
+    "Gaertemperatur": "30",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Mango Milkshake habe ich f\u00fcr meine nicht Biertrinkende und -m\u00f6gende Freundin gebraut und sie liebt es.\r\nDer erste Versuch war Lactose mitzukochen und im G\u00e4rbeh\u00e4lter nochmals (aufgel\u00f6st in Wasser) zuzugeben. Mir war es zu s\u00fc\u00df, anderen nicht. Beim zweiten mal habe ich die zweite Lactosegabe weggelassen.\r\nDa die Lactose die StW ver\u00e4ndert und somit das messen erschwert werde ich in Zukunft die Lactosegabe w\u00e4hrend des Kochens lassen und nur eine nach der HG machen.\r\n\r\nGestopft wurde zuerst, gegen Ende der HG, mit zwei mal 1000g TK Mango (verteilt auf 2 Gaben um die Hefe nicht zu arg zu stressen) und dann nochmals 30g Mosaic.\r\n\r\nKveik typisch bereits nach 2 Wochen absolut lecker, mit der Zeit verliert sich das Mango aroma ein wenig, der Hopfen bleibt jedoch.\r\n\r\nMehr Bittere w\u00fcrde dem Bier sicher nicht schaden, es jedoch g\u00e4nzlich ver\u00e4ndern. Ich werde demn\u00e4chst mal eine Version mit erh\u00f6hten IBU Werten ausprobieren.\r\n\r\n\r\nWasser: Bayreuther Leitungswasser (unaufbereitet), mit 5-6\u00b0 dH Gesamth\u00e4rte; Restalkalit\u00e4t:\r\n1.1 mmol\/l (=3.2\u00b0dH)."
+}

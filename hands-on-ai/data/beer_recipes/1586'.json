@@ -1,0 +1,90 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Einfaches Winterbier",
+    "Datum": "30.11.2021",
+    "Sorte": "Frucht-, Gew\u00fcrz- und Kr\u00e4uterbiere",
+    "Autor": "aedi",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.5,
+    "Bittere": 30,
+    "Farbe": 30,
+    "Alkohol": 5.9,
+    "Kurzbeschreibung": "Leichtes Winterbier mit einer winterlichen Gew\u00fcrzmischung. ",
+    "Malze": [
+        {
+            "Name": "Pale Ale",
+            "Menge": 4.68,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carafa Spez II",
+            "Menge": 150,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferlocken",
+            "Menge": 260,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15.2,
+    "Einmaischtemperatur": 65,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.399999999999999,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 10,
+            "Alpha": 14.7,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 8,
+            "Alpha": 5.1,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 7,
+            "Alpha": 5.1,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 4,
+            "Alpha": 5.1,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Gew\u00fcrzmischung f\u00fcr Gl\u00fchwein",
+            "Menge": 20,
+            "Einheit": "g",
+            "Kochzeit": 5
+        }
+    ],
+    "Hefe": "Notti Ale Yeast",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 4.8,
+    "Anmerkung_Autor": "Nun habe ich endlich (f\u00fcr mich) das perfekte Winterbier zusammengestellt... Ein einfaches Rezept f\u00fcr ein dunkleres Bier.  \r\n\r\nZuvor habe ich vier Winterbiere mit einzelnen Gew\u00fcrzen gebraut. Die Dosierung war jedoch immer zu stark, so dass das Gew\u00fcrz zu stark im Vordergrund war. Nun mit den fixfertigen Teebeuteln ist die Handhabung einfach und jedesmal gleich... Zutaten Gew\u00fcrzmischung: Zimt, Orangenschalen, \u00c4pfel, Zitronenschalen, Gew\u00fcrznelken, Kardamon.\r\n\r\nWichtig: Carafa erst nach 45 Min Maischen dazugeben; das Bier wird dadurch runder. Die 30 EBC sind gesch\u00e4tzt \r\nDie Gew\u00fcrzmischung habe ich fertig in Teebeutel gekauft, welche eigentlich f\u00fcr Gl\u00fchwein im Supermarkt zu kaufen sind. Nach dem Kochende habe ich die Beutel f\u00fcr 5 Minuten in die W\u00fcrze geh\u00e4ngt und danach wieder entfernt.\r\n\r\nDas Bier eignet sich auch zum 'Stacheln'... \r\n\r\nNachisomerisierungszeit: 15 min.\r\n\r\nNach der Flascheng\u00e4rung f\u00fcr 14 Tage in den K\u00fchlschrank bei 2\u00b0C, danach 4 Wochen Lagerung im Keller. \r\n"
+}

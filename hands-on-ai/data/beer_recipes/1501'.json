@@ -1,0 +1,73 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Ei, der Daus! London Porter",
+    "Datum": "30.05.2021",
+    "Sorte": "Brown Porter",
+    "Autor": "Kristoffer",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 22,
+    "Farbe": 158,
+    "Alkohol": 2.8,
+    "Kurzbeschreibung": "\u00c4usserst schlank was den Alkohol angeht aber komplett vollmundig im Geschmack. Das perfekte Porter f\u00fcr den Sommer. Gebraut im No Sparge BIAB Verfahren mit englischem Malz von Warminster. 2-3 Tage nach der NG angenehm trinkbar.",
+    "Malze": [
+        {
+            "Name": "Warminster Maris Otter Pale Ale",
+            "Menge": 2.13,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Warminster Crystal 150",
+            "Menge": 600,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Warminster Brown",
+            "Menge": 660,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Warminster Chocolate",
+            "Menge": 360,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 27,
+    "Einmaischtemperatur": 73,
+    "Rasten": [
+        {
+            "Temperatur": 70,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 70,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 30,
+            "Alpha": 5.3,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 20,
+            "Alpha": 5.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Hefe": "Fermentis S04 (Whithbread Strain)",
+    "Gaertemperatur": "16-19",
+    "Endvergaerungsgrad": 46,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Nach vielen Versuchen vollmundige und dennoch leichte englische Biere ohne viel Schnick Schnack zu brauen, war dieses Rezept der Portervertreter. Es ist sehr schlank im Alkoholbereich aber komplett Vollmundig im Geschmack. Man w\u00fcrde nie auf die Idee kommen, dass es nur 2,7 % Vol hat. Probiert es aus. Es ist ein klassisches englisches Porter Rezept von den Zutaten her. Viele Biere, auch Porter hatten fr\u00fcher einen niedrigen Alk. Gehalt. F\u00fcr den Sommer ist es auf jeden Fall genau das richtige.\r\n\r\nDarauf achten, dass egal wie hoch eure SHA ist, die Menge des Chocolate Malt NICHT ver\u00e4ndert wird. Passt also mit Crystal,Brown und Basismalz eure SHA an. Das Basismalz darf weiter nicht unter 50% fallen. Der Whirlpoolhopfen wird bei 65 Grad gegeben und dann 15 min ohne weitere K\u00fchlung in ruhe gelassen. Dann wird weiter auf Anstelltemperatur gek\u00fchlt!"
+}

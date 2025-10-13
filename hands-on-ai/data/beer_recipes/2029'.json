@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Strawberry Milkshake IPA",
+    "Datum": "10.10.2024",
+    "Sorte": "...au\u00dfer Kategorie",
+    "Autor": "Heisenberg ",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 18.5,
+    "Bittere": 35,
+    "Farbe": 15,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Ein sehr leckeres Bier. S&uuml;&szlig;lich wie ein Milchshake durch die zugabe von Laktose.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 4.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Helles Weizenmalz",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Helles Karamellmalz",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18,
+    "Einmaischtemperatur": 74,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 12,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Belma",
+            "Menge": 20,
+            "Alpha": 12,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Belma",
+            "Menge": 20,
+            "Alpha": 12,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Milchzucker",
+            "Menge": 500,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Erdbeerp&uuml;ree",
+            "Menge": 1500,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Belma ",
+            "Menge": 60
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 78,
+    "Karbonisierung": 6
+}

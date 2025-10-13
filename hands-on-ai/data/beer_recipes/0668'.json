@@ -1,0 +1,83 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Opal Ale",
+    "Datum": "02.01.2017",
+    "Sorte": "Pale Ale",
+    "Autor": "toni0710",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 35,
+    "Farbe": 8,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "oberg\u00e4riges Helles mit Opal und Perle.Sch\u00f6ner, stabiler Schaum und sehr lecker.",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.64,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 680,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 230,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 0
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.818181818181818,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Opal",
+            "Menge": 28,
+            "Alpha": 5.5,
+            "Zeit": 75,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 14,
+            "Alpha": 6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Opal",
+            "Menge": 15,
+            "Alpha": 5.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Nothingham Ale",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 72.3,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Lagerung 3-4 Wochen."
+}

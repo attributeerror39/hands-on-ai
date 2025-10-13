@@ -1,0 +1,75 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bierzeit Roter Matrose",
+    "Datum": "04.11.2015",
+    "Sorte": "Brown Ale",
+    "Autor": "quartermoose",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.2,
+    "Bittere": 22,
+    "Farbe": 28,
+    "Alkohol": 4.7,
+    "Kurzbeschreibung": "R\u00f6tliches Bier mit einer Spur Karamell und angenehmen Fruchtaromen.",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 3.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Melanoidinmalz",
+            "Menge": 750,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 220,
+            "Einheit": "g"
+        },
+        {
+            "Name": "CARAM\u00dcNCH II\u00ae",
+            "Menge": 100,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.521739130434781,
+    "Einmaischtemperatur": 40,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 25
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 40
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15.217391304347828,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 23,
+            "Alpha": 4.6,
+            "Zeit": 75,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 32,
+            "Alpha": 3.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Nottingham Ale",
+    "Gaertemperatur": "18",
+    "Karbonisierung": 5
+}

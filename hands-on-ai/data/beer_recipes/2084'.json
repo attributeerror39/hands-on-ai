@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Kea Summer Ale",
+    "Datum": "11.03.2025",
+    "Sorte": "Pale Ale",
+    "Autor": "Borstel",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 16,
+    "Farbe": 4,
+    "Alkohol": 4.3,
+    "Kurzbeschreibung": "Sehr helles und leichtes Sommer-Ale mit Ankl&auml;ngen von hellen, s&uuml;&szlig;en Fr&uuml;chten. \r\nInsbesondere das Melonenaroma sollte hier in den Vordergrund gestellt werden, um ein fruchtiges Leichtbier zu kreieren, was durch wenig bis kaum Hopfenbittere an ein Radler erinnert. \r\nSowohl bei Biertrinkern als auch bei wenig Bier trinkenden Frauen ist dieses fruchtig-leichte Sommerbier sehr gut angekommen.",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz extra hell",
+            "Menge": 2.86,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Carahell",
+            "Menge": 710,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.142857142857142,
+    "Einmaischtemperatur": 53,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 2
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 8.571428571428571,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 4,
+            "Alpha": 12.5,
+            "Zeit": 50,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Huell Melon",
+            "Menge": 16,
+            "Alpha": 7.4,
+            "Zeit": 0,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mosaic",
+            "Menge": 9,
+            "Alpha": 12.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mosaic",
+            "Menge": 5
+        },
+        {
+            "Sorte": "Huell Melon",
+            "Menge": 8
+        }
+    ],
+    "Hefe": "Mauribrew Draught",
+    "Gaertemperatur": "20-25",
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Letzte Hopfengabe bei flame-out.\r\nNachisomerisierungszeit: von 100&deg;C auf ca. 70&deg;C mit Tauchk&uuml;hler in etwa 15 min. \r\nStopfen nach der der Hauptg&auml;rung (2-3 Tage).\r\n\r\n"
+}

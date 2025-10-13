@@ -1,0 +1,88 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hazy IPA",
+    "Datum": "24.12.2022",
+    "Sorte": "India Pale Ale (sonstige)",
+    "Autor": "Kesselbrauer Stuttgart e.V.",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 30,
+    "Farbe": 11,
+    "Alkohol": 6.7,
+    "Kurzbeschreibung": "Ein \"schnelles\" Hazy IPA welches das Lieblingsbier beim diesj\u00e4hrigem Kesselbrauer Adventskalender war. *Kesselbrauer Stuttgart e.V.*Rezept von Dominic*",
+    "Malze": [
+        {
+            "Name": "Maris Otter ",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner ",
+            "Menge": 1.26,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 950,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner II",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen",
+            "Menge": 330,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.142857142857142,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 77,
+    "Nachguss": 13.333333333333332,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Comet",
+            "Menge": 2,
+            "Alpha": 9.5,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Simcoe",
+            "Menge": 13,
+            "Alpha": 13.4,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Mosaic 11% (Tag 3)",
+            "Menge": 52
+        },
+        {
+            "Sorte": "Citra 13,8% (Tag 3)",
+            "Menge": 26
+        },
+        {
+            "Sorte": "Simcoe 13,4% (Tag 3)",
+            "Menge": 12
+        }
+    ],
+    "Hefe": "Lallemand Verdant IPA",
+    "Gaertemperatur": "23",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "G\u00e4rung ist relativ schnell vorbei mit der Verdant IPA. (Braucht viel Steigraum). Stopfhopfen bei ca.\r\n2\/3 der G\u00e4rungszeit bei gleichzeitigem Runterk\u00fchlen auf 12\u00b0C f\u00fcr max. 3-4 Tage dann Umschlauchen und noch ein paar Tage stehen lassen.\r\n"
+}

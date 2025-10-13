@@ -1,0 +1,66 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Citra Pale Ale (CPA)",
+    "Datum": "15.01.2018",
+    "Sorte": "India Pale Ale",
+    "Autor": "andreasthissen",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 45,
+    "Farbe": 18,
+    "Alkohol": 4.3,
+    "Kurzbeschreibung": "Zitrusartiges Bier mit feiner Herbe... typisch f\u00fcr den amerikanischen Norden...",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 50,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 80
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 5,
+    "Kochzeit_Wuerze": 40,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 17,
+            "Alpha": 11.6,
+            "Zeit": 40,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 8,
+            "Alpha": 11.6,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Mandarina Bavaria",
+            "Menge": 8,
+            "Alpha": 11.6,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Citra",
+            "Menge": 33
+        }
+    ],
+    "Hefe": "Safale US05",
+    "Gaertemperatur": "18-20",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5
+}

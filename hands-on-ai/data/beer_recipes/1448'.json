@@ -1,0 +1,93 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Bananen Schoko Weizenbock",
+    "Datum": "25.03.2021",
+    "Sorte": "Weizenbock",
+    "Autor": "Marc",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15.4,
+    "Bittere": 28,
+    "Farbe": 47,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Fruchtiger Weizenbock mit sch\u00f6ner Schokoladen\/Kakau Note. Sehr lecker und s\u00fcffig. Kommt bei Weizentrinkern sehr gut an, aber auch Weizenverachter haben das Bier als sehr gut und lecker befunden. Achtung... Alkohol bemerkt man kaum...",
+    "Malze": [
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 3.04,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wiener Malz",
+            "Menge": 1.68,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 1.28,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Caraffa 2",
+            "Menge": 64,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chateau Chocolat",
+            "Menge": 64,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.6,
+    "Einmaischtemperatur": 49,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 64,
+            "Zeit": 75
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 35
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 1
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 12,
+            "Alpha": 12.4,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 10,
+            "Alpha": 5.7,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Perle",
+            "Menge": 8,
+            "Alpha": 7.5,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Whitelabs WLP 300",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 77,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Mit Zucker auf 6,5 g\/L CO2 Karbonisiert.\r\nNach 4 Wochen Kaltlagerung sehr lecker und rund. Die 4 Wochen braucht es aber auch."
+}

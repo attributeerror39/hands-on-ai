@@ -1,0 +1,98 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Mary Read",
+    "Datum": "16.09.2019",
+    "Sorte": "Robust Porter",
+    "Autor": "Spasskrapfen1",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 11,
+    "Bittere": 40,
+    "Farbe": 128,
+    "Alkohol": 4,
+    "Kurzbeschreibung": "Zartbitterschokolade und Kaffee. Ein sehr dunkles Porter mit Holzfassaromen vom Hopfen.",
+    "Malze": [
+        {
+            "Name": "Pale-Ale-Malz",
+            "Menge": 3.62,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Brownmalz",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Crystalmalz medium",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Pale Chocolate",
+            "Menge": 150,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Black Malz",
+            "Menge": 150,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11,
+    "Kochzeit_Wuerze": 75,
+    "Hopfenkochen": [
+        {
+            "Sorte": "HBC-472",
+            "Menge": 10,
+            "Alpha": 9.9,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "First Gold",
+            "Menge": 12,
+            "Alpha": 8.2,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "HBC-472",
+            "Menge": 4,
+            "Alpha": 9.9,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "First Gold",
+            "Menge": 5,
+            "Alpha": 8.2,
+            "Zeit": 30,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "HBC-472",
+            "Menge": 12,
+            "Alpha": 9.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WLP013",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 5.5
+}

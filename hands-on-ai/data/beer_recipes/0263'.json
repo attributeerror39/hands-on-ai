@@ -1,0 +1,72 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Arktischer Frost",
+    "Datum": "10.12.2012",
+    "Sorte": "India Pale Ale",
+    "Autor": "braugnom",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 60,
+    "Farbe": 12,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "Single Hop India Pale Ale - ausschlie\u00dflich mit Polaris gebraut.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 5.8,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Cara Hell",
+            "Menge": 400,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 68,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Polaris",
+            "Menge": 15,
+            "Alpha": 21.4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Polaris",
+            "Menge": 9,
+            "Alpha": 21.4,
+            "Zeit": 80,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Polaris",
+            "Menge": 6,
+            "Alpha": 21.4,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Polaris",
+            "Menge": 140
+        }
+    ],
+    "Hefe": "Danstar Nottingham",
+    "Gaertemperatur": "16-18",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Gestopft habe ich das Bier f\u00fcr 7 Tage mit 7g\/l.\r\nDas Bier schmeckt lecker und f\u00fcr ein IPA sehr frisch, allerdings kann ich beim besten Willen kein Eisbonbon im Geschmack finden. Den Namen f\u00fcr das Bier hatte ich mir ja in Anlehnung an den zu erwartenden Eisbonbongeschmack ausgedacht. Daher ist das Bier f\u00fcr mich ein leichte Entt\u00e4uschung, aber wenn man nicht mit dieser Erwartung an das Bier geht, ist es ein sch\u00f6nes, gut trinkbares IPA mit einem interessanten Hopfen."
+}

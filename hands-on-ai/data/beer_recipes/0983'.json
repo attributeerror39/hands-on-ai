@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "G\u00f6tzner Dunkel",
+    "Datum": "29.10.2018",
+    "Sorte": "Dunkles Lager",
+    "Autor": "Brauwerk 76",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.7,
+    "Bittere": 25,
+    "Farbe": 40,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "Dunkles vollmundiges Bier mit feinen Malzaromen und einer sch\u00f6nen stabilen Schaumkrone.",
+    "Malze": [
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 4.24,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "R\u00f6stmalz Spezial II",
+            "Menge": 80,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 80,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 12.8,
+    "Einmaischtemperatur": 55,
+    "Rasten": [
+        {
+            "Temperatur": 63,
+            "Zeit": 40
+        },
+        {
+            "Temperatur": 70,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 73,
+            "Zeit": 10
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.399999999999999,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum Slowenien",
+            "Menge": 8,
+            "Alpha": 14.7,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Sch\u00f6re Tettnanger",
+            "Menge": 8,
+            "Alpha": 5,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Sch\u00f6re Tettnanger",
+            "Menge": 22,
+            "Alpha": 5,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Mangroves Jacks M54 Californian Lager",
+    "Gaertemperatur": "19-22",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das R\u00f6stmalz zum Ende der 2.Rast zur Maische geben!(10 Minuten vor dem Abmaischen zugeben f\u00fcr die Farbe ohne viel Malzaromen!Oder das R\u00f6stmalz von Anfang an zur Maische geben f\u00fcr ein Malzigeres Aroma.F\u00fcr ein helles einfach statt M\u00fcnchner Malz Pilsner Malz und das R\u00f6stmalz durch Wiener Malz ersetzen."
+}

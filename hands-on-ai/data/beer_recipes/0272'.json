@@ -1,0 +1,80 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Rhein'sch",
+    "Datum": "05.01.2013",
+    "Sorte": "K\u00f6lsch",
+    "Autor": "DerDennis",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.3,
+    "Bittere": 28,
+    "Farbe": 5,
+    "Alkohol": 4.9,
+    "Kurzbeschreibung": "Ein klassisches K\u00f6lsch ohne Schn\u00f6rkel - sehr hell, leicht fruchtige Noten von der Hefe, angenehme Bittere, erfrischend",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 3.68,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Helles Weizenmalz",
+            "Menge": 630,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 160,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.736842105263158,
+    "Einmaischtemperatur": 58,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 45
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15.789473684210527,
+    "Kochzeit_Wuerze": 80,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalter Select",
+            "Menge": 19,
+            "Alpha": 6.1,
+            "Zeit": 80,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 7,
+            "Alpha": 15,
+            "Zeit": 60,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": "4 &frac14;",
+            "Einheit": "",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Wyeast #2565 K\u00f6lsch",
+    "Gaertemperatur": "16-18",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 5.5,
+    "Anmerkung_Autor": "Hauptg\u00e4rung 14 Tage, danach mit Speise im Keg carbonisieren und anschlie\u00dfend bei 10\u00b0C f\u00fcr mindestens 4 Wochen lagern, auf 5,5g\/L CO\u00b2 spunden und per Gegendruckf\u00fcller auf Flaschen > ergibt ein relativ klares, erfrischendes und bemerkenswert helles Bier. Gebraut im November, hat bei mir die Weihnachtsfeiertage nicht \u00fcberlebt. Ein Bier das jedem schmeckt."
+}

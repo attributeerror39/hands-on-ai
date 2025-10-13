@@ -1,0 +1,106 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Fin del Mundo",
+    "Datum": "09.01.2018",
+    "Sorte": "Belgisches Witbier\/Blanche",
+    "Autor": "Boludo",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 19,
+    "Bittere": 19,
+    "Farbe": 5,
+    "Alkohol": 9,
+    "Kurzbeschreibung": "Triple Wit, inspiriert von Fin du Monde von Unibroue",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.14,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Weizenmalz hell",
+            "Menge": 570,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Torrified Wheat",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 290,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenrohfrucht",
+            "Menge": 1.43,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 42,
+    "Rasten": [
+        {
+            "Temperatur": 50,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 75,
+    "Nachguss": 15.428571428571429,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Styrian Golding",
+            "Menge": 57,
+            "Alpha": 3.2,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Indische Koriandersamen zersto\u00dfen",
+            "Menge": 11,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Bitterorangenschalen getrocknet",
+            "Menge": 11,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Wyeast Nutrient",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "Haushaltszucker",
+            "Menge": 571,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Wyeast 3522 Belgian Ardenne",
+    "Gaertemperatur": "20-24",
+    "Endvergaerungsgrad": 83,
+    "Karbonisierung": 7.5,
+    "Anmerkung_Autor": "Weizenrohfrucht aus dem Reformhaus nicht zu grob mahlen.\r\nBrauwasser: 100% Osmosewasser mit 150mg CaCl2 x 2 H2O und 150mg CaSO4 x 2 H2O pro Liter.\r\nSo l\u00e4utern, dass bei 16\u00b0P angestellt werden kann (in meinem Fall bis 14\u00b0P, kommt auf die Verdampfungsrate beim Kochen an).\r\nZucker in kochendem Wasser konzentriert gel\u00f6st nach ca der H\u00e4lfte der Hauptg\u00e4rung zugeben.\r\nCarbonisierung mit Traubenzucker.\r\nDas Bier hat wie das Original sch\u00f6ne Honigaromen, obwohl in beiden F\u00e4llen kein Honig enthalten ist."
+}

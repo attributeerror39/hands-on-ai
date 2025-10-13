@@ -1,0 +1,74 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Durstiges Mammut",
+    "Datum": "19.04.2011",
+    "Sorte": "Franz\u00f6sisches Ale",
+    "Autor": "muldengold",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 25,
+    "Farbe": 40,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Malzbetontes kr\u00e4ftiges Ale (biere de garde) - geringe Bittere aber nicht s\u00fcsslich wirkend",
+    "Malze": [
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 3.92,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Amber Malt",
+            "Menge": 480,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Crystal Malt",
+            "Menge": 480,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate Malt",
+            "Menge": 80,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 14.399999999999999,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Spalt Select",
+            "Menge": 16,
+            "Alpha": 4,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 14,
+            "Alpha": 10,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Spalt Select",
+            "Menge": 16,
+            "Alpha": 4,
+            "Zeit": 3,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "WYEAST #1728 Scottish Ale",
+    "Gaertemperatur": "16",
+    "Anmerkung_Autor": "Der im Rezept vorgeschlagenene Spalt Select Aromahopfen k\u00f6nnte evtl. durch eine frz. Sorte ausgetauscht werden. "
+}

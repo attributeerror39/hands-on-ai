@@ -1,0 +1,73 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Woizn",
+    "Datum": "15.11.2021",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "Heidefee",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14,
+    "Bittere": 10,
+    "Farbe": 10,
+    "Alkohol": 5.5,
+    "Kurzbeschreibung": "Goldgelbes, vollmundiges Weizen mit deutlichen Bananenaromen, das immer wieder Spa\u00df macht",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 2.11,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsnermalz",
+            "Menge": 1.7,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 110,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 13.513513513513512,
+    "Einmaischtemperatur": 46,
+    "Rasten": [
+        {
+            "Temperatur": 44,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 55,
+            "Zeit": 5
+        },
+        {
+            "Temperatur": 63,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 30
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 5
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 8.108108108108109,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Tettnanger",
+            "Menge": 16,
+            "Alpha": 4.8,
+            "Zeit": 90,
+            "Typ": "Vorderwuerze"
+        }
+    ],
+    "Hefe": "Safale WB-06",
+    "Gaertemperatur": "24",
+    "Endvergaerungsgrad": 80,
+    "Karbonisierung": 6.6,
+    "Anmerkung_Autor": "Das Sauermalz geben wir erst bei 55\u00b0C dazu.\r\n\r\nZwei Liter Speise im K\u00fchlschrank aufbewahren.\r\n\r\nDie G\u00e4rtemperatur halten wir bei 24\u00b0C, bis wir das Woizn bei 6.5 Plato umschlauchen. Ab da wird es bei 21\u00b0C zu Ende vergoren.\r\n\r\nSchmeckt nach zwei Wochen schon richtig lecker, ist jedoch bis zu 10 -12 Wochen gut trinkbar, entwickelt dann ein wenig Nelkenaroma."
+}

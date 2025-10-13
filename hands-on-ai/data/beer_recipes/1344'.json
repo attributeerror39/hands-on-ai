@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Hop Hop Hooray",
+    "Datum": "27.08.2020",
+    "Sorte": "India Pale Ale (NEIPA)",
+    "Autor": "sascha1705",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 17.2,
+    "Bittere": 12,
+    "Farbe": 9,
+    "Alkohol": 6.4,
+    "Kurzbeschreibung": "fruchtig, bewusst mit sehr geringer Bittere",
+    "Malze": [
+        {
+            "Name": "Pilsner",
+            "Menge": 2.22,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pale Ale",
+            "Menge": 980,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizen hell",
+            "Menge": 690,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenrohfrucht",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Haferflocken",
+            "Menge": 490,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.090909090909092,
+    "Einmaischtemperatur": 71,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 90
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 10.909090909090908,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Northern Brewer",
+            "Menge": 9,
+            "Alpha": 8.5,
+            "Zeit": 70,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 18,
+            "Alpha": 12.3,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        },
+        {
+            "Sorte": "Amarillo",
+            "Menge": 20,
+            "Alpha": 6.9,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Laktose",
+            "Menge": 455,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "S-04",
+    "Gaertemperatur": "19",
+    "Endvergaerungsgrad": 70,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Da ich selbst bittere IPA's, NEIPA's und co. nicht mag, hab ich mal eins gemacht, wo die Bittere sehr stark im Hintergrund ist.\r\nSehr fruchtig, leicht s\u00fc\u00df durch den Milchzucker. Hab es bereits mehrfach gebraut und es kam in meinem Umfeld sehr gut an.\r\n\r\nNachtrag:\r\nIch habe k\u00fcrzlich die Verdant IPA anstelle der S-04 genutzt. Frisch getrunken war noch ein Heferaoma vorhanden, welches allerdings nach wenigen Tagen verschwunden war und Platz f\u00fcr das fruchtige Aroma gemacht hat.\r\n\r\nIch komme zum Fazit, dass die Verdant IPA sogar noch besser ist als die S-04.\r\n\r\nBeim aktuellen Sud habe ich die Karbonisierung auf 4 g\/L gemacht. Das verleiht dem ganzen noch mehr den Charakter eines Saftes. Aber das ist Geschmackssache."
+}

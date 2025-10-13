@@ -1,0 +1,76 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Alt Tiedenheim",
+    "Datum": "18.10.2013",
+    "Sorte": "Altbier",
+    "Autor": "braugnom",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12,
+    "Bittere": 35,
+    "Farbe": 40,
+    "Alkohol": 4.8,
+    "Kurzbeschreibung": "rotbraunes, harmonisches Alt",
+    "Malze": [
+        {
+            "Name": "Pilsener Malz",
+            "Menge": 1.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CaraDunkel",
+            "Menge": 200,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Carafa II",
+            "Menge": 42,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 15,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 57,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 16,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 12,
+            "Alpha": 14.5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Hallertauer Tradition",
+            "Menge": 18,
+            "Alpha": 7.6,
+            "Zeit": 15,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast 1010 - American Wheat (Uerige Hefe)",
+    "Gaertemperatur": "18",
+    "Endvergaerungsgrad": 73,
+    "Karbonisierung": 5
+}

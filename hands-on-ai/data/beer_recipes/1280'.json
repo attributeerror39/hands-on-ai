@@ -1,0 +1,89 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Affen Bier (Kokosnu\u00df Stout)",
+    "Datum": "14.05.2020",
+    "Sorte": "Stout",
+    "Autor": "cafehuesch",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 15,
+    "Bittere": 40,
+    "Farbe": 113,
+    "Alkohol": 5.9,
+    "Kurzbeschreibung": "Achtung! Experimentierbier: ein Stout das mit reichlich Kokosnu\u00df Aromen daherkommt.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 5.2,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Melanoidin Malz",
+            "Menge": 450,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stmalz Carafa Spezial II",
+            "Menge": 340,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Hafer Flocken",
+            "Menge": 180,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 20,
+    "Einmaischtemperatur": 69,
+    "Rasten": [
+        {
+            "Temperatur": 68,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 15,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 54,
+            "Alpha": 5.5,
+            "Zeit": 60,
+            "Typ": "Vorderwuerze"
+        },
+        {
+            "Sorte": "Sabro",
+            "Menge": 21,
+            "Alpha": 14.8,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Kokosmehl",
+            "Menge": 88,
+            "Einheit": "g",
+            "Kochzeit": 30
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Sabro",
+            "Menge": 44
+        }
+    ],
+    "WeitereZutatGaerung": [
+        {
+            "Name": "ger\u00f6stete Kokosflocken",
+            "Menge": 120,
+            "Einheit": "g"
+        }
+    ],
+    "Hefe": "Safale US-05",
+    "Gaertemperatur": "17",
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "die Kokosflocken habe ich anger\u00f6stet um das \u00d6l das in den Flocken ist auszukochen. Das Kokosmehl soll auch Aroma ins Bier bringen ohne zuviel Fett ins Bier zu bringen.\r\nSabro habe ich als Aromahopfen genommen um das Kokosaroma durch die Hopfengabe zu unterst\u00fctzen.\r\nObacht: die Kokosflocken zum stopfen U N B E D I N G T in ein S\u00e4ckchen geben (ich hab`s nicht getan). Verstopft sonst alles! \r\nDie Karbonisierung mache ich \u00fcblicherweise mit Haushaltszucker, f\u00fcr dieses Bier habe ich Kokosbl\u00fctenzucker genommen.\r\n\r\nAnmerkung; das fertige Bier hatte trotz der ganzen Kokosnu\u00dfprodukte einen leichten Kokos Geschmack (also nicht zu aufdringlich). Der Schaum war erstaunlich stabil. \r\nBeim 1. Versuch habe ich als Ziel mit 50 IBU gebraut, das war mir zu bitter, das Rezept habe ich jetzt auf 40 IBU eingestellt.\r\nProst. "
+}

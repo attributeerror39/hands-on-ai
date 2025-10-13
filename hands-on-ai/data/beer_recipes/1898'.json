@@ -1,0 +1,85 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Black Stout",
+    "Datum": "22.12.2023",
+    "Sorte": "Imperial Stout",
+    "Autor": "Brauwerk 76",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.6,
+    "Bittere": 50,
+    "Farbe": 120,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Schwarzes sehr malziges Stout mit sch&ouml;ner cremiger Schaumkrone mit hohem Alkoholgehalt.",
+    "Malze": [
+        {
+            "Name": "M&uuml;nchner Malz",
+            "Menge": 2.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsner Malz",
+            "Menge": 1.5,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "R&ouml;stmalz Carafa II",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 1,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Special W",
+            "Menge": 500,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 16,
+    "Einmaischtemperatur": 60,
+    "Rasten": [
+        {
+            "Temperatur": 65,
+            "Zeit": 20
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 80
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 20,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 20,
+            "Alpha": 5.5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Magnum",
+            "Menge": 15,
+            "Alpha": 4.2,
+            "Zeit": 35,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 10,
+            "Alpha": 5.5,
+            "Zeit": 20,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Safale S-04",
+    "Gaertemperatur": "18-22",
+    "Endvergaerungsgrad": 72,
+    "Karbonisierung": 6,
+    "Anmerkung_Autor": "Das R&ouml;stmalz 20 Minuten vor dem Abmaischen zugeben!Eine Lange Lagerung und Reifung von 3-8 Monaten ist sehr zu empfehlen,dadurch entwickeln sich die Aromen erst so richtig."
+}

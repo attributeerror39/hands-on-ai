@@ -1,0 +1,80 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Stout",
+    "Datum": "04.08.2013",
+    "Sorte": "Stout",
+    "Autor": "milchmannverleih",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 12.5,
+    "Bittere": 35,
+    "Farbe": 60,
+    "Alkohol": 5,
+    "Kurzbeschreibung": "Tiefschwarzes vollmundiges Stout mit kr\u00e4ftigem Hopfencharakter und zarten Fruchtnoten",
+    "Malze": [
+        {
+            "Name": "Pilsener",
+            "Menge": 2.4,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "M\u00fcnchner",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Weizenmalz",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Gerstenflocken",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "R\u00f6stgerste (ungeschrotet)",
+            "Menge": 400,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Sauermalz",
+            "Menge": 120,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 10.4,
+    "Einmaischtemperatur": 40,
+    "Rasten": [
+        {
+            "Temperatur": 40,
+            "Zeit": 10
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 78,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 11.6,
+    "Kochzeit_Wuerze": 100,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Perle",
+            "Menge": 30,
+            "Alpha": 9.4,
+            "Zeit": 90,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Wyeast #1084 - Irish Ale",
+    "Gaertemperatur": "16-18\/20-24",
+    "Endvergaerungsgrad": 74,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Die Sch\u00fcttungszusammensetzung klingt zugegebenerma\u00dfen eher nach M\u00fcsli, doch ich glaube, genau das ist das Geheimnis eines guten Stout.\r\nDie Gerstenflocken tragen zu einer cremigen Schaumkonsistenz bei, das Weizenmalz bringt Vollmundigkeit und die R\u00f6stgerste erzeugt ein zartes R\u00f6staroma und die tiefschwarze Farbe.\r\n\r\nSauermalz erst zur zweiten Rast, R\u00f6stgerste erst zur H\u00e4lfte der 2. Rast und ungeschrotet zugeben, um zu deutliche R\u00f6staromen zu vermeiden und dennoch eine angemessene F\u00e4rbung zu erziehlen.\r\n\r\nDer lange gekochte Perle Hopfen verbindet die schlichte Bittere eines Stouts mit einer blumig fruchtigen Note, die sich wunderbar mit den G\u00e4rungsaromen der oberg\u00e4rigen \"Irish Ale\"-Hefe verbindet.\r\n10 Minuten nach Kochbeginn zugeben und 90 Minuten kochen.\r\n\r\nBei niedriger G\u00e4rtemperatur etwa 1 - 2 Wochen G\u00e4rung, ab ca 20\u00b0 nach 3-4 Tagen endvergoren. \r\nDurch offenes Hopfenkochen kann der Sud auch bis auf 15-16\u00b0P eingedickt werden, was sich in einem h\u00f6heren Alkoholgehalt von ca. 6,0-6,5% widerspiegelt. Nach 4 Wochen Lagerung bei ca. 16\u00b0C durchaus trinkbar - Fruchtaromen nach l\u00e4ngerer Lagerung weniger ausgepr\u00e4gt. Die niedrige Karbonisierung sorgt f\u00fcr das dickfl\u00fcssig-\u00f6lige Mundgef\u00fchl, dass man von bekannten Stouts gewohnt ist.\r\n\r\nWar bisher eines der beliebtesten von mir selbstgebrauten Biere in meinem Familien- und Freundeskreis.\r\n\r\n\u00dcber Feedback w\u00fcrde ich mich sehr freuen."
+}

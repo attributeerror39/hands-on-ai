@@ -1,0 +1,79 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Fruchtige Sophie",
+    "Datum": "06.12.2018",
+    "Sorte": "Helles Hefeweizen",
+    "Autor": "von Hof",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13,
+    "Bittere": 17,
+    "Farbe": 8,
+    "Alkohol": 5.4,
+    "Kurzbeschreibung": "Fruchtiges cremiges Wei\u00dfbier, Aromen von Nelke und Banane. Ein sehr rundes Wei\u00dfbier, welches Lust auf mehr macht.",
+    "Malze": [
+        {
+            "Name": "Weizenmalz",
+            "Menge": 1.81,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Pilsnermalz",
+            "Menge": 1.06,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Wienermalz",
+            "Menge": 1.06,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 21.50943396226415,
+    "Einmaischtemperatur": 45,
+    "Rasten": [
+        {
+            "Temperatur": 45,
+            "Zeit": 15
+        },
+        {
+            "Temperatur": 62,
+            "Zeit": 50
+        },
+        {
+            "Temperatur": 72,
+            "Zeit": 20
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 5.660377358490566,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Saphir",
+            "Menge": 25,
+            "Alpha": 4.3,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 8,
+            "Alpha": 4.3,
+            "Zeit": 15,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Saphir",
+            "Menge": 3,
+            "Alpha": 4.3,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Zymoferm \"German Wheat\"",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 76.9,
+    "Karbonisierung": 6.5,
+    "Anmerkung_Autor": "Gebraut mit dem BM 50 \r\nRestalkalit\u00e4t 0 dH Ich habe die Milchs\u00e4ure erst ab einer Temperatur von 55 Grad zugef\u00fcgt. Optimiert das Aroma!\r\n\r\nSelbst nach 16 Wochen Lagerung noch sehr fruchtig. Ich konnte mit dem Wei\u00dfbier nicht Wei\u00dfbiertrinker \u00fcberzeugen! Wird bei mir regelm\u00e4\u00dfig gebraut. "
+}

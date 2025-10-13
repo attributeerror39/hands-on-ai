@@ -1,0 +1,63 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Yorkshire Bitter",
+    "Datum": "20.02.2022",
+    "Sorte": "Bitter",
+    "Autor": "The British Pint",
+    "Klonbier": "ja",
+    "Klonbier_Original": "Timothy Taylor Landlord",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 10.8,
+    "Bittere": 45,
+    "Farbe": 20,
+    "Alkohol": 4.3,
+    "Kurzbeschreibung": "Helles Bitter mit intensivem Hopfenaroma und hoher Komplexit\u00e4t. Die einfache Zutatenliste t\u00e4uscht \u00fcber die Geschmacksvielfalt dieses Klassikers.",
+    "Malze": [
+        {
+            "Name": "Golden Promise Pale Ale Malz",
+            "Menge": 3.33,
+            "Einheit": "kg"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 17.77777777777778,
+    "Einmaischtemperatur": 70,
+    "Rasten": [
+        {
+            "Temperatur": 66,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 13.333333333333332,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Fuggle",
+            "Menge": 31,
+            "Alpha": 4.5,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Golding",
+            "Menge": 31,
+            "Alpha": 4,
+            "Zeit": 90,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Savinjski Golding",
+            "Menge": 27,
+            "Alpha": 2.7,
+            "Zeit": 10,
+            "Typ": "Standard"
+        }
+    ],
+    "Hefe": "Imperial Yeast A05 Voyager (Wyeast 1469 West Yorkshire Ale)",
+    "Gaertemperatur": "22",
+    "Endvergaerungsgrad": 79,
+    "Karbonisierung": 4,
+    "Anmerkung_Autor": "Wasser mit hohem CaSO4-Gehalt. Beim L\u00e4utern etwas schwarzes Malz zugeben, um die Farbe zu erreichen. Kurze Reifung reicht bei diesem Bier aus, z.B. 2 Wochen bei Zimmertemperatur. Golden Promise schmeckt bei 4\u00b0C sehr ged\u00e4mpft, also nicht zu kalt trinken.\r\n\r\nDieses Rezept habe ich auf meinem Youtube-Kanal vorgestellt und verkostet.\r\nRezeptvorstellung: https:\/\/www.youtube.com\/watch?v=acW0dfFDu9w\r\nVerkostung: https:\/\/www.youtube.com\/watch?v=AnRo6U6oC74\r\n\r\nEdit: Ich habe mal die IBUs angepasst, die beim Originalbier wohl 45 sind, was auch zu den Hopfengaben passt."
+}

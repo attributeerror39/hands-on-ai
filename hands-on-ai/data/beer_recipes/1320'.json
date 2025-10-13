@@ -1,0 +1,98 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "DC ESB",
+    "Datum": "05.07.2020",
+    "Sorte": "Bitter",
+    "Autor": "DerDallmann",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 14.3,
+    "Bittere": 36,
+    "Farbe": 32,
+    "Alkohol": 5.8,
+    "Kurzbeschreibung": "Strong Bitter Richtung Fullers ESB. Orientiert am orginal Brautagebuch, aber leicht abgewandelt. Bittere und EBC am oberen Ende f\u00fcr den Stil.",
+    "Malze": [
+        {
+            "Name": "Maris Otter, 4 EBC",
+            "Menge": 5.33,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Crystal, 140 EBC",
+            "Menge": 470,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Chocolate, 900 EBC",
+            "Menge": 40,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 32,
+    "Einmaischtemperatur": 72,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 60
+        }
+    ],
+    "Abmaischtemperatur": 67,
+    "Nachguss": 0.6666666666666666,
+    "Kochzeit_Wuerze": 60,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Akoya",
+            "Menge": 20,
+            "Alpha": 11.6,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 27,
+            "Alpha": 3.3,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "East Kent Goldings",
+            "Menge": 20,
+            "Alpha": 3.3,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Bramling Cross",
+            "Menge": 30,
+            "Alpha": 4.4,
+            "Zeit": 0,
+            "Typ": "Whirlpool"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 10
+        },
+        {
+            "Name": "Hefenahrung",
+            "Menge": 1,
+            "Einheit": "g",
+            "Kochzeit": 10
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "Bramling Cross",
+            "Menge": 20
+        }
+    ],
+    "Hefe": "WLP005 oder S-04",
+    "Gaertemperatur": "21",
+    "Endvergaerungsgrad": 75,
+    "Karbonisierung": 4.5,
+    "Anmerkung_Autor": "Dieses ESB orientiert sich am Original Brautagebuch von Fullers, welches unter nachstehendem Link zu finden ist.\r\nhttps:\/\/www.homebrewtalk.com\/threads\/fullers-recipes-for-esb-pride-chiswick-imperials-neipa-from-the-horses-mouth.642756\/\r\n\r\nIch habe mich mit der Sch\u00fcttung dran gehalten, jedoch andere Hopfen und andere Hefen verwendet. Ich habe das Bier 2x gebraut, 1x mit der WLP005, 1x mit der S04. Das Bier mit der S04 hat mir besser gefallen, es war etwas schlanker, hatte mehr drinkability.\r\n\r\nIch war mit der 2. Version mit der S04 sehr zufrieden. Ein Klonversuch war es jedoch nie, dies m\u00f6chte ich ausdr\u00fccklich sagen.\r\n\r\nGebraut mit meiner BIAB-Anlage, daher die Hauptguss\/Nachguss-Mengen.\r\n\r\nWichtig:\r\nBitte das Rezept nicht 1:1 \u00fcbernehmen, sondern an eure Brauanlage, sowie eure Sudhausausbeute anpassen. Ebenso sind die Mengen zu Haupt-, und Nachguss an euer System anzupassen. "
+}

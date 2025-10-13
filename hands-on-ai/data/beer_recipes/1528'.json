@@ -1,0 +1,102 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Be Bold",
+    "Datum": "02.07.2021",
+    "Sorte": "India Pale Ale (West Coast)",
+    "Autor": "FunThomas",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 16,
+    "Bittere": 50,
+    "Farbe": 20,
+    "Alkohol": 7,
+    "Kurzbeschreibung": "Kr\u00e4ftig bernsteinfarbenes WestCoast IPA mit Aromen nach Grapefruit, Citrus, Maracuja und sch\u00f6n harzig.\r\n\r\nTOP 10 beim Hobbybrauerwettbewerb Maisel&Friends 2021 bei 160 Einreichungen.",
+    "Malze": [
+        {
+            "Name": "Wiener Malz",
+            "Menge": 3.78,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Maris Otter Pale Ale",
+            "Menge": 2.11,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "CARAM\u00dcNCH II",
+            "Menge": 180,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Karamell Eiche \/ Crystal Oak",
+            "Menge": 130,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 18.872727272727275,
+    "Einmaischtemperatur": 67,
+    "Rasten": [
+        {
+            "Temperatur": 67,
+            "Zeit": 70
+        }
+    ],
+    "Abmaischtemperatur": 76,
+    "Nachguss": 9.690909090909091,
+    "Kochzeit_Wuerze": 70,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Hallertauer Magnum",
+            "Menge": 15,
+            "Alpha": 12.4,
+            "Zeit": 70,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Willamette",
+            "Menge": 31,
+            "Alpha": 3.8,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 18,
+            "Alpha": 6.7,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 13,
+            "Alpha": 9.9,
+            "Zeit": 5,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 22,
+            "Alpha": 6.7,
+            "Zeit": 5,
+            "Typ": "Standard"
+        }
+    ],
+    "Stopfhopfen": [
+        {
+            "Sorte": "CTZ Zeus",
+            "Menge": 51
+        },
+        {
+            "Sorte": "Chinook",
+            "Menge": 25
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 25
+        }
+    ],
+    "Hefe": "US-05",
+    "Gaertemperatur": "19",
+    "Karbonisierung": 5
+}

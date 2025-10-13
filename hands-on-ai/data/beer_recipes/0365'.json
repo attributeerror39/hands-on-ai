@@ -1,0 +1,105 @@
+{
+    "Rezeptquelle": "www.maischemalzundmehr.de",
+    "ExportVersion": "2.0",
+    "Name": "Rye Red",
+    "Datum": "13.01.2014",
+    "Sorte": "Roggenbier",
+    "Autor": "phalanx",
+    "Ausschlagwuerze": 20,
+    "Stammwuerze": 13.3,
+    "Bittere": 40,
+    "Farbe": 35,
+    "Alkohol": 5.1,
+    "Kurzbeschreibung": "Rotes Roggenbier mit dezentem Ami-Hopfenaroma.",
+    "Malze": [
+        {
+            "Name": "Pale Ale Malz",
+            "Menge": 2.76,
+            "Einheit": "kg"
+        },
+        {
+            "Name": "Roggenmalz",
+            "Menge": 560,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Roggenflocken",
+            "Menge": 500,
+            "Einheit": "g"
+        },
+        {
+            "Name": "M\u00fcnchner Malz",
+            "Menge": 360,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caraaroma",
+            "Menge": 190,
+            "Einheit": "g"
+        },
+        {
+            "Name": "Caram\u00fcnch Typ II",
+            "Menge": 90,
+            "Einheit": "g"
+        }
+    ],
+    "Maischform": "infusion",
+    "Hauptguss": 14.8,
+    "Einmaischtemperatur": 38,
+    "Rasten": [
+        {
+            "Temperatur": 38,
+            "Zeit": 60
+        },
+        {
+            "Temperatur": 67,
+            "Zeit": 75
+        }
+    ],
+    "Abmaischtemperatur": 78,
+    "Nachguss": 17.3,
+    "Kochzeit_Wuerze": 90,
+    "Hopfenkochen": [
+        {
+            "Sorte": "Magnum",
+            "Menge": 8,
+            "Alpha": 15,
+            "Zeit": 60,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Citra",
+            "Menge": 8,
+            "Alpha": 14.2,
+            "Zeit": 20,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Centennial",
+            "Menge": 11,
+            "Alpha": 10,
+            "Zeit": 10,
+            "Typ": "Standard"
+        },
+        {
+            "Sorte": "Cascade",
+            "Menge": 15,
+            "Alpha": 6.9,
+            "Zeit": 0,
+            "Typ": "Standard"
+        }
+    ],
+    "Gewuerze_etc": [
+        {
+            "Name": "Irish Moss",
+            "Menge": "4 ",
+            "Einheit": "",
+            "Kochzeit": 10
+        }
+    ],
+    "Hefe": "Danstar BRY-97 American Westcoast Yeast",
+    "Gaertemperatur": "20",
+    "Endvergaerungsgrad": 65,
+    "Karbonisierung": 5,
+    "Anmerkung_Autor": "Das Wasser wurde mit Milchs\u00e4ure auf RA = 0 eingestellt.\r\nDas Roggenmalz und die Roggenflocken wurden im gesamten Hauptguss f\u00fcr 60 min bei 38 \u00b0C vorgemaischt. Die restlichen Malze wurden erst bei 67 \u00b0C dazugegeben.\r\n\r\nIn diesem Bier ist eindeutig der Roggen der Star. Es hat einen charakteristischen brotigen Geschmack.\r\nIch habe absichtlich nicht gestopft, um dem Roggen nicht die Show zu stehlen. Das Hopfenaroma ist vorhanden aber h\u00e4lt sich eher dezent im Hintergrund. Wen man das noch etwas betonen wollte, k\u00f6nnte man die Whirlpoolgabe durchaus noch etwas erh\u00f6hen. "
+}
