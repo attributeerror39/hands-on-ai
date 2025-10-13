@@ -17,8 +17,6 @@ chapters:
   - file: llm/unsloth_dreams
   - file: llm/ollama_adapter
   - file: llm/dataset_dreams
-  - file: llm/dataset_beer
-  - file: llm/unsloth_beer
 #     - file: llm/unsloth_manifesto (evtl. raus)
 #     - file: llm/dataset_manifesto (evtl. raus)
 - file: interface/interface_intro
