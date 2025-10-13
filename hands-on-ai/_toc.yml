@@ -4,6 +4,7 @@
 format: jb-book
 root: intro
 chapters:
+-file: setup_environment
 - file: image_generation_embeddings/image_generation_embeddings
   sections: 
   - file: image_generation_embeddings/image_generation_intro
