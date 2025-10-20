@@ -1,4 +1,4 @@
-# Experimental AI Lab
+# Hands-On AI
 
 We make AI systems tangible through artistic research and aesthetic experiments and reflect on their effects on practice and context. The aim of the course is to provide a deeper, practical understanding of AI technologies.
 

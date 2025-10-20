@@ -60,8 +60,8 @@
     <script>DOCUMENTATION_OPTIONS.pagename = 'setup_environment';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="LLMs" href="llm/llm_intro.html" />
-    <link rel="prev" title="Experimental AI Lab" href="intro.html" />
+    <link rel="next" title="First steps in Programming with Python" href="programming_with_ai/python_intro.html" />
+    <link rel="prev" title="Hands-On AI" href="intro.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -175,12 +175,16 @@
         <ul class="nav bd-sidenav bd-sidenav__home-link">
             <li class="toctree-l1">
                 <a class="reference internal" href="intro.html">
-                    Experimental AI Lab
+                    Hands-On AI
                 </a>
             </li>
         </ul>
         <ul class="current nav bd-sidenav">
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">Setup environment</a></li>
+<li class="toctree-l1 current active has-children"><a class="current reference internal" href="#">Setup environment</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="programming_with_ai/python_intro.html">First steps in Programming with Python</a></li>
+<li class="toctree-l2"><a class="reference internal" href="programming_with_ai/python_image_processing_gui.html">Python GUI for Image Processing</a></li>
+</ul>
+</details></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="llm/llm_intro.html">LLMs</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
 <li class="toctree-l2"><a class="reference internal" href="llm/ollama_start.html">Ollama</a></li>
 <li class="toctree-l2"><a class="reference internal" href="llm/unsloth_dreams.html">Finetuning with unsloth: Ten Thousand Dreams</a></li>
@@ -446,6 +450,7 @@ document.write(`
 <ul class="simple">
 <li><p>Python</p></li>
 <li><p>Jupyter</p></li>
+<li><p>Live Server</p></li>
 </ul>
 <p><img alt="VSCode Extensions" src="_images/vscode_extensions1.jpg" /></p>
 </section>
@@ -465,7 +470,7 @@ conda<span class="w"> </span>--version
 <section id="create-a-new-environment">
 <h3>Create a new environment<a class="headerlink" href="#create-a-new-environment" title="Link to this heading">#</a></h3>
 <div class="highlight-shell notranslate"><div class="highlight"><pre><span></span><span class="c1"># create a new environment called &quot;up&quot; with Python version 3.12</span>
-conda<span class="w"> </span>create<span class="w"> </span>-n<span class="w"> </span>up<span class="w"> </span><span class="nv">python</span><span class="o">=</span><span class="m">3</span>.12<span class="w"> </span>-y
+conda<span class="w"> </span>create<span class="w"> </span>-n<span class="w"> </span>handsonai<span class="w"> </span><span class="nv">python</span><span class="o">=</span><span class="m">3</span>.12<span class="w"> </span>-y
 </pre></div>
 </div>
 <p>The word after the <code class="docutils literal notranslate"><span class="pre">-n</span></code> flag (in this case “up”) is the name of your environment and you have to type it when you start it later on, so make sure it’s not too long and easy to remember.</p>
@@ -476,7 +481,7 @@ conda<span class="w"> </span>env<span class="w"> </span>list
 </div>
 <p>Next we can activate our newly created environment.</p>
 <div class="highlight-shell notranslate"><div class="highlight"><pre><span></span><span class="c1"># activate your environment</span>
-conda<span class="w"> </span>activate<span class="w"> </span>up
+conda<span class="w"> </span>activate<span class="w"> </span>handsonai
 </pre></div>
 </div>
 </section>
@@ -484,7 +489,7 @@ conda<span class="w"> </span>activate<span class="w"> </span>up
 <h3>Install external packages with pip<a class="headerlink" href="#install-external-packages-with-pip" title="Link to this heading">#</a></h3>
 <p>We can use Python’s package installer <strong>pip</strong> to install external libraries like <a class="reference external" href="https://pypi.org/project/fpdf2/">fpdf2</a>.</p>
 <div class="highlight-shell notranslate"><div class="highlight"><pre><span></span><span class="c1"># important: activate your environment first</span>
-conda<span class="w"> </span>activate<span class="w"> </span>up
+conda<span class="w"> </span>activate<span class="w"> </span>handsonai
 
 <span class="c1"># install the library fpdf2 with pip</span>
 pip<span class="w"> </span>install<span class="w"> </span>fpdf2
@@ -562,6 +567,8 @@ Hello AI Lab
 <p><a class="reference external" href="https://iterm2.com/">iTerm2</a></p>
 </section>
 </section>
+<div class="toctree-wrapper compound">
+</div>
 </section>
 
     <script type="text/x-thebe-config">
@@ -600,15 +607,15 @@ Hello AI Lab
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Experimental AI Lab</p>
+        <p class="prev-next-title">Hands-On AI</p>
       </div>
     </a>
     <a class="right-next"
-       href="llm/llm_intro.html"
+       href="programming_with_ai/python_intro.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">LLMs</p>
+        <p class="prev-next-title">First steps in Programming with Python</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>

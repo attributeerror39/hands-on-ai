@@ -5,6 +5,10 @@ format: jb-book
 root: intro
 chapters:
 - file: setup_environment
+  sections: 
+  - file: programming_with_ai/python_intro
+  - file: programming_with_ai/python_image_processing_gui
+
 - file: llm/llm_intro
   sections: 
   - file: llm/ollama_start
