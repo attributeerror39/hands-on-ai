@@ -14,7 +14,6 @@ After installation, go to the `Extensions`-tab and install the following extensi
 
 - Python 
 - Jupyter 
-- Live Server
 
 ![VSCode Extensions](img/vscode_extensions.jpg)
 
@@ -37,7 +36,7 @@ conda --version
 
 ``` shell
 # create a new environment called "up" with Python version 3.12
-conda create -n handsonai python=3.12 -y
+conda create -n up python=3.12 -y
 ```
 
 The word after the `-n` flag (in this case "up") is the name of your environment and you have to type it when you start it later on, so make sure it's not too long and easy to remember.
@@ -54,7 +53,7 @@ Next we can activate our newly created environment.
 
 ```shell
 # activate your environment
-conda activate handsonai
+conda activate up
 ```
 
 ### Install external packages with pip
@@ -63,7 +62,7 @@ We can use Python's package installer **pip** to install external libraries like
 
 ```shell
 # important: activate your environment first
-conda activate handsonai
+conda activate up
 
 # install the library fpdf2 with pip
 pip install fpdf2
