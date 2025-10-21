@@ -4,67 +4,6 @@ We make AI systems tangible through artistic research and aesthetic experiments 
 
 In the first phase of the course, we will learn about various AI technologies together in workshop formats and explore them experimentally. The second phase of the course is dedicated to individual prototyping based on the workshops. In the workshops, we will deal with tokens and prompting, LLMs, fine-tuning, chatbots and interfaces, image generation and embeddings, video generation, etc.
 
-## Gregor Weichbrodt — Eine Liste (2020)
-
-[Project page](https://gregorweichbrodt.de/project/eine-liste-bot/)
-
-```{margin}
-Gregor Weichbrodt — Eine Liste (2020)<br>
-Bot, Website
-```
-
-![Gregor Weichbrodt — Eine Liste (2020)](img/GregorWeichbrodt_Eine-Liste_1.jpg)
-
-<br>
-
-```{margin}
-Gregor Weichbrodt — Eine Liste (2020)<br>
-Bot, Website
-```
-
-![Gregor Weichbrodt — Eine Liste (2020)](img/GregorWeichbrodt_Eine-Liste_2.jpg)
-
-<br>
-
-> Searches current news texts for countable items and generates lists.
-
-<br>
-
-## Lauren Lee McCarthy — LAUREN (2017-)
-
-[Project page](https://lauren-mccarthy.com/LAUREN)
-
-```{margin}
-Lauren Lee McCarthy — LAUREN (2017-)<br>
-Objects
-```
-
-![Lauren Lee McCarthy — LAUREN (2017-)](img/Lauren-Lee-McCarthy_LAUREN_Objects.jpg)
-
-<br>
-
-```{margin}
-Lauren Lee McCarthy — LAUREN (2017-)<br>
-Interface
-```
-
-![Lauren Lee McCarthy — LAUREN (2017-)](img/Lauren-Lee-McCarthy_LAUREN_Interface.jpg)
-
-<br>
-
-```{margin}
-Lauren Lee McCarthy — LAUREN (2017-)<br>
-Installation View Frankfurter Kunstverein<br>
-Photo: Norbert Miguletz
-```
-
-![Lauren Lee McCarthy — LAUREN (2017-)](img/Lauren-Lee-McCarthy_LAUREN_FKV.jpg)
-
-<br>
-
-> I attempt to become a human version of Amazon Alexa, a smart home intelligence for people in their own homes. The performance lasts several days. It begins with an installation of a series of custom designed networked smart devices (including cameras, microphones, switches, door locks, faucets, and other electronic devices). I then remotely watch over the person 24/7 and control all aspects of their home. I aim to be better than an AI because I can understand them as a person and anticipate their needs. The relationship that emerges falls in the ambiguous space between human-machine and human-human.
-
-<br>
 
 ## Dries Depoorter — The Flemish Scrollers (2021-2025)
 

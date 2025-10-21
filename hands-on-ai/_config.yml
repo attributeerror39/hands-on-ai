@@ -8,7 +8,7 @@
 title                       : Hands-On AI  # The title of the book. Will be placed in the left navbar.
 author                      : KI-Lab hfg Offenbach  # The author of the book
 copyright                   : "2025"  # Copyright year to be placed in the footer
-logo                        : img/logo.jpg  # A path to the book logo
+logo                        : img/logo.gif  # A path to the book logo
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
