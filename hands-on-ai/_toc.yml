@@ -5,31 +5,32 @@ format: jb-book
 root: intro
 chapters:
 - file: setup_environment
+- file: programming_with_ai/intro
   sections: 
   - file: programming_with_ai/python_intro
   - file: programming_with_ai/python_image_processing_gui
 
-- file: llm/llm_intro
-  sections: 
-  - file: llm/ollama_start
-  - file: llm/unsloth_dreams
-  - file: llm/ollama_adapter
-  - file: llm/dataset_dreams
-- file: interface/interface_intro
-  sections:
-  - file: interface/ollama_ui_dreams
-- file: imgtotext/intro
-  sections:
-  - file: imgtotext/codesamples
-  - file: imgtotext/visiontext
-- file: video/video_input_artworks
-- file: image_generation_embeddings/image_generation_embeddings
-  sections: 
-  - file: image_generation_embeddings/image_generation_intro
-  - file: image_generation_embeddings/image_generation_comfyui
-  - file: image_generation_embeddings/image_generation_context
-  - file: image_generation_embeddings/image_generation_scoring
-  - file: image_generation_embeddings/image_generation_prompting
+# - file: llm/llm_intro
+#   sections: 
+#   - file: llm/ollama_start
+#   - file: llm/unsloth_dreams
+#   - file: llm/ollama_adapter
+#   - file: llm/dataset_dreams
+# - file: interface/interface_intro
+#   sections:
+#   - file: interface/ollama_ui_dreams
+# - file: imgtotext/intro
+#   sections:
+#   - file: imgtotext/codesamples
+#   - file: imgtotext/visiontext
+# - file: video/video_input_artworks
+# - file: image_generation_embeddings/image_generation_embeddings
+#   sections: 
+#   - file: image_generation_embeddings/image_generation_intro
+#   - file: image_generation_embeddings/image_generation_comfyui
+#   - file: image_generation_embeddings/image_generation_context
+#   - file: image_generation_embeddings/image_generation_scoring
+#   - file: image_generation_embeddings/image_generation_prompting
 
 #     - file: llm/unsloth_manifesto (evtl. raus)
 #     - file: llm/dataset_manifesto (evtl. raus)

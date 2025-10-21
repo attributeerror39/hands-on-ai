@@ -107,12 +107,9 @@ As a scripting language Python can be used inside the console/terminal (Command 
 
 ```
 ~$ python                                                                                  
->>> name = input('What is your name?\n')
-What is your name?                                                                      
-AI Lab                                   
->>> print(f'Hello {name}')
-Hello AI Lab                                                                            
->>>   
+>>> import random
+>>> l = ['apple', 'banana', 'python']                               
+>>> random.choice(l)
 ```
 
 (The `$` is an indicator for code that's written in the CLI. If you see `>>>` before Python code, this means that it's written in an interactive session.)
