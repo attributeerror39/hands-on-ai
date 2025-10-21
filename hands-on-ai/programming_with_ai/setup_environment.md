@@ -28,6 +28,8 @@ It is recommended to create a virtual environment for your project/ setup. All t
 
 **For Windows Users**: Make sure to add Conda to your PATH Variable (although it's not recommended).
 
+![Installation Option on Windows](img/anaconda.png)
+
 Open the Terminal inside VSCode: `Terminal` -> `New Terminal` and type the following commands, line by line, execute each one of them with pressing `Enter`.
 
 ``` shell
