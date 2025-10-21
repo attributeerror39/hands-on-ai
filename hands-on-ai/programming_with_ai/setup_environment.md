@@ -26,6 +26,8 @@ It is recommended to create a virtual environment for your project/ setup. All t
 
 [Download](https://www.anaconda.com/download/success#miniconda) Miniconda for your OS and execute the installer. 
 
+**For Windows Users**: Make sure to add Conda to your PATH Variable (although it's not recommended).
+
 Open the Terminal inside VSCode: `Terminal` -> `New Terminal` and type the following commands, line by line, execute each one of them with pressing `Enter`.
 
 ``` shell
@@ -36,11 +38,11 @@ conda --version
 ### Create a new environment
 
 ``` shell
-# create a new environment called "up" with Python version 3.12
+# create a new environment called "handsonai" with Python version 3.12
 conda create -n handsonai python=3.12 -y
 ```
 
-The word after the `-n` flag (in this case "up") is the name of your environment and you have to type it when you start it later on, so make sure it's not too long and easy to remember.
+The word after the `-n` flag (in this case "handsonai") is the name of your environment and you have to type it when you start it later on, so make sure it's not too long and easy to remember.
 
 
 You can see all environments created by you with the following command:
