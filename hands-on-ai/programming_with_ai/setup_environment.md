@@ -59,14 +59,14 @@ conda activate handsonai
 
 ### Install external packages with pip
 
-We can use Python's package installer **pip** to install external libraries like [fpdf2](https://pypi.org/project/fpdf2/).
+We can use Python's package installer **pip** to install external libraries like [numpy](https://pypi.org/project/numpy/).
 
 ```shell
 # important: activate your environment first
 conda activate handsonai
 
-# install the library fpdf2 with pip
-pip install fpdf2
+# install the library nuumpy with pip
+pip install numpy
 ```
 
 ### Deactivate conda

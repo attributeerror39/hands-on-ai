@@ -3,7 +3,9 @@
 [p5.js](https://p5js.org/) is a creative coding library that makes it easy to draw shapes, create animations, and make interactive artworks directly in the browser.  
 You don’t need any coding experience — all you need is a good *prompt*. With a clear description, you can ask a chat assistant to generate a full working sketch for you.
 
-Prompts can be **structured**: instead of writing everything in one sentence, you can divide your request into small parts — an **intro**, some **details**, and **constraints** about how the code should be returned. This helps the assistant understand what you want and gives you more predictable results.
+We will use the [chat1](https://chat1.kitegg.de/) chat-service provided by [KITeGG](https://gestaltung.ai/de).
+
+Prompts can be **structured**: instead of writing everything in one sentence, you can divide your request into small parts — an **intro**, some **details**, and how the code should be returned (**output**). This gives you more predictable results.
 
 The goal here is to create a **small sketch or animation using p5.js only through prompting** — no manual coding. Below is an example of how such a structured prompt could look, followed by what the generated sketch might produce.
 
@@ -31,11 +33,13 @@ The goal here is to create a **small sketch or animation using p5.js only throug
 
 ![Example Result](img/p5_preview.png)
 
+You can click on Preview (Vorschau) to show the resulting sketch in realtime.
+
 ---
 
 ## Ideas for what to prompt for
 
-You can think of your prompt like giving directions to an artist. Try specifying:
+You can think of your prompt like giving directions. Try specifying:
 
 - **Shapes:** “Use rectangles,” “draw curved lines,” “a grid of circles,” “random triangles.”  
 - **Background:** “Set a gradient background,” “use a dark background with glowing lines.”  
@@ -54,5 +58,3 @@ After you receive your sketch:
 - You can **download the generated HTML file** and open it in your browser to see it run.  
 - You can also **ask the chatbot to explain the code**, line by line or section by section, to learn how it works.  
 - Try modifying your prompt: ask for different colors, shapes, or behaviors to see how the code changes.
-
-Prompting for p5 sketches is a playful way to learn creative coding — one description at a time.
