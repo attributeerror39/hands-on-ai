@@ -4,9 +4,10 @@
 format: jb-book
 root: intro
 chapters:
-- file: setup_environment
 - file: programming_with_ai/intro
   sections: 
+  - file: programming_with_ai/web
+  - file: programming_with_ai/setup_environment
   - file: programming_with_ai/python_intro
   - file: programming_with_ai/python_image_processing_gui
 
