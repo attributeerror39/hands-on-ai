@@ -22,6 +22,12 @@ jobs:
     permissions:
       pages: write
       id-token: write
+
+    # ✅ Add this block to define the environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - uses: actions/checkout@v4
 
