@@ -23,7 +23,10 @@ jobs:
       pages: write
       id-token: write
 
-    # ✅ Add this block to define the environment
+    # Define the environment so deployments are associated with a named GitHub
+    # environment. Note: if this environment has protection rules (required
+    # reviewers), the workflow will pause until an approver accepts the
+    # deployment in the repository's Environments UI.
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -45,6 +48,13 @@ jobs:
       - name: Build the book
         run: jupyter-book build hands-on-ai
 
+      - name: List built HTML (debug)
+        run: |
+          echo "Listing hands-on-ai/_build/html"
+          ls -la hands-on-ai/_build/html || true
+          echo "Listing top-level hands-on-ai/_build"
+          ls -la hands-on-ai/_build || true
+
       # Upload the book's HTML as an artifact
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -55,3 +65,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Show deployed Pages URL
+        run: |
+          echo "Deployed Pages URL: ${{ steps.deployment.outputs.page_url }}"
+          echo "Contents published (top-level):"
+          ls -la || true
