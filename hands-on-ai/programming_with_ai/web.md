@@ -12,10 +12,10 @@ We will use one of several available **chat services** that can generate code fr
 Below are several free or open chat platforms that work well for generating p5.js sketches:
 
 - [**chat1**](https://chat1.kitegg.de/) – Collection of open models running on the [KITeGG](https://gestaltung.ai/de)-Cluster in Mainz.  
-- [**Duck.ai**](https://duck.ai/) – Conversations with 3rd-party AI chat models, anonymized by DuckDuckGo.  
-- [**ChatGPT Free (OpenAI)**](https://chat.openai.com/) – Based on GPT-3.5, accessible via web.  
 - [**Mistral / Le Chat**](https://chat.mistral.ai/) – Lightweight, open-weight model with web interface.  
+- [**ChatGPT Free (OpenAI)**](https://chat.openai.com/) – Based on GPT-3.5, accessible via web.  
 - [**Perplexity.ai**](https://Perplexity.ai) – AI research assistant with live web access.  
+- [**Duck.ai**](https://duck.ai/) – Conversations with 3rd-party AI chat models, anonymized by DuckDuckGo.  
 - [**DeepSeek Chat**](https://chat.deepseek.com/)* – Open, high-quality large language model.  
 - [**Claude.ai (Anthropic)**](https://claude.ai/)* – Ethical, reasoning-focused LLM by Anthropic.
 
