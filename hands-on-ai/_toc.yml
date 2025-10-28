@@ -10,6 +10,7 @@ chapters:
   - file: programming_with_ai/setup_environment
   - file: programming_with_ai/python_intro
   - file: programming_with_ai/python_image_processing_gui
+  - file: programming_with_ai/coding_exercise
 
 # - file: llm/llm_intro
 #   sections: 
