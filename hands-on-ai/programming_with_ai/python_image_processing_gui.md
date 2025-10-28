@@ -10,6 +10,13 @@ Use your favorite LLM-System to write a python GUI that performs actions like
 
 Below is an example with code.
 
+List of prompts:
+> - write a python gui with a canvas for an image. insert a ‘open image’ button to load a image file and display it in the canvas. add another button ‘grayscale’, that calls a function ‘image_to_grayscale’. This function takes the image on the canvas as input and returns the processed image as the new canvas image. Add another button “sort pixels” that calls a function “image_sorted”. This function thakes the image on the canvas as input and returns the processed image as the new canvas image.
+> - Good. 1) Make the canvas adjust its size if the window is resized by the user. 2) add a button ‘sort on row level’ that sorts all pixel of every row.
+> - great. add another button ‘sort on column level’ with the corresponding function. 
+> - write another button + function for gaussian blur 
+> - add a slider to adjust the amount of blur 
+
 ![Image Processing GUI](img/ImageProcessorGUI.png)
 
 ```python
