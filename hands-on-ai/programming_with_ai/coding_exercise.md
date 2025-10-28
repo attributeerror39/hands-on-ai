@@ -239,7 +239,7 @@ if __name__ == "__main__":
     print("Images clustered and saved to 'clustered_images/' folder!")
 ```
 
-![Code Options](img/clustering_04.png)
+![Code Options](img/clustering_03.png)
 
 > Double the size of the thumbnails.
  
