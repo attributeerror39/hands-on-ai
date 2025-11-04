@@ -12,12 +12,12 @@ chapters:
   - file: programming_with_ai/python_image_processing_gui
   - file: programming_with_ai/coding_exercise
 
-# - file: llm/llm_intro
-#   sections: 
-#   - file: llm/ollama_start
-#   - file: llm/unsloth_dreams
-#   - file: llm/ollama_adapter
-#   - file: llm/dataset_dreams
+- file: llm/llm_intro
+  sections: 
+  - file: llm/ollama_start
+  - file: llm/unsloth_dreams
+  - file: llm/ollama_adapter
+  - file: llm/dataset_dreams
 # - file: interface/interface_intro
 #   sections:
 #   - file: interface/ollama_ui_dreams
