@@ -1,14 +1,16 @@
 name: deploy-book
 
 on:
+  # Trigger the workflow on push to main branch
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 env:
-  # If you rely on a base URL, keep this; otherwise you can remove it.
   BASE_URL: /${{ github.event.repository.name }}
-  BOOK_DIR: hands-on-ai
 
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -16,10 +18,15 @@ concurrency:
 jobs:
   deploy-book:
     runs-on: ubuntu-latest
+    # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
     permissions:
       pages: write
       id-token: write
 
+    # Define the environment so deployments are associated with a named GitHub
+    # environment. Note: if this environment has protection rules (required
+    # reviewers), the workflow will pause until an approver accepts the
+    # deployment in the repository's Environments UI.
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -27,49 +34,34 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Install dependencies
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: pip
+          cache: pip # Implicitly depends upon requirements.txt
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-          # Ensure jupyter-book is present even if it's missing in requirements.txt
-          python -c "import jupyter_book" 2>/dev/null || pip install jupyter-book
+        run: pip install -r requirements.txt
 
-      - name: Show repo layout (debug)
-        run: |
-          echo "Top-level:"
-          ls -la
-          echo "BOOK_DIR:"
-          ls -la "$BOOK_DIR" || true
-
-      # Configure GitHub Pages (recommended)
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
+      # Build the book
       - name: Build the book
-        run: |
-          # Fail on warnings so we don't proceed to upload on a broken build
-          jupyter-book build "$BOOK_DIR"
-        # If your book uses notebooks requiring kernel, add any needed installs above
+        run: jupyter-book build hands-on-ai
 
       - name: List built HTML (debug)
         run: |
-          echo "Listing $BOOK_DIR/_build/html"
-          ls -la "$BOOK_DIR/_build/html" || true
-          echo "Listing $BOOK_DIR/_build"
-          ls -la "$BOOK_DIR/_build" || true
+          echo "Listing hands-on-ai/_build/html"
+          ls -la hands-on-ai/_build/html || true
+          echo "Listing top-level hands-on-ai/_build"
+          ls -la hands-on-ai/_build || true
 
-      # Upload artifact only if the output exists
+      # Upload the book's HTML as an artifact
       - name: Upload artifact
-        if: ${{ hashFiles(format('{0}/_build/html/index.html', env.BOOK_DIR)) != '' }}
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "${{ env.BOOK_DIR }}/_build/html"
+          path: "hands-on-ai/_build/html"
 
+      # Deploy the book's HTML to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
@@ -77,3 +69,5 @@ jobs:
       - name: Show deployed Pages URL
         run: |
           echo "Deployed Pages URL: ${{ steps.deployment.outputs.page_url }}"
+          echo "Contents published (top-level):"
+          ls -la || true
