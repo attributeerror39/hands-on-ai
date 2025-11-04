@@ -48,13 +48,6 @@ jobs:
       - name: Build the book
         run: jupyter-book build hands-on-ai
 
-      - name: List built HTML (debug)
-        run: |
-          echo "Listing hands-on-ai/_build/html"
-          ls -la hands-on-ai/_build/html || true
-          echo "Listing top-level hands-on-ai/_build"
-          ls -la hands-on-ai/_build || true
-
       # Upload the book's HTML as an artifact
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
