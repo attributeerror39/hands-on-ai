@@ -71,4 +71,3 @@ jobs:
           echo "Deployed Pages URL: ${{ steps.deployment.outputs.page_url }}"
           echo "Contents published (top-level):"
           ls -la || true
-
