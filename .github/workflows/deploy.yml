@@ -53,7 +53,7 @@ jobs:
       - name: Build the book
         run: |
           # Fail on warnings so we don't proceed to upload on a broken build
-          jupyter-book build "$BOOK_DIR" --keep-going
+          jupyter-book build "$BOOK_DIR"
         # If your book uses notebooks requiring kernel, add any needed installs above
 
       - name: List built HTML (debug)
