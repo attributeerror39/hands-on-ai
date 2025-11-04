@@ -1,79 +1,40 @@
 #######################################################################################
-# Jupyter Book configuration
-# Docs: https://jupyterbook.org/en/stable/customize/config.html
+# A default configuration that will be loaded for all jupyter books
+# See the documentation for help and more options: 
+# https://jupyterbook.org/customize/config.html
+
 #######################################################################################
+# Book settings
+title                       : Hands-On AI  # The title of the book. Will be placed in the left navbar.
+author                      : KI-Lab hfg Offenbach  # The author of the book
+copyright                   : "2025"  # Copyright year to be placed in the footer
+logo                        : img/logo.gif  # A path to the book logo
 
-# --- Book meta ---
-title       : Hands-On AI
-author      : KI-Lab hfg Offenbach
-copyright   : "2025"
-logo        : img/logo.gif
-# favicon   : img/favicon.ico   # (optional)
-
-# --- Execution ---
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: "off"      # don't execute during build
-  timeout: -1                   # (ignored when execute_notebooks=off)
+  execute_notebooks: 'off' # default: force
 
-# --- LaTeX / PDF ---
+# Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
     targetname: book.tex
 
-# --- Repository integration (links in header, edit links, etc.) ---
-repository:
-  url: https://github.com/attributeerror39/Hands-On-AI
-  path_to_book: .               # book lives at repo root
-  branch: main
+# Add a bibtex file so that we can create citations
+# bibtex_bibfiles:
+#   - references.bib
 
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/attributeerror39/Hands-On-AI  # Online location of your book
+  path_to_book: .  # Book is at the repository root of the `hands-on-ai` folder
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
   use_issues_button: true
   use_repository_button: true
-  # For GitHub Pages project site: use the full absolute URL with correct casing
-  html_baseurl: https://attributeerror39.github.io/Hands-On-AI/
-  # Optional, but good for SEO/sitemaps if baseurl is set:
-  google_analytics_id: ""       # e.g. G-XXXXXXXX (optional)
-
-sphinx:
-  # You can add or remove Sphinx extensions here
-  config:
-    html_show_copyright: true
-    html_theme_options:
-      navigation_with_keys: true
-      collapse_navigation: False
-    # Create a sitemap when html_baseurl is set
-    extensions:
-      - sphinx_sitemap
-    sitemap_url_scheme: "{link}"  # cleaner URLs in sitemap
-
-# --- MyST / Markdown options (optional, tweak as you like) ---
-parse:
-  myst_enable_extensions:
-    - colon_fence         # ::: fenced blocks
-    - deflist             # definition lists
-    - dollarmath          # $ math $
-    - linkify             # auto-detect links
-    - substitution        # |placeholders|
-  myst_url_schemes: [mailto, http, https]
-
-# --- Patterns to exclude from the build (optional, but often handy) ---
-exclude_patterns:
-  - .github/
-  - .gitignore
-  - README.md
-  - "**/.ipynb_checkpoints/*"
-  - "**/.DS_Store"
-
-# --- Launch buttons (optional; show "launch" in Colab/MyBinder, etc.) ---
-# launch_buttons:
-#   colab_url: "https://colab.research.google.com"
-#   binderhub_url: "https://mybinder.org"
-#   notebook_interface: "jupyterlab"
-
-# --- Comments / annotations (optional) ---
-# comments:
-#   hypothesis: true
-
-#######################################################################################
-# End config
-#######################################################################################
+  # When publishing to GitHub Pages under a project site (https://user.github.io/<repo>),
+  # set a proper base URL. We'll set this via the workflow env BASE_URL as needed.
+  html_baseurl: /hands-on-ai
