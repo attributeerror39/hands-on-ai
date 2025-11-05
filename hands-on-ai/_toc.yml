@@ -5,19 +5,19 @@ format: jb-book
 root: intro
 chapters:
 - file: programming_with_ai/intro
-#   sections: 
-#   - file: programming_with_ai/web
-#   - file: programming_with_ai/setup_environment
-#   - file: programming_with_ai/python_intro
-#   - file: programming_with_ai/python_image_processing_gui
-#   - file: programming_with_ai/coding_exercise
+  sections: 
+  - file: programming_with_ai/web
+  - file: programming_with_ai/setup_environment
+  - file: programming_with_ai/python_intro
+  - file: programming_with_ai/python_image_processing_gui
+  - file: programming_with_ai/coding_exercise
 
-# - file: llm/llm_intro
-#   sections: 
-#   - file: llm/ollama_start
-#   - file: llm/unsloth_dreams
-#   - file: llm/ollama_adapter
-#   - file: llm/dataset_dreams
+- file: llm/llm_intro
+  sections: 
+  - file: llm/ollama_start
+  - file: llm/unsloth_dreams
+  - file: llm/ollama_adapter
+  - file: llm/dataset_dreams
 # - file: interface/interface_intro
 #   sections:
 #   - file: interface/ollama_ui_dreams
