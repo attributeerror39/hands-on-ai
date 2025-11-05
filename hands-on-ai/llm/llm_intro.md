@@ -1,6 +1,10 @@
 # LLMs
 
-## Jasper Rigole: 500 letters (2010)
+## Artistic projects
+
+Below are some examples of artistic practice with language computation. They give an overview of the recent history, so some are predecessors to LLMs. 
+
+### Jasper Rigole: 500 letters (2010)
 
 [Project page](https://www.jasperrigole.com/500-letters/)
 
@@ -31,7 +35,7 @@ Jasper Rigole: 500 letters (2010)
 
 <br>
 
-## DISNOVATION.ORG Predictive Art Bot (2015-18)
+### DISNOVATION.ORG Predictive Art Bot (2015-18)
 
 [Project page](https://disnovation.org/pab.php)
 
@@ -64,7 +68,7 @@ PROTOTYPE | 2015–2018
 
 <br>
 
-## Ross Goodwin – 1 the Road (2019)
+### Ross Goodwin – 1 the Road (2019)
 
 ```{margin}
 Ross Goodwin – 1 the Road (2019)
@@ -83,7 +87,7 @@ Ross Goodwin – 1 the Road (2019)
 1 the Road takes up the genre of American travel novels. Ross Goodwin trained an LSTM with almost 200 books from relevant literature (Jack Kerouac: On the Road, Tom Wolfe: The Electric Kool-Aid Acid Test, Hunter S. Thompson: Hell's Angels).  Goodwin equipped a car with a camera, GPS, a microphone, and a clock. All the information converged in a portable AI. He drove from New York to New Orleans with acquaintances and had his AI write a travel report.
 
 
-## Julia Nakotte: Potentio Poet (2021)
+### Julia Nakotte: Potentio Poet (2021)
 
 [Project page](https://ground-zero.khm.de/portfolio/potentio-poet/)
 
@@ -104,7 +108,7 @@ Julia Nakotte: Potentio Poet (2021)
 
 <br>
 
-## Hannes Bajohr: (Berlin, Miami) (2023)
+### Hannes Bajohr: (Berlin, Miami) (2023)
 
 [Project page](https://hannesbajohr.de/en/2023/09/25/new-novel-berlin-miami/)
 
@@ -116,7 +120,7 @@ Hannes Bajohr: (Berlin, Miami) (2023)
 <br>
 
 
-## Mattis Kuhn: The pursuit of identity in a world that is constantly changing seems futile. (2025)
+### Mattis Kuhn: The pursuit of identity in a world that is constantly changing seems futile. (2025)
 
 [Project page](https://mattiskuhn.com/neither-host-nor-guest-book/)
 
