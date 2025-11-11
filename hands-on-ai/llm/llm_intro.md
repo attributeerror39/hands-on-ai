@@ -119,6 +119,14 @@ Hannes Bajohr: (Berlin, Miami) (2023)
 
 <br>
 
+Models used: GPT-J and GPT-NeoX, both trained on ThePile
+
+Finetuned with:  
+Joshua Groß, *Flexen in Miami* — 14,45%  
+Berit Glanz, *Pixeltänzer* — 17,22%  
+Julia Zange, *Realitätsgewitter* — 9,43%  
+Juan Guse, *Miami Punk* — 58,90%  
+
 
 ### Mattis Kuhn: The pursuit of identity in a world that is constantly changing seems futile. (2025)
 
