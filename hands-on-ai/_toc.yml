@@ -14,13 +14,15 @@ chapters:
 
 - file: llm/llm_intro
   sections: 
-  - file: llm/ollama_start
   - file: llm/unsloth_dreams
+  - file: llm/ollama_start
   - file: llm/ollama_adapter
   - file: llm/dataset_dreams
-# - file: interface/interface_intro
-#   sections:
-#   - file: interface/ollama_ui_dreams
+- file: interface/interface_intro
+  sections:
+  - file: interface/chat_interface_ollama
+  - file: interface/chat_interface_ollama_speech
+
 # - file: imgtotext/intro
 #   sections:
 #   - file: imgtotext/codesamples

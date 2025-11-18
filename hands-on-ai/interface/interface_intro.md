@@ -22,25 +22,6 @@ Mattis Kuhn – neither host nor guest (2024/25)<br>LLM (Mistral Small), system 
 ```
 ![Mattis Kuhn – neither host nor guest (2024/25)](img/mattis-kuhn_neither-host-nor-guest.gif)
 
-### Julia Nakotte: Potentio Poet (2021)
-
-[Project page](https://ground-zero.khm.de/portfolio/potentio-poet/)
-
-```{margin}
-Julia Nakotte: Potentio Poet (2021)
-```
-![Julia Nakotte: Potentio Poet (2021)](img/JuliaNakotte_Potentio-Poet.jpg)
-
-<br>
-
-> The Potentio Poet is an independent, authentic and creative author, that generates an endless poem based on a simple random-function in Python code.
->
-> I selected nouns, verbs, adjectives and locations and rated them on a scale from 1 (a little) to 3 (much) in the categories *everyday life*, *city* and *depression*. Each word received a score in each of the three categories. This resulted in 27 possible combinations. A third person decides on which rating combination the next line of the poem is based by turning three analog potentiometers. The code selects a random noun, a random verb, a random location and a random adjective from the matching combination and strings them together in an random order. The potentiometers can be combined differently for each poem line. If the person wants to make the poem more depressing, he or she turns up the depression potentiometer.
->
-> **The focus of this work is not on the output or the presentation of the technical possibilities, but on the staging of the machine as an author.** The potentio poet is presented as an independent author, while influencing persons are downgraded to assistants, who only select and rate words or chose the base of a poem line . Although the potentio poet uses only a simple random function for its part of the work, this is enough to make it impossible for us to foresee the total result. Is this enough to call the potentio poet an author? Why should it not be enough? In what ways are the potentio poet’s influences different from the influences that affect human authors (like a language, experiences, education)?
->
-> If there is potential for discussion even with such a simple code, it’s exciting what kind of conversations we will/should have in relation to text-generating AI and more complex technologies. ([Source](https://ground-zero.khm.de/portfolio/potentio-poet/))
-
 
 ### Bjoern Karmann: Paragraphica (2023)
 
@@ -77,4 +58,12 @@ Mario Klingemann: Appropriate Response (2020)
 
 > “Words are probably the most powerful tools available to humankind. Words can make people do things, can change their lives,” marketing slogans or self-help phrases, short phrases abound as a source of inspiration and guidance.
 
-See the [Landsberger Poesieautomat](https://de.wikipedia.org/wiki/Landsberger_Poesieautomat) by Hans Magnus Enzensberger.
+
+### Hans Magnus Enzensberger: Landsberger Poesieautomat (2000)
+
+```{margin}
+Von Hans Magnus Enzensberger - Eigenes Werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=43553446
+```
+![Hans Magnus Enzensberger: Landsberger Poesieautomat (2000)](img/Der_Landsberger_Poesieautomat_von_Hans_Magnus_Enzensberger.jpeg)
+
+<br>
