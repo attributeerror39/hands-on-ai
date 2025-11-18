@@ -67,3 +67,23 @@ Von Hans Magnus Enzensberger - Eigenes Werk, CC BY-SA 4.0, https://commons.wikim
 ![Hans Magnus Enzensberger: Landsberger Poesieautomat (2000)](img/Der_Landsberger_Poesieautomat_von_Hans_Magnus_Enzensberger.jpeg)
 
 <br>
+
+### Sebastian Schmieg: Decisive Mirror (2019)
+
+[Project page](https://sebastianschmieg.com/decisive-mirror/)
+
+```{margin}
+Sebastian Schmieg: Decisive Mirror (2019)<br>Zwei-Wege-Spiegel, LED-Matrix, Computer, Kamera, Datenset, Neurales Netzwerk
+```
+![Sebastian Schmieg: Decisive Mirror (2019)](img/SebastianSchmieg_decisive-mirror-1.jpg)
+
+<br>
+
+```{margin}
+Sebastian Schmieg: Decisive Mirror (2019)<br>Zwei-Wege-Spiegel, LED-Matrix, Computer, Kamera, Datenset, Neurales Netzwerk
+```
+![Sebastian Schmieg: Decisive Mirror (2019)](img/SebastianSchmieg_decisive-mirror-2.jpg)
+
+<br>
+
+Die Arbeit besteht aus einem Zwei-Wege-Spiegel mit integrierter Kamera und einer LED-Matrix. Die aufgenommenen Bilder werden mittels einer Gesichtserkennung analysiert, welche auf unkonventionelle Kategorien trainiert wurde. Sie liefert uns zu unserem Gesicht Bewertungen wie "YOU ARE 22% FRAGMENTED", "YOU ARE 1% PREDICTABLE", "YOU ARE 12% IMPROVED".
