@@ -22,19 +22,21 @@ chapters:
   sections:
   - file: interface/chat_interface_ollama
   - file: interface/chat_interface_ollama_speech
-
+- file: image_generation_embeddings/image_generation_embeddings
+  sections: 
+  - file: image_generation_embeddings/image_generation_intro
+  - file: image_generation_embeddings/img_to_prompt
+  - file: image_generation_embeddings/image_generation_context
+#   - file: image_generation_embeddings/image_generation_comfyui
+#   - file: image_generation_embeddings/image_generation_scoring
+# - file: image_generation_embeddings/image_generation_prompting
 # - file: imgtotext/intro
 #   sections:
 #   - file: imgtotext/codesamples
 #   - file: imgtotext/visiontext
 # - file: video/video_input_artworks
-# - file: image_generation_embeddings/image_generation_embeddings
-#   sections: 
-#   - file: image_generation_embeddings/image_generation_intro
-#   - file: image_generation_embeddings/image_generation_comfyui
-#   - file: image_generation_embeddings/image_generation_context
-#   - file: image_generation_embeddings/image_generation_scoring
-#   - file: image_generation_embeddings/image_generation_prompting
+
+
 
 #     - file: llm/unsloth_manifesto (evtl. raus)
 #     - file: llm/dataset_manifesto (evtl. raus)
