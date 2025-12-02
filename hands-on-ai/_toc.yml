@@ -28,7 +28,7 @@ chapters:
   - file: image_generation_embeddings/img_to_prompt
   - file: image_generation_embeddings/image_generation_context
   - file: image_generation_embeddings/image_generation_installing_comfyui
-#   - file: image_generation_embeddings/image_generation_comfyui
+  - file: image_generation_embeddings/image_generation_comfyui
 #   - file: image_generation_embeddings/image_generation_scoring
 # - file: image_generation_embeddings/image_generation_prompting
 # - file: imgtotext/intro
