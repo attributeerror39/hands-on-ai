@@ -7,12 +7,14 @@ Other than most interfaces for generating images, it exposes the underlying pipe
 
 ## Installing ComfyUI
 
-1. Download the following notebook [ComfyUI Cloud Install](https://github.com/attributeerror39/experimental-ai-lab/blob/master/experimental_ai_lab/image_generation_embeddings/Comfy%20Cloud%20Install.ipynb)
+1. Download the following notebook [ComfyUI Cloud Install](https://github.com/attributeerror39/hands-on-ai/raw/refs/heads/main/hands-on-ai/image_generation_embeddings/image_generation_installing_comfyui.ipynb)
 2. Upload it to your server instance ([jupyter.kittegg.org](https://jupyter.kitegg.de/))
 3. Double-Click the notebook to open it
 4. Run the two cells using (ctrl/cmd + ENTER)
 5. Open the interface by clicking the link in the cell output similar to this one:
 
 > This is the URL to access ComfyUI: https://tennis-oil-extraction-serious.trycloudflare.com                                   |
+
+(Your link will look different!)
 
 ![Default Workflow](images/default.png)
